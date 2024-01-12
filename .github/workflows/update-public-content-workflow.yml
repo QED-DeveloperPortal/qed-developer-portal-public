@@ -36,7 +36,7 @@ jobs:
 
             - name: Check for changes
               id: check_changes
-              run: echo "::set-output name=files::$(git diff --name-only ${{ github.event.before }} &{{ github.sha }})"
+              run: echo "::set-output name=files::$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})"
 
             - name: Checkout destination repository
               uses: actions/checkout@v3
