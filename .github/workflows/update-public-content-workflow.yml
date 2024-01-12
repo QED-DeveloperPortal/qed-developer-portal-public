@@ -34,15 +34,30 @@ jobs:
             - name: ListFolderContents
               run: ls -laR ${{ env.SOURCE_POSTS_LOCATION }}
 
-            - name: Push public posts to jekyll repository
-              uses: crykn/copy_folder_to_another_repo_action@v1.0.6
-              env:
-                API_TOKEN_GITHUB: ${{ secrets.PAT_GITHUB_CONTENT_TOKEN }}
+            - name: Check for changes
+              id: check_changes
+              run: echo "::set-output name=files::$(git diff --name-only ${{ github.event.before }} &{{ github.sha }})"
+
+            - name: Checkout destination repository
+              uses: actions/checkout@v3
               with:
-                source_folder: ${{ env.SOURCE_POSTS_LOCATION}}
-                destination_repo: ${{ env.DESTINATION_REPO }}
-                destination_branch: ${{ env.DESTINATION_BRANCH}}
-                destination_folder: ${{ env.DESTINATION_POSTS_LOCATION}}
-                user_email: ${{ env.GITHUB_USER_EMAIL }}
-                user_name:  ${{ env.GITHUB_USER_NAME }}
-                commit_msg: '[GHA] Push public content to Developer Portal site' 
+                  repository:  ${{ env.DESTINATION_REPO }}
+                  path: ${{ env.DESTINATION_POSTS_LOCATION}}
+
+            - name: Copy updated files
+              run: |
+                IFS=$'\n'
+                for file in $(echo "${{ steps.check_changes.outputs.files }}"); do
+                  mkdir -p  ${{ env.DESTINATION_REPO }}/"$(dirname "$file")"
+                  cp "$file" ${{ env.DESTINATION_REPO }}/"$file"
+                done
+
+            - name: Commit and push changes
+              run: |
+                cd  ${{ env.DESTINATION_REPO }}
+                git config user.name ${{ env.GITHUB_USER_NAME }}
+                git config user.email ${{ env.GITHUB_USER_EMAIL }}
+                git add .
+                git commit -m "[GHA] Testing - Push public content to Developer Portal site"
+                git push
+          
