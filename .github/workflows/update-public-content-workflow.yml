@@ -1,0 +1,55 @@
+name: Update public content to main jekyll site
+
+env:
+    SOURCE_POSTS_LOCATION: "_posts"
+    DESTINATION_POSTS_LOCATION: "_posts_temp/public"
+    DESTINATION_BRANCH:  ${{ github.head_ref || github.ref_name }} #name of the branch which triggered the workflow
+    DESTINATION_REPO: "QED-DeveloperPortal/qed-developer-portal"   
+    GITHUB_USER_NAME: "qed-devportal-admin"
+    GITHUB_USER_EMAIL: "developerportal@qed.qld.gov.au"
+
+on:
+    push:
+        branches:
+            - master
+            - dev 
+            - beta
+            - test
+        paths:
+            - "_posts/**"
+
+permissions:
+  contents: write
+
+jobs:   
+  update-public-content:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout source repository
+              uses: actions/checkout@v3
+              with: 
+                submodules: true 
+                fetch-depth: 0
+
+            - name: ListFolderContents
+              run: ls -laR ${{ env.SOURCE_POSTS_LOCATION }}
+
+            - name: List changed files
+              run: |
+                changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
+                echo "Changed files: $changed_files"           
+
+            - name: Push public posts to jekyll repository
+              uses: crykn/copy_folder_to_another_repo_action@v1.0.6
+              env:
+                API_TOKEN_GITHUB: ${{ secrets.PAT_GITHUB_CONTENT_TOKEN }}
+              with:
+                source_folder: ${{ env.SOURCE_POSTS_LOCATION}}
+                destination_repo: ${{ env.DESTINATION_REPO }}
+                destination_branch: ${{ env.DESTINATION_BRANCH}}
+                destination_folder: ${{ env.DESTINATION_POSTS_LOCATION}}
+                user_email: ${{ env.GITHUB_USER_EMAIL }}
+                user_name:  ${{ env.GITHUB_USER_NAME }}
+                commit_msg: '[GHA] Push public content to Developer Portal site' 
+          
