@@ -37,7 +37,7 @@ Some common examples of breaking changes are:
     * The consumer chooses the appropriate version based on their needs. The version that exists at the time of the consumer's first call is stored with the consumer's information. Every future call is then executed against the same version, unless the consumer explicitly modifies the configuration.
     
 
-# How do you version an API?
+## How do you version an API?
 1. Choose a versioning strategy
 2. Confirm if the new version is necessary
 3. Update the API documentation
@@ -45,7 +45,7 @@ Some common examples of breaking changes are:
 5. Deprecate the old version 
 
 
-# What are some best practices for API versioning?
+## What are some best practices for API versioning?
 * Design with extensibility in mind
 * Know your consumers
 * Include a versioning policy  in your terms of service
