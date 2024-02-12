@@ -5,7 +5,7 @@ categories: [public]
 tags: [getting-started,about]
 date: 2023-07-13 01:14:37 
 updatedBy: Joyclyn
-updated: 2023-11-29 02:51:24 
+updated: 2024-02-12 23:20:26 
 likes: 0
 ---
 
@@ -13,9 +13,9 @@ likes: 0
 The following table provides an overview of how access is controlled via custom roles using AAD B2C in Developer Portal application. 
 
 
-| | |User Roles| | | | |
+| | |User roles| | | | |
 |:----|:----|:----|:----|:----|:----|:----|
-| | |none|authenticated|internal|moderator_general|administrator|
+| | |None|Authenticated|Internal|Moderator_general|Administrator|
 | | | | | | | |
 |Home| |Y|Y|Y|Y|Y|
 |Navigation|Home|Y|Y|Y|Y|Y||
@@ -28,9 +28,9 @@ The following table provides an overview of how access is controlled via custom 
 | |Admin|N|N|N|N|Y|
 |Categories|View posts under public|Y|Y|Y|Y|Y|
 | |View posts under internal|N|N|Y|Y|Y|
-||Add  post for category|N|N|Y|Y|Y|
-| |Update  post for category|N|N|Y|Y|Y|
-| |Edit  post for category|N|N |Y|Y|Y|
+||Add post for category|N|N|Y|Y|Y|
+| |Update post for category|N|N|Y|Y|Y|
+| |Edit post for category|N|N |Y|Y|Y|
 | |Like post|N|Y|Y|Y|Y|
 | |Submit feedback on post|N|Y|Y|Y|Y|
 |Tags|View all tags|Y|Y|Y|Y|Y|
