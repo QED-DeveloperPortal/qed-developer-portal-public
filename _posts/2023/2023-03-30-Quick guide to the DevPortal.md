@@ -4,8 +4,8 @@ author: jeny-qed
 categories: [public]
 tags: [getting-started,about]
 date: 2023-03-30 01:04:10 
-updatedBy: jeny-qed
-updated: 2023-08-14 00:42:49 
+updatedBy: Joyclyn
+updated: 2024-03-21 23:00:13 
 likes: 15
 ---
 
@@ -23,13 +23,13 @@ A developer portal offers the following advantages:
 
 ### Basic navigation
 
-In the header on the home page you'll find some useful links:
+At the top of each page you'll find some useful links:
 
 * **Home**: takes you back to the home page.
-* **Posts**: displays the list of posts in chronological order with the newest at the top.
 * **Categories**: displays the available categories for posts. Note that some categories are visible only to certain user groups.
 * **Tags**: displays the available tags for posts.
 * **APIs**: allows you to explore the APIs available on the portal.
+* **Contact us**: provides a way to give us feedback or send us an email.
 * **Toggle theme**: switches between the light and dark theme.
 
 ### Have you signed up?
@@ -43,6 +43,6 @@ Here are some useful resources to get you started.
 * [Update existing content using GitHub repository](/public/How-to-edit-a-post-using-GitHub-repository/)
 
 ### Support
-If you require any support or need to contact us, please visit our [Support ](/support/) page.
+If you require any support or need to contact us, please visit our [Contact us ](/contact-us/) page.
 
 Overall, we hope this portal gives you everything you need to build fast and reliable services.
