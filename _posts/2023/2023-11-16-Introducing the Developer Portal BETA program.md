@@ -11,7 +11,7 @@ We are excited to welcome you to the Developer Portal BETA - a dynamic online pl
 
 ## What is the Developer Portal BETA?
 
-The Developer Portal BETA is a pre-release version of our website, carefully crafted to help us fine-tune its features, security, and architecture. It's a space where innovation meets collaboration, and your valuable feedback will play a crucial role in shaping its future. During this BETA phase, we're focusing on three key objectives:
+The Developer Portal BETA is a pre-release version of our website, carefully crafted to help us fine-tune its features, security, and architecture. It's a space where innovation meets collaboration, and your valuable feedback will play a crucial role in shaping its future. During this BETA phase, we're focusing on three key objectives
 
 ### Features
 We are diligently working to perfect every aspect of the portal. Your insights and suggestions will guide us in refining and enhancing the tools, resources, and functionalities to better serve your needs.
