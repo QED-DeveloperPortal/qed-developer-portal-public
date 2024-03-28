@@ -4,8 +4,8 @@ author: matt
 categories: [public]
 tags: [technology]
 date: 2023-08-02 14:00:00 
-updatedBy: jeny
-updated: 2023-04-17 22:35:44 
+updatedBy: jeny-amatya-qed
+updated: 2024-03-28 04:28:18 
 likes: 8
 ---
 
@@ -44,3 +44,5 @@ Once this has been done refer to this [post](/technology/configure-azure-keyvaul
 ## Ensure swa-cli.config.json has he correct SWA name in it.
 
 Ensure the value in the file "swa-cli.config.json" under he node "configurations" matches the name of the repository.
+
+*[Updated on 28/03/2024]*
