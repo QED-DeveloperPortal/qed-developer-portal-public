@@ -1,9 +1,11 @@
 ---
-title: How to do Chatbot testing 
+title: How to do Chatbot testing
 author: sushma-hazari-qed
 categories: [public]
 tags: [test]
 date: 2024-04-03 04:39:54 
+updatedBy: sushma-hazari-qed
+updated: 2024-04-03 05:19:23 
 likes: 0
 ---
 
@@ -13,7 +15,9 @@ The main purposes of chatbots include providing customer support, answering freq
 
 Chatbots can range from simple rule-based bots that follow predefined scripts to more advanced AI-powered bots capable of learning and adapting to user inputs over time. They can handle a wide range of queries, perform actions, retrieve information from databases or APIs, and interact with users in a personalized and efficient manner.
 
-what are types of chatbot ?
+***
+
+What are types of chatbot ?
 
 There are several types of chatbots based on their functionality, complexity, and underlying technology. Here are the main types of chatbots:
 
@@ -21,7 +25,7 @@ Rule-Based Chatbots: These chatbots follow predefined rules and scripts to respo
 
 AI-Powered Chatbots: Natural Language Processing (NLP) Chatbots: These chatbots use NLP technology to understand and interpret user inputs in natural language. They can handle more complex queries, engage in conversations, and provide personalized responses based on context.
 
-Machine Learning (ML) Chatbots: ML chatbots leverage machine learning algorithms to learn from user interactions and improve their responses over time. They can adapt to user preferences, understand nuances in language, and offer more accurate and relevant suggestions. 
+Machine Learning (ML) Chatbots: ML chatbots leverage machine learning algorithms to learn from user interactions and improve their responses over time. They can adapt to user preferences, understand nuances in language, and offer more accurate and relevant suggestions.
 
 Transactional Chatbots: These chatbots are focused on completing specific tasks or transactions, such as booking appointments, making reservations, processing payments, and providing order status updates. They often integrate with backend systems and APIs to perform these actions.
 
@@ -34,6 +38,8 @@ Voice Assistants: Voice assistants like Amazon Alexa, Google Assistant, and Appl
 Hybrid Chatbots: Hybrid chatbots combine elements of rule-based systems and AI technologies to provide a balanced approach. They use rules for straightforward interactions and AI for more complex tasks, offering versatility and scalability.
 
 These are the main types of chatbots, each with its strengths and capabilities suited for different use cases and industries. Organizations can choose the type of chatbot that best aligns with their goals, customer needs, and technological requirements.
+
+***
 
 How does a chatbot work ?
 
@@ -59,7 +65,9 @@ Feedback and Learning: Chatbots may incorporate feedback mechanisms to learn fro
 
 Overall, a chatbot works by leveraging technologies such as natural language processing, machine learning, dialogue management, and data integration to understand user inputs, process information, and deliver intelligent responses in a conversational manner.
 
-Chatbot Testing Checklist : 
+***
+
+Chatbot Testing Checklist :
 
 A well-defined checklist saves you a lot of time and helps move ahead with your testing. So, instead of letting you do the work of compiling a long list of items to tick off, we have done it for you. Follow this checklist for bot testing and deliver an exceptionally interactive chatbot experience to your customers:
 
@@ -73,22 +81,17 @@ A well-defined checklist saves you a lot of time and helps move ahead with your 
 
 •	Integrations: We are sure you have multiple applications to support your software, and it is clear that your chatbot must integrate seamlessly with each one of them.
 
-•	Test more than just texts:  This may not be for every bot, but some businesses might need to verify if their chatbots are capable of handling statements or queries that may not be simple texts. Some users might send images or voice recordings, which are equally important for bots to understand and respond to.
+•	Test more than just texts: This may not be for every bot, but some businesses might need to verify if their chatbots are capable of handling statements or queries that may not be simple texts. Some users might send images or voice recordings, which are equally important for bots to understand and respond to.
+
+***
 
 What should we keep in mind while doing chatbot testing?
 
-1) Check Test Bot’s conversational flow, Does the chatbot understand what the user is asking? Are replies prompt and relevant? For example, if you ask “Book a ticket” on a travel company bot then it should ask relevant questions like source, destination, date of travel, etc.
-
-2) Test if the answers from the boat are accurate or nearly accurate. 
-
-3) Check Navigation. How easy is it to navigate through the chatbot conversation?
-
-4) Test Chatbot error management: How well does the chatbot respond in case of meaningless intent or expression? Does it cause crashes/failures or give some meaningful reply like “sorry, not able to understand” or “can you rephrase your sentence” or any meaningful sentence trained by the chatbot developer?
-
-5) Test how intelligent your chatbot is: Suppose you are booking a ticket using a chatbot and you provided details like source, destination, date of travel, mode of travel, and no of people then how well bot remember all the details?
-
-6) Check if the reply from the bot is quick or if it takes long pauses before answers.
-
-7) Validate data formats in case of user inputs: A chatbot must be able to detect the proper data format if it receives inputs like email addresses, phone numbers, and zip codes.
-
-8) UI Validation: Look out for lexical, grammatical mistakes, and broken links.
+1. Check Test Bot’s conversational flow, Does the chatbot understand what the user is asking? Are replies prompt and relevant? For example, if you ask “Book a ticket” on a travel company bot then it should ask relevant questions like source, destination, date of travel, etc.
+2. Test if the answers from the boat are accurate or nearly accurate.
+3. Check Navigation. How easy is it to navigate through the chatbot conversation?
+4. Test Chatbot error management: How well does the chatbot respond in case of meaningless intent or expression? Does it cause crashes/failures or give some meaningful reply like “sorry, not able to understand” or “can you rephrase your sentence” or any meaningful sentence trained by the chatbot developer?
+5. Test how intelligent your chatbot is: Suppose you are booking a ticket using a chatbot and you provided details like source, destination, date of travel, mode of travel, and no of people then how well bot remember all the details?
+6. Check if the reply from the bot is quick or if it takes long pauses before answers.
+7. Validate data formats in case of user inputs: A chatbot must be able to detect the proper data format if it receives inputs like email addresses, phone numbers, and zip codes.
+8. UI Validation: Look out for lexical, grammatical mistakes, and broken links.
