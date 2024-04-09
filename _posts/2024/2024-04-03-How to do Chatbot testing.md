@@ -5,7 +5,7 @@ categories: [public]
 tags: [chat]
 date: 2024-04-03 04:39:54 
 updatedBy: sushma-hazari-qed
-updated: 2024-04-03 05:34:29 
+updated: 2024-04-09 23:26:01 
 likes: 0
 ---
 
@@ -72,7 +72,7 @@ A well-defined checklist saves you a lot of time and helps move ahead with your 
 What should we keep in mind while doing chatbot testing?
 
 1. Check Test Bot’s conversational flow, Does the chatbot understand what the user is asking? Are replies prompt and relevant? For example, if you ask “Book a ticket” on a travel company bot then it should ask relevant questions like source, destination, date of travel, etc.
-2. Test if the answers from the boat are accurate or nearly accurate.
+2. Test if the answers from the bot are accurate or nearly accurate.
 3. Check Navigation. How easy is it to navigate through the chatbot conversation?
 4. Test Chatbot error management: How well does the chatbot respond in case of meaningless intent or expression? Does it cause crashes/failures or give some meaningful reply like “sorry, not able to understand” or “can you rephrase your sentence” or any meaningful sentence trained by the chatbot developer?
 5. Test how intelligent your chatbot is: Suppose you are booking a ticket using a chatbot and you provided details like source, destination, date of travel, mode of travel, and no of people then how well bot remember all the details?
