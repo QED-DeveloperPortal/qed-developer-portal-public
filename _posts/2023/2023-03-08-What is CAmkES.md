@@ -6,6 +6,9 @@ tags: [technology]
 date: 2023-08-02 14:00:00 
 updatedBy: jeny-amatya-qed
 updated: 2024-03-28 04:19:13 
+date: 2023-08-02 14:00:00 
+updatedBy: jeny-amatya-qed
+updated: 2024-03-25 04:13:59 
 likes: 0
 ---
 
@@ -16,5 +19,3 @@ likes: 0
 **CAmkES** provides a number of benefits for embedded systems development, including increased modularity, better separation of concerns, improved maintainability, and the ability to reuse components across different projects. It also provides a high degree of assurance, since the formal composition rules ensure that the resulting system is correct by construction.
 
 Overall, **CAmkES** is a powerful tool for building complex embedded systems that require high levels of safety, security, and reliability.
-
-*[Updated on 28/03/2024]*
