@@ -1,6 +1,6 @@
 ---
 title: Onboarding a new user in Developer Portal
-author: jeny-qed
+author: jeny-amatya-qed
 categories: [public]
 tags: [getting-started]
 date: 2023-05-17 02:05:00 

@@ -1,6 +1,6 @@
 ---
 title: Mastering the Transition to Scrum Essential Tips for New Teams
-author: jeny-qed
+author: jeny-amatya-qed
 categories: [public]
 tags: [scrum]
 date: 2023-06-26 01:34:54 

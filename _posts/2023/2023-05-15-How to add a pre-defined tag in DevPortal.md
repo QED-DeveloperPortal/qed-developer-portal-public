@@ -1,10 +1,10 @@
 ---
 title: How to add a tag in DevPortal
-author: jeny-qed
+author: jeny-amatya-qed
 categories: [public]
 tags: [getting-started]
 date: 2023-05-15 05:32:50
-updatedBy: jeny
+updatedBy: jeny-amatya-qed
 updated: 2023-05-15 06:17:31
 likes: 1
 ---

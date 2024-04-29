@@ -1,10 +1,10 @@
 ---
 title: The Education Revolution How Generative AI Tools Are Transforming Learning
-author: qed-devportal-admin
+author: jeny-amatya-qed
 categories: [public]
 tags: [ai,education]
 date: 2023-10-03 23:44:50 
-updatedBy: qed-devportal-admin
+updatedBy: jeny-amatya-qed
 updated: 2023-10-05 14:29:35 
 likes: 8
 ---

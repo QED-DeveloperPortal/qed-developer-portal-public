@@ -1,10 +1,10 @@
 ---
 title: How to edit a post in DevPortal using the GitHub repository
-author: jeny-qed
+author: jeny-amatya-qed
 categories: [public]
 tags: [getting-started]
 date: 2023-03-20 01:38:13
-updatedBy: jeny
+updatedBy: jeny-amatya-qed
 updated: 2023-05-26 04:51:31
 likes: 0
 ---

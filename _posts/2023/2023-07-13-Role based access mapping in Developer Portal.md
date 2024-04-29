@@ -1,6 +1,6 @@
 ---
 title: Role based access mapping in Developer Portal
-author: jeny-qed
+author: jeny-amatya-qed
 categories: [public]
 tags: [getting-started,about]
 date: 2023-07-13 01:14:37 
