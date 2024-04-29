@@ -1,10 +1,10 @@
 ---
 title: Exploring the World of Site Metrics  Retrieve GitHub Repository Data with Octokit and C#
-author: jeny-qed
+author: jeny-amatya-qed
 categories: [public]
 tags: [technology]
 date: 2023-06-15 23:45:53 
-updatedBy: jeny-qed
+updatedBy: jeny-amatya-qed
 updated: 2023-06-16 00:07:51 
 likes: 11
 ---
