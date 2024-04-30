@@ -1,11 +1,11 @@
 ---
 title: Developing for government
 author: jeny-amatya-qed
-categories: [public]
+categories: [Public]
 tags: [getting-started]
 date: 2023-04-19 05:22:17 
-updatedBy: sushma-hazari-qed
-updated: 2023-04-20 02:16:10 
+updatedBy: Sushma Hazari
+updated: 2024-04-30 01:15:39 
 likes: 1
 ---
 
@@ -38,4 +38,4 @@ Develop a comprehensive risk management plan that identifies, assesses, and mana
 9. **Documentation:**
 Maintain accurate and complete project documentation, including project plans, schedules, status reports, contracts, and other relevant documentation.
 
-By following these standard policies and procedures, project teams can ensure that their projects are completed on time, within budget, and in compliance with all applicable government regulations and policies.
+By following these standard policies and procedures, project teams can ensure that their projects are completed on time, within budget, and in compliance with all applicable government regulations and policies .
