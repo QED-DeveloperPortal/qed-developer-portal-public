@@ -4,8 +4,13 @@ author: Joyclyn
 categories: [Public]
 tags: [standards,oneschool]
 date: 2024-04-23 03:14:11 
+updatedBy: Joyclyn
+updated: 2024-05-01 03:29:51 
 likes: 0
 ---
+
+The following is from section 7 of the OneSchool development standards and guidelines document which deals with Cascade Style Sheets. 
+Extract from CM ref: 17/434618.
 
 # 7 Cascade Style Sheet (CSS)
 ## 7.1 CSS References
