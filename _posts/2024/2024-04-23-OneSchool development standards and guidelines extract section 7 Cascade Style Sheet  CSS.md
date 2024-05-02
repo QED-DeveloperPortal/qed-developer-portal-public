@@ -4,6 +4,8 @@ author: Joyclyn
 categories: [Public]
 tags: [standards,oneschool]
 date: 2024-04-23 03:14:11 
+updatedBy: Joyclyn
+updated: 2024-04-30 00:52:44 
 likes: 0
 ---
 
@@ -52,6 +54,7 @@ Omitting the protocol, which makes the URL relative, prevents mixed content issu
 ```
 ## 7.4 Capitalisation
 All code has to be lowercase.
+
 **Not recommended**:
 ```
 color: #E5E5E5;
@@ -120,8 +123,10 @@ div.error {}
 ```
 
 **Recommended**:
+```
 #example {}
 .error {}
+```
 
 ## 7.8 Shorthand Properties
 CSS offers a variety of shorthand properties (like font) that should be used whenever possible, even in cases where only one value is explicitly set.
@@ -224,7 +229,8 @@ Set the indentation to be 4 spaces. Make sure tab is replaced with spaces.
 ```
 
 ### 7.16.2 Curly Braces
-Always start your curly braces on the same line as the selector. For example:
+Always start your curly braces on the same line as the selector. 
+For example:
 ```
 .a-class-name {
     color: #fff
