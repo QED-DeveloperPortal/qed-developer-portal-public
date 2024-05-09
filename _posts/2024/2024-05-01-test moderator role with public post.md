@@ -6,7 +6,7 @@ tags: [test]
 date: 2024-05-01 05:05:13 
 updatedBy: sushma-hazari-qed
 updated: 2024-05-01 05:10:37 
-likes: 2
+likes: 3
 ---
 
 1. Moderator adding a post with category public
