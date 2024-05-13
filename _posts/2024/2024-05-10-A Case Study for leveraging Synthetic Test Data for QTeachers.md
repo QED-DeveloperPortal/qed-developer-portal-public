@@ -2,10 +2,10 @@
 title: How to consume synthetic data from the Developer Portal
 author: jeny-amatya-qed
 categories: [Public]
-tags: [datahub]
+tags: [data hub]
 date: 2024-05-10 05:43:35 
-updatedBy: Joyclyn
-updated: 2024-05-13 04:11:34 
+updatedBy: jeny-amatya-qed
+updated: 2024-05-13 06:31:22 
 likes: 0
 ---
 
