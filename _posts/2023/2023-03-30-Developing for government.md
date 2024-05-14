@@ -1,8 +1,8 @@
 ---
 title: Developing for government
 author: jeny-amatya-qed
-categories: [Public]
-tags: [getting-started]
+categories: [public]
+tags: [getting started]
 date: 2023-04-19 05:22:17 
 updatedBy: Sushma Hazari
 updated: 2024-04-30 01:15:39 

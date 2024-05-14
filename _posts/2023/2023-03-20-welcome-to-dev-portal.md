@@ -2,7 +2,7 @@
 title: Welcome to the Developer Portal!
 author: matt
 categories: [public]
-tags: [getting-started]
+tags: [getting started]
 date: 2023-04-17 22:34:01
 updatedBy: jayarvee
 updated: 2023-05-11 22:52:50
