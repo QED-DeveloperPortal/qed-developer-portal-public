@@ -1,9 +1,11 @@
 ---
 title: Introducing our API Sandbox with Synthetic Data
 author: g-morton
-categories: [public]
+categories: [Public]
 tags: [gettingstarted,api,datahub]
 date: 2024-05-13 01:51:40 
+updatedBy: sushma-hazari-qed
+updated: 2024-05-15 22:54:12 
 likes: 1
 ---
 
@@ -17,4 +19,4 @@ Don’t miss out on this opportunity to enhance your development process. Sign i
 
 More reading
 
-[Developer Portal API centre](/apis)
+[Developer Portal API centre](/apis).
