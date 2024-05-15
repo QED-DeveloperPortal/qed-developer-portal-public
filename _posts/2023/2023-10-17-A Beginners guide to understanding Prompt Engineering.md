@@ -1,6 +1,6 @@
 ---
 title: A Beginners guide to understanding Prompt Engineering
-author: qed-devportal-admin
+author: jeny-amatya-qed
 categories: [public]
 tags: [ai]
 date: 2023-10-17 23:51:40 

@@ -1,10 +1,10 @@
 ---
 title: Guidelines on choosing a valid title field for a markdown file
-author: jeny-qed
+author: jeny-amatya-qed
 categories: [public]
 tags: [guidelines]
 date: 2023-05-18 00:27:58 
-updatedBy: qed-devportal-admin
+updatedBy: jeny-amatya-qed
 updated: 2023-09-05 02:02:54 
 likes: 2
 ---

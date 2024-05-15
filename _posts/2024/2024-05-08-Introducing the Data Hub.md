@@ -1,16 +1,16 @@
 ---
 title: Introducing the Data Hub
 author: g-morton
-categories: [public]
-tags: [datahub]
+categories: [Public]
+tags: [data hub]
 date: 2024-05-08 23:56:31 
-updatedBy: Joyclyn
-updated: 2024-05-09 00:44:41 
-likes: 3
+updatedBy: jeny-amatya-qed
+updated: 2024-05-13 06:32:01 
+likes: 0
 ---
 
 ## Introduction
-The DoE integration platform, “Data Hub” is a business service that provides a standard, seamless and secure framework for information exchange across multiple technology applications playing an important role in managing the flow of information between connected systems (in and out of the department) to maximise the availability of information, and facilitates a single point-of-truth, prevents the proliferation of point-to-point interfaces and duplication of data. The Data Hub platform operates across the Azure platform and on-premises as an enabling service offering real-time and batch/triggered interoperability.
+The DoE integration platform, “Data Hub” is a business service that provides a standard, seamless and secure framework for information exchange across multiple technology applications playing an important role in managing the flow of information between connected systems (in and out of the department) to maximise the availability of information, and facilitates a single point-of-truth, prevents the proliferation of point-to-point interfaces and duplication of data. The Data Hub platform operates across the Azure platform and on-premise as an enabling service offering real-time and batch/triggered interoperability.
  
 ## What can Data Hub do?
 Whenever there is a need to exchange data between two or more systems and/or applications – internal and external to the department:

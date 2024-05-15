@@ -1,6 +1,6 @@
 ---
 title: Encouraging Agile Adoption  Fostering Agility in Your Organization
-author: jeny-qed
+author: jeny-amatya-qed
 categories: [public]
 tags: [agile]
 date: 2023-07-04 03:53:34 

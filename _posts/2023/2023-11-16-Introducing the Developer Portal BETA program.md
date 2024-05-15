@@ -4,9 +4,9 @@ author: g-morton
 categories: [public]
 tags: [about]
 date: 2023-11-16 01:09:32 
-updatedBy: Joyclyn
-updated: 2024-03-22 01:30:54 
-likes: 41
+updatedBy: jeny-amatya-qed
+updated: 2023-12-15 03:15:46 
+likes: 43
 ---
 
 We are excited to welcome you to the Developer Portal BETA - a dynamic online platform designed with your needs in mind. As we prepare to launch the full-fledged version of this portal, we invite you to join on this exciting journey with us. Our BETA program offers you the unique opportunity to be among the first to explore and experience the Developer Portal before its official public release.
