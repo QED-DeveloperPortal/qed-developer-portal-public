@@ -1,10 +1,10 @@
 ---
 title: Getting started FAQs
-author: jayarvee
+author: Joyclyn
 categories: [public]
 tags: [getting started]
 date: 2023-05-09 00:37:05
-updatedBy: jayarvee
+updatedBy: Joyclyn
 updated: 2023-05-15 03:09:53
 likes: 0
 ---
