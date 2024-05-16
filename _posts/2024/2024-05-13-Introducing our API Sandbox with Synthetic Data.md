@@ -2,7 +2,7 @@
 title: Introducing our API Sandbox with Synthetic Data
 author: g-morton
 categories: [Public]
-tags: [gettingstarted,api,datahub]
+tags: [getting started,api,data hub]
 date: 2024-05-13 01:51:40 
 updatedBy: sushma-hazari-qed
 updated: 2024-05-15 23:14:33 
