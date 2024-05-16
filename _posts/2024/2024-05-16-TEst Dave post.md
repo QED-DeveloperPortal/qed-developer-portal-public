@@ -11,7 +11,7 @@ This article outlines the software development practice framework to be followed
 
 ***Principles:*** The following principles have been adapted from various resources
 
-`<dl>
+<dl>
   <dt>General</dt>
     <dd>- Focus on TCO rather than project costs</dd>
     <dd>- Build trust both within teams and with other stakeholders</dd>
@@ -28,7 +28,7 @@ This article outlines the software development practice framework to be followed
     <dd>- Don't over-engineer</dd>
     <dd>- Continuous Feedback & Iteration</dd>
     <dd>- Automate Testing</dd>
-</dl>`
+</dl>
 
 ***Objectives:*** To develop high-quality web applications efficiently by embracing Agile methodologies and leveraging Continuous Integration/Continuous Deployment pipelines.
 
