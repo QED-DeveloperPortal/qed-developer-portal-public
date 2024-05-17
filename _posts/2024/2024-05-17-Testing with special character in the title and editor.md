@@ -5,8 +5,9 @@ categories: [Public]
 tags: [test]
 date: 2024-05-17 00:36:36 
 updatedBy: Sushma Hazari
-updated: 2024-05-17 00:43:40 
+updated: 2024-05-17 00:53:36 
 likes: 0
 ---
 
-1. Testing with colon :
+1. Testing with  : colon
+2. Testing with second option ; Semicolon 
