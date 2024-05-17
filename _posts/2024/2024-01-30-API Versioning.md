@@ -1,9 +1,11 @@
 ---
 title: API Versioning
 author: jeny-amatya-qed
-categories: [public]
+categories: [Public]
 tags: [api]
 date: 2024-01-30 01:03:36 
+updatedBy: jeny-amatya-qed
+updated: 2024-05-17 04:10:13 
 likes: 3
 ---
 
@@ -56,5 +58,3 @@ Some common examples of breaking changes are:
 
 ### Reference
 https://www.postman.com/api-platform/api-versioning/
-
-
