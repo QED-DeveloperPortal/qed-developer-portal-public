@@ -5,7 +5,7 @@ categories: [Public]
 tags: [data hub]
 date: 2024-05-10 05:43:35 
 updatedBy: jeny-amatya-qed
-updated: 2024-05-13 06:31:22 
+updated: 2024-05-17 03:24:04 
 likes: 1
 ---
 
@@ -49,7 +49,7 @@ Pagination options:
 - `navigationPageSize`: Number of records per page (for example, 10)
 
 Example API call for the second page of 10 students for centre code 1690:
-[https://dp-mockaco.azurewebsites.net/qt_student/school-api/schools/1690/students?navigationPage=1&navigationPageSize=5](https://dp-mockaco.azurewebsites.net/qt_student/school-api/schools/1690/students?navigationPage=1&navigationPageSize=5)
+[https://dp-mockaco.azurewebsites.net/qt_student/school-api/schools/1690/students?navigationPage=1&navigationPageSize=5](https://dp-mockaco.azurewebsites.net/qt_student/school-api/schools/1690/students?navigationPage=1&navigationPageSize=5) 
 
 
 ## How to use this data
