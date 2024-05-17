@@ -4,6 +4,8 @@ author: jeny-amatya-qed
 categories: [Public]
 tags: [test]
 date: 2024-05-16 03:14:16 
+updatedBy: jeny-amatya-qed
+updated: 2024-05-17 03:13:01 
 likes: 0
 ---
 
@@ -138,7 +140,7 @@ Techniques such as pair programming and knowledge sharing is encouraged and all 
 
 Microsoft Teams and Azure DevOps are utilised to support collaboration, as is the Developer Portal
 
-#### Continuous Improvement
+#### Continuous Improvement test
  
 *Aspirational: 
 Encourage a culture of continuous improvement by regularly reviewing and updating the software development practice. Implement mechanisms for collecting feedback and learning from past projects.*
