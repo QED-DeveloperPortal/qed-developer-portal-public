@@ -1,11 +1,11 @@
 ---
 title: How to do Chatbot testing
 author: sushma-hazari-qed
-categories: [public]
+categories: [Public]
 tags: [chat]
 date: 2024-04-03 04:39:54 
-updatedBy: sushma-hazari-qed
-updated: 2024-04-10 03:43:42 
+updatedBy: jeny-amatya-qed
+updated: 2024-05-17 04:22:40 
 likes: 0
 ---
 
