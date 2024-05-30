@@ -4,34 +4,35 @@ author: jeny-amatya-qed
 categories: [Public]
 tags: [getting started]
 date: 2023-05-17 02:05:00 
-updatedBy: jeny-amatya-qed
-updated: 2024-05-29 23:29:11 
+updatedBy: Joyclyn
+updated: 2024-05-30 01:45:47 
 likes: 1
 ---
 
-## Welcome to the Developer Portal! Here's how to get started.
+## Welcome to the Developer Portal! 
+
+Here's how to get started.
 
 
 ### Sign up 
 
 * **Visit the Developer Portal:** Go to the [Developer Portal](https://developer.qed.qld.gov.au/) site.
-*  **Sign In:** Click on the 'Sign In' button.
-* **Create Your Account:** Sign up using one of the available options.
-    * **Tip:** Use a consistent account for all activities on the Developer Portal. Avoid creating duplicate accounts to ensure seamless access to your content and contributions.
+*  **Sign in:** Click on the 'Sign In' button.
+* **Create your account:** Sign up using one of the available options.
+    * **Tip**: Use a consistent account for all activities on the Developer Portal. Avoid creating duplicate accounts to ensure seamless access to your content and contributions.
 
 
-### My Profile
+### My profile
 
 Once signed in, you can view and manage your profile. Click on your avatar icon at the top of the portal page to view your profile information and contributions.
 
+### Contributing content
+After signing in, you can contribute to the portal by adding new posts, sharing ideas, and providing feedback. You may use the ‘Add post’ button on the main menu to create a new article. A moderator will review any contributions before they go live on the portal.
 
-### Contributing Content
-After signing in, you can contribute to the portal by adding new posts, sharing ideas, and providing feedback. You may use the ‘Add post’ button on the main menu to create a new article. All contributions will be reviewed by a moderator before they go live on the portal.
+### Personal avatar
+You can personalise your profile with a custom avatar image. Please [contact ](mailto:developerportal@qed.qld.gov.au) us if you'd like to use one.
 
-### Personal Avatar
-Members can personalise their profile with a custom avatar image. Please [contact ](mailto:developerportal@qed.qld.gov.au)the Developer Portal team.
-
-### Department of Education Staff
-If you are a Department staff member, you can access additional features:
-1. **Staff Access:** [Contact ](mailto:developerportal@qed.qld.gov.au)the Developer Portal team to request access to the Department content.
-2. **Official Avatar Badge:** Request an official departmental avatar badge to distinguish your profile.
+### Department of Education staff
+If you are a department staff member, you can access additional features:
+1. **Staff access:** [Contact ](mailto:developerportal@qed.qld.gov.au) us to request access to department content.
+2. **Official avatar badge:** Request an official departmental avatar badge to distinguish your profile.
