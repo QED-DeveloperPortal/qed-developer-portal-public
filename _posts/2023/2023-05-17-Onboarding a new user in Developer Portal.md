@@ -4,8 +4,8 @@ author: jeny-amatya-qed
 categories: [Public]
 tags: [getting started]
 date: 2023-05-17 02:05:00 
-updatedBy: Joyclyn
-updated: 2024-05-30 01:45:47 
+updatedBy: jeny-amatya-qed
+updated: 2024-05-30 04:53:18 
 likes: 1
 ---
 
@@ -34,5 +34,5 @@ You can personalise your profile with a custom avatar image. Please [contact ](m
 
 ### Department of Education staff
 If you are a department staff member, you can access additional features:
-1. **Staff access:** [Contact ](mailto:developerportal@qed.qld.gov.au) us to request access to department content.
+1. **Staff access:** [ Contact ](mailto:developerportal@qed.qld.gov.au) us to request access to department content.
 2. **Official avatar badge:** Request an official departmental avatar badge to distinguish your profile.
