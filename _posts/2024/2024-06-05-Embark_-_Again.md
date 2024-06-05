@@ -2,7 +2,7 @@
 title: "Embark - Again "
 author: "jeny-amatya-qed"
 categories: "public"
-tags: "[auto-import,test, gpt]"
+tags: [auto-import,test, gpt]
 date: "2024-06-05 16:33:52"
 likes: 0
 imported: "True"
