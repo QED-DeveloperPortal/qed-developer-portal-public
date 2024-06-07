@@ -7,7 +7,7 @@ date: 2024-05-31 01:35:18
 likes: 0
 imported: true
 import-source: Azure Devops
-import-ref: 1234
+import-reference: 1234
 ---
 
 # Executive Summary

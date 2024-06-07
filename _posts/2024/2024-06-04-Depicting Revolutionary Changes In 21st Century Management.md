@@ -7,7 +7,7 @@ date: 2024-06-04 05:34:32
 likes: 0
 imported: true
 import-source: Azure Devops
-import-ref: 1234
+import-reference: 1234
 ---
 
 This document discusses how the trend in managing successful and rapidly-growing enterprises has shifted. Businesses today are navigating a critical shift in management styles distinguished by their methods, goals, values, business models, and cultures. Unlike rigid, traditional strategies, these transformed businesses operate by forming adaptive and innovative business methodologies. This disruptive shift resonates the urging remarks attributed to the executive educator, Tammy Erickson, on the need to revolutionise organisational planning and leadership.

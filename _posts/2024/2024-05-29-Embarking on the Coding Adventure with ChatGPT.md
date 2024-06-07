@@ -7,7 +7,7 @@ date: 2024-05-29 00:15:36
 likes: 0
 imported: true
 import-source: GitHub
-import-ref: 1234
+import-reference: 1234
 ---
 
 Setting sail into the coding world is an endless quest filled with challenges and discoveries. Luckily, ChatGPT is here to be your trusty companion throughout this journey.
