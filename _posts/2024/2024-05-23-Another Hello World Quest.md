@@ -7,7 +7,7 @@ date: 2024-05-23 01:57:11
 likes: 0
 imported: true
 import-source: GitHub
-import-ref: 3214
+import-reference: 3214
 ---
 
 This is a hello world, text!

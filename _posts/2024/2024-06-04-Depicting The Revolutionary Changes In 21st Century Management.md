@@ -7,7 +7,7 @@ date: 2024-06-04 05:12:01
 likes: 0
 imported: true
 import-source: Azure Devops
-import-ref: 1234
+import-reference: 1234
 ---
 
 The paradigm of management style has witnessed a revolutionary shift from more rigid, process-centric drills to more agile, dynamic mindsets. Previously viewed as the lodestar uniting lean production and process control strategies from relative fields like Lean Six Sigma to Business Process Re-engineering and Scrum, pleas for profitability and cutting edges have evolved, moving from monotonic procedures and towards fostering deep intrinsic cultural traits among institutions. The usurpers apply innovatives like energisers separable from traditional knobs discussing topics under mindset remake, centralising core enthusiasm driving existence of prices not what extra they gather.

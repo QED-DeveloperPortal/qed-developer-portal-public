@@ -7,7 +7,7 @@ date: 2024-06-03 02:17:07
 likes: 0
 imported: true
 import-source: GitHub
-import-ref: 1234
+import-reference: 1234
 ---
 
 # Header 1

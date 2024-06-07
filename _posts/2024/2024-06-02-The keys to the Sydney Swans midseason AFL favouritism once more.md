@@ -7,7 +7,7 @@ date: 2024-06-02 22:32:45
 likes: 0
 imported: true
 import-source: Azure Devops
-import-ref: 1234
+import-reference: 1234
 ---
 
 The unpredictability of the 2024 AFL season has created a thrilling opportunity for the Swans, who have emerged as frontrunners thanks to unique strategies and stellar performances. Beyond adopting prevailing coaching strategies, like shifting focus to post-clearance possessions and striving to be a front-half team, the Swans stand out in their remarkable efficiency in converting defensive rebounds into scores. Core contributions from dynamic defender figureheads like runner Nick Blakey and tough winner Justin McInerney have added unprecedented leverage to the team's trajectory thus far, providing a promising glimpse into what the rest of the season may hold.

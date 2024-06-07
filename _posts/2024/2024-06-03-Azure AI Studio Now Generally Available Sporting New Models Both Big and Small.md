@@ -7,7 +7,7 @@ date: 2024-06-03 21:39:58
 likes: 0
 imported: true
 import-source: Azure Devops
-import-ref: 1234
+import-reference: 1234
 ---
 
 The key highlight of Microsoft Build 2024 is the official launch of Azure AI Studio, a cloud-based platform for the development and deployment of advanced generative artificial intelligence applications. Integrated with sophisticated data security measures, privacy regulations, and comprehensive archiving capabilities, Azure AI Studio expedites the inclusion of AI ability with pre-built templates and scope for incident-tailored customisation. It also facilitates performance comparison of various models and graphs and offers yet another incentive for developers in the form of benchmark results pertaining to their development outputs. Free policy allowance with publicly representative Lab Language Models (LLMs) and system utilization with token provision renders information frequently points in debugging complex data lakes with rich cooperation competencies.

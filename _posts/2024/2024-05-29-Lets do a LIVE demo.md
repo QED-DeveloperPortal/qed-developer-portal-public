@@ -7,7 +7,7 @@ date: 2024-05-29 00:11:16
 likes: 0
 imported: true
 import-source: Azure Devops
-import-ref: 1234
+import-reference: 1234
 ---
 
 ## What could go wrong?

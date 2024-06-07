@@ -7,7 +7,7 @@ date: 2024-06-04 01:19:32
 likes: 0
 imported: true
 import-source: Azure Devops
-import-ref: 1234
+import-reference: 1234
 ---
 
 The document provides in-depth guidance on how to create a high-quality summarisation model, focusing on the crucial stages of split testing, training sets, and model evaluation. During the validation process, it is key that testing is carried out with examples separate from those used for training.
