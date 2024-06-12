@@ -1,11 +1,11 @@
 ---
 title: Quick guide to the Developer Portal
 author: jeny-amatya-qed
-categories: [public]
+categories: [Public]
 tags: [getting started,about]
 date: 2023-03-30 01:04:10 
 updatedBy: jeny-amatya-qed
-updated: 2023-08-14 00:42:49 
+updated: 2024-06-12 22:57:43 
 likes: 15
 ---
 
@@ -26,11 +26,12 @@ A developer portal offers the following advantages:
 In the header on the home page you'll find some useful links:
 
 * **Home**: takes you back to the home page.
-* **Posts**: displays the list of posts in chronological order with the newest at the top.
-* **Categories**: displays the available categories for posts. Note that some categories are visible only to certain user groups.
 * **Tags**: displays the available tags for posts.
+* **Chat**: shows the AI-powered chat interface
 * **APIs**: allows you to explore the APIs available on the portal.
-* **Toggle theme**: switches between the light and dark theme.
+* **Help**: displays the FAQ section and contact information for support
+* **Contact us**: displays the feedback section and contact information
+* **Admin**: shows list of posts pending review
 
 ### Have you signed up?
 
