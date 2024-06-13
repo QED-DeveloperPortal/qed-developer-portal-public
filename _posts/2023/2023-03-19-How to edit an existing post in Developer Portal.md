@@ -1,5 +1,5 @@
 ---
-title: How to edit a post using the inline editor in DevPortal
+title: How to update existing content using inline editor in Developer Portal
 author: jeny-amatya-qed
 categories: [Public]
 tags: [getting started]

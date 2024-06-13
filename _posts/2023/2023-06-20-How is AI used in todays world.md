@@ -1,13 +1,10 @@
 ---
 title: How is AI used in todays world
-title: How is AI used in todays world
 author: sushma-hazari-qed
 categories: [public]
 tags: [technology]
 date: 2023-06-20 01:01:48 
-date: 2023-06-20 01:01:48 
 updatedBy: sushma-hazari-qed
-updated: 2024-04-03 05:55:10 
 updated: 2024-04-03 05:55:10 
 likes: 2
 ---
