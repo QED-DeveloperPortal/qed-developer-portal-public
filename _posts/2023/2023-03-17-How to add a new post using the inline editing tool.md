@@ -5,7 +5,7 @@ categories: [Public]
 tags: [getting started]
 date: 2023-03-17 04:22:58 
 updatedBy: jeny-amatya-qed
-updated: 2024-06-13 01:03:28 
+updated: 2024-06-13 01:44:07 
 likes: 0
 ---
 
@@ -49,7 +49,7 @@ Please note that you cannot change the category. By default, you can access the 
 
 ![image](https://sadevportal3.blob.core.windows.net/root/post/add-post-step-2-dark.jpg)
 
-## # Step 3
+### Step 3
 You can preview the post in the right-hand pane of the editor. Alternatively, you can also click on WYSIWYG pane of the editor.
 
 ![image](https://sadevportal3.blob.core.windows.net/root/post/add-post-step-3-1-dark.png)
