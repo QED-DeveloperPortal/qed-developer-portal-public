@@ -1,5 +1,5 @@
 ---
-title: How to edit a post in DevPortal using the GitHub repository
+title: How to update existing content using GitHub repository in Developer Portal
 author: jeny-amatya-qed
 categories: [Public]
 tags: [getting started]

@@ -1,5 +1,5 @@
 ---
-title: How to add a new post using the inline editor in DevPortal
+title: How to publish new content using inline editor in Developer Portal
 author: jeny-amatya-qed
 categories: [Public]
 tags: [getting started]

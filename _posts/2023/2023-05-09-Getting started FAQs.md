@@ -25,7 +25,9 @@ likes: 0
 | find out what mandatory training (MAST) I need to complete? | Visit the [mandatory training page](https://intranet.qed.qld.gov.au/about/PrioritiesandInitiatives/mandatorytraining/Pages/mandatory-all-staff-training-program.aspx) on the intranet for more information. |
 | book a hot-desk on level 12 of AM60? | Refer to the floorplan tab for zone and desk locations of the [level 12 AM60 workspace booking sheet](https://qeducorp.sharepoint.com/:x:/r/sites/ApplicationDevelopment/_layouts/15/Doc.aspx?sourcedoc=%7BD61FC9D9-8276-4BB8-BC6F-D2B96583630F%7D&file=AM60%20Level%2012%20-%20Workspace%20Booking%20Sheet.xlsx&action=default&mobileredirect=true&cid=0dd2d314-6bd4-4f8a-a0b8-a5b17bb42389). |
 | add a user to assignment group? | [https://qldqed.service-now.com/kb_view.do?sys_kb_id=615f1864db098110a95df132f39619c5](https://qldqed.service-now.com/kb_view.do?sys_kb_id=615f1864db098110a95df132f39619c5) |
-| apply for leave? | [https://myhr-ess.deta.qld.gov.au/SSPROD/SelfService](https://myhr-ess.deta.qld.gov.au/SSPROD/SelfService) <sup>*</sup> |
-| access my timesheet? | [https://alloc8.qed.qld.gov.au/alloc8/](https://alloc8.qed.qld.gov.au/alloc8/) <sup>*</sup> |
+| apply for leave? | [https://myhr-ess.deta.qld.gov.au/SSPROD/SelfService](https://myhr-ess.deta.qld.gov.au/SSPROD/SelfService) $^{*}$  |
+| access my timesheet? | [https://alloc8.qed.qld.gov.au/alloc8/](https://alloc8.qed.qld.gov.au/alloc8/) $^{*}$ |
 
-<sup>*</sup> If outside the QED network, log into EduWorkspace first.
+$^{*}$ If outside the QED network, log into EduWorkspace first.
+
+

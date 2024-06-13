@@ -18,7 +18,7 @@ The following table provides an overview of how access is controlled via custom 
 | | |none|authenticated|internal|moderator_general|administrator|
 | | | | | | | |
 |Home| |Y|Y|Y|Y|Y|
-|Navigation|Home|Y|Y|Y|Y|Y||
+|Navigation|Home|Y|Y|Y|Y|Y|
 | |Categories|Y|Y|Y|Y|Y|
 | |Tags|Y|Y|Y|Y|Y|
 | |APIs|Y|Y|Y|Y|Y|
