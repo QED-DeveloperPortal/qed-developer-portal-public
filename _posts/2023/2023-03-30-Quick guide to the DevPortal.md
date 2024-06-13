@@ -5,7 +5,7 @@ categories: [Public]
 tags: [getting started,about]
 date: 2023-03-30 01:04:10 
 updatedBy: jeny-amatya-qed
-updated: 2024-06-12 22:57:43 
+updated: 2024-06-13 02:36:03 
 likes: 15
 ---
 
@@ -44,6 +44,6 @@ Here are some useful resources to get you started.
 * [Update existing content using GitHub repository](/public/How-to-edit-a-post-using-GitHub-repository/)
 
 ### Support
-If you require any support or need to contact us, please visit our [Support ](/support/) page.
+If you require any support or need to contact us, please visit our [Contact us](/contact-us/) page or [Help](/help/) page.
 
 Overall, we hope this portal gives you everything you need to build fast and reliable services.
