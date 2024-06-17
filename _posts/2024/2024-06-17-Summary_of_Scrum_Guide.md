@@ -3,7 +3,7 @@ title: "Another Summary of Scrum Guide "
 author: "jeny-amatya-qed"
 categories: [public]
 tags: [auto-import, test,word]
-date: 2024-06-17 16:52:07
+date: 2024-06-17 04:52:07
 likes: 0
 imported: True 
 import-source: "GitHub"
