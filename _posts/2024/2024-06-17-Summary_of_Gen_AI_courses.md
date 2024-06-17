@@ -3,7 +3,7 @@ title: "Another Summary of Gen AI courses "
 author: "jeny-amatya-qed"
 categories: [public]
 tags: [auto-import, test,word]
-date: 2024-06-17 14:12:00
+date: 2024-06-17 04:12:00
 likes: 0
 imported: True 
 import-source: "GitHub"
