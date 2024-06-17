@@ -4,6 +4,8 @@ author: g-morton
 categories: [Public]
 tags: [agile, testing, cloud]
 date: 2024-06-17 03:31:47 
+updatedBy: Joyclyn
+updated: 2024-06-17 21:47:57 
 likes: 0
 ---
 
@@ -13,7 +15,7 @@ At the Queensland Department of Education, we are excited to share the journey o
 
 **Using GitHub for storage and publication**
 
-The backbone of our development process is GitHub. We utilise GitHub for storing and publishing all aspects of the Developer Portal. This allows us to maintain a robust version control system, enabling seamless collaboration among our development team. Each update, whether it's a minor tweak or a major new feature, is meticulously tracked and managed through GitHub.
+The backbone of our development process is GitHub. We use GitHub for storing and publishing all aspects of the Developer Portal. This allows us to maintain a robust version control system, enabling seamless collaboration among our development team. Each update, whether it's a minor tweak or a major new feature, is meticulously tracked and managed through GitHub.
 
 **Feature branches for rapid deployment**
 
@@ -25,7 +27,7 @@ Our release pipeline is a critical part of how we ensure the quality and reliabi
 
 1. **Pre-alpha**: Internal development phase where initial features are built and tested by developers.
 1. **Alpha**: Early testing phase where features are still being developed. Internal stakeholders test the software to identify bugs and improvements on our staging site.
-1. **Beta**: The Developer Portal is currently in this phase. After internal testing, features are released to a broader audience for real-world testing and feedback. We label our live site as Beta to invite early adopters and public enthusiasts to explore and use the Portal, while managing expectations that some features may still be in development and subject to change.
+1. **Beta**: The Developer Portal is currently in this phase. After internal testing, features are released to a broader audience for real-world testing and feedback. We label our live site as Beta to invite early adopters and public enthusiasts to explore and use the portal, while managing expectations that some features may still be in development and subject to change.
 1. **General availability (GA)**: When a feature drops its Beta label, it enters General Availability, meaning it is feature-complete and fit for public use. However, we remain open to user feedback for further updates and improvements, ensuring continuous enhancement of the feature.
 
 
@@ -37,17 +39,17 @@ Our deployment pipelines are fully automated, allowing for quick and accurate re
 
 Labelling the Developer Portal as Beta serves multiple purposes:
 
-- **Early adoption**: It opens the door for early adopters to engage with the Portal, providing us with valuable feedback and insights.
-- **Expectation management**: It clearly communicates that while the Portal is fully functional, some features may be incomplete or evolving.
-- **Continuous improvement**: By inviting feedback and involvement from our user community, we ensure that the Portal continuously evolves to meet the needs of developers.
+- **Early adoption**: It opens the door for early adopters to engage with the portal, providing us with valuable feedback and insights.
+- **Expectation management**: It clearly communicates that while the portal is fully functional, some features may be incomplete or evolving.
+- **Continuous improvement**: By inviting feedback and involvement from our user community, we ensure that the portal continuously evolves to meet the needs of developers.
 
 **Involving the customer**
 
 Our commitment to Agile principles is at the core of our development philosophy. We believe that the best products are built with constant input from end users. By engaging with our community early and often, we can develop features that are not only innovative but also highly relevant and useful.
 
-**Security and safety: 100% Simulated data**
+**Security and safety: 100% simulated data**
 
-The Developer Portal site is completely detached from our production databases. This means all sandbox data is 100% simulated, ensuring that there are no connections to production that malicious users could exploit. The Portal is 100% safe for developers to interact with and use. This level of security and safety allows us to be confident in being so open and accessible.
+The Developer Portal site is completely detached from our production databases. This means all sandbox data is 100% simulated, ensuring that there are no connections to production that malicious users could exploit. The portal is 100% safe for developers to interact with and use. This level of security and safety allows us to be confident in being so open and accessible.
 
 **Adhering to our own standards**
 
@@ -57,7 +59,7 @@ We pride ourselves on following our own standards and invest heavily in making t
 
 This mantra encapsulates our mission. The Developer Portal is designed with developers in mind, by developers who understand the challenges and needs of the community. This approach ensures that every feature is relevant, practical, and geared towards making the lives of developers easier and more productive.
 
-**Join us on this Journey**
+**Join us on this journey**
 
 We invite you to explore the Developer Portal, engage with its features, and share your feedback. Your input is invaluable in shaping the future of this platform. Together, we can create a resource that is truly 'by developers for developers.'
 
