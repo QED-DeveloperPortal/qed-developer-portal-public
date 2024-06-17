@@ -5,7 +5,7 @@ categories: [Public]
 tags: [getting started]
 date: 2023-03-19 23:08:18 
 updatedBy: jeny-amatya-qed
-updated: 2024-06-13 00:57:42 
+updated: 2024-06-17 06:04:30 
 likes: 0
 ---
 
@@ -17,7 +17,7 @@ You can access the post that you want in a number of ways. You can then click on
 * **Search bar**
     * Type the partial or entire title of the post in the Search bar and click on Submit button.
 ![image](https://sadevportal3.blob.core.windows.net/root/post/edit-post-step-1-1.png)
-![image](https://sadevportal3.blob.core.windows.net/root/post/edit-post-step-1-2.png)
+        ![image](https://sadevportal3.blob.core.windows.net/root/post/add-post-step-5-2-dark.png)
 
 * **Tags**
     * Navigate to the Tags menu item to view a list of existing posts.
