@@ -1,5 +1,5 @@
 ---
-title: "Go card guide "
+title: "Summary Go card guide "
 author: "jeny-amatya-qed"
 categories: [public]
 tags: [auto-import, test,pdf]
