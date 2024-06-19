@@ -1,5 +1,5 @@
 ---
-title: gpt4 Translink Go Card User Guide
+title: gpt4o Translink Go Card User Guide
 author: jeny-amatya-qed
 categories: [Public]
 tags: [pdf]
