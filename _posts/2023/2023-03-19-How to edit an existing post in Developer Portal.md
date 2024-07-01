@@ -2,7 +2,7 @@
 title: How to update existing content using inline editor in Developer Portal
 author: jeny-amatya-qed
 categories: [Public]
-tags: [getting started]
+tags: [getting-started]
 date: 2023-03-19 23:08:18 
 updatedBy: jeny-amatya-qed
 updated: 2024-06-17 06:04:30 

@@ -1,5 +1,5 @@
 ---
-title: Introducing iEducate 2024
+title: Introducing i-Educate 2024
 author: g-morton
 categories: [Public]
 tags: [i-educate]

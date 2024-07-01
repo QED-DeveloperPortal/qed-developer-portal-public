@@ -2,7 +2,7 @@
 title: How to update existing content using GitHub repository in Developer Portal
 author: jeny-amatya-qed
 categories: [Public]
-tags: [getting started]
+tags: [getting-started]
 date: 2023-03-20 01:38:13 
 updatedBy: jeny-amatya-qed
 updated: 2024-06-13 02:20:58 

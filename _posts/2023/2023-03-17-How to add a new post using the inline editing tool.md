@@ -2,7 +2,7 @@
 title: How to publish new content using inline editor in Developer Portal
 author: jeny-amatya-qed
 categories: [Public]
-tags: [getting started]
+tags: [getting-started]
 date: 2023-03-17 04:22:58 
 updatedBy: jeny-amatya-qed
 updated: 2024-06-13 01:44:07 

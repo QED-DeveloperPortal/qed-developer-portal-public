@@ -2,7 +2,7 @@
 title: How to add a tag in Developer Portal
 author: jeny-amatya-qed
 categories: [Public]
-tags: [getting started]
+tags: [getting-started]
 date: 2023-05-15 05:32:50 
 updatedBy: jeny-amatya-qed
 updated: 2024-06-13 01:56:52 
