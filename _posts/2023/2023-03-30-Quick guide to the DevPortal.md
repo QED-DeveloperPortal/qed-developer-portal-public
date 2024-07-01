@@ -2,7 +2,7 @@
 title: Quick guide to the Developer Portal
 author: jeny-amatya-qed
 categories: [public]
-tags: [getting started,about]
+tags: [getting-started,about]
 date: 2023-03-30 01:04:10 
 updatedBy: jeny-amatya-qed
 updated: 2023-08-14 00:42:49 
@@ -36,7 +36,7 @@ In the header on the home page you'll find some useful links:
 
 To sign up as a new user to developer portal, follow the steps at [Onboarding a new user](/public/Onboarding-a-new-user-in-Developer-Portal/).
 
-### Getting started
+### getting-started
 Here are some useful resources to get you started.
 * [Publish new content using inline editor ](/public/How-to-add-a-new-post-using-the-inline-editing-tool/)
 * [Update existing content using inline editor](/public/How-to-edit-an-existing-post-in-Developer-Portal/)

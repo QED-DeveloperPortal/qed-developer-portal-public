@@ -84,7 +84,7 @@ The Chat Copilot repository demonstrates how to integrate a large language model
 - **/docker** - Docker setup files
 - **/scripts** - Various scripts for setup and deployment
 
-## Getting started
+## getting-started
 ### Clone the repository:
 ```bash
 git clone https://github.com/jamatya/chat-copilot.git
