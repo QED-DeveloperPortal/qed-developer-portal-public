@@ -1,8 +1,8 @@
 ---
-title: Introducing iEducate 2024
+title: Introducing i-Educate 2024
 author: jeny-amatya-qed
 categories: [Public]
-tags: [ieducate]
+tags: [i-educate]
 date: 2024-06-14 00:48:47 
 likes: 0
 ---
