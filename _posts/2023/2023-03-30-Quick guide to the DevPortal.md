@@ -2,7 +2,7 @@
 title: Quick guide to the Developer Portal
 author: jeny-amatya-qed
 categories: [public]
-tags: [getting started,about]
+tags: [getting-started,about]
 date: 2023-03-30 01:04:10 
 updatedBy: jeny-amatya-qed
 updated: 2023-08-14 00:42:49 
