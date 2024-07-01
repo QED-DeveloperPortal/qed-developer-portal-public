@@ -2,7 +2,7 @@
 title: Getting started FAQs
 author: jayarvee
 categories: [public]
-tags: [getting started]
+tags: [getting-started]
 date: 2023-05-09 00:37:05
 updatedBy: jayarvee
 updated: 2023-05-15 03:09:53

@@ -2,7 +2,7 @@
 title: Introducing our API Sandbox with Synthetic Data
 author: jeny-amatya-qed
 categories: [Public]
-tags: [getting started,api,data hub]
+tags: [getting-started,api,data hub]
 date: 2024-07-01 03:31:58 
 likes: 0
 ---
