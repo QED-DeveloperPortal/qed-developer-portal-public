@@ -1,11 +1,11 @@
 ---
-title: LiveDoc  CosmosDBPOC
+title: LiveDoc  CosmosDBPOC using askthecode plugin
 author: jeny-amatya-qed
 categories: [Public]
 tags: [livedoc]
 date: 2024-07-02 04:50:52 
 updatedBy: jeny-amatya-qed
-updated: 2024-07-02 05:00:14 
+updated: 2024-07-02 05:06:24 
 likes: 0
 ---
 
