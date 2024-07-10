@@ -1,11 +1,11 @@
 ---
-title: Vendor readiness checklist
+title: Vendor readiness considerations
 author: jeny-amatya-qed
-categories: [public]
+categories: [Public]
 tags: [getting-started,overview]
 date: 2023-04-19 05:21:30 
 updatedBy: jeny-amatya-qed
-updated: 2023-04-19 05:21:41 
+updated: 2024-07-10 22:22:36 
 likes: 1
 ---
 
