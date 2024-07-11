@@ -4,6 +4,8 @@ author: jeny-amatya-qed
 categories: [Public]
 tags: [getting-started, uiux]
 date: 2024-07-11 01:56:41 
+updatedBy: jeny-amatya-qed
+updated: 2024-07-11 02:33:56 
 likes: 0
 ---
 
@@ -55,6 +57,7 @@ The Queensland Department of Education's visual style guide provides a comprehen
 
 - **Tertiary Colours:** 
     - Restricted for diagrams and icons.
+    
         | Colour         | CMYK         | RGB         | HEX     | Colour Swatch                        |
         |----------------|--------------|-------------|---------|-------------------------------------|
         | Icon Red       | 9.100.100.2  | 214.31.38   | D61F26  | <div style="width: 30px; height: 30px; background-color: #D61F26; border: 1px solid #000;"></div> |
@@ -74,6 +77,7 @@ The Queensland Department of Education's visual style guide provides a comprehen
 ### Special Considerations
 - **The Landscape of Learning:** Represents the interconnected systems and cultural elements of the department’s work, developed in consultation with the First Nations Strategy and Partnerships team and Iscariot Media.
 - **Accessibility:** Guidelines include ensuring colour contrast and accessibility in all designs.
+
 ### Additional Information
 - For queries and further assistance, contact the SCE Design and Production team via provided channels.
 - Queensland state schools are exempt from these guidelines but should refer to specific guidelines on OnePortal. 
