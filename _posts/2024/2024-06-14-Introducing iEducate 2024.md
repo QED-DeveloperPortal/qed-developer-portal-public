@@ -5,15 +5,15 @@ categories: [Public]
 tags: [i-educate]
 date: 2024-06-14 00:48:47 
 updatedBy: jeny-amatya-qed
-updated: 2024-07-12 06:39:57 
+updated: 2024-07-12 06:50:31 
 likes: 0
 ---
+
+> Please join then - [Sign our guest book](mailto:developerportal@qed.qld.gov.au?subject=i-Educate%20Guest%20Book) so we can follow-up with your interest.
 
 ## Welcome i-Educate attendees to the Developer Portal
 
 We are thrilled to welcome you to the Queensland Department of Education Developer Portal, your gateway to cutting-edge development tools and resources. As we debut our Developer Portal at the i-Educate conference, we invite you to explore, engage, and contribute to this innovative platform as an early bird innovator.
-
-> Please join then - [Sign our guest book](mailto:developerportal@qed.qld.gov.au?subject=i-Educate%20Guest%20Book) so we can follow-up with your interest.
 
 ### Our vision
 
