@@ -4,10 +4,13 @@ author: g-morton
 categories: [Public]
 tags: [i-educate]
 date: 2024-06-14 00:54:43 
-updatedBy: g-morton
-updated: 2024-07-11 04:05:11 
+updatedBy: jeny-amatya-qed
+updated: 2024-07-12 06:51:40 
 likes: 0
 ---
+
+> Please join then - [Sign our guest book](mailto:developerportal@qed.qld.gov.au?subject=i-Educate%20Guest%20Book) so we can follow-up with your interest.
+
 
 <center><h3 style="border: 1px solid grey;padding:10px;margin-bottom: 40px;">Please join then
 <b><a href="mailto:developerportal@qed.qld.gov.au?subject=i-Educate Guest Book"> 
