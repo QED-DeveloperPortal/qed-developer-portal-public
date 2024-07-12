@@ -1,5 +1,5 @@
 ---
-title: Onboarding a new user in Developer Portal
+title: How to join
 author: jeny-amatya-qed
 categories: [Public]
 tags: [getting-started]

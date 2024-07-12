@@ -34,7 +34,7 @@ In the header on the home page you'll find some useful links:
 
 ### Have you signed up?
 
-To sign up as a new user to developer portal, follow the steps at [Onboarding a new user](/public/Onboarding-a-new-user-in-Developer-Portal/).
+To sign up as a new user to developer portal, follow the steps at [Onboarding a new user](/public/How to join/).
 
 ### Getting started
 Here are some useful resources to get you started.
