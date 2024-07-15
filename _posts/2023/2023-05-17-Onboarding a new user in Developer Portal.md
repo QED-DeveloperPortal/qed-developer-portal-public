@@ -1,31 +1,38 @@
 ---
-title: Onboarding a new user in Developer Portal
+title: How to join
 author: jeny-amatya-qed
-categories: [public]
-tags: [getting started]
+categories: [Public]
+tags: [getting-started]
 date: 2023-05-17 02:05:00 
 updatedBy: jeny-amatya-qed
-updated: 2023-11-21 23:41:10 
+updated: 2024-07-12 06:09:04 
 likes: 1
 ---
 
-### 1. Sign up 
+## Welcome to the Developer Portal! 
 
-* Go to the [Developer Portal](https://developer.qed.qld.gov.au/) site.
-*  Click on the 'Sign In' button.
-* Use one of the following options to sign up.
-    \- QED email address
-    \- GitHub account
+Here's how to get started.
 
-### 2. Request access
 
-* Contact the Developer Portal team to grant you access required for viewing and updating non-public content.
+### Sign up 
 
-### 3. Publish or update content 
+* **Visit the Developer Portal:** Go to the [Developer Portal](https://developer.qed.qld.gov.au/) site.
+*  **Sign in:** Click on the 'Sign In' button.
+* **Create your account:** Sign up using one of the available options.
+    * **Tip**: Use a consistent account for all activities on the Developer Portal. Avoid creating duplicate accounts to ensure seamless access to your content and contributions.
 
-*  You should be able to view and update both private (using the 'Internal' category) and public content.
-* Here are some useful links to get you started:
-    - [Quick guide to the Developer Portal](/public/Quick-guide-to-the-DevPortal/)
-    - [How to publish new content using inline editor](/public/How-to-add-a-new-post-using-the-inline-editing-tool/)
-    - [How to update content using inline editor](/public/How-to-edit-an-existing-post-in-Developer-Portal/)
-    - [How to update content using GitHub repository](/public/How-to-edit-a-post-using-GitHub-repository/)
+
+### My profile
+
+Once signed in, you can view and manage your profile. Click on your avatar icon at the top of the portal page to view your profile information and contributions.
+
+### Contributing content
+After signing in, you can contribute to the portal by adding new posts, sharing ideas, and providing feedback. You may use the ‘Add post’ button on the main menu to create a new article. A moderator will review any contributions before they go live on the portal.
+
+### Personal avatar
+You can personalise your profile with a custom avatar image. Please [contact ](mailto:developerportal@qed.qld.gov.au) us if you'd like to use one.
+
+### Department of Education staff
+If you are a department staff member, you can access additional features:
+1. **Staff access:** Please [contact](mailto:developerportal@qed.qld.gov.au) us to request access to department content.
+2. **Official avatar badge:** Request an official departmental avatar badge to distinguish your profile.

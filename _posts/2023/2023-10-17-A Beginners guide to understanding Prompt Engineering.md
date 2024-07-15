@@ -1,11 +1,11 @@
 ---
 title: A Beginners guide to understanding Prompt Engineering
-author: jeny-amatya-qed
+author: qed-devportal-admin
 categories: [public]
 tags: [ai]
 date: 2023-10-17 23:51:40 
-updatedBy: jeny-amatya-qed
-updated: 2023-10-26 04:37:57 
+updatedBy: Joyclyn
+updated: 2024-03-26 23:58:48 
 likes: 17
 ---
 
@@ -25,11 +25,11 @@ Context plays a pivotal role in facilitating effective communication with langua
 
 ## The Power of Examples and Demonstrations
 
-Utilizing examples and demonstrations within prompts serves as a powerful tool in guiding the language model's output. By showcasing the desired style, tone, or structure through examples, one can steer the model toward producing outputs that align with specific expectations and requirements.
+Using examples and demonstrations within prompts serves as a powerful tool in guiding the language model's output. By showcasing the desired style, tone, or structure through examples, one can steer the model toward producing outputs that align with specific expectations and requirements.
 
 ## The Iterative Refinement Process
 
-An essential aspect of prompt engineering involves an iterative refinement process. This process entails analyzing the model's responses and making necessary adjustments to the prompts to improve the quality and relevance of the generated content. By iteratively refining the prompts, one can enhance the precision and accuracy of the model's outputs.
+An essential aspect of prompt engineering involves an iterative refinement process. This process entails analysing the model's responses and making necessary adjustments to the prompts to improve the quality and relevance of the generated content. By iteratively refining the prompts, one can enhance the precision and accuracy of the model's outputs.
 
 ## Upholding Ethical Standards
 
