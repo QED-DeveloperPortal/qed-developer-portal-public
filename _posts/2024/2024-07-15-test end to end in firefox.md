@@ -11,3 +11,4 @@ likes: 0
 
 1. Adding the new post in firefox
 2. Edit using the post
+3. Edit using the GitHub 
