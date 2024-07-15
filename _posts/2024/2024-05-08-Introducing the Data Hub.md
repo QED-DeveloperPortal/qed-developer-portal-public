@@ -4,28 +4,28 @@ author: g-morton
 categories: [Public]
 tags: [data hub]
 date: 2024-05-08 23:56:31 
-updatedBy: jeny-amatya-qed
-updated: 2024-05-17 01:02:06 
+updatedBy: g-morton
+updated: 2024-07-12 00:49:33 
 likes: 0
 ---
 
 ## Introduction
-The DoE integration platform, “Data Hub” is a business service that provides a standard, seamless and secure framework for information exchange across multiple technology applications playing an important role in managing the flow of information between connected systems (in and out of the department) to maximise the availability of information, and facilitates a single point-of-truth, prevents the proliferation of point-to-point interfaces and duplication of data. The Data Hub platform operates across the Azure platform and on-premise as an enabling service offering real-time and batch/triggered interoperability.
+The Department of Education integration platform, “Data Hub” is a business service that provides a standard, seamless and secure framework for information exchange across multiple technology applications playing an important role in managing the flow of information between connected systems (in and out of the Department) to maximise the availability of information, and facilitates a single point-of-truth, prevents the proliferation of point-to-point interfaces and duplication of data. The Data Hub platform operates across the Azure platform and on-premise as an enabling service offering real-time and batch/triggered interoperability.
  
 ## What can Data Hub do?
 Whenever there is a need to exchange data between two or more systems and/or applications – internal and external to the department:
 * Data Hub’s purpose is to move data and objects, which it can achieve in a variety of ways:
 * Data Hub moves data and objects between systems and locations – data stored in a database, data warehouse, via an API, or in a file, i.e. text, csv, images, PDF’s, etc.
 * Detailed logging is employed to capture statistical data on each transaction.
-* Data Hub includes a Notification service allowing parties to be informed of a number of events that take place in the connection and transfer process.
-* Data Hub can connect to DBMS’s, file systems, SFTP servers, web services, Cloud-based endpoints, etc.
+* Data Hub includes a notification service allowing parties to be informed of a number of events that take place in the connection and transfer process.
+* Data Hub can connect to DBMS’s, file systems, SFTP servers, web services, cloud-based endpoints, etc.
 * Data Hub incorporates Enterprise Service Bus (ESB) technology for publish/subscribe patterns and long-running / asynchronous processes.
  
 ## Engaging with the Integration Team
-Integration of the department’s applications and data repositories is governed and managed by the department’s Integration team. This team manages the Data Hub product and provides the governance structure for all the department’s integration. All advice regarding integration activities is to be requested from this team.
+Integration of the Department’s applications and data repositories is governed and managed by the Department’s Integration team. This team manages the Data Hub product and provides the governance structure for all the Department’s integration. All advice regarding integration activities is to be requested from this team.
  
 The following activities must be completed when engaging with the Integration Team to provide:
-* Integration Requirements – please complete all topics in this section, including a high-level business-focussed description.
+* Integration Requirements – please complete all topics in this template, including a high-level business-focussed description.
 * Data Transfer Details – describe the source and destination endpoint details including environments, data/file format, data elements, data types, source/destination mapping (if known), and third-party connectors being requested.
 * Information governance – provide all information governance details of the transferred data, including data classification, privacy, PowerBI and cloud implications.
 * Approval – please list approvers for all endpoint owners and financial delegates. Endorsement will also be sought from EIS, and Integration technical and management. Please provide Alloc8 code and Cost Centre details.

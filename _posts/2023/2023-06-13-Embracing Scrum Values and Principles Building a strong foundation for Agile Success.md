@@ -8,7 +8,6 @@ date: 2023-06-13 23:23:51
 likes: 0
 ---
 
-=======
 ### Introduction
 
 In today's fast-paced software development landscape, organizations are increasingly adopting Agile methodologies to enhance productivity, foster collaboration, and deliver high-quality products. Among these methodologies, Scrum stands out as a popular framework that provides a structured approach to managing complex projects. However, Scrum is not just about following a set of rules; it is built upon a set of core values and principles that form the bedrock of its success. In this article, we will explore the Scrum values and principles and understand why they are crucial for any software organization looking to embrace Agile practices.
