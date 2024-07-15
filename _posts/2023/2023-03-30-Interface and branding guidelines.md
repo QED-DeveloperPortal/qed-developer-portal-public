@@ -1,10 +1,10 @@
 ---
 title: Interface and branding guidelines
-author: jeny-qed
+author: jeny-amatya-qed
 categories: [public]
 tags: [getting-started,uxui]
 date: 2023-04-19 05:20:55 
-updatedBy: jayarvee
+updatedBy: Joyclyn
 updated: 2023-05-15 22:23:52 
 likes: 1
 ---
