@@ -8,7 +8,6 @@ updatedBy: Joyclyn
 updated: 2024-03-22 01:19:57 
 likes: 8
 ---
-
 ## Create new SWA from GitHub repository
 
 Create a new Azure Static Web App as described [here](https://learn.microsoft.com/en-us/azure/static-web-apps/publish-jekyll).
