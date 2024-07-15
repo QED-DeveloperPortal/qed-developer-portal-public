@@ -5,7 +5,7 @@ categories: [Public]
 tags: [about]
 date: 2023-11-16 01:09:32 
 updatedBy: Joyclyn
-updated: 2024-07-14 22:39:54 
+updated: 2024-07-14 22:39:25 
 likes: 43
 ---
 
@@ -27,8 +27,6 @@ We want you to feel comfortable and empowered as you explore the portal. We enco
 
 
 ## Why join the Developer Portal BETA?
-
-By participating in our BETA program, you'll gain early access to cutting-edge tools, resources, and industry insights. More importantly, your feedback will directly influence the final version of the portal, ensuring that it aligns perfectly with your needs and expectations. Plus, you'll be part of a vibrant community of like-minded individuals, all driven by a passion for technology and innovation.
 
 Don't miss out on this incredible opportunity to shape the future of the Developer Portal. Join us on this exciting journey as we work together to create a platform that empowers and inspires.
 
