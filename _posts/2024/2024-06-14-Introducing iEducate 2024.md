@@ -5,17 +5,11 @@ categories: [Public]
 tags: [i-educate]
 date: 2024-06-14 00:54:43 
 updatedBy: jeny-amatya-qed
-updated: 2024-07-12 06:51:40 
+updated: 2024-07-15 23:48:21 
 likes: 0
 ---
 
 > Please join then - [Sign our guest book](mailto:developerportal@qed.qld.gov.au?subject=i-Educate%20Guest%20Book) so we can follow-up with your interest.
-
-
-<center><h3 style="border: 1px solid grey;padding:10px;margin-bottom: 40px;">Please join then
-<b><a href="mailto:developerportal@qed.qld.gov.au?subject=i-Educate Guest Book"> 
-<i class="fa-solid fa-pen-nib"></i> Sign our guest book</a></b> so we can follow-up on your interest.</h3>
-</center>
 
 ## Welcome i-Educate attendees to the Developer Portal
 
