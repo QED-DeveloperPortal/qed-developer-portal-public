@@ -1,26 +1,51 @@
 ---
-title: Guidelines on choosing a valid title field for a markdown file
+title: How to choose a valid title for your post
 author: jeny-amatya-qed
-categories: [public]
+categories: [Public]
 tags: [guidelines]
 date: 2023-05-18 00:27:58 
 updatedBy: jeny-amatya-qed
-updated: 2023-09-05 02:02:54 
+updated: 2024-06-13 02:33:07 
 likes: 2
 ---
 
-In a markdown file, the front matter is typically defined using YAML or JSON syntax and is enclosed between sets of triple dashes (---). Within the title field of the front matter, it is advisable to avoid certain characters to ensure proper parsing and compatibility. Here are the characters that should be avoided in the title of a front matter in a markdown file:
+## Overview
+Choosing the right title for your post is essential for attracting readers and improving SEO. This post will guide you on how to create a title that meets specific validation criteria using regular expressions (regex).
 
-* **Triple Dashes:** Since triple dashes (---) are used to delimit the front matter section in a markdown file, it's important not to include them within the title itself to prevent confusion and ensure the correct interpretation of the front matter boundaries.
 
-* **Colon:** Colons (:) are often used to separate keys and values in YAML or JSON syntax. Including colons within the title might lead to parsing issues and unintended behavior when processing the front matter.
+### Understanding the validation rule
+The validation rule involves two regex operations:
+1. Remove invalid characters
+This removes any character that is not a word character (\w), whitespace (\s), or a hyphen (-).
+```
+string validTitle = Regex.Replace(title, @"[^\w\s-]", "");
+```
 
-* **Angle Brackets:** Angle brackets (<>) can be misinterpreted as HTML or XML tags within the front matter. To avoid confusion, it's recommended to exclude them from the title.
+2. Normalize whitespace
+This replaces multiple spaces with a single space and trims leading/trailing whitespace.
+```
+validTitle = Regex.Replace(validTitle, @"\s+", " ").Trim();
+```
 
-* **Quotation Marks:** Both single and double quotation marks (' and ") have special meaning in markdown and can affect the rendering or parsing of the front matter title. It's best to avoid them.
 
-* **Backticks:** Backticks (&grave;) are commonly used to denote code or inline code snippets in markdown. Including them in the front matter title can lead to conflicts or misinterpretation.
+### Tips for choosing a valid title
+1. Focus on Keywords: Include relevant key phrases, like "10 Essential Healthy Eating Tips."
+2. Be Descriptive and Clear: Avoid vague titles. Instead of "Tips for Life," use "10 Practical Tips for a Healthier Life."
+3. Limit Length: Aim for 50-60 characters to ensure the title isn't cut off in search results.
+4. Avoid Special Characters: Exclude !, @, #, etc. Use letters, numbers, spaces, and hyphens.
+5. Use Hyphens and Spaces Appropriately: Hyphens improve readability, e.g., "Step-by-Step Guide to Home Renovation."
+6. Ensure Proper Spacing: Avoid multiple consecutive spaces.
 
-* **Square Brackets:** Square brackets ([]) are frequently used in markdown for creating links or footnotes. Using them within the front matter title may cause issues with rendering or create confusion.
+### Examples of Valid Titles
+**Invalid Titles:**
+* "The Best!@# Blog Post" - Contains `!@#`.
+* "    Too Many     Spaces   " - Has extra spaces.
+* "Learn & Grow" - Contains `&`.
 
-To ensure compatibility and proper processing of the front matter in a markdown file, <span style="color: #e96113">**it's recommended to stick to alphanumeric characters (A-Z, a-z, 0-9), hyphens (-), and underscores (_) in the title.**</span> These characters are generally safe to use and won't interfere with the structure or parsing of the front matter.
+**Valid Titles:**
+* "The Best Blog Post" - Special characters removed.
+* "Too Many Spaces" - Extra spaces normalized.
+* "Learn Grow" - Special character removed.
+
+### Conclusion
+Choose a title that is engaging, clear, and compliant with validation rules. Focus on key phrases, avoid special characters, and ensure proper spacing to create effective and valid titles that attract readers and enhance your post's visibility. 
