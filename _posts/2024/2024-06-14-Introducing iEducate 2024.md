@@ -5,11 +5,76 @@ categories: [Public]
 tags: [i-educate]
 date: 2024-06-14 00:48:47 
 updatedBy: jeny-amatya-qed
-updated: 2024-07-12 06:50:31 
+updated: 2024-07-16 03:53:55 
 likes: 0
 ---
 
 > Please join then - [Sign our guest book](mailto:developerportal@qed.qld.gov.au?subject=i-Educate%20Guest%20Book) so we can follow-up with your interest.
+
+
+***
+
+<h3 style="border: 1px solid grey;padding:10px;margin-bottom: 40px;">Please join then
+<b><a href="mailto:test@test.com?subject=Guest Book"> 
+<i class="fa-solid fa-pen-nib"></i> Sign our guest book</a></b> so we can follow-up on your interest.</h3>
+
+
+***
+
+<h3 style="border: 1px solid grey; padding: 10px; margin-bottom: 40px;">
+    Please join then
+    <b><a href="mailto:test@test.com?subject=Guest Book"> 
+    <i class="fa-solid fa-pen-nib"></i> Sign our guest book</a></b> 
+    so we can follow-up on your interest.
+</h3>
+
+***
+
+### Please join then
+**[<i class="fa-solid fa-pen-nib"></i> Sign our guest book](mailto:test@test.com?subject=GuestBook)** 
+so we can follow-up on your interest.
+
+<style>
+h3 {
+    border: 1px solid grey;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+</style>
+
+***
+
+### Please join then
+**[Sign our guest book](mailto:test@test.com?subject=GuestBook)** so we can follow-up on your interest.
+
+***
+
+### Please join then
+
+**[Sign our guest book](mailto:test@test.com?subject=GuestBook)** so we can follow-up on your interest.
+
+<style>
+.cta-button {
+    display: inline-block;
+    border: 1px solid grey;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    margin-bottom: 40px;
+}
+</style>
+
+***
+
+<a href="mailto:test@test.com?subject=Guest Book" class="cta-button">Sign our guest book</a>
+
+***
+
+### Please join then
+
+**[Sign our guest book](mailto:test@test.com?subject=Guest Book)** so we can follow-up on your interest.
+
+***
 
 ## Welcome i-Educate attendees to the Developer Portal
 
