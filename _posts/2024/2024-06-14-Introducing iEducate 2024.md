@@ -4,12 +4,12 @@ author: g-morton
 categories: [Public]
 tags: [i-educate]
 date: 2024-06-14 00:54:43 
-updatedBy: jeny-amatya-qed
-updated: 2024-07-15 23:48:21 
+updatedBy: Joyclyn
+updated: 2024-07-16 05:57:28 
 likes: 0
 ---
 
-> Please join then - [Sign our guest book](mailto:developerportal@qed.qld.gov.au?subject=i-Educate%20Guest%20Book) so we can follow-up with your interest.
+> Please join then [Sign our guest book](mailto:developerportal@qed.qld.gov.au?subject=i-Educate%20Guest%20Book) so we can follow-up with your interest.
 
 ## Welcome i-Educate attendees to the Developer Portal
 
@@ -31,7 +31,7 @@ Discover the powerful tools and features available on the Developer Portal:
 
 **Collaborative environment**: Share your ideas, post feedback, and contribute to our growing knowledge base. All submissions are reviewed and moderated by subject matter experts, ensuring your input plays a crucial role in shaping future feature decisions. *We invite signed-in members to leave feedback on any post and article.*
 
-**Integration capabilities**: Explore what the Department’s production tools can offer. Use our sandboxed versions to get ready for future production use. Note: Production tools aren't directly available here. *Search for 'Data hub' to discover more about our enterprise integration solutions.*
+**Integration capabilities**: Explore what the Department’s production tools can offer. Use our sandboxed versions to get ready for future production use. Note: Production tools aren't directly available here. *Search for 'Data Hub' to discover more about our enterprise integration solutions.*
 
 **Application Catalogue APIs**: Consume simulated API operations via an Application Key created upon sign-up. These APIs simulate a product suite of operations available in our production environment, allowing developers to prepare for production versions. Use the Developer Portal sandbox to trial and experiment with completely safe, simulated data. *Follow the '[APIs](https://developer.qed.qld.gov.au/apis/)' main menu link for more.*
 

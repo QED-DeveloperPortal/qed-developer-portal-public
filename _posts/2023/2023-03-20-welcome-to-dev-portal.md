@@ -3,11 +3,12 @@ title: Welcome to the Developer Portal!
 author: matt
 categories: [public]
 tags: [getting-started]
-date: 2023-04-17 22:34:01
+date: 2023-04-17 22:34:01 
 updatedBy: Joyclyn
-updated: 2023-05-11 22:52:50
-likes: 0
+updated: 2023-05-11 22:52:50 
+likes: 1
 ---
+
 Welcome!
 
 This is an exciting place to be for anyone interested in software development for the education community in Queensland, as it is a hub for resources, tools, and information that can help you create amazing applications and programs. The developer portal is designed to make it easy for you to get started with coding, regardless of your skill level, so don't be intimidated if you're a beginner.

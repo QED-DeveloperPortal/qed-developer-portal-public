@@ -1,12 +1,12 @@
 ---
-title: Encouraging agile adoption fostering agility in your organization
+title: Encouraging agile adoption fostering agility in your organisation
 author: jeny-amatya-qed
 categories: [Public]
 tags: [agile]
 date: 2024-07-16 02:37:35 
 updatedBy: Joyclyn
-updated: 2024-07-16 03:13:22 
-likes: 0
+updated: 2024-07-16 05:17:47 
+likes: 1
 ---
 
 ## Introduction
