@@ -5,9 +5,10 @@ categories: [Public]
 tags: [getting-started,about]
 date: 2023-03-30 01:04:10 
 updatedBy: Joyclyn
-updated: 2024-06-18 23:29:52 
+updated: 2024-07-16 00:05:42 
 likes: 15
 ---
+
 ### What is a Developer Portal?
 
 A **Developer Portal** is a website that provides documentation, resources, and tools for you to learn, use, and integrate with APIs (Application Programming Interfaces). It is a centralised platform that offers you everything you need to work with our APIs quickly and easily, including code samples, tutorials, SDKs (Software Development Kits), API reference documentation and testing tools. It is also a platform that provides a clear and structured way for our developer community to collaborate, gather feedback, and manage the API lifecycle.
@@ -26,17 +27,15 @@ At the top of each page you'll find some useful links:
 
 * **Home**: Takes you back to the home page.
 * **Tags**: Displays the full list of tags currently in use on posts.
-* **Chat**: Shows the AI-powered chat interface.
 * **APIs**: Allows you to explore the APIs available on the portal.
 * **Help**: Displays the FAQ section and contact information for support.
 * **Contact us**: Displays the feedback form and contact information.
-* **Admin**: Shows a list of posts pending review (for admin members only).
 
 ### Have you signed up?
 
-To sign up as a new user to developer portal, follow the steps at [Onboarding a new user](/public/how to join/).
+To sign up as a new user to developer portal, follow the steps at [How to join](https://developer.qed.qld.gov.au/public/How-to-join/).
 
-### getting-started
+### Getting started
 Here are some useful resources to get you started:
 * [Publish new content using inline editor](/public/How-to-add-a-new-post-using-the-inline-editing-tool/).
 * [Update existing content using inline editor](/public/How-to-edit-an-existing-post-in-Developer-Portal/).
