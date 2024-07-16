@@ -4,7 +4,7 @@ author: Joyclyn
 categories: [Public]
 tags: [getting-started,about]
 date: 2024-07-16 05:26:17 
-likes: 0
+likes: 1
 ---
 
 ## How do I...
@@ -31,5 +31,3 @@ If you are a departmental employee or contractor and you would like internal acc
 *Psssst*, if you're a new user with questions or you have an idea for other content that would be useful in this FAQ post, please use the feedback box below to let us know! 
 
 *Please note, you must be signed in to send us feedback.*
-
-
