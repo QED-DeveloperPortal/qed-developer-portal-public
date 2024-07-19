@@ -1,17 +1,16 @@
 ---
 title: Role based access mapping in Developer Portal
 author: jeny-amatya-qed
-categories: [public]
+categories: [Public]
 tags: [getting-started,about]
 date: 2023-07-13 01:14:37 
-updatedBy: Joyclyn
-updated: 2023-11-29 02:51:24 
+updatedBy: jeny-amatya-qed
+updated: 2024-07-19 02:27:06 
 likes: 1
 ---
 
 ## Introduction
 The following table provides an overview of how access is controlled via custom roles using AAD B2C in Developer Portal application. 
-
 
 | | |User Roles| | | | |
 |:----|:----|:----|:----|:----|:----|:----|
