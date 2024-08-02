@@ -4,6 +4,8 @@ author: matt
 categories: [Public]
 tags: [azure]
 date: 2024-08-01 22:29:58 
+updatedBy: Matt Warwick
+updated: 2024-08-02 00:03:31 
 likes: 0
 ---
 
@@ -144,4 +146,4 @@ By leveraging Azure Durable Functions, you can implement resilient, stateful wor
 
 ### References
 
-\[1\] Durable Functions Overview \- Azure \| Microsoft Learn\]\(https://learn\.microsoft\.com/en\-us/azure/azure\-functions/durable/durable\-functions\-overview\)
+[1] [Durable Functions Overview - Azure | Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview)
