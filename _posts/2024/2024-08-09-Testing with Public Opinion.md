@@ -11,4 +11,5 @@ likes: 0
 ---
 
 1. Testing with Public Category and Opinion Classification
-2. Editing this post 
+2. Editing this post
+3. Editing with GitHub
