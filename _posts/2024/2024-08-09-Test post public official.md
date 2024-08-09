@@ -12,3 +12,4 @@ likes: 0
 
 1. Test public category with official classification
 2. Edit the post using normal option
+3. Edit using the GitHub
