@@ -12,3 +12,4 @@ likes: 0
 
 1. Add a post
 2. Edit the post
+3. Edit with GitHub
