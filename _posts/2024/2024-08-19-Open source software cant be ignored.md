@@ -4,8 +4,8 @@ author: Joyclyn
 categories: [Public]
 tags: [secret sauce]
 date: 2024-08-19 04:41:08 
-updatedBy: Joyclyn
-updated: 2024-08-19 04:58:32 
+updatedBy: jeny-amatya-qed
+updated: 2024-08-19 21:54:57 
 likes: 0
 ---
 
@@ -43,7 +43,7 @@ To find out more, including what risks to consider and guidance about the releas
 
 ***
 References:
-[1] [The People's Code by Tony Scott, 2016](https://www.cio.gov/2016/08/11/peoples-code.html)
-[2] [Hype Cycle for Open-Source Software, 2018](https://www.gartner.com/en/documents/3891628) 
-[3] [Open source software guideline, 2022](https://www.forgov.qld.gov.au/information-and-communication-technology/qgea-policies-standards-and-guidelines/open-source-software-guideline)
-[4] [Make new source code open, Service Manual, 2022](https://www.gov.uk/service-manual/service-standard/point-12-make-new-source-code-open)
+* [1] [The People's Code by Tony Scott, 2016](https://www.cio.gov/2016/08/11/peoples-code.html)
+* [2] [Hype Cycle for Open-Source Software, 2018](https://www.gartner.com/en/documents/3891628) 
+* [3] [Open source software guideline, 2022](https://www.forgov.qld.gov.au/information-and-communication-technology/qgea-policies-standards-and-guidelines/open-source-software-guideline)
+* [4] [Make new source code open, Service Manual, 2022](https://www.gov.uk/service-manual/service-standard/point-12-make-new-source-code-open)
