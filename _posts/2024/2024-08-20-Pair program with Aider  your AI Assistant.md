@@ -3,10 +3,10 @@ title: Pair program with Aider  your AI Assistant
 author: andrew
 categories: [Public]
 classification: Opinion
-tags: [ai,documentation,bugfixing,opinion]
+tags: [ai,pair-programming,documentation,bugfixing,opinion]
 date: 2024-08-20 22:07:56 
-updatedBy: jeny-amatya-qed
-updated: 2024-08-20 22:49:45 
+updatedBy: sitestudio
+updated: 2024-08-20 22:53:47 
 likes: 0
 ---
 
@@ -36,12 +36,12 @@ So what would be really helpful is a tool that can:
 **Aider** is such a tool. ([https://aider.chat/](https://aider.chat/))
 
 You drive it from the command line using commands such as
-• **/code** to ask for code to be written
-• **/ask** to ask questions about the codebase
-• **/add** to add files to the current chat context
-• **/web** to scrape a web page and add the content to the chat
-• **/map** print out the current repository map
-• **/clear** to clear the chat history
+• /code - ask for code to be written
+• /ask - ask questions about the codebase
+• /add - add files to the current chat context
+• /web - scrape a web page and add the content to the chat
+• /map - print out the current repository map
+• /clear - clear the chat history
 
 An example scenario where it can be used is in updating documentation as shown at the link [https://aider.chat/examples/update-docs.html](https://aider.chat/examples/update-docs.html).
 
