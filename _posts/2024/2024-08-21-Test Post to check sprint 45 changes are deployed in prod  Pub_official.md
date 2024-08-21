@@ -16,3 +16,4 @@ likes: 0
 
 4.Changing the post to Opinion
 5. Editing the Opinion post
+6. Editing with GitHub Post
