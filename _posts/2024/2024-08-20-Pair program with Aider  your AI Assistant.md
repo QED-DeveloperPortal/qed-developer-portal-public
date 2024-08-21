@@ -7,7 +7,7 @@ tags: [ai,pair-programming,documentation,bugfixing,opinion]
 date: 2024-08-20 22:07:56 
 updatedBy: jeny-amatya-qed
 updated: 2024-08-21 03:00:56 
-likes: 0
+likes: 1
 ---
 
 There has been much fan fare about the AI revolution and what it means for people who write and maintain software.
@@ -55,4 +55,4 @@ Interestingly, Aider wrote 56% of the code that made it into it’s latest relea
 
 Looking forward to getting really productive with this tool.
 
-Other tools such as Continue.Dev can provide a similar experience but from inside VS Code - perhaps a post for another day. 
+Other tools such as Continue.Dev can provide a similar experience but from inside VS Code - perhaps a post for another day.
