@@ -6,7 +6,7 @@ classification: Opinion
 tags: [test,opinion]
 date: 2024-08-21 04:54:42 
 updatedBy: sushma-hazari
-updated: 2024-08-21 05:14:38 
+updated: 2024-08-21 05:21:35 
 likes: 0
 ---
 
@@ -15,3 +15,4 @@ likes: 0
 3. Edit with GitHub
 
 4.Changing the post to Opinion
+5. Editing the Opinion post
