@@ -3,14 +3,17 @@ title: Can we use agile in government
 author: Joyclyn
 categories: [Public]
 classification: Official
-tags: [secret sauce; standards]
+tags: [secret sauce,standards]
 date: 2024-08-21 05:48:24 
-updatedBy: 
+updatedBy: Joyclyn
+updated: 2024-08-21 05:58:02 
 likes: 0
 ---
 
 Sometimes government departments can be slow to adopt new, innovative practices. 
+
 Sometimes public servants can be risk averse and suspicious of change.
+
 And sometimes that’s sensible; we use public money and can’t go chasing after every shiny new toy. But when it comes to using flexible, transparent, customer-centric processes, we shouldn’t hesitate. 
 
 The most recent iteration of the Queensland Government Enterprise Architecture digital service strategy (January 2022) sets out the requirement for us to use agile and customer-centred processes. This doesn’t necessarily mean we have to use Agile with a capital A, but it doesn’t mean we can’t, either! The benefit is that it gives us the freedom to break free of old, rigid structures. 
@@ -25,4 +28,5 @@ Here is the minimum we need to do:
 ***
 
 Further reading:
+
 QGEA (Queensland Government Enterprise Architecture) (2022) [Digital service standard](https://www.forgov.qld.gov.au/information-and-communication-technology/qgea-policies-standards-and-guidelines/digital-service-standard/use-agile-and-customer-centred-processes), accessed 21 August 2024.
