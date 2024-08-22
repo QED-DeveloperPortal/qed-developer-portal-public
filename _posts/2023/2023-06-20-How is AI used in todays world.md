@@ -1,12 +1,12 @@
 ---
 title: How is AI used today
 author: sushma-hazari-qed
-categories: [public]
+categories: [Public]
+classification: Official
 tags: [technology,ai]
 date: 2023-06-20 01:01:48 
-updatedBy: Joyclyn
-updated: 2024-03-27 04:54:23 
-pokedOn: 2024-07-12 03:40:24 
+updatedBy: jeny-amatya-qed
+updated: 2024-08-22 07:07:13 
 likes: 2
 ---
 
