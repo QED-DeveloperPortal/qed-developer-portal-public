@@ -1,11 +1,12 @@
 ---
-title: Information Security Classifications and the Developer Portal
+title: Information Security Classifications and the Developer Portal 3
 author: jeny-amatya-qed
 categories: [Public]
-classification: Official
-tags: [standards,documentation,getting started]
-date: 2024-08-22 01:56:13 
-updatedBy: 
+classification: Official (Everyone)
+tags: [standards,documentation,getting-started]
+date: 2024-08-22 01:44:05 
+updatedBy: jeny-amatya-qed
+updated: 2024-08-22 02:54:28 
 likes: 0
 ---
 
@@ -38,7 +39,9 @@ All submissions to the Developer Portal, regardless of classification, will unde
 
 By adhering to these classifications and processes, we can ensure that all information shared on the Developer Portal is appropriate for its intended audience and securely managed.
 
-Further reading:
+### Further reading:
 
 - [Information security classification framework](https://www.forgov.qld.gov.au/information-and-communication-technology/qgea-policies-standards-and-guidelines/information-security-classification-framework-qgiscf) (QGISCF), February 2020.
 - [Information security classification, Department of Education](https://intranet.qed.qld.gov.au/Services/InformationTechnology/information-management/Pages/information-security-classification.aspx) (Staff login required), April 2023.
+
+Updated
