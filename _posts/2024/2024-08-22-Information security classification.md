@@ -2,7 +2,7 @@
 title: Information security classification
 author: jeny-amatya-qed
 categories: [Public]
-classification: Official
+classification: Sensitive (Government staff)
 tags: [standards]
 date: 2024-08-22 00:33:28 
 updatedBy: 
