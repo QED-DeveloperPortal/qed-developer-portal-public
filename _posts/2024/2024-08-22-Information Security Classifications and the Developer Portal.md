@@ -7,7 +7,7 @@ tags: [standards,documentation,getting started]
 date: 2024-08-22 01:21:44 
 updatedBy: Joyclyn
 updated: 2024-08-22 01:37:48 
-likes: 0
+likes: 1
 ---
 
 Information security classification is crucial for ensuring the secure handling, storage, and sharing of information. Within the Department of Education Queensland, every piece of information is evaluated for sensitivity and classified accordingly. This classification helps us understand how to manage the information, protecting it from unauthorised use, modification, disclosure, or loss. Proper classification not only safeguards the integrity of our data but also ensures compliance with state and federal legislation.
