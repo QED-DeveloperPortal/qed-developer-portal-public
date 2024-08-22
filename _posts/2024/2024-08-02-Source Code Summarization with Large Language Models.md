@@ -2,7 +2,7 @@
 title: Source code summarisation with large language models
 author: jeny-amatya-qed
 categories: [Public]
-tags: [llm]
+tags: [ai]
 date: 2024-08-02 00:53:16 
 updatedBy: Joyclyn
 updated: 2024-08-02 01:42:39 
