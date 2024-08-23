@@ -12,3 +12,4 @@ likes: 0
 
 1. Test post with the internal role (Unofficial)
 2. Check by clicking on the Edit icon. Category drop down is not displayed
+3. Edit using the GitHub
