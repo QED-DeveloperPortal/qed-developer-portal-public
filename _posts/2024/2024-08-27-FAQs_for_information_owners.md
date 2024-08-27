@@ -1,6 +1,6 @@
 ---
 title: "FAQs for information owners"
-author: joyclyn
+author: Joyclyn
 categories: [public]
 classification: Unofficial (Everyone)
 tags: [auto-import, faq]

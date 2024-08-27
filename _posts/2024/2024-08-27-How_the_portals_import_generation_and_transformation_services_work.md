@@ -1,9 +1,9 @@
 ---
 title: "How the portals import generation and transformation services work"
-author: joyclyn
+author: Joyclyn
 categories: [public]
 classification: Unofficial (Everyone)
-tags: [auto-import, myth]
+tags: [auto-import]
 date: 2024-08-27 04:20:03
 likes: 0
 imported: True 
