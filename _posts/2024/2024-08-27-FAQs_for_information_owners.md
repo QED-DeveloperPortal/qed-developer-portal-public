@@ -48,4 +48,4 @@ import-reference: ""
 - Email us at developer@qed.qld.gov.au to start the conversation with our team. We'd love to hear from you!
 
  Here's a simplified workflow that steps out the import/update/remove info process: 
-![image.png](/.attachments/image-202d1e57-8ee5-4fe4-8801-47c5f5551521.png)
+![image](https://sadevportal3.blob.core.windows.net/root/post/process-workflow.png)
