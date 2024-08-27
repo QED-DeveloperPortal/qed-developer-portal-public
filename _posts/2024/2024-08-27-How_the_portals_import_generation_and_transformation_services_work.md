@@ -69,7 +69,7 @@ The diagram represents a system architecture involving various services, factori
 6. **GitHub CI/CD Pipelines** validate the content structure and author information.
 7. Validated content is deployed to the **Developer Portal website**.
 
-![image.png](/.attachments/image-7db7c28f-65ad-4ed5-a5c7-9e76ae3e694c.png)
+![image.png](https://sadevportal3.blob.core.windows.net/root/post/import.png)
  
 This system showcases a robust architecture that efficiently handles content from reception to publication. By integrating Azure functions, various service factories, and GitHub automation, the system ensures that content is processed, validated, and published seamlessly. This setup not only maintains content integrity but also optimises the workflow through automation and validation steps.
  
