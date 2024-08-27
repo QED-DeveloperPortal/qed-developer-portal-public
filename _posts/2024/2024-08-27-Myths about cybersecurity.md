@@ -3,9 +3,8 @@ title: Myths about cybersecurity
 author: Joyclyn
 categories: [Public]
 classification: Official
-tags: [myths,security]
+tags: [myth,security]
 date: 2024-08-27 05:08:30 
-updatedBy: 
 likes: 0
 ---
 
