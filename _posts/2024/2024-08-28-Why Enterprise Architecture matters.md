@@ -2,10 +2,9 @@
 title: Why Enterprise Architecture matters
 author: g-morton
 categories: [Public]
-classification: Official
+classification: Unofficial (Everyone)
 tags: [architecture]
-date: 2024-08-28 04:36:52 
-updatedBy: 
+date: 2024-08-28 04:36:52  
 likes: 0
 ---
 
