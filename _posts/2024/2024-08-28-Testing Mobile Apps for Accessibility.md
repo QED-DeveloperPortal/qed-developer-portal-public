@@ -1,19 +1,21 @@
 ---
-title: Testing Mobile Apps for Accessibility
+title: Testing Mobile Apps for Accessibility  Draft
 author: sushma-hazari
 categories: [Public]
 classification: Opinion
 tags: [mobile,opinion]
 date: 2024-08-28 01:58:50 
-updatedBy: 
+updatedBy: sushma-hazari
+updated: 2024-08-28 03:20:22 
 likes: 0
 ---
+
 
 Mobile accessibility testing ensures that mobile apps are accessible to users of all abilities, including those with disabilities. With the rise of mobile usage, it's crucial for apps to be designed with inclusivity in mind, allowing everyone to interact seamlessly. Accessibility testing focuses on identifying barriers that might prevent users with visual, auditory, motor, or cognitive impairments from fully utilizing the app. By following established guidelines, such as the Web Content Accessibility Guidelines (WCAG), developers can create apps that offer an enhanced user experience for all.
 
 ***
 
-Accessibility Tools provided by Android/iOS:
+**Accessibility Tools provided by Android/iOS:**
 
 **For iOS:**
 
@@ -49,7 +51,7 @@ Accessibility Tools provided by Android/iOS:
 
 ***
 
-Mobile Accessibility Testing Checklist: 
+**Mobile Accessibility Testing Checklist:**
 
 **Screen Reader Support**
  
@@ -123,7 +125,4 @@ Mobile Accessibility Testing Checklist:
 * Address any issues identified during user testing.
 
 ***
-
-
-
 
