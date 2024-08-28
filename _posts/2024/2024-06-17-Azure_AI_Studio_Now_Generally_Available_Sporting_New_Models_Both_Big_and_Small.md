@@ -2,7 +2,7 @@
 title: "Another Azure AI Studio Now Generally Available Sporting New Models Both Big and Small "
 author: "matt"
 categories: [public]
-tags: [auto-import, test, ai]
+tags: [auto-import, test, ai,trending]
 date: 2024-06-17 15:25:21
 likes: 0
 imported: True 

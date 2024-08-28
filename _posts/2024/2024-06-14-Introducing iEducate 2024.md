@@ -2,7 +2,7 @@
 title: Introducing iEducate 2024
 author: jeny-amatya-qed
 categories: [Public]
-tags: [i-educate]
+tags: [i-educate,trending]
 date: 2024-06-14 00:48:47 
 updatedBy: jeny-amatya-qed
 updated: 2024-07-16 03:53:55 

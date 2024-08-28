@@ -2,7 +2,7 @@
 title: Welcome to the Developer Portal Early Bird developers!
 author: jeny-amatya-qed
 categories: [Public]
-tags: [getting-started]
+tags: [getting-started,trending]
 date: 2024-08-02 06:11:01 
 updatedBy: jeny-amatya-qed
 updated: 2024-08-05 00:48:16 
