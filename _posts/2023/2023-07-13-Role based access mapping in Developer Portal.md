@@ -2,10 +2,11 @@
 title: Role based access mapping in Developer Portal
 author: jeny-amatya-qed
 categories: [Public]
-tags: [getting-started,about]
+classification: Unofficial (Everyone)
+tags: [getting-started,about,opinion]
 date: 2023-07-13 01:14:37 
 updatedBy: jeny-amatya-qed
-updated: 2024-07-19 02:27:06 
+updated: 2024-08-28 23:19:21 
 likes: 1
 ---
 
@@ -14,7 +15,7 @@ The following table provides an overview of how access is controlled via custom 
 
 | | |User Roles| | | | |
 |:----|:----|:----|:----|:----|:----|:----|
-| | |none|authenticated|internal|moderator_general|administrator|
+| | |Anonymous|Authenticated|Internal|Moderator|Administrator|
 | | | | | | | |
 |Home| |Y|Y|Y|Y|Y|
 |Navigation|Home|Y|Y|Y|Y|Y||
