@@ -2,7 +2,7 @@
 title: Testing Mobile Apps for Accessibility
 author: sushma-hazari
 categories: [Public]
-classification: Opinion
+classification: Unofficial (Everyone)
 tags: [mobile,opinion]
 date: 2024-08-28 01:58:50 
 updatedBy: sushma-hazari
