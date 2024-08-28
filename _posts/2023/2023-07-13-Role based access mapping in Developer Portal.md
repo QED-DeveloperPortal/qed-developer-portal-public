@@ -6,7 +6,7 @@ classification: Official
 tags: [getting-started,about]
 date: 2023-07-13 01:14:37 
 updatedBy: jeny-amatya-qed
-updated: 2024-08-28 23:19:53 
+updated: 2024-08-28 23:28:03 
 likes: 1
 ---
 
@@ -29,10 +29,9 @@ Developer Portal implements Role-Based Access Control (RBAC) via custom roles us
 The following table shows how these roles are mapped to different parts of Developer Portal.
 
 
-|   |   | Anonymous |Authenticated | Internal | Moderator | Administrator |
+| Navigation |  User Roles  | Anonymous |Authenticated | Internal | Moderator | Administrator |
 | :--- | :--- | :--------- | :--- | :--- | :--- | :--- |
-| | |Anonymous | Authenticated|Authenticated|Authenticated|Authenticated|
-| Navigation| Home | ✓ | ✓ | ✓ | ✓ | ✓ |
+| | Home | ✓ | ✓ | ✓ | ✓ | ✓ |
 |  | Tags | ✓ | ✓ | ✓ | ✓ | ✓ |
 |  | Chat | ✓ | ✓ | ✓ | ✓ | ✓ |
 |  | APIs | ✓ | ✓ | ✓ | ✓ | ✓ |
