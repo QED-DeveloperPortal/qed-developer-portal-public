@@ -1,12 +1,12 @@
 ---
-title: Testing Mobile Apps for Accessibility  Draft
+title: Testing Mobile Apps for Accessibility
 author: sushma-hazari
 categories: [Public]
 classification: Opinion
 tags: [mobile,opinion]
 date: 2024-08-28 01:58:50 
 updatedBy: sushma-hazari
-updated: 2024-08-28 05:28:18 
+updated: 2024-08-28 05:43:00 
 likes: 0
 ---
 
