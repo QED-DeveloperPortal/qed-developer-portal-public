@@ -1,12 +1,12 @@
 ---
-title: Testing Mobile Apps for Accessibility
+title: Testing mobile apps for accessibility
 author: sushma-hazari-qed
 categories: [Public]
-classification: Unofficial (Everyone)
+classification: Official
 tags: [mobile,opinion]
 date: 2024-08-28 01:58:50 
-updatedBy: Joyclyn
-updated: 2024-08-28 22:58:44 
+updatedBy: sushma-hazari
+updated: 2024-08-28 23:20:02 
 likes: 0
 ---
 
