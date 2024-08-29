@@ -6,7 +6,7 @@ classification: Official
 tags: [mobiles,opinion]
 date: 2024-08-28 01:58:50 
 updatedBy: sushma-hazari
-updated: 2024-08-29 05:30:29 
+updated: 2024-08-29 23:11:20 
 likes: 0
 ---
 
@@ -107,6 +107,6 @@ Mobile accessibility testing ensures that mobile apps are accessible to users of
 
 **Further reading:**
 
-* Browser Stack, [Accessibility Testing for Mobile Apps Guide BrowserStack](https://www.browserstack.com/guide/accessibility-testing-for-mobile-apps), accessed 28 August 2024
-* Testsigma, [Mobile Accessibility Testing Blog Testsigma](https://testsigma.com/blog/mobile-accessibility-testing/) accessed 28 August 2024
-* DigitialA11Y, [Free Mobile Accessibility Testing Tools DigitalA11Y](https://www.digitala11y.com/free-mobile-accessibility-testing-tools), accessed 28 August 2024
+* Browser Stack (n.d.), [Accessibility Testing for Mobile Apps Guide BrowserStack](https://www.browserstack.com/guide/accessibility-testing-for-mobile-apps), accessed 28 August 2024
+* Testsigma (n.d.), [Mobile Accessibility Testing Blog Testsigma](https://testsigma.com/blog/mobile-accessibility-testing/) accessed 28 August 2024
+* DigitialA11Y (n.d.), [Free Mobile Accessibility Testing Tools DigitalA11Y](https://www.digitala11y.com/free-mobile-accessibility-testing-tools), accessed 28 August 2024
