@@ -6,7 +6,7 @@ classification: Official
 tags: [architecture]
 date: 2024-08-28 04:36:52 
 updatedBy: sushma-hazari
-updated: 2024-08-29 00:17:58 
+updated: 2024-08-29 00:24:04 
 likes: 0
 ---
 
@@ -15,7 +15,7 @@ Enterprise architecture (EA) might seem like complex, technical concept that onl
 ## What is enterprise architecture (EA)?
 At its core, enterprise architecture aligns an organisation’s IT infrastructure and processes with its strategic objectives. This alignment helps manage complexity, reduce costs, and ensure that all parts of the organisation are working towards the same goals. Here’s how EA delivers value:
 
-**Improved decision-making:** EA provides a comprehensive view of an organisation’s current state, including systems, processes, and data. This visibility helps leaders make informed decisions about resource allocation, technology adoption, and meeting strategic goals. For example, understanding the full landscape of existing IT assets enables decision-makers to avoid costly redundancies and focus on areas needing enhancement.
+**Improved decision-making:** EA provides a comprehensive view of an organisation’s current state, including systems, processes, and data. This visibility helps leaders make informed decisions about resource allocation, technology adoption, and meeting strategic goals. For example, understanding the full landscape of existing IT assets enables decision-makers to avoid costly redundancies and focus on areas that require enhancement.
 
 **Enhanced efficiency and cost savings:** By standardising and optimising processes and technologies, EA reduces waste and improves efficiency. Identifying and eliminating redundant systems and processes ensures that resources are used more effectively, resulting in significant cost savings over time.
 
