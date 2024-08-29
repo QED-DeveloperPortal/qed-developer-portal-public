@@ -2,15 +2,15 @@
 title: Why enterprise architecture matters
 author: g-morton
 categories: [Public]
-classification: Unofficial (Everyone)
+classification: Official
 tags: [architecture]
 date: 2024-08-28 04:36:52 
-updatedBy: Joyclyn
-updated: 2024-08-28 05:29:50 
+updatedBy: sushma-hazari
+updated: 2024-08-29 00:17:58 
 likes: 0
 ---
 
-Enterprise architecture (EA) might seem like a complex, technical concept that only IT professionals need to worry about. However, it plays a critical role in how organisations operate, especially within the public sector. For the Department of Education, EA is not just a nice-to-have—it’s a must-have. Let’s explore what EA involves and why it’s essential for success.
+Enterprise architecture (EA) might seem like complex, technical concept that only IT professionals need to worry about. However, it plays a critical role in how organisations operate, especially within the public sector. For the Department of Education, EA is not just a nice-to-have—it’s a must-have. Let’s explore what EA involves and why it’s essential for success.
 
 ## What is enterprise architecture (EA)?
 At its core, enterprise architecture aligns an organisation’s IT infrastructure and processes with its strategic objectives. This alignment helps manage complexity, reduce costs, and ensure that all parts of the organisation are working towards the same goals. Here’s how EA delivers value:
@@ -19,7 +19,7 @@ At its core, enterprise architecture aligns an organisation’s IT infrastructur
 
 **Enhanced efficiency and cost savings:** By standardising and optimising processes and technologies, EA reduces waste and improves efficiency. Identifying and eliminating redundant systems and processes ensures that resources are used more effectively, resulting in significant cost savings over time.
 
-**Better risk management and compliance:** EA identifies risks associated with IT investments and operations, such as security vulnerabilities or compliance gaps. By providing a structured approach to governance, EA ensures proactive risk management, protecting the organisation from potential threats.
+**Better risk management and compliance:** EA identifies risks associated with IT investments and operations, such as security vulnerabilities or compliance gaps. By providing a structured governance approach, EA ensures proactive risk management, protecting the organisation from potential threats.
 
 **Facilitating innovation and adaptability:** A well-defined architecture allows organisations to adapt more easily to new technologies and changing business needs. EA provides a framework for integrating new solutions into the existing environment in a controlled and sustainable way, fostering innovation without causing disruption.
 
@@ -37,7 +37,7 @@ For the Department of Education, the benefits of EA are not just theoretical—t
 ## Continual improvement
 Creating and maintaining a mature EA requires continual development. The department is refining its reference models, catalogues, and required patterns, which are foundational elements of a mature EA practice.
 
-The department is also improving EA visibility across systems and processes to enhance strategic alignment and risk management. The target is to provide a comprehensive view of its entire IT landscape, fully aligned with its strategic goals. This will support more informed decision-making, better risk management, and improved efficiency.
+The department is also improving EA visibility across systems and processes to enhance strategic alignment and risk management. The objective is to provide a comprehensive view of its entire IT landscape, fully aligned with its strategic goals. This will support more informed decision-making, better risk management, and improved efficiency.
 This means using EA as an adaptive tool for continuous improvement and innovation, rather than a one-time gate or exercise.
 
 Further, by centralising EA, we can reduce project costs and complexity, ensure consistent practices, and build a cohesive architecture that aligns with the department’s long-term strategic goals.
