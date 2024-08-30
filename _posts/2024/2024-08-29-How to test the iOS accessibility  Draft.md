@@ -6,7 +6,7 @@ classification: Opinion
 tags: [mobiles,opinion]
 date: 2024-08-29 01:58:13 
 updatedBy: sushma-hazari
-updated: 2024-08-30 05:37:09 
+updated: 2024-08-30 05:55:29 
 likes: 0
 ---
 
@@ -156,6 +156,6 @@ The screen reader should announce all the elements of the selected type present 
 
 Further reading: 
 
-* Developer Apple (n.d),[Testing system accessibility features in your app](https://developer.apple.com/documentation/accessibility/testing-system-accessibility-features-in-your-app), accessed 30 August 2024
+* Developer Apple (n.d), [Testing system accessibility features in your app](https://developer.apple.com/documentation/accessibility/testing-system-accessibility-features-in-your-app), accessed 30 August 2024
 * TEDx Talks (n.d), [Accessible tech makes better tech for everyone](https://www.google.com/search?q=ted+talk+accessibilty+for+mobile+app&sca_esv=77634acc5d5dc9b4&sca_upv=1&rlz=1C1GCEB_enAU1040AU1040&biw=1366&bih=641&sxsrf=ADLYWIIjAmVJn5uo4Kyy5x82c4f-RFCNBg%3A1724992131175&ei=g0rRZti6Cuje2roPy6-bgAQ&ved=0ahUKEwiYiOC58JuIAxVor1YBHcvXBkA4ChDh1QMIEA&uact=5&oq=ted+talk+accessibilty+for+mobile+app&gs_lp=Egxnd3Mtd2l6LXNlcnAiJHRlZCB0YWxrIGFjY2Vzc2liaWx0eSBmb3IgbW9iaWxlIGFwcDIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCkiUalCUC1ihZXACeAGQAQCYAYUDoAHGTKoBBjItMjguOLgBA8gBAPgBAZgCJaAC_EuoAhHCAgoQABiwAxjWBBhHwgIHECMYJxjqAsICFBAAGIAEGOMEGLQCGOkEGOoC2AEBwgIKECMYgAQYJxiKBcICBBAjGCfCAgsQABiABBiRAhiKBcICEBAAGIAEGLEDGEMYgwEYigXCAgsQABiABBixAxiDAcICERAuGIAEGLEDGNEDGIMBGMcBwgIKEAAYgAQYQxiKBcICEBAuGIAEGLEDGEMYgwEYigXCAg0QLhiABBixAxhDGIoFwgIKEC4YgAQYQxiKBcICExAuGIAEGLEDGEMYgwEY1AIYigXCAggQLhiABBixA8ICHxAuGIAEGLEDGEMYgwEYigUYlwUY3AQY3gQY4ATYAQLCAg0QABiABBixAxhDGIoFwgIEEC4YA8ICBRAAGIAEwgIKEAAYgAQYFBiHAsICBxAAGIAEGArCAgYQABgWGB7CAggQABgWGB4YD8ICCxAAGIAEGIYDGIoFwgIHEAAYgAQYDcICBhAhGBUYCsICCBAhGBUYChgNwgIEECEYCpgDB4gGAZAGCLoGBggBEAEYAboGBggCEAEYFJIHCDIuMC4yNi45oAew_gE&sclient=gws-wiz-serp#fpstate=ive&vld=cid:f616d24e,vid:2115c0GL4a8,st:0), accessed 30 August 2024
 * Appt (n.d), [ Automated accessibility testing of Android and iOS apps](https://appt.org/en/articles/automated-accessibility-testing-android-ios-apps), accessed 30 August 2024
