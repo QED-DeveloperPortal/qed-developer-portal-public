@@ -6,7 +6,7 @@ classification: Opinion
 tags: [mobiles,opinion]
 date: 2024-08-29 01:58:13 
 updatedBy: sushma-hazari
-updated: 2024-08-30 01:10:57 
+updated: 2024-08-30 01:46:15 
 likes: 0
 ---
 
@@ -79,3 +79,77 @@ By default, element names are superimposed. Also, for an application to be contr
 
 1. Go to Settings > Display & Brightness (or directly from Control Centre).
 2. Check that all texts and components are visible and meet the expected contrast levels.
+
+
+***
+
+**How to Test Accessibility with an iPhone**
+
+***Turn on VoiceOver***
+
+Go to Settings > Accessibility > VoiceOver
+
+There is a toggle to turn VoiceOver on/off at the top of the VoiceOver menu. When you turn VoiceOver on the gestures that you use to navigate your iPhone will change.
+**
+
+**Orient to VoiceOver**
+
+***Change How Fast VoiceOver Talks***
+
+Go to Settings > Accessibility > VoiceOver > Speaking Rate 
+
+Choosing a slower speaking rate can help with comprehension as you listen during testing.
+
+**Try VoiceOver Practice**
+
+iPhones have a practice mode where you can practice using the different gestures needed to use VoiceOver. Turn on VoiceOver. Tap VoiceOver Practice, then double-tap to start. Follow the instruction provided in the practice mode.
+
+***Basic Testing Gestures***
+
+* Use swipe gestures to move forward or backward through all page elements.
+* Screen reader should announce each element and relevant text on the page.
+* Double tap to activate links or buttons
+
+Left to move backward, Right to move forward
+
+**Now, Let's Test!**
+
+1. Is all the text accessible to the screen reader and read aloud?
+2.  Are elements read in a logical order that follows the visible page structure?**
+4. Do the names of items that you hear match the visual text? 
+6.  Can interactive elements (like links and forms) be activated and used?
+8.  Is any content being skipped that should be read?
+11. Is any content being read that is visually hidden?
+
+
+**Use the Rotor to test specific elements**
+***Open the Rotor***
+
+1. Turn on VoiceOver 
+1. Rotate two fingers on your screen as if you are turning a dial 
+2. If you prefer to use one finger on each hand then simultaneously drag up with one finger and down with another 
+3. Select the rotor option (headings, buttons, landmarks) you would like to test from the rotor menu. 
+4. If you don’t see the element type you want you may need to set the rotor options (see "Set the Rotor Options") 
+
+**Set Rotor Options**
+
+Go to Settings > Accessibility > VoiceOver > Rotor
+
+Select “Rotor” to show a list of elements that may be included in the rotor menu. Make sure the elements you plan to test are all selected. We recommend selecting: “Headings”, “Links”, “Landmarks” and “Form Controls”.
+
+**Gestures to navigate by element**
+
+1. Use swipe gestures to move forward or backward through your chosen page element.
+2. The screen reader should announce each element and relevant text on the page.
+3. Double tap to activate links or buttons
+Up to move to previous instance, Down to move to next instance
+
+**Test with gestures**
+
+2. Choose the element type.
+3. Use up or down swipe gestures to move forward and backward through that particular element type. 
+4. Double tap to activate links or buttons.
+The screen reader should announce all the elements of the selected type present on the page and their relevant text
+
+
+***
