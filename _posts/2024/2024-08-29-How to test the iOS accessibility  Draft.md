@@ -1,12 +1,12 @@
 ---
-title: How to test the iOS accessibility  Draft
+title: How to test the iOS accessibility
 author: sushma-hazari
 categories: [Public]
 classification: Opinion
 tags: [mobiles,opinion]
 date: 2024-08-29 01:58:13 
 updatedBy: sushma-hazari
-updated: 2024-08-30 05:55:29 
+updated: 2024-08-30 06:01:38 
 likes: 0
 ---
 
