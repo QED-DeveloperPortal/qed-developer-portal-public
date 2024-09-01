@@ -6,13 +6,13 @@ classification: Official
 tags: [getting-started,about]
 date: 2023-07-13 01:14:37 
 updatedBy: jeny-amatya-qed
-updated: 2024-08-29 00:10:02 
+updated: 2024-09-01 23:18:52 
 likes: 1
 ---
 
 ## Overview
 
-In Developer Portal, security and access is managed through Role-Based Access Control (RBAC), where different user roles are assigned specific permissions to various parts of the application. The post will explore how RBAC has been implemented in Developer Portal by mapping different roles to corresponding access levels.
+In Developer Portal, security and access is managed through Role-Based Access Control (RBAC), where different user roles are assigned specific permissions to various parts of the application. This post will explore how RBAC has been implemented in Developer Portal by mapping different roles to corresponding access levels.
 
 ## What is Role-Based Access Control (RBAC)?
 
@@ -20,7 +20,7 @@ Role-Based Access Control (RBAC) is a security paradigm where permissions are as
 
 ## Custom roles in Developer Portal
 
-Developer Portal implements Role-Based Access Control (RBAC) via custom roles using Azure Active Directory Business-to-Consumer (AAD B2C).
+Developer Portal implements Role-Based Access Control (RBAC) via custom roles using [Azure Active Directory Business-to-Consumer (AAD B2C)](https://learn.microsoft.com/en-us/azure/active-directory-b2c/overview).
 
 * Administrator: Full access to all features
 * Moderator: Can moderate, review and approve content submitted by users
@@ -29,7 +29,7 @@ Developer Portal implements Role-Based Access Control (RBAC) via custom roles us
 The following table shows how these roles are mapped to different parts of Developer Portal.
 
 
-| Navigation |  User Roles  | Anonymous (user has not logged in) |Authenticated (logged in user with no roles) | Internal | Moderator | Administrator |
+| Navigation |  User Roles  | Anonymous (user has not logged in) |Authenticated (logged in user with no roles) | Internal (has access to non-public content)| Moderator (has access to review and moderate content) | Administrator |
 | :--- | :--- | :--------- | :--- | :--- | :--- | :--- |
 | | Home | ✓ | ✓ | ✓ | ✓ | ✓ |
 |  | Tags | ✓ | ✓ | ✓ | ✓ | ✓ |
@@ -38,15 +38,15 @@ The following table shows how these roles are mapped to different parts of Devel
 |  | Help | ✓ | ✓ | ✓ | ✓ | ✓ |
 |  | Contact us | ✓ | ✓ | ✓ | ✓ | ✓ |
 |  | Admin | ✕| ✕| ✕ | ✕ | ✓ |
-| Categories | View posts under public | ✓ | ✓ | ✓ | ✓ | ✓ |
-|  | View posts under internal | ✕ | ✕ | ✓ | ✓ | ✓ |
-|  | Add post for category | ✕ | ✕ | ✓ | ✓ | ✓ |
-|  | Update post for category | ✕ | ✕ | ✓ | ✓ | ✓ |
-|  | Edit post for category | ✕ | ✕ | ✓ | ✓ | ✓ |
+| Categories | View public content | ✓ | ✓ | ✓ | ✓ | ✓ |
+|  | View non-public content  | ✕ | ✕ | ✓ | ✓ | ✓ |
+|  | Add/edit public content | ✕ | ✕ | ✓ | ✓ | ✓ |
+|  | Add/edit non-public content | ✕ | ✕ | ✓ | ✓ | ✓ |
+|  | Moderate/review content | ✕ | ✕ | ✕ | ✓ | ✕ |
 |  | Like post | ✕ | ✓ | ✓ | ✓ | ✓ |
 |  | Submit feedback on post | ✕ | ✓ | ✓ | ✓ | ✓ |
 | Tags | View all tags | ✓ | ✓ | ✓ | ✓ | ✓ |
-|  | Subscribe/unsubscribe to tags | ✕ | ✕ | ✓ | ✓ | ✓ |
+|  | Subscribe/unsubscribe to tags | ✕ | ✕ | ✕  | ✓ | ✓ |
 | Help | FAQ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Contact us | Send feedback | ✕ | ✓ | ✓ | ✓ | ✓ |
 | Admin | View posts pending approval | ✕ | ✕ | ✕ | ✕ | ✓ |
