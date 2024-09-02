@@ -6,7 +6,7 @@ classification: Official
 tags: [getting-started,about]
 date: 2023-07-13 01:14:37 
 updatedBy: jeny-amatya-qed
-updated: 2024-09-01 23:18:52 
+updated: 2024-09-02 00:37:12 
 likes: 1
 ---
 
@@ -38,7 +38,7 @@ The following table shows how these roles are mapped to different parts of Devel
 |  | Help | ✓ | ✓ | ✓ | ✓ | ✓ |
 |  | Contact us | ✓ | ✓ | ✓ | ✓ | ✓ |
 |  | Admin | ✕| ✕| ✕ | ✕ | ✓ |
-| Categories | View public content | ✓ | ✓ | ✓ | ✓ | ✓ |
+|  | View public content | ✓ | ✓ | ✓ | ✓ | ✓ |
 |  | View non-public content  | ✕ | ✕ | ✓ | ✓ | ✓ |
 |  | Add/edit public content | ✕ | ✕ | ✓ | ✓ | ✓ |
 |  | Add/edit non-public content | ✕ | ✕ | ✓ | ✓ | ✓ |
@@ -53,6 +53,3 @@ The following table shows how these roles are mapped to different parts of Devel
 | Profile Summary |  | ✕ | ✓ | ✓ | ✓ | ✓ |
 | Manage Profile |  | ✕ | ✓ | ✓ | ✓ | ✓ |
 
-## Further Reading
-
-* [Information security classifications on the Developer Portal](https://developer.qed.qld.gov.au/public/Information-Security-Classifications-and-the-Developer-Portal/)
