@@ -5,13 +5,14 @@ categories: [Public]
 classification: Opinion
 tags: [mobiles,opinion]
 date: 2024-09-02 05:00:31 
-updatedBy: 
+updatedBy: sushma-hazari-qed
+updated: 2024-09-02 05:59:04 
 likes: 0
 ---
 
-**Android's Accessibility Features**
+Testing accessibility involves evaluating how well an app supports users with various disabilities. By using Android’s accessibility tools, such as TalkBack for screen reading, Accessibility Scanner for identifying improvement areas, and Color Contrast Analyzer for checking visual readability, testers can uncover and address potential barriers. This process helps create apps that are not only user-friendly for everyone but also compliant with accessibility standards and guidelines.
 
-
+***Android's Accessibility Features***
 ***TalkBack***
 
 TalkBack is Android's built-in screen reader. When TalkBack is on, users can interact with their Android device without seeing the screen. This is great for those who suffer from vision impairments that make it difficult to navigate applications or websites.
@@ -37,6 +38,8 @@ Switch Access lets users interact with Android devices using a switch instead of
 4. Are all functionality available through selectable controls or custom actions within Switch Access?
 5. Does the spoken feedback for each element convey its content or purpose appropriately?
 
+[Switch Access for Android](https://appt.org/en/docs/android/features/switch-access)
+
 ***BrailleBack (Extra Accessibility Feature)***
 
 Google's BrailleBack is an actual mobile application that enables users to type text using a Braille display on Android devices via Bluetooth. This service works directly with TalkBack to offer users both speech and Braille supports.
@@ -54,6 +57,3 @@ Further reading :
 * Developer android (n.a), [ Google Developers Training team](https://developer.android.com/codelabs/basic-android-kotlin-compose-test-accessibility#0), accessed September 2 2024
 * DigitalA11y(n.a), [Android accessibility checklist]( https://www.digitala11y.com/android-accessibility-testing-checklist/), accessed September 2 2024
 * Developer android(n.a), [Test your accessibility](https://developer.android.com/guide/topics/ui/accessibility/testing), accessed September 2 2024
-
-
-
