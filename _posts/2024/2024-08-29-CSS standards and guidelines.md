@@ -2,7 +2,7 @@
 title: CSS standards and guidelines
 author: g-morton
 categories: [Public]
-classification: Official
+classification: Sensitive (Government staff)
 tags: [standards]
 date: 2024-08-29 02:01:48 
 updatedBy: 
