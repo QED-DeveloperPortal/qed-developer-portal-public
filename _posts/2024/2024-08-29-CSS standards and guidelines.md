@@ -2,10 +2,11 @@
 title: CSS standards and guidelines
 author: g-morton
 categories: [Public]
-classification: Sensitive (Government staff)
+classification: Official
 tags: [standards]
 date: 2024-08-29 02:01:48 
-updatedBy: 
+updatedBy: sushma-hazari
+updated: 2024-09-03 00:23:49 
 likes: 0
 ---
 
@@ -29,6 +30,9 @@ CSS files should be organised and referenced based on their purpose and scope. T
 
 **Action-specific CSS**
 - Action-specific styles are rendered conditionally (e.g., `UseActionCss`).
+
+
+***
 
 #### Module CSS file content
 CSS definitions specific to a particular area or controller should be placed in the respective "area" or "controller" CSS file.
