@@ -3,7 +3,7 @@ title: Software development practice
 author: Dave
 categories: [public]
 classification: Official (Everyone)
-tags: [guidelines]
+tags: [standards]
 date: 2024-05-07 03:18:02 
 updatedBy: Joyclyn
 updated: 2024-07-16 00:55:40 

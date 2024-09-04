@@ -2,7 +2,7 @@
 title: Introducing iEducate 2024
 author: g-morton
 categories: [Public]
-tags: [i-educate]
+tags: [about]
 date: 2024-06-14 00:54:43 
 updatedBy: Joyclyn
 updated: 2024-07-16 05:57:28 

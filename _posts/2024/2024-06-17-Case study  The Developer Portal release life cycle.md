@@ -2,7 +2,7 @@
 title: Case study  The Developer Portal release life cycle
 author: g-morton
 categories: [Public]
-tags: [agile, testing, cloud]
+tags: [agile, quality-assurance, cloud]
 date: 2024-06-17 03:31:47 
 updatedBy: Joyclyn
 updated: 2024-06-19 03:23:16 

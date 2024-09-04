@@ -3,7 +3,7 @@ title: Pair program with Aider  your AI Assistant
 author: andrew
 categories: [Public]
 classification: Unofficial (Everyone)
-tags: [ai,pair-programming,documentation,bugfixing,opinion]
+tags: [ai,opinion]
 date: 2024-08-20 22:07:56 
 updatedBy: jeny-amatya-qed
 updated: 2024-08-21 03:00:56 

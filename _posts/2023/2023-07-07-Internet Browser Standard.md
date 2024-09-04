@@ -3,7 +3,7 @@ title: Internet browser standard
 author: g-morton
 categories: [public]
 classification: Official (Everyone)
-tags: [standards,architecture,browsers,web]
+tags: [standards,architecture,web]
 date: 2023-07-07 00:40:23 
 updatedBy: Joyclyn
 updated: 2024-07-16 01:11:31 
