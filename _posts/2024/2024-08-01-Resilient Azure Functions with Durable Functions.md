@@ -2,6 +2,7 @@
 title: Resilient Azure Functions with Durable Functions
 author: matt
 categories: [Public]
+classification: Unofficial (Everyone)
 tags: [cloud]
 date: 2024-08-01 22:29:58 
 likes: 1

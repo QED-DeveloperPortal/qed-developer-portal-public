@@ -3,7 +3,7 @@ title: Mobile application standards
 author: g-morton
 categories: [public]
 classification: Official (Everyone)
-tags: [standards,mobiles]
+tags: [standards,mobile]
 date: 2023-07-03 13:20:33 
 updatedBy: Joyclyn
 updated: 2024-07-16 01:30:09 

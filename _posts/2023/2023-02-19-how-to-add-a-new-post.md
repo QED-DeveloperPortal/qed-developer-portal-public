@@ -2,6 +2,7 @@
 title: How to add a new post in a jekyll site
 author: jeny-amatya-qed
 categories: [public]
+classification: Unofficial (Everyone)
 tags: [technology]
 date: 2023-03-14 14:03:17
 updatedBy: Joyclyn

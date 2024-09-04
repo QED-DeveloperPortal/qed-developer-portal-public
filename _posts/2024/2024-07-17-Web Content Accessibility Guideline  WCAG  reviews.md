@@ -2,6 +2,7 @@
 title: Web Content Accessibility Guideline (WCAG) reviews
 author: g-morton
 categories: [Public]
+classification: Unofficial (Everyone)
 tags: [accessibility, standards]
 date: 2024-07-17 01:31:22 
 updatedBy: Joyclyn
