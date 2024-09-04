@@ -2,7 +2,7 @@
 title: Understanding System Interoperability Framework (SIF) Specifications
 author: jeny-amatya-qed
 categories: [public]
-classification: Official (Everyone)
+classification: Unofficial (Everyone)
 tags: [technology,architecture]
 date: 2023-05-16 04:26:31
 updatedBy: Joyclyn

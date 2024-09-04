@@ -2,8 +2,8 @@
 title: Case study The Developer Portal journey
 author: g-morton
 categories: [Public]
-classification: Unofficial (Everyone)
-tags: [architecture,case study]
+classification: Official (Everyone)
+tags: [architecture,case-study]
 date: 2024-09-03 00:06:01 
 updatedBy: g-morton
 updated: 2024-09-03 05:19:53 
