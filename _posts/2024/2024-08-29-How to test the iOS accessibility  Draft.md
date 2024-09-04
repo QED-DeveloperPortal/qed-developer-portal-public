@@ -3,7 +3,7 @@ title: How to test the iOS accessibility
 author: sushma-hazari-qed
 categories: [Public]
 classification: Unofficial (Everyone)
-tags: [mobiles,opinion]
+tags: [mobile,opinion]
 date: 2024-08-29 01:58:13 
 updatedBy: sushma-hazari-qed
 updated: 2024-08-30 06:01:38 
