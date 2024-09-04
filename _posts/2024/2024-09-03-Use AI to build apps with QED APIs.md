@@ -2,7 +2,7 @@
 title: Use AI to build apps with QED APIs
 author: andrew
 categories: [Public]
-classification: Official
+classification: Unofficial (Everyone)
 tags: [ai,api,trending,opinion]
 date: 2024-09-03 05:16:52 
 updatedBy: jeny-amatya-qed
