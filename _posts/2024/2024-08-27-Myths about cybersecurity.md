@@ -6,19 +6,13 @@ classification: Unofficial (Everyone)
 tags: [myths,security,opinion]
 date: 2024-08-27 05:08:30 
 updatedBy: jeny-amatya-qed
-updated: 2024-09-05 04:55:41 
+updated: 2024-09-05 05:12:42 
 likes: 0
 ---
 
 Cybersecurity is a huge topic that can be complex and hard to pin down. Risks and remedies continue to evolve as technology does which is why it’s fertile ground for myths to grow.
 
 Here are some of the most common myths about cybersecurity in government: 
-
-
-|Myth   | Truth   |
-| --- | --- |
-| One-time security measures are sufficient. | Maintaining cybersecurity is an ongoing process that requires continuous monitoring, updates and adaptions to new threats. |
-|Only the IT department is responsible for cybersecurity.  | Cybersecurity is everyone’s responsibility, including non-technical staff who may be susceptible to phishing attacks and need regular reminders. |
 
 | Myth | Truth  |
 | --- | --- |
