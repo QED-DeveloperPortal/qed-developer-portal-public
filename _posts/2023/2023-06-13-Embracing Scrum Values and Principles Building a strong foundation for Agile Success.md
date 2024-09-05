@@ -1,11 +1,11 @@
 ---
+
 title: Embracing Scrum Values and Principles Building a strong foundation for Agile Success
 author: jeny-amatya-qed
-categories: [Public]
-tags: [technology,scrum,agile]
-date: 2023-06-13 23:23:51 
-updatedBy: jeny-amatya-qed
-updated: 2024-07-16 02:21:23 
+categories: [public]
+classification: Unofficial (Everyone)
+tags: [technology,agile]
+date: 2023-06-13 23:23:51
 likes: 0
 ---
 
@@ -13,7 +13,7 @@ likes: 0
 
 In today's fast-paced software development landscape, organizations are increasingly adopting Agile methodologies to enhance productivity, foster collaboration, and deliver high-quality products. Among these methodologies, Scrum stands out as a popular framework that provides a structured approach to managing complex projects. However, Scrum is not just about following a set of rules; it is built upon a set of core values and principles that form the bedrock of its success. In this article, we will explore the Scrum values and principles and understand why they are crucial for any software organization looking to embrace Agile practices.
 
-### Scrum values:
+### Scrum Values:
 
 **1\. Commitment:**
 Commitment is the foundation of the Scrum framework. Each team member, including the Product Owner, Scrum Master, and Development Team, commits to achieving the goals of the Sprint and delivering a potentially shippable product increment. Commitment fosters accountability and encourages individuals to give their best to the team's success.
@@ -30,7 +30,24 @@ Respect is essential in fostering a positive and productive team culture. Each t
 **5\. Courage:**
 Scrum requires courage to take risks, experiment, and learn from failures. Team members should have the confidence to speak up, challenge the status quo, and propose innovative solutions. The Scrum Master supports the team in embracing change and helps create a safe space where courage can thrive.
 
-![Scrum values](https://sadevportal3.blob.core.windows.net/root/post/scrum_values.png)
+![image](https://sadevportal3.blob.core.windows.net/root/scrum values.png)
+
+### Scrum Values
+
+**1\. Empirical Process Control:**
+Scrum embraces an empirical approach, focusing on transparency, inspection, and adaptation. Regularly inspecting the product and adapting plans based on feedback allows teams to respond effectively to changing requirements and deliver the highest value. The three pillars of empirical process control in Scrum are transparency, inspection, and adaptation.
+
+**2\. Self\-Organization:**
+Scrum empowers teams to self-organize and make decisions collectively. By allowing the Development Team to determine how best to accomplish the work, Scrum harnesses the creativity and expertise of each team member. Self-organization promotes ownership, accountability, and innovation, resulting in better outcomes.
+
+**3\. Collaboration:**
+Collaboration is at the heart of Scrum. The Scrum Team collaborates closely with stakeholders, including the Product Owner, end-users, and customers, to understand their needs and expectations. Frequent interactions and open lines of communication facilitate alignment and enable the team to deliver value that meets customer requirements.
+
+**4\. Time\-Boxing:**
+Scrum uses time-boxed events to structure work and ensure regular inspection and adaptation. Time-boxing creates a sense of urgency and discipline, enabling teams to focus on delivering a potentially shippable product increment within each Sprint. Events like the Daily Scrum, Sprint Planning, Sprint Review, and Sprint Retrospective provide opportunities for collaboration and feedback.
+
+**5\. Iterative and Incremental Delivery:**
+Scrum promotes iterative and incremental development, allowing teams to deliver value in small increments throughout the project. Each Sprint delivers a potentially shippable product increment, which can be tested, validated, and potentially released to end-users. This iterative approach reduces risk, gathers early feedback, and enables faster response to changing market needs.
 
 ### Conclusion:
 

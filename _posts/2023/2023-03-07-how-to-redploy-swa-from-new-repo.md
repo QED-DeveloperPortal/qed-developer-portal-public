@@ -2,13 +2,13 @@
 title: How to deploy to a new SWA from a GitHub repository
 author: matt
 categories: [public]
+classification: Unofficial (Everyone)
 tags: [technology]
 date: 2023-08-02 14:00:00 
-updatedBy: jeny-amatya-qed
-updated: 2024-03-28 04:21:15 
+updatedBy: Joyclyn
+updated: 2024-03-22 01:19:57 
 likes: 8
 ---
-
 ## Create new SWA from GitHub repository
 
 Create a new Azure Static Web App as described [here](https://learn.microsoft.com/en-us/azure/static-web-apps/publish-jekyll).
@@ -20,15 +20,15 @@ Create a new Azure Static Web App as described [here](https://learn.microsoft.co
 - On the left hand menu under "Manage", select "App Registrations"
 - Select the App Registration configured for the previous SWA
 - On the left hand menu under "Manage", select "Authentication"
-- Change the "Redirect URIs" url to refere to the url of the new SWA's url.
+- Change the "Redirect URIs" url to refer to the url of the new SWA's url.
 
-## Ensure the configuration from the existing GitHub action is moved across to the new Github action
+## Ensure the configuration from the existing GitHub action is moved across to the new GitHub action
 
 It took some time to craft our initial Action to suit all our needs so ensure this information is not lost. Creating the new SWA and linking it to the new repository will ensure a new Action yaml file will get created under the .github/workflows folder. Move the content from the original file across to the new one.
 
 ## SWA: Upgrade tier, then configure identity
 
-In order to configure authentcation the SWA has to be upgraded from a Free tier to a Standard tier.
+In order to configure authentication the SWA has to be upgraded from a Free tier to a Standard tier.
 
 - Navigate to the Azure portal
 - Select the new SWA
@@ -41,8 +41,6 @@ Once this has been done refer to this [post](/technology/configure-azure-keyvaul
 
 -- Ensure all Application Settings are copied across from one SWA to the other. 
 
-## Ensure swa-cli.config.json has he correct SWA name in it.
+## Ensure swa-cli.config.json has the correct SWA name in it.
 
-Ensure the value in the file "swa-cli.config.json" under he node "configurations" matches the name of the repository.
-
-*[Updated on 28/03/2024]*
+Ensure the value in the file "swa-cli.config.json" under the node "configurations" matches the name of the repository.

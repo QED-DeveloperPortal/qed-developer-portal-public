@@ -2,11 +2,12 @@
 title: Vendor readiness considerations
 author: jeny-amatya-qed
 categories: [Public]
+classification: Unofficial (Everyone)
 tags: [getting-started]
 date: 2024-07-11 04:46:12 
 updatedBy: Joyclyn
 updated: 2024-07-11 05:09:12 
-likes: 0
+likes: 1
 ---
 
 ## Overview
