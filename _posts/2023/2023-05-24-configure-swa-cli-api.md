@@ -2,6 +2,7 @@
 title: Configuring local Azure Function Apis for Azure SWA
 author: matt
 categories: [public]
+classification: Unofficial (Everyone)
 tags: [getting-started,cloud,api]
 date: 2023-05-24 12:30:00 
 likes: 14

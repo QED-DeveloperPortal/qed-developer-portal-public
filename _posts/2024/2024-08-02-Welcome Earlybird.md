@@ -2,8 +2,8 @@
 title: Welcome to the Developer Portal Early Bird developers!
 author: g-morton
 categories: [Public]
-classification: Unofficial (Everyone)
-tags: [getting-started,trending]
+classification: Official (Everyone)
+tags: [getting-started]
 date: 2024-08-02 06:11:01 
 updatedBy: jeny-amatya-qed
 updated: 2024-08-05 00:48:16 

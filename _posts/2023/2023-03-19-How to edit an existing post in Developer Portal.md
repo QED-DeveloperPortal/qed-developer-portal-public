@@ -1,57 +1,36 @@
 ---
-title: How to edit a post using the inline editor in DevPortal
+title: How to update existing content using the inline editor
 author: jeny-amatya-qed
-categories: [public]
+categories: [Public]
+classification: Official (Everyone)
 tags: [getting-started]
-date: 2023-03-19 23:08:18
-updatedBy: jeny-amatya-qed
-updated: 2023-05-15 06:28:30
+date: 2023-03-19 23:08:18 
+updatedBy: Joyclyn
+updated: 2024-07-16 04:56:09 
 likes: 0
 ---
 
-This post provides an overview on how to update an existing post in Developer Portal using the inline editor. The detailed steps are outlined below.
+### Overview
+This post provides step-by-step guidance on how to update an existing content in Developer Portal using the inline editor. 
 
 ### Step 1
+In the header of each post, you'll see there are two ways to update a post.  
 
-Go to navigation menu and click on Categories.
+If you want to edit the post directly in the GitHub repository, click on the link 'GitHub edit'. You will be redirected to the corresponding file in GitHub repository. The detailed steps for this are available [here](https://developer.qed.qld.gov.au/getting-started/How-to-edit-a-post-using-GitHub-repository/).
 
-![image](https://sadevportal3.blob.core.windows.net/root/add-post-step1.png)
+But if you want to edit the post without leaving the portal, read on! 
+
+![image](https://sadevportal3.blob.core.windows.net/root/post/edit-post-step-2.png)
 
 ### Step 2
+To edit the post using the inline editor, click on the link 'Edit'. You will be redirected to the 'Edit Post' page, where you can edit the post. 
+If you need a primer on how to use Markdown, this [cheat sheet](https://www.markdownguide.org/cheat-sheet/) can help.
+You can then click on the 'Update' button to submit the updated content.
 
-You will see a list of categories that you have access to. Click on the category that that contains the post you want to update.
-
-![image](https://sadevportal3.blob.core.windows.net/root/add-post-step2.png)
+![image](https://sadevportal3.blob.core.windows.net/root/post/edit-post-step-4-1.png)
+![image](https://sadevportal3.blob.core.windows.net/root/post/edit-post-step-4-2.png)
 
 ### Step 3
+All changes require review by a moderator but, assuming a moderator approves the updated contact, your changes will be published. 
 
-You will see the post that belong to that specific category.
-
-![image](https://sadevportal3.blob.core.windows.net/root/edit-post-step3.png)
-
-Alternatively, you can also navigate to the Tags menu item to view a list of existing posts.
-
-![image](https://sadevportal3.blob.core.windows.net/root/edit-post-step4.png)
-
-### Step 4
-
-Click on a post that you want to edit.
-
-### Step 5
-
-There are two ways to edit a post. You will see the links at the bottom of the post.
-
-![image](https://sadevportal3.blob.core.windows.net/root/edit-post-step5.png)
-
-### Step 6
-
-If you want to edit the post directly in the GitHub repository, click on the link 'Edit on GitHub'. You will be redirected to the corresponding file in GitHub repository. The detailed steps for this is available [here](https://developer.qed.qld.gov.au/getting-started/How-to-edit-a-post-using-GitHub-repository/).
-
-![image](https://sadevportal3.blob.core.windows.net/root/edit-post-step6.png)
-
-### Step 7
-
-If you want to edit the post using the inline editor, click on the link 'Edit this page'. You will be redirected to the 'Edit Post' page, where you can edit the post. You can then click on the Update button to update the changes.
-
-![image](https://sadevportal3.blob.core.windows.net/root/edit-post-step7-1.png)
-![image](https://sadevportal3.blob.core.windows.net/root/edit-post-step7-2.png)
+If you don't see your changes after about a week, you can 'poke' the moderator via your profile summary. Just find the title of the post in your profile summary and click the question mark.
