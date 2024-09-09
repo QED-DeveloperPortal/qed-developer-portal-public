@@ -9,3 +9,4 @@ likes: 0
 ---
 
 1. Adding two tag accessibility and privacy
+2. Testing the edit functionality using the GitHub
