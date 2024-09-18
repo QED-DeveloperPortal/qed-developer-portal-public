@@ -1,12 +1,12 @@
 ---
-title: Quick guide to the Developer Portal
+title: "Quick guide to the Developer Portal"
 author: jeny-amatya-qed
 categories: [Public]
 classification: Official (Everyone)
-tags: [getting-started,about]
+tags: [official,getting-started,about,web]
 date: 2023-03-30 01:04:10 
-updatedBy: Joyclyn
-updated: 2024-07-16 00:05:42 
+updatedBy: jeny-amatya-qed
+updated: 2024-09-18 23:25:17 
 likes: 15
 ---
 
