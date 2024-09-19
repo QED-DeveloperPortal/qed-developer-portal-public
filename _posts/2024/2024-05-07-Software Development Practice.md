@@ -1,7 +1,7 @@
 ---
-title: Software development practice
+title: "Software development practice"
 author: Dave
-categories: [public]
+categories: public
 classification: Official (Everyone)
 tags: [standards]
 date: 2024-05-07 03:18:02 

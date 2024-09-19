@@ -1,7 +1,7 @@
 ---
-title: Can we use agile in government
+title: "Can we use agile in government?"
 author: Joyclyn
-categories: [Public]
+categories: public
 classification: Unofficial (Everyone)
 tags: [myths,standards]
 date: 2024-08-21 05:48:24 

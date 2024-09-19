@@ -1,8 +1,8 @@
 ---
 
-title: Embracing Scrum Values and Principles Building a strong foundation for Agile Success
+title: "Embracing Scrum Values and Principles - Building a strong foundation for Agile Success"
 author: jeny-amatya-qed
-categories: [public]
+categories: public
 classification: Unofficial (Everyone)
 tags: [technology,agile]
 date: 2023-06-13 23:23:51

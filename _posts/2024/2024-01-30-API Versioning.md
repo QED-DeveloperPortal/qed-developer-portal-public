@@ -1,7 +1,7 @@
 ---
-title: API Versioning
+title: "API Versioning"
 author: jeny-amatya-qed
-categories: [public]
+categories: public
 classification: Unofficial (Everyone)
 tags: [api]
 date: 2024-01-30 01:03:36 

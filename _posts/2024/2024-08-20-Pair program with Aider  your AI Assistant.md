@@ -1,7 +1,7 @@
 ---
-title: Pair program with Aider  your AI Assistant
+title: "Pair program with Aider - your AI Assistant"
 author: andrew
-categories: [Public]
+categories: public
 classification: Unofficial (Everyone)
 tags: [ai,opinion]
 date: 2024-08-20 22:07:56 

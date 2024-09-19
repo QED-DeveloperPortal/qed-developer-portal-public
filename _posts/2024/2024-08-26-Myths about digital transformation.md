@@ -1,7 +1,7 @@
 ---
-title: Myths about digital transformation
+title: "Myths about digital transformation"
 author: Joyclyn
-categories: [Public]
+categories: public
 classification: Unofficial (Everyone)
 tags: [myths]
 date: 2024-08-26 04:36:32 

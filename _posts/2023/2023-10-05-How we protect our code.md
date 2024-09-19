@@ -1,7 +1,7 @@
 ---
-title: How we protect our code
+title: "How we protect our code?"
 author: Joyclyn
-categories: [public]
+categories: public
 classification: Unofficial (Everyone)
 tags: [security]
 date: 2023-10-05 01:46:39

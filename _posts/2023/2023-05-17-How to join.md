@@ -1,7 +1,7 @@
 ---
-title: How to join
+title: "How to join?"
 author: jeny-amatya-qed
-categories: [Public]
+categories: public
 classification: Official (Everyone)
 tags: [getting-started]
 date: 2023-05-17 02:05:00 

@@ -1,7 +1,7 @@
 ---
-title: Configuring advanced setup for code scanning with CodeQL
+title: "Configuring advanced setup for code scanning with CodeQL"
 author: matt
-categories: [public]
+categories: public
 classification: Unofficial (Everyone)
 tags: [security]
 date: 2023-11-27 00:00:00 

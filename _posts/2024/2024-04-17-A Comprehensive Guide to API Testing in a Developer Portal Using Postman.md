@@ -1,7 +1,7 @@
 ---
-title: How to do API testing using Postman
+title: "How to do API testing using Postman?"
 author: sushma-hazari-qed
-categories: [Public]
+categories: public
 classification: Unofficial (Everyone)
 tags: [api, opinion]
 date: 2024-04-17 04:13:46 

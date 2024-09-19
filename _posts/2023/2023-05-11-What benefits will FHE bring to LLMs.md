@@ -1,7 +1,7 @@
 ---
-title: What benefits will FHE bring to LLMs?
+title: "What benefits will FHE bring to LLMs?"
 author: andrew
-categories: [public]
+categories: public
 classification: Unofficial (Everyone)
 tags: [security]
 date: 2023-05-15 04:36:35

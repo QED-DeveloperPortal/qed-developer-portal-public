@@ -1,7 +1,7 @@
 ---
-title: Emerging trends shaping the future of software testing
+title: "Emerging trends shaping the future of software testing"
 author: sushma-hazari-qed
-categories: [public]
+categories: public
 classification: Unofficial (Everyone)
 tags: [trending,quality-assurance]
 date: 2024-05-22 04:56:13 

@@ -1,7 +1,7 @@
 ---
-title: How to deploy to a new SWA from a GitHub repository
+title: "How to deploy to a new SWA from a GitHub repository?"
 author: matt
-categories: [public]
+categories: public
 classification: Unofficial (Everyone)
 tags: [technology]
 date: 2023-08-02 14:00:00 

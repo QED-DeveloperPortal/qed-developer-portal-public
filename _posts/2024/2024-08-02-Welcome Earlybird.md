@@ -1,7 +1,7 @@
 ---
-title: Welcome to the Developer Portal Early Bird developers!
+title: "Welcome to the Developer Portal Early Bird developers!"
 author: g-morton
-categories: [Public]
+categories: public
 classification: Official (Everyone)
 tags: [getting-started]
 date: 2024-08-02 06:11:01 

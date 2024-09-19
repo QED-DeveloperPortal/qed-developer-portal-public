@@ -1,7 +1,7 @@
 ---
-title: Interface and branding guidelines
+title: "Interface and branding guidelines"
 author: jeny-amatya-qed
-categories: [public]
+categories: public
 classification: Unofficial (Everyone)
 tags: [getting-started,uxui]
 date: 2023-04-19 05:20:55 

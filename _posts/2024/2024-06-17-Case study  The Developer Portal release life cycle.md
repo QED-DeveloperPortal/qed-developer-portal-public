@@ -1,7 +1,7 @@
 ---
 title: "Case study - The Developer Portal release life cycle"
 author: g-morton
-categories: [Public]
+categories: public
 classification: Official (Everyone)
 tags: [agile]
 date: 2024-06-17 03:31:47 

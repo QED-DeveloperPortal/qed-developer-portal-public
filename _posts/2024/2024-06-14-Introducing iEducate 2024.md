@@ -1,7 +1,7 @@
 ---
-title: Introducing iEducate 2024
+title: "Introducing i-Educate 2024"
 author: g-morton
-categories: [Public]
+categories: public
 classification: Unofficial (Everyone)
 tags: [about]
 date: 2024-06-14 00:54:43 

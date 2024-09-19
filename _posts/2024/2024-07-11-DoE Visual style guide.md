@@ -1,7 +1,7 @@
 ---
-title: DoE visual style guide
+title: "DoE visual style guide"
 author: jeny-amatya-qed
-categories: [public]
+categories: public
 classification: Official (Everyone)
 tags: [getting-started, uxui]
 date: 2024-07-11 02:14:45 

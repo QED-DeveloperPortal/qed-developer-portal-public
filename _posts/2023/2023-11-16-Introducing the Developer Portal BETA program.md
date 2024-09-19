@@ -1,7 +1,7 @@
 ---
-title: Introducing the Developer Portal BETA program
+title: "Introducing the Developer Portal BETA program"
 author: g-morton
-categories: [Public]
+categories: public
 classification: Official (Everyone)
 tags: [about]
 date: 2023-11-16 01:09:32 

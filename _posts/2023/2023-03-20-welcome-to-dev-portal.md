@@ -1,7 +1,7 @@
 ---
-title: Welcome to the Developer Portal!
+title: "Welcome to the Developer Portal!"
 author: matt
-categories: [public]
+categories: public
 classification: Official (Everyone)
 tags: [getting-started]
 date: 2023-04-17 22:34:01 

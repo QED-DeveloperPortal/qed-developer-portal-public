@@ -1,7 +1,7 @@
 ---
-title: Information security classifications on the Developer Portal
+title: "Information security classifications on the Developer Portal"
 author: g-morton
-categories: [Public]
+categories: public
 classification: Official (Everyone)
 tags: [standards,getting-started]
 date: 2024-08-22 01:21:44 

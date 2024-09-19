@@ -1,7 +1,7 @@
 ---
-title: A Department of Education perspective on why accessibility matters
+title: "A Department of Education perspective on why accessibility matters"
 author: g-morton
-categories: [Public]
+categories: public
 classification: Official (Everyone)
 tags: [accessibility]
 date: 2024-07-17 01:23:38 

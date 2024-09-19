@@ -1,7 +1,7 @@
 ---
-title: Information privacy and right to information procedure
+title: "Information privacy and right to information procedure"
 author: g-morton
-categories: [public]
+categories: public
 classification: Official (Everyone)
 tags: [privacy]
 date: 2023-08-10 00:45:02 

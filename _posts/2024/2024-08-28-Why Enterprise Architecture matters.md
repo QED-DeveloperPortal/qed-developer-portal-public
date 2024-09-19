@@ -1,7 +1,7 @@
 ---
-title: Why enterprise architecture matters
+title: "Why enterprise architecture matters?"
 author: g-morton
-categories: [Public]
+categories: public
 classification: Official (Everyone)
 tags: [architecture]
 date: 2024-08-28 04:36:52 

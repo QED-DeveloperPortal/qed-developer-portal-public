@@ -1,7 +1,7 @@
 ---
-title: Mastering the transition to scrum essential tips for new teams
+title: "Mastering the transition to scrum essential tips for new teams"
 author: jeny-amatya-qed
-categories: [Public]
+categories: public
 classification: Unofficial (Everyone)
 tags: [agile]
 date: 2024-07-16 02:39:00 

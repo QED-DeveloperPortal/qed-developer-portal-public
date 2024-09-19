@@ -1,7 +1,7 @@
 ---
-title: Department of Education style guide (selected extracts)
+title: "Department of Education style guide (selected extracts)"
 author: Joyclyn
-categories: [public]
+categories: public
 classification: Official (Everyone)
 tags: [standards]
 date: 2024-04-04 03:57:01 

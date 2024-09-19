@@ -1,7 +1,7 @@
 ---
-title: Give an example of using ZKP in an application
+title: "Give an example of using ZKP in an application"
 author: andrew
-categories: [public]
+categories: public
 classification: Unofficial (Everyone)
 tags: [privacy]
 date: 2023-05-11 01:29:07 

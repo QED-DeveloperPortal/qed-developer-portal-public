@@ -1,7 +1,7 @@
 ---
-title: How to add a tag in Developer Portal
+title: :How to add a tag in Developer Portal?"
 author: jeny-amatya-qed
-categories: [Public]
+categories: public
 classification: Official (Everyone)
 tags: [getting-started]
 date: 2023-05-15 05:32:50 

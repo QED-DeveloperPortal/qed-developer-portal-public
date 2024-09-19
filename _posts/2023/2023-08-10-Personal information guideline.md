@@ -1,7 +1,7 @@
 ---
-title: Personal information guideline
+title: "Personal information guideline"
 author: g-morton
-categories: [public]
+categories: public
 classification: Official (Everyone)
 tags: [privacy]
 date: 2023-08-10 02:19:51 

@@ -1,7 +1,7 @@
 ---
-title: How to add a new post in a jekyll site
+title: "How to add a new post in a jekyll site?"
 author: jeny-amatya-qed
-categories: [public]
+categories: public
 classification: Unofficial (Everyone)
 tags: [technology]
 date: 2023-03-14 14:03:17

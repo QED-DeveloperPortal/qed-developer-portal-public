@@ -1,7 +1,7 @@
 ---
-title: New user FAQs
+title: "New user FAQs"
 author: Joyclyn
-categories: [Public]
+categories: public
 classification: Official (Everyone)
 tags: [getting-started,about]
 date: 2024-07-16 05:26:17 

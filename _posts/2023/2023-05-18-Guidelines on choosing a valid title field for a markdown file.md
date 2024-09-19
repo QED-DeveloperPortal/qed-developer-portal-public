@@ -1,7 +1,7 @@
 ---
-title: How to choose a valid title for your post
+title: "How to choose a valid title for your post?"
 author: jeny-amatya-qed
-categories: [Public]
+categories: public
 classification: Official (Everyone)
 tags: [getting-started,faq]
 date: 2023-05-18 00:27:58 

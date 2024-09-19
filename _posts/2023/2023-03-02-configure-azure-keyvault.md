@@ -1,7 +1,7 @@
 ---
-title: How to create and configure Azure KeyVault for a SWA
+title: "How to create and configure Azure KeyVault for a SWA"
 author: matt
-categories: [public]
+categories: public
 classification: Unofficial (Everyone)
 tags: [technology]
 date: 2023-02-03 12:00:00

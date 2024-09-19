@@ -1,7 +1,7 @@
 ---
-title: Myths about cybersecurity
+title: "Myths about cybersecurity"
 author: Joyclyn
-categories: [Public]
+categories: public
 classification: Unofficial (Everyone)
 tags: [myths,security,opinion]
 date: 2024-08-27 05:08:30 
