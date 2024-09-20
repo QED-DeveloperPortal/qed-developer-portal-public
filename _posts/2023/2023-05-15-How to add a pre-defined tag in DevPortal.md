@@ -1,12 +1,12 @@
 ---
-title: :How to add a tag in Developer Portal?"
+title: "How to add a tag in Developer Portal?"
 author: jeny-amatya-qed
-categories: public
+categories: [Public]
 classification: Official (Everyone)
 tags: [getting-started]
 date: 2023-05-15 05:32:50 
 updatedBy: jeny-amatya-qed
-updated: 2024-06-13 01:56:52 
+updated: 2024-09-20 00:04:50 
 likes: 1
 ---
 
@@ -39,4 +39,3 @@ There are two types of tags in the Developer Portal.
 2. **User-defined tags**
     * You can add one or multiple tags when adding or updating content in the Developer Portal using either the inline editor or by updating the file in the GitHub repository. Multiple tags need to be separated by commas.
     * You can view the available tags on the [Tags](https://developer.qed.qld.gov.au/tags) page.
-    
