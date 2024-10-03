@@ -1,12 +1,12 @@
 ---
 title: "Can we use agile in government?"
 author: Joyclyn
-categories: public
+categories: [Public]
 classification: Unofficial (Everyone)
-tags: [myths,standards]
+tags: [myths,agile,opinion]
 date: 2024-08-21 05:48:24 
-updatedBy: Joyclyn
-updated: 2024-08-22 04:59:44 
+updatedBy: g-morton
+updated: 2024-10-03 04:11:15 
 likes: 0
 ---
 
