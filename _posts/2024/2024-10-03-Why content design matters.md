@@ -5,6 +5,8 @@ categories: [Public]
 classification: Unofficial (Everyone)
 tags: [accessibility,opinion]
 date: 2024-10-03 01:05:10 
+updatedBy: Joyclyn
+updated: 2024-10-03 01:42:34 
 likes: 0
 ---
 
@@ -41,7 +43,8 @@ It tells us:
 
 ***
 Further reading:
-•	Department of Education (n.d.) *[Department of Education style guide for writers, editors and proofreaders](https://intranet.qed.qld.gov.au/Services/CommunicationMarketing/Forms/Documents/Forms/All items.aspx)*, department intranet, accessed 2 October 2024.
-•	Queensland Government (n.d.) *[Web writing and style guide](https://www.forgov.qld.gov.au/information-and-communication-technology/communication-and-publishing/website-and-digital-publishing/website-standards-guidelines-and-templates/write-for-queensland-government-websites/web-writing-and-style-guide)*, forgov.qld.gov.au, accessed 2 October 2024.
-•	APSC (Australian Public Service Commission) (2023) *[Australian Government Style Manual](https://www.stylemanual.gov.au/writing-and-designing-content)*, stylemanual.gov.au, accessed 2 October 2024.
-•	Lindberg, O (14 September 2020) *[Why Content Design Matters: An Interview with Sarah Richards](https://medium.com/ux-and-front-end-interviews/why-content-design-matters-an-interview-with-sarah-richards-a9ad0de3c37a)*, Medium, accessed 2 October 2024.
+
+* Department of Education (n.d.) *[Department of Education style guide for writers, editors and proofreaders](https://intranet.qed.qld.gov.au/Services/CommunicationMarketing/Forms/Documents/Forms/All items.aspx)*, department intranet, accessed 2 October 2024.
+* Queensland Government (n.d.) *[Web writing and style guide](https://www.forgov.qld.gov.au/information-and-communication-technology/communication-and-publishing/website-and-digital-publishing/website-standards-guidelines-and-templates/write-for-queensland-government-websites/web-writing-and-style-guide)*, forgov.qld.gov.au, accessed 2 October 2024.
+* APSC (Australian Public Service Commission) (2023) *[Australian Government Style Manual](https://www.stylemanual.gov.au/writing-and-designing-content)*, stylemanual.gov.au, accessed 2 October 2024.
+* Lindberg, O (14 September 2020) *[Why Content Design Matters: An Interview with Sarah Richards](https://medium.com/ux-and-front-end-interviews/why-content-design-matters-an-interview-with-sarah-richards-a9ad0de3c37a)*, Medium, accessed 2 October 2024.
