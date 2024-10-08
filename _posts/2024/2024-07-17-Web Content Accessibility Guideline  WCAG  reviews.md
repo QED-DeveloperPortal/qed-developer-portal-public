@@ -1,12 +1,12 @@
 ---
 title: "Web Content Accessibility Guideline (WCAG) reviews"
 author: g-morton
-categories: public
+categories: [Public]
 classification: Official (Everyone)
-tags: [accessibility, standards]
+tags: [accessibility]
 date: 2024-07-17 01:31:22 
-updatedBy: Joyclyn
-updated: 2024-07-25 03:10:55 
+updatedBy: jeny-amatya-qed
+updated: 2024-10-08 23:39:29 
 likes: 0
 ---
 
