@@ -1,12 +1,12 @@
 ---
 title: "Introducing i-Educate 2024"
 author: g-morton
-categories: public
+categories: [Public]
 classification: Unofficial (Everyone)
-tags: [about]
+tags: [about,opinion]
 date: 2024-06-14 00:54:43 
-updatedBy: Joyclyn
-updated: 2024-07-16 05:57:28 
+updatedBy: jeny-amatya-qed
+updated: 2024-10-10 02:05:39 
 likes: 0
 ---
 
