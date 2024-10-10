@@ -1,5 +1,5 @@
 ---
-title: "How to test the Android accessibility?"
+title: "How to test Android accessibility"
 author: sushma-hazari-qed
 categories: [Public]
 classification: Unofficial (Everyone)
