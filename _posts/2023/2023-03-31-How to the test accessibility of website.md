@@ -1,5 +1,5 @@
 ---
-title: "How to test the accessibility of a website?"
+title: "Testing website accessibility"
 author: sushma-hazari-qed
 categories: [Public]
 classification: Unofficial (Everyone)
