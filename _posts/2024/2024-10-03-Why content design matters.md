@@ -5,8 +5,8 @@ categories: [Public]
 classification: Unofficial (Everyone)
 tags: [accessibility,opinion]
 date: 2024-10-03 01:05:10 
-updatedBy: jeny-amatya-qed
-updated: 2024-10-03 02:00:51 
+updatedBy: Joyclyn
+updated: 2024-10-10 22:09:42 
 likes: 0
 ---
 
@@ -37,11 +37,15 @@ The Department of Education style guide and the Queensland Government web writin
 
 The Style Manual is an fully searchable online tool that provides the backbone for other state and local government standards.
 
-It tells us:
+It says:
 
 > Only design and write content that meets a real person’s need.
 > 
 > People using government services usually don’t have a choice to go somewhere else to meet their need. They don’t read government content for fun. They are using it to get something done.
+
+***Pssst!*** 
+Want to know what the most common mistakes are and how to avoid them? 
+Check out our [cheat sheet](https://developer.qed.qld.gov.au/public/Style_guide_cheat_sheet/)!
 
 ***
 
