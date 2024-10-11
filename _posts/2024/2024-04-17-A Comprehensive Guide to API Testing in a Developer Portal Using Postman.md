@@ -1,5 +1,5 @@
 ---
-title: "How to do API testing using Postman?"
+title: "API testing using Postman"
 author: sushma-hazari-qed
 categories: public
 classification: Unofficial (Everyone)
