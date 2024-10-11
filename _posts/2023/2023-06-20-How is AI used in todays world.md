@@ -1,9 +1,9 @@
 ---
-title: "How is AI used today?"
+title: "Thoughts on AI"
 author: sushma-hazari-qed
 categories: public
 classification: Unofficial (Everyone)
-tags: [technology,ai]
+tags: [technology,ai,opinion]
 date: 2023-06-20 01:01:48 
 updatedBy: Joyclyn
 updated: 2024-03-27 04:54:23 
