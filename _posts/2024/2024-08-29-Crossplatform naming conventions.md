@@ -1,5 +1,5 @@
 ---
-title: "Crossplatform naming conventions"
+title: "Cross-platform naming conventions"
 author: g-morton
 categories: public
 classification: Official (Everyone)
