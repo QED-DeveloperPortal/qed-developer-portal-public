@@ -1,5 +1,5 @@
 ---
-title: "Emerging trends shaping the future of software testing"
+title: "Emerging trends in software testing"
 author: sushma-hazari-qed
 categories: public
 classification: Unofficial (Everyone)
