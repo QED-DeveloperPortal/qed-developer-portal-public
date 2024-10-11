@@ -1,5 +1,5 @@
 ---
-title: "How to add an Image in Markdown editor?"
+title: "Adding images to posts using the markdown editor"
 author: sushma-hazari-qed
 categories: public
 classification: Unofficial (Everyone)
