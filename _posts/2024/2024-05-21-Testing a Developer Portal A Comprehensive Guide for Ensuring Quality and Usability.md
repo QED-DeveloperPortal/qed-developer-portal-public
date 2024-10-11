@@ -1,8 +1,8 @@
 ---
-title: "Developer Portal testing ensuring quality and usability"
+title: "Case study - Quality assurance and the Developer Portal"
 author: sushma-hazari-qed
 categories: public
-tags: [quality-assurance]
+tags: [quality-assurance,case-study]
 classification: Unofficial (Everyone)
 date: 2024-05-21 03:56:30 
 updatedBy: Joyclyn
