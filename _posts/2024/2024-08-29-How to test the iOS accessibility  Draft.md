@@ -1,5 +1,5 @@
 ---
-title: "How to test the iOS accessibility?"
+title: "How to test iOS accessibility"
 author: sushma-hazari-qed
 categories: [Public]
 classification: Unofficial (Everyone)
