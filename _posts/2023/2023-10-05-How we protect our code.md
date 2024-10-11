@@ -1,5 +1,5 @@
 ---
-title: "How we protect our code?"
+title: "Exploring DevSecOps security with GitHub"
 author: Joyclyn
 categories: public
 classification: Unofficial (Everyone)
