@@ -1,5 +1,5 @@
 ---
-title: "Configuring local Azure Function Apis for Azure SWA"
+title: "Configuring local Azure Function APIs for Azure SWA"
 author: matt
 categories: public
 classification: Unofficial (Everyone)
