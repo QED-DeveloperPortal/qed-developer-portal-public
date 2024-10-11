@@ -1,9 +1,9 @@
 ---
-title: "How to perform website testing?"
+title: "Testing tips for quality websites"
 author: sushma-hazari-qed
 categories: public
 classification: Unofficial (Everyone)
-tags: [technology]
+tags: [web,quality-assurance]
 date: 2023-05-26 05:49:29 
 updatedBy: Sushma Hazari
 updated: 2024-04-17 22:22:22 
