@@ -1,9 +1,9 @@
 ---
-title: "The Future of Learning - How AIPowered ChatGPT is Changing Education"
+title: "How ChatGPT is changing education"
 author: tim
 categories: public
 classification: Unofficial (Everyone)
-tags: [technology,ai]
+tags: [technology,ai,opinion]
 date: 2023-05-17 05:08:24
 likes: 3
 ---
