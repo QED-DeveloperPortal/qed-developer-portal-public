@@ -1,5 +1,5 @@
 ---
-title: "Pair program with Aider - your AI Assistant"
+title: "Pair programming with Aider AI"
 author: andrew
 categories: public
 classification: Unofficial (Everyone)
