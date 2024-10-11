@@ -1,5 +1,5 @@
 ---
-title: "Use AI to build apps with QED APIs"
+title: "Using AI to build API driven apps"
 author: andrew
 categories: public
 classification: Unofficial (Everyone)
