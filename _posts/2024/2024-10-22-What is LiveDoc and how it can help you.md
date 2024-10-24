@@ -5,8 +5,8 @@ categories: [Public]
 classification: Official (Everyone)
 tags: [ai]
 date: 2024-10-22 05:00:10 
-updatedBy: jeny-amatya-qed
-updated: 2024-10-24 04:36:01 
+updatedBy: Matt Warwick
+updated: 2024-10-24 23:18:12 
 likes: 0
 ---
 
@@ -57,9 +57,15 @@ LiveDoc is designed to be used as both a **headless API** and through the **QED 
 LiveDoc’s configuration can be managed directly through the **admin panel** on the QED Developer Portal, allowing users to:
 
 - **Add or remove repositories to scan:** Add new repositories or remove outdated ones from the scanning list.
-- **Set schedules:** Define custom schedules for scanning based on the project’s requirements.
+- **Modify repositories to scan:** Change the configuration values for existing respositories in the list.
+
+
+## Feature gaps in the existing implementation
+The existing implementation of the LiveDoc tool still has some features that have yet to be implemented.
+- **Trigger LiveDoc:** Initiate a scan directly from the Admin site on the QED Developer Portal.
+- **Set schedules:** Define custom schedules for scanning based on the project’s requirements. Scheduling LiveDoc is an important part of the document generation as it ensures the projects documentation is always current and reflection of the existing state of the project.
 - **View Reports:** Access a history of generated markdown documents, with insights into changes made over time.
-- **Manage API keys:** Generate and manage API keys to maintain secure access.
+- **Manage API keys:** Generate and manage API keys to maintain secure access. Whilst this functionality already exists in the Admin site on the QED Developer Portal, the LiveDoc Apis are secured by a different mechanism.
 
 ## Links to LiveDoc samples
 - To be added in future
