@@ -5,11 +5,12 @@ categories: [Public]
 classification: Official (Everyone)
 tags: [ai]
 date: 2024-10-22 05:00:10 
+updatedBy: jeny-amatya-qed
+updated: 2024-10-24 04:36:01 
 likes: 0
 ---
 
-
-# What is LiveDoc and How It Can Help You
+# What is LiveDoc and how it can help you
 
 **LiveDoc** is a cloud-hosted tool designed to enhance software documentation through AI-driven analysis of public or private cloud-hosted code repositories. By scanning repositories, LiveDoc generates an AI-assisted summary of the source code, including:
 
@@ -21,7 +22,7 @@ The generated documentation is saved in **markdown format** and securely stored 
 
 LiveDoc can be scheduled to run at regular intervals, ensuring that the documentation stays current. Any changes, whether from updates in coding patterns or new module additions, are automatically captured, providing a constantly refreshed summary of the evolving codebase.
 
-## How LiveDoc Works: An Overview of Azure Durable Functions
+## How LiveDoc works: An overview of Azure Durable Functions
 
 The underlying architecture of LiveDoc leverages **Azure Durable Functions**, a serverless extension that enables orchestration of stateful workflows in Azure Functions. This makes LiveDoc reliable, scalable, and resilient. Here's a high-level breakdown of how it works:
 
@@ -30,7 +31,7 @@ The underlying architecture of LiveDoc leverages **Azure Durable Functions**, a 
 - **Durability and Resilience:** If the process is interrupted, the orchestrator ensures that execution continues from where it left off, allowing LiveDoc to handle large codebases or unexpected failures seamlessly.
 - **Timer Triggers:** LiveDoc uses timers to schedule scans at regular intervals, maintaining up-to-date documentation without manual intervention.
 
-## Key Features of LiveDoc
+## Key features of LiveDoc
 
 1. **Automated Code Analysis:** Quickly generates a comprehensive summary of a code repository.
 2. **Markdown Export:** Outputs documentation in markdown format, making it easy to share, edit, and store.
@@ -38,7 +39,7 @@ The underlying architecture of LiveDoc leverages **Azure Durable Functions**, a 
 4. **Resilient Architecture:** Built on Azure Durable Functions for reliable and scalable operation.
 5. **Integrations:** Works seamlessly with public and private repositories, supporting tools like GitHub, Bitbucket, and Azure Repos.
 
-## How to Use LiveDoc - Headless Tools
+## How to use LiveDoc - Headless tools
 
 LiveDoc is designed to be used as both a **headless API** and through the **QED Developer Portal UI**. Here’s how to use it via headless tools like **Postman**:
 
@@ -51,7 +52,7 @@ LiveDoc is designed to be used as both a **headless API** and through the **QED 
 3. **Automated Workflow:** 
    - Integrate with CI/CD pipelines to trigger scans after code commits, keeping documentation up-to-date with development changes.
 
-## How to Use LiveDoc - Managing Config via the UI
+## How to use LiveDoc - Managing config via the UI
 
 LiveDoc’s configuration can be managed directly through the **admin panel** on the QED Developer Portal, allowing users to:
 
@@ -59,3 +60,6 @@ LiveDoc’s configuration can be managed directly through the **admin panel** on
 - **Set schedules:** Define custom schedules for scanning based on the project’s requirements.
 - **View Reports:** Access a history of generated markdown documents, with insights into changes made over time.
 - **Manage API keys:** Generate and manage API keys to maintain secure access.
+
+## Links to LiveDoc samples
+- To be added in future
