@@ -7,7 +7,7 @@ tags: [ai]
 date: 2024-10-22 05:00:10 
 updatedBy: Matt Warwick
 updated: 2024-10-24 23:18:12 
-likes: 0
+likes: 1
 ---
 
 # What is LiveDoc and how it can help you
