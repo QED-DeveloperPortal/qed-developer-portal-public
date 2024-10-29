@@ -1,6 +1,6 @@
 ---
 title: "What is LiveDoc and how it can help you"
-author: jeny-amatya-qed
+author: matt
 categories: Public
 classification: Unofficial (Everyone)
 tags: [opinion,ai]
