@@ -6,7 +6,7 @@ classification: Unofficial (Everyone)
 tags: [opinion,ai]
 date: 2024-10-24 00:14:58 
 updatedBy: jeny-amatya-qed
-updated: 2024-10-29 01:38:28 
+updated: 2024-10-29 02:19:44 
 likes: 0
 ---
 
@@ -38,6 +38,9 @@ The underlying architecture of LiveDoc leverages **Azure Durable Functions**, a 
 3. **Scheduled Updates:** Runs on a predefined schedule to keep documentation current.
 4. **Resilient Architecture:** Built on Azure Durable Functions for reliable and scalable operation.
 5. **Integrations:** Works seamlessly with public and private repositories, supporting tools like GitHub, Bitbucket, and Azure Repos.
+
+## Code documentation and dependency reporting features
+You can find more about dependency reporting feature [here](https://ambitious-pond-0f5283f00-dev.eastasia.3.azurestaticapps.net/public/LiveDoc-Code-documentation-and-dependancy-reporting-features/).
 
 ## How to use LiveDoc - Headless tools
 
