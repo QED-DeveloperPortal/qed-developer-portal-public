@@ -5,6 +5,8 @@ categories: Public
 classification: Official (Everyone)
 tags: [ai,source-code]
 date: 2024-10-29 02:06:52 
+updatedBy: jeny-amatya-qed
+updated: 2024-10-29 02:17:33 
 likes: 0
 ---
 
@@ -25,13 +27,14 @@ The Developer Portal includes a tool called the **Dependency Scanning Tool**, wh
      - Name and version of deprecated packages to be scanned
    - These configurations are stored in CosmosDB and can be accessed using a unique repository key.
 
+3. **API Call**
+    - Send a `GET` request to initiate the scan, including both the repository key and API key in the request headers.
+    
+4. **Scan Report** 
+   - The scan results are saved to Azure Blob Storage, with the [location ](https://dpstoragefunctions.blob.core.windows.net/source-scan-reports)specified in the response to the scan request.
+
 ![Dependency Scanning Configuration](https://sadevportal3.blob.core.windows.net/root/dependency-scanner1.png)
 
-3. **API Call**
-   - Send a `GET` request to initiate the scan, including both the repository key and API key in the request headers.
 ![Dependency Scanning API call](https://sadevportal3.blob.core.windows.net/root/dependency-scanner2.png)
 
-  ![Dependency Scanning API response](https://sadevportal3.blob.core.windows.net/root/dependency-scanner3.png)
-
-4. **Scan Report**
-   - The scan results are saved to Azure Blob Storage, with the [location ](https://dpstoragefunctions.blob.core.windows.net/source-scan-reports)specified in the response to the scan request.
+![Dependency Scanning API response](https://sadevportal3.blob.core.windows.net/root/dependency-scanner3.png)
