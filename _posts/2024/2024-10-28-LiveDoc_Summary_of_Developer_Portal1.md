@@ -1,14 +1,14 @@
 ---
-title: "LiveDoc Summary of Developer Portal1"
+title: "LiveDoc Summary of Developer Portal"
 author: jeny-amatya-qed
 categories: Public
 classification: Official (Everyone)
-tags: [livedoc, repository]
-date: 2024-10-28 23:49:29
+tags: [source-code]
+date: 2024-10-28 23:49:29 
+updatedBy: jeny-amatya-qed
+updated: 2024-10-29 01:03:46 
 likes: 0
-imported: False 
 ---
-
 
 ## qed-developer-portal
 
@@ -24,15 +24,15 @@ A Developer Portal is a website that provides documentation, resources, and tool
 * Location: https://github.com/QED-DeveloperPortal/qed-developer-portal
 * Primary Language: [[ List the main language/s used in the repository ]]
 * Architecture:
-- [[ Perceived purpose of the repository project ]]
+    - [[ Perceived purpose of the repository project ]]
 * Key Features:
-- [[ List the key components of the repository, with a brief description of each component ]]
+    - [[ List the key components of the repository, with a brief description of each component ]]
 
 ## Code Summary
 * Total files: [[ Total number of files in the repository ]]
 * Total lines of code: [[ Total lines of code in the repository ]]
 * Main Components:
-- [[ List the main components in the repository and describe the purpose of each of them ]]
+    - [[ List the main components in the repository and describe the purpose of each of them ]]
 
 ## Contributors
 - g-morton: 8 contributions
@@ -61,4 +61,3 @@ git clone qed-developer-portal
 ```
 ## Relevant URLs
 [[ List the urls that are relevant to the repository ]]
-
