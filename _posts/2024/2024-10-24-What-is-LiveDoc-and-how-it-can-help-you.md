@@ -1,5 +1,5 @@
 ---
-title: "LiveDoc - jen"
+title: What is LiveDoc and how it can help you
 author: jeny-amatya-qed
 categories: Public
 classification: Unofficial (Everyone)
