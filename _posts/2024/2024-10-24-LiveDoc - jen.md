@@ -6,7 +6,7 @@ classification: Unofficial (Everyone)
 tags: [opinion,ai]
 date: 2024-10-24 00:14:58 
 updatedBy: jeny-amatya-qed
-updated: 2024-10-29 01:38:28 
+updated: 2024-10-29 02:48:47 
 likes: 0
 ---
 
@@ -66,6 +66,10 @@ The existing implementation of the LiveDoc tool still has some features that hav
 - **Set schedules:** Define custom schedules for scanning based on the project’s requirements. Scheduling LiveDoc is an important part of the document generation as it ensures the projects documentation is always current and reflection of the existing state of the project.
 - **View Reports:** Access a history of generated markdown documents, with insights into changes made over time.
 - **Manage API keys:** Generate and manage API keys to maintain secure access. Whilst this functionality already exists in the Admin site on the QED Developer Portal, the LiveDoc Apis are secured by a different mechanism.
+
+
+## LiveDoc - Code documentation and dependency reporting features
+You can find more information on dependency scanning tool [here](https://devportal-functions.azurewebsites.net/api/DependencyScanningFunction).
 
 ## Links to LiveDoc samples
 - [LiveDoc summary of Developer Portal](https://ambitious-pond-0f5283f00-dev.eastasia.3.azurestaticapps.net/public/LiveDoc_Summary_of_Developer_Portal/)
