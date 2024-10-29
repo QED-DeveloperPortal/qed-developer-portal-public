@@ -6,7 +6,7 @@ classification: Unofficial (Everyone)
 tags: [opinion,ai]
 date: 2024-10-24 00:14:58 
 updatedBy: jeny-amatya-qed
-updated: 2024-10-29 01:38:28 
+updated: 2024-10-29 02:47:10 
 likes: 0
 ---
 
@@ -39,6 +39,8 @@ The underlying architecture of LiveDoc leverages **Azure Durable Functions**, a 
 4. **Resilient Architecture:** Built on Azure Durable Functions for reliable and scalable operation.
 5. **Integrations:** Works seamlessly with public and private repositories, supporting tools like GitHub, Bitbucket, and Azure Repos.
 
+## LiveDoc - Code documentation and dependency reporting features
+You can find more information on dependency scanning tool [here](https://devportal-functions.azurewebsites.net/api/DependencyScanningFunction).
 ## How to use LiveDoc - Headless tools
 
 LiveDoc is designed to be used as both a **headless API** and through the **QED Developer Portal UI**. Here’s how to use it via headless tools like **Postman**:
