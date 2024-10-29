@@ -6,7 +6,7 @@ classification: Unofficial (Everyone)
 tags: [opinion,ai]
 date: 2024-10-24 00:14:58 
 updatedBy: jeny-amatya-qed
-updated: 2024-10-29 02:48:47 
+updated: 2024-10-29 03:21:56 
 likes: 0
 ---
 
@@ -69,7 +69,7 @@ The existing implementation of the LiveDoc tool still has some features that hav
 
 
 ## LiveDoc - Code documentation and dependency reporting features
-You can find more information on dependency scanning tool [here](https://devportal-functions.azurewebsites.net/api/DependencyScanningFunction).
+You can find more information on dependency scanning tool [here](https://ambitious-pond-0f5283f00-dev.eastasia.3.azurestaticapps.net/public/LiveDoc-Code-documentation-and-dependancy-reporting-features/).
 
 ## Links to LiveDoc samples
 - [LiveDoc summary of Developer Portal](https://ambitious-pond-0f5283f00-dev.eastasia.3.azurestaticapps.net/public/LiveDoc_Summary_of_Developer_Portal/)
