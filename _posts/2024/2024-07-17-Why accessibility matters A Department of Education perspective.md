@@ -2,7 +2,7 @@
 title: A Department of Education perspective on why accessibility matters
 author: g-morton
 categories: [Public]
-classification: Official (Everyone)
+classification: Public
 tags: [accessibility]
 date: 2024-07-17 01:23:38 
 updatedBy: Joyclyn

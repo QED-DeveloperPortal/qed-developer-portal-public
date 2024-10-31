@@ -2,7 +2,7 @@
 title: Test post for testing sensitive information
 author: sushma-hazari
 categories: [Public]
-classification: Sensitive (Government staff)
+classification: Public
 tags: [test]
 date: 2024-08-23 03:17:55 
 likes: 0

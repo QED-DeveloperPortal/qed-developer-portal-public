@@ -2,7 +2,7 @@
 title: How to test the Android accessibility
 author: sushma-hazari-qed
 categories: [Public]
-classification: Unofficial (Everyone)
+classification: Public
 tags: [mobile,opinion]
 date: 2024-09-02 05:00:31 
 updatedBy: sushma-hazari-qed

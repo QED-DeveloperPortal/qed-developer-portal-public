@@ -2,7 +2,7 @@
 title: How is AI used today
 author: sushma-hazari-qed
 categories: [public]
-classification: Unofficial (Everyone)
+classification: Public
 tags: [technology,ai]
 date: 2023-06-20 01:01:48 
 updatedBy: Joyclyn

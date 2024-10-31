@@ -2,7 +2,7 @@
 title: test post3 Pub opinion
 author: sushma-hazari
 categories: [Public]
-classification: Opinion
+classification: Public
 tags: [test,opinion]
 date: 2024-08-12 02:42:55 
 updatedBy: sushma-hazari

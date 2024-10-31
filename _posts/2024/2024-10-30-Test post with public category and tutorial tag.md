@@ -2,7 +2,7 @@
 title: "Test post with public category and tutorial tag"
 author: jeny-amatya-qed
 categories: Public
-classification: Unofficial (Everyone)
+classification: Public
 tags: [opinion,tutorials]
 date: 2024-10-30 05:48:59 
 likes: 0

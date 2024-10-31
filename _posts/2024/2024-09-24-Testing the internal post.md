@@ -2,7 +2,7 @@
 title: "Testing the internal post"
 author: sushma-hazari
 categories: Public
-classification: Official (Everyone)
+classification: Public
 tags: [privacy]
 date: 2024-09-24 04:06:50 
 likes: 0

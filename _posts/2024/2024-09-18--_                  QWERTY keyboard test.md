@@ -2,7 +2,7 @@
 title: "`~!@#$%^&*()-_=+[{]};:'\",<.>/? QWERTY keyboard test"
 author: Joyclyn
 categories: [Public]
-classification: Unofficial (Everyone)
+classification: Public
 tags: [opinion]
 date: 2024-09-18 23:26:05 
 likes: 0

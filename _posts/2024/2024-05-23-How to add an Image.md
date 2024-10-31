@@ -2,7 +2,7 @@
 title: How to add an Image in Markdown editor
 author: sushma-hazari-qed
 categories: [public]
-classification: Unofficial (Everyone)
+classification: Public
 tags: [getting-started]
 date: 2024-05-23 02:12:44 
 updatedBy: Sushma Hazari (IA)

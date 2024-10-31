@@ -2,7 +2,7 @@
 title: Test post public official
 author: sushma-hazari-qed
 categories: [Public]
-classification: Official
+classification: Public
 tags: [test]
 date: 2024-08-09 03:51:02 
 updatedBy: sushma-hazari-qed

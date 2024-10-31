@@ -2,7 +2,7 @@
 title: What is the purpose of tags on a website?
 author: sushma-hazari-qed
 categories: [public]
-classification: Unofficial (Everyone)
+classification: Public
 tags: [technology]
 date: 2023-05-15 03:57:16
 updatedBy: Joyclyn

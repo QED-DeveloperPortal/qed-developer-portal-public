@@ -2,7 +2,7 @@
 title: "Sample Divtest"
 author: divya-gh
 categories: Public
-classification: Unofficial (Everyone)
+classification: Public
 tags: [opinion,agile,mobile,uxui,web]
 date: 2024-10-21 21:52:54 
 likes: 0

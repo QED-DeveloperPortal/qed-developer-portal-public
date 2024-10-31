@@ -2,7 +2,7 @@
 title: API Versioning
 author: jeny-amatya-qed
 categories: [public]
-classification: Unofficial (Everyone)
+classification: Public
 tags: [api]
 date: 2024-01-30 01:03:36 
 likes: 3

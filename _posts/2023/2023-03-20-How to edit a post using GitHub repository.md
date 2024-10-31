@@ -2,7 +2,7 @@
 title: How to update existing content using the GitHub repository
 author: jeny-amatya-qed
 categories: [Public]
-classification: Official (Everyone)
+classification: Public
 tags: [getting-started]
 date: 2023-03-20 01:38:13 
 updatedBy: Joyclyn

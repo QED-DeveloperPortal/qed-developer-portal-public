@@ -2,7 +2,7 @@
 title: Encouraging agile adoption fostering agility in your organisation
 author: jeny-amatya-qed
 categories: [Public]
-classification: Unofficial (Everyone)
+classification: Public
 tags: [agile]
 date: 2024-07-16 02:37:35 
 updatedBy: Joyclyn

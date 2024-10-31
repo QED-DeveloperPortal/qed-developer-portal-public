@@ -2,7 +2,7 @@
 title: Test post1 with IR Public Official
 author: sushma-hazari
 categories: [Public]
-classification: Official
+classification: Public
 tags: [test]
 date: 2024-08-12 00:41:10 
 updatedBy: sushma-hazari
