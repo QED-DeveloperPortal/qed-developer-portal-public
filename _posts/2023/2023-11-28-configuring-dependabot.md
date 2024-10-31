@@ -2,7 +2,7 @@
 title: Configuring Dependabot to scan for package vulnerabilities
 author: matt
 categories: [public]
-classification: Unofficial (Everyone)
+classification: Public
 tags: [security]
 date: 2023-11-27 00:00:00 
 likes: 1

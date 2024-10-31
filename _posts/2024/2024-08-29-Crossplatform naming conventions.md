@@ -2,7 +2,7 @@
 title: Crossplatform naming conventions
 author: g-morton
 categories: [Public]
-classification: Official (Everyone)
+classification: Public
 tags: [standards]
 date: 2024-08-29 02:13:37 
 updatedBy: 

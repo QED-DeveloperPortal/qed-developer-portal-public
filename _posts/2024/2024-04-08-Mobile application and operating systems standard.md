@@ -2,7 +2,7 @@
 title: Mobile application and operating systems standard
 author: Joyclyn
 categories: [public]
-classification: Official (Everyone)
+classification: Public
 tags: [standards]
 date: 2024-04-08 01:25:35 
 likes: 0

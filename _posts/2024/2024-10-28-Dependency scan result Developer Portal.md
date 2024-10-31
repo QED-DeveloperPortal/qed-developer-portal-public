@@ -2,7 +2,7 @@
 title: "Dependency Scan Results - Developer Portal"
 author: jeny-amatya-qed
 categories: Public
-classification: Official (Everyone)
+classification: Public
 tags: [official,source-code]
 date: 2024-10-28 23:17:42 
 likes: 0

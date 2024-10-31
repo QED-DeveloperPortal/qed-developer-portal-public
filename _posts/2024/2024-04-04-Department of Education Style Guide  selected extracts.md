@@ -2,7 +2,7 @@
 title: Department of Education style guide (selected extracts)
 author: Joyclyn
 categories: [public]
-classification: Official (Everyone)
+classification: Public
 tags: [standards]
 date: 2024-04-04 03:57:01 
 updatedBy: Joyclyn

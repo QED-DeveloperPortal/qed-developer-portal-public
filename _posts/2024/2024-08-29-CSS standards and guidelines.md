@@ -2,7 +2,7 @@
 title: CSS standards and guidelines
 author: g-morton
 categories: [Public]
-classification: Official (Everyone)
+classification: Public
 tags: [standards]
 date: 2024-08-29 02:01:48 
 updatedBy: sushma-hazari

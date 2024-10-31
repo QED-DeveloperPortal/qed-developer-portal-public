@@ -2,7 +2,7 @@
 title: How to do Chatbot testing
 author: sushma-hazari-qed
 categories: [public]
-classification: Unofficial (Everyone)
+classification: Public
 tags: [ai]
 date: 2024-04-03 04:39:54 
 updatedBy: sushma-hazari-qed

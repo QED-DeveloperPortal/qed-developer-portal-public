@@ -2,7 +2,7 @@
 title: "Summary of ultralytics "
 author: jamatya
 categories: Public
-classification: Official (Everyone)
+classification: Public
 tags: [livedoc, repository]
 date: 2024-10-01 21:06:51
 likes: 0

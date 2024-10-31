@@ -2,7 +2,7 @@
 title: "LiveDoc Summary of Developer Portal"
 author: jeny-amatya-qed
 categories: Public
-classification: Official (Everyone)
+classification: Public
 tags: [livedoc, repository]
 date: 2024-10-28 23:49:29
 likes: 0

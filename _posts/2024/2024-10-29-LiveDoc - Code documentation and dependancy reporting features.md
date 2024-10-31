@@ -2,7 +2,7 @@
 title: "LiveDoc - Code documentation and dependancy reporting features"
 author: jeny-amatya-qed
 categories: Public
-classification: Official (Everyone)
+classification: Public
 tags: [ai,source-code]
 date: 2024-10-29 02:06:52 
 updatedBy: jeny-amatya-qed
