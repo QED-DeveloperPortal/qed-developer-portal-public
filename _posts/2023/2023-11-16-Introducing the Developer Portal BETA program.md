@@ -1,12 +1,12 @@
 ---
 title: "Introducing the Developer Portal BETA program"
 author: g-morton
-categories: public
+categories: [Public]
 classification: Official (Everyone)
 tags: [about]
 date: 2023-11-16 01:09:32 
-updatedBy: Joyclyn
-updated: 2024-07-14 22:39:25 
+updatedBy: jeny-amatya-qed
+updated: 2024-11-04 06:10:56 
 likes: 43
 ---
 
@@ -24,7 +24,6 @@ Data security is our top priority. Our team is conducting rigorous security and 
 
 ### Membership
 We want you to feel comfortable and empowered as you explore the portal. We encourage new members to join, onboard, and trial the site without any intimidation. This is your chance to engage, learn, and grow within a supportive community of tech enthusiasts.
-
 
 
 ## Why join the Developer Portal BETA?
