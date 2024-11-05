@@ -7,7 +7,7 @@ tags: [opinion,technology]
 date: 2023-02-03 12:00:00 
 updatedBy: jeny-amatya-qed
 updated: 2023-05-08 06:09:18 
-likes: 2
+likes: 3
 ---
 
 ## Create the Azure KeyVault
