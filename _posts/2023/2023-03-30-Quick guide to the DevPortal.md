@@ -7,7 +7,7 @@ tags: [opinion,getting-started,about]
 date: 2023-03-30 01:04:10 
 updatedBy: jeny-amatya-qed
 updated: 2024-10-10 02:44:51 
-likes: 16
+likes: 17
 ---
 
 ### What is a Developer Portal?
