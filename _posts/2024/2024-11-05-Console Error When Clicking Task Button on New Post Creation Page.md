@@ -5,7 +5,7 @@ categories: Public
 classification: Public
 tags: [opinion]
 date: 2024-11-05 01:45:45 
-likes: 1
+likes: 2
 ---
 
 * [ ] Console 
