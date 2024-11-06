@@ -7,7 +7,7 @@ tags: [opinion,getting-started]
 date: 2023-05-15 05:32:50 
 updatedBy: jeny-amatya-qed
 updated: 2024-06-13 01:56:52 
-likes: 4
+likes: 5
 ---
 
 There are two types of tags in the Developer Portal.
