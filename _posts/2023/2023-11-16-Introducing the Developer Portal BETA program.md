@@ -1,12 +1,12 @@
 ---
-title: Introducing the Developer Portal BETA program
+title: "Introducing the Developer Portal BETA program..."
 author: g-morton
-categories: [Public]
+categories: Public
 classification: Public
-tags: [about]
+tags: [opinion,about]
 date: 2023-11-16 01:09:32 
-updatedBy: Joyclyn
-updated: 2024-07-14 22:39:25 
+updatedBy: jamatya
+updated: 2024-11-11 03:23:09 
 likes: 43
 ---
 
