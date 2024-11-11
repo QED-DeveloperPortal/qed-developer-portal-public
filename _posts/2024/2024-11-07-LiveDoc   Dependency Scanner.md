@@ -6,7 +6,7 @@ classification: Public
 tags: [opinion,architecture]
 date: 2024-11-07 06:47:56 
 updatedBy: andrew
-updated: 2024-11-11 03:56:20 
+updated: 2024-11-11 23:26:19 
 likes: 0
 ---
 
@@ -37,3 +37,7 @@ Generates list of project contributors by parsing the root README.md files and p
 **LiveDoc Authentication**
 
 In order to generate a LiveDoc report for a repo one must have an access token that is approved by that repo.
+
+**DevPortal Permissions**
+
+LiveDoc and Dependency Scanner are only available via the Admin menu in DevPortal which is only available to users who have been granted the admin role.
