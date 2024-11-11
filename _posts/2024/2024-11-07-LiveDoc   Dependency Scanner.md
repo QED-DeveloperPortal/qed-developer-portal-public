@@ -6,7 +6,7 @@ classification: Public
 tags: [opinion,architecture]
 date: 2024-11-07 06:47:56 
 updatedBy: andrew
-updated: 2024-11-10 23:15:27 
+updated: 2024-11-11 03:56:20 
 likes: 0
 ---
 
@@ -15,6 +15,10 @@ likes: 0
 Dependency Scanner is a tool for internal QED use.
 
 It is used to create a report of dependencies for internally developed source code.
+
+**Dependency Scanner Authentication**
+
+In order to generate a Dependency Scanner report for a repo one must have an access token that is approved by that repo.
 
 **LiveDoc**
 
@@ -30,5 +34,6 @@ LiveDoc also attempts extract developer notes from code comments and the README.
 
 Generates list of project contributors by parsing the root README.md files and pull requests in a project.
 
+**LiveDoc Authentication**
 
-
+In order to generate a LiveDoc report for a repo one must have an access token that is approved by that repo.
