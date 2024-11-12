@@ -6,7 +6,7 @@ classification: Public
 tags: [opinion,architecture]
 date: 2024-11-07 04:55:26 
 updatedBy: andrew
-updated: 2024-11-12 22:22:04 
+updated: 2024-11-12 22:44:57 
 likes: 0
 ---
 
@@ -28,6 +28,7 @@ APIs are exposed via the URI [https://devportal-functions.azurewebsites.net](htt
 
 **Security**
 
-TBD
+APIs are secured by the same AAD B2C configuration as used for the main DevPortal website.
+
 
 ~~~~
