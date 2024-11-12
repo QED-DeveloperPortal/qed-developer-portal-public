@@ -1,5 +1,5 @@
 ---
-title: How to add a new post in a jekyll site
+title: "How to add a new post in a jekyll site?"
 author: jeny-amatya-qed
 categories: [public]
 classification: Public

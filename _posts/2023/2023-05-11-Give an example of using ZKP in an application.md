@@ -1,5 +1,5 @@
 ---
-title: Give an example of using ZKP in an application
+title: "Give an example of using ZKP in an application"
 author: andrew
 categories: [public]
 classification: Public

@@ -1,5 +1,5 @@
 ---
-title: Why enterprise architecture matters
+title: "Why enterprise architecture matters?"
 author: g-morton
 categories: [Public]
 classification: Public

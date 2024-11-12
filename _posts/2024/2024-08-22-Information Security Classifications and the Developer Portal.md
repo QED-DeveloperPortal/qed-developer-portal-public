@@ -1,12 +1,12 @@
 ---
-title: Information security classifications on the Developer Portal
+title: "Information security classifications on the Developer Portal"
 author: g-morton
 categories: [Public]
 classification: Public
 tags: [standards,getting-started]
 date: 2024-08-22 01:21:44 
-updatedBy: Joyclyn
-updated: 2024-08-23 05:23:12 
+updatedBy: g-morton
+updated: 2024-10-03 04:43:24 
 likes: 1
 ---
 
@@ -18,24 +18,27 @@ Our Developer Portal is designed to facilitate collaboration and information sha
 
 Here's a breakdown of the classifications we support:
 
-- **UNOFFICIAL**:  
-Although it's not a formal departmental classification, we have added UNOFFICIAL to cover all personal, community, and conversational posts. UNOFFICIAL posts can be created by portal members and viewed by anyone, including guests to the site. It’s ideal for sharing ideas, opinions, experiences and recommendations that are not necessarily official departmental standards or policies.
-
 - **OFFICIAL**:  
-We use this classification for departmental standards, policies, guidelines and similar documents. Only department staff can create OFFICIAL posts. These posts are accessible to everyone, including guests, ensuring that critical information is widely available.
+The Developer Portal is a departmental initiative, classified as an OFFICIAL source for information and collaboration. It offers a wide range of content, including recommendations, best practices, trend alerts, opinions, tips, and ideas, all shared in the spirit of collaboration.
+
+- **OFFICIAL Standards**:  
+The 'Standards' tag is used to highlight departmental standards, policies, and guidelines. Only department staff can create OFFICIAL posts with this tag. However, these posts are typically accessible to everyone, including guests, ensuring critical information is widely available.
 
 - **SENSITIVE**:  
- This classification applies to information with a medium level of sensitivity, accessible only to authorised personnel on a need-to-know basis. On the portal, SENSITIVE posts can only be viewed by departmental staff. This classification helps protect information that, if improperly released, could cause limited harm to individuals or the department.
+This classification applies to information with a medium level of sensitivity, accessible only to authorised personnel on a need-to-know basis. SENSITIVE posts on the portal are restricted to departmental staff, helping protect information that could cause limited harm to individuals or the department if improperly disclosed.
+
+
 
 ### Moderation and specialist review
 
-All submissions to the Developer Portal, regardless of classification, will be strictly moderated, to ensure they meet our standards. Additionally, posts containing specialist information, such as cyber security, information security, and enterprise architecture, may be subject to further review by departmental subject matter experts before being published. This ensures that all content is accurate, relevant, and appropriately handled according to its classification.
+All submissions to the Developer Portal, regardless of classification, will be strictly moderated, to ensure they meet our quality and privacy standards. Additionally, posts containing specialist information, such as cyber security, information security, and enterprise architecture, may be subject to further review by departmental subject matter experts before being published. This ensures that all content is accurate, relevant, and appropriately handled according to its classification.
 
 ### Key points to remember
-- **UNOFFICIAL** content is accessible to all and is ideal for community-driven discussions.
-- **OFFICIAL** content is restricted to departmental standards and is accessible to all users.
-- **SENSITIVE** content is restricted to departmental staff only and must be handled with additional care.
-- **PROTECTED** content is not supported on the Developer Portal.
+- **OFFICIAL** Accessible to all users, suitable for community discussions and developer collaboration.
+- **OFFICIAL Standards** Restricted to departmental standards, posted only by approved Government staff. Typically available to all Developer Portal users.
+- **SENSITIVE** Accessible to departmental staff only, requiring extra care in handling.
+- **PROTECTED** Not supported on the Developer Portal.
+- **Moderation** All content is moderated before publication, regardless of classification.
 
 By adhering to these classifications and processes, we can ensure that all information shared here is appropriate for its intended audience and securely managed.
 

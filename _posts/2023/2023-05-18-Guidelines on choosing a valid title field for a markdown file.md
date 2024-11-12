@@ -1,5 +1,5 @@
 ---
-title: How to choose a valid title for your post
+title: "Choosing a suitable title for your post"
 author: jeny-amatya-qed
 categories: [Public]
 classification: Public

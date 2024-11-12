@@ -1,5 +1,5 @@
 ---
-title: Configuring advanced setup for code scanning with CodeQL
+title: "Configuring advanced setup for code scanning with CodeQL"
 author: matt
 categories: [public]
 classification: Public
