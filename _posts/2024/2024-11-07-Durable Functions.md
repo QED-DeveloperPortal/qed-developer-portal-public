@@ -6,7 +6,7 @@ classification: Public
 tags: [opinion,architecture]
 date: 2024-11-07 04:55:26 
 updatedBy: andrew
-updated: 2024-11-12 23:41:13 
+updated: 2024-11-12 23:42:39 
 likes: 0
 ---
 
@@ -31,7 +31,7 @@ APIs are exposed via the URI [https://devportal-functions.azurewebsites.net](htt
 
 **Security**
 
-APIs are secured by the same Microsoft Entra configuration as used for the main DevPortal website.
+APIs are secured by the same Microsoft Entra/AAD B2C configuration as used for the main DevPortal website.
 
 
 ~~~~
