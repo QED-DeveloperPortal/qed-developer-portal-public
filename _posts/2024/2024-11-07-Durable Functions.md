@@ -6,9 +6,11 @@ classification: Public
 tags: [opinion,architecture]
 date: 2024-11-07 04:55:26 
 updatedBy: andrew
-updated: 2024-11-12 23:42:39 
+updated: 2024-11-12 23:46:37 
 likes: 0
 ---
+
+**Overview**
 
 Durable Functions are Azure Functions that enable you to run stateful functions in a serverless environment without extra configuration cognitive overhead for the developer.
 
