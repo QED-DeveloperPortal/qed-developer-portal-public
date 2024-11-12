@@ -6,18 +6,18 @@ classification: Public
 tags: [opinion,architecture,ai]
 date: 2024-11-07 06:53:28 
 updatedBy: andrew
-updated: 2024-11-12 23:14:59 
+updated: 2024-11-12 23:48:52 
 likes: 0
 ---
 
 Users are able to have natural language conversations with the DevPortal site, mock QED APIs and site content via an AI Chatbot.
 
-
+<br><br>
 **Azure Open AI**
 
 A Chat Completions model and an Embeddings model are configured in Azure Open AI Studio. This configuration can be accessed at [https://oai.azure.com/resource/deployments](https://oai.azure.com/resource/deployments).
 
-
+<br><br>
 **Semantic Kernel Integration**
 
 Microsoft's Semantic Kernel has been integrated into the AI Chatbot to enable users to interact with the QED APIs through natural language.  The Semantic Kernel capability has been gleaned from the Microsoft Copilot Chat sample at [https://github.com/microsoft/chat-copilot](https://github.com/microsoft/chat-copilot).
@@ -36,7 +36,7 @@ SEMANTIC_KERNEL_FRONTEND_SECRET
 
 For Semantic Kernel to work inside Azure, two Entra App Registrations are required. SP-DeveloperportalBE-Dev is the backend App Registration, while SP-DeveloperportalFE-Dev is the frontend App Registration. These are configured as per instructions on the page [https://github.com/microsoft/chat-copilot/tree/main/scripts/deploy](https://github.com/microsoft/chat-copilot/tree/main/scripts/deploy).
 
-
+<br><br>
 **Live~~~~Doc and Dependency Scanner**
 
 The same Azure Open AI service as used by the Chatbot is also used on occasion by the LiveDoc and Dependency Scanner tools to summarise text contained within the target repos.
