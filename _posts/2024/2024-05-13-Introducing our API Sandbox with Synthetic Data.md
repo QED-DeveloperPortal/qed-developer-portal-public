@@ -1,9 +1,9 @@
 ---
 title: "Introducing our API Sandbox with synthetic data"
 author: g-morton
-categories: public
-classification: Unofficial (Everyone)
-tags: [getting-started,api,data hub]
+categories: [Public]
+classification: Public
+tags: [getting-started,api,data-hub]
 date: 2024-05-13 01:51:40 
 updatedBy: Joyclyn
 updated: 2024-07-14 22:21:52 

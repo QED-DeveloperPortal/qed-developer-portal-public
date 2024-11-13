@@ -1,8 +1,8 @@
 ---
 title: "Retrieving GitHub repo metrics using Octokit and C#"
 author: jeny-amatya-qed
-categories: public
-classification: Unofficial (Everyone)
+categories: [Public]
+classification: Public
 tags: [technology]
 date: 2024-07-16 02:41:02 
 updatedBy: Joyclyn

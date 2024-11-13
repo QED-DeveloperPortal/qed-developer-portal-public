@@ -1,13 +1,13 @@
 ---
 title: "Quick guide to the Developer Portal"
 author: jeny-amatya-qed
-categories: public
-classification: Official (Everyone)
-tags: [getting-started,about]
+categories: Public
+classification: Public
+tags: [opinion,getting-started,about]
 date: 2023-03-30 01:04:10 
-updatedBy: Joyclyn
-updated: 2024-07-16 00:05:42 
-likes: 15
+updatedBy: jeny-amatya-qed
+updated: 2024-10-10 02:44:51 
+likes: 18
 ---
 
 ### What is a Developer Portal?
@@ -34,7 +34,7 @@ At the top of each page you'll find some useful links:
 
 ### Have you signed up?
 
-To sign up as a new user to developer portal, follow the steps at [How to join](https://developer.qed.qld.gov.au/public/How-to-join/).
+To sign up as a new user to developer portal, follow the steps at [How to join](/public/How-to-join/).
 
 ### Getting started
 Here are some useful resources to get you started:

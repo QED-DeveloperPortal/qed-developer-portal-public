@@ -1,8 +1,8 @@
 ---
 title: "Tips for transitioning to scrum"
 author: jeny-amatya-qed
-categories: public
-classification: Unofficial (Everyone)
+categories: [Public]
+classification: Public
 tags: [agile]
 date: 2024-07-16 02:39:00 
 updatedBy: Joyclyn

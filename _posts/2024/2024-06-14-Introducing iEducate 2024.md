@@ -1,13 +1,13 @@
 ---
-title: "Introducing i-Educate 2024"
+title: Introducing iEducate 2024
 author: g-morton
-categories: public
-classification: Unofficial (Everyone)
-tags: [about]
+categories: Public
+classification: Public
+tags: [opinion,about]
 date: 2024-06-14 00:54:43 
 updatedBy: Joyclyn
 updated: 2024-07-16 05:57:28 
-likes: 0
+likes: 2
 ---
 
 > Please join then [Sign our guest book](mailto:developerportal@qed.qld.gov.au?subject=i-Educate%20Guest%20Book) so we can follow-up with your interest.

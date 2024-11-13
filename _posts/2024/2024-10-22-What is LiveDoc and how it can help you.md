@@ -2,7 +2,7 @@
 title: "How LiveDoc can help you"
 author: matt
 categories: [Public]
-classification: Official (Everyone)
+classification: Public
 tags: [ai]
 date: 2024-10-22 05:00:10 
 updatedBy: Joyclyn

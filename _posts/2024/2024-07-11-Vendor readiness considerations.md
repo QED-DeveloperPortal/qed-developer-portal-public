@@ -1,8 +1,8 @@
 ---
 title: "Vendor readiness considerations"
 author: jeny-amatya-qed
-categories: public
-classification: Unofficial (Everyone)
+categories: [Public]
+classification: Public
 tags: [getting-started]
 date: 2024-07-11 04:46:12 
 updatedBy: Joyclyn

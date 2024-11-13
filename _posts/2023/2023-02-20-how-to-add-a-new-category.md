@@ -1,8 +1,8 @@
 ---
 title: "How to add a new category in a Jekyll site?"
 author: jeny-amatya-qed
-categories: public
-classification: Unofficial (Everyone)
+categories: [public]
+classification: Public
 tags: [technology]
 date: 2023-05-08 06:10:26
 updatedBy: Joyclyn

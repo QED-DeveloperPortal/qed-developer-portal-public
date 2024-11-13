@@ -1,8 +1,8 @@
 ---
 title: "Using AI to build API driven apps"
 author: andrew
-categories: public
-classification: Unofficial (Everyone)
+categories: [Public]
+classification: Public
 tags: [ai,api,trending,opinion]
 date: 2024-09-03 05:16:52 
 updatedBy: jeny-amatya-qed

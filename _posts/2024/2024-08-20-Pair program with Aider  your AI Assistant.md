@@ -1,8 +1,8 @@
 ---
 title: "Pair programming with Aider AI"
 author: andrew
-categories: public
-classification: Unofficial (Everyone)
+categories: [Public]
+classification: Public
 tags: [ai,opinion]
 date: 2024-08-20 22:07:56 
 updatedBy: jeny-amatya-qed

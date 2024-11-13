@@ -1,8 +1,8 @@
 ---
 title: "What is MPC and how might I use it?"
 author: andrew
-categories: public
-classification: Unofficial (Everyone)
+categories: [public]
+classification: Public
 tags: [privacy]
 date: 2023-05-11 01:26:26
 likes: 0

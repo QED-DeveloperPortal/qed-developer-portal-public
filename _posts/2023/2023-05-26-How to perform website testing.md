@@ -1,8 +1,8 @@
 ---
 title: "Testing tips for quality websites"
 author: sushma-hazari-qed
-categories: public
-classification: Unofficial (Everyone)
+categories: [public]
+classification: Public
 tags: [web,quality-assurance]
 date: 2023-05-26 05:49:29 
 updatedBy: Sushma Hazari

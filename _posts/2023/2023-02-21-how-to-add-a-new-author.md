@@ -1,8 +1,8 @@
 ---
 title: "How to add a new author in a Jekyll site?"
 author: jeny-amatya-qed
-categories: public
-classification: Unofficial (Everyone)
+categories: [public]
+classification: Public
 tags: [technology]
 date: 2023-03-06 23:00:00
 updatedBy: jeny-amatya-qed

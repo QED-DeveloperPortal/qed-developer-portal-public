@@ -1,8 +1,8 @@
 ---
 title: "Thoughts on AI"
 author: sushma-hazari-qed
-categories: public
-classification: Unofficial (Everyone)
+categories: [public]
+classification: Public
 tags: [technology,ai,opinion]
 date: 2023-06-20 01:01:48 
 updatedBy: Joyclyn

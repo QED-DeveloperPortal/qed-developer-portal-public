@@ -2,8 +2,8 @@
 
 title: "Building a strong foundation for Agile Success"
 author: jeny-amatya-qed
-categories: public
-classification: Unofficial (Everyone)
+categories: [public]
+classification: Public
 tags: [technology,agile]
 date: 2023-06-13 23:23:51
 likes: 0

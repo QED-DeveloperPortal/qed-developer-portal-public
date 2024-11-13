@@ -1,8 +1,8 @@
 ---
 title: "Testing Chatbots"
 author: sushma-hazari-qed
-categories: public
-classification: Unofficial (Everyone)
+categories: [public]
+classification: Public
 tags: [ai]
 date: 2024-04-03 04:39:54 
 updatedBy: sushma-hazari-qed

@@ -1,8 +1,8 @@
 ---
 title: "Department of Education Style Guide: Selected extracts"
 author: Joyclyn
-categories: public
-classification: Official (Everyone)
+categories: [public]
+classification: Public
 tags: [standards]
 date: 2024-04-04 03:57:01 
 updatedBy: Joyclyn

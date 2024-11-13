@@ -1,8 +1,8 @@
 ---
 title: "Choosing a suitable title for your post"
 author: jeny-amatya-qed
-categories: public
-classification: Official (Everyone)
+categories: [Public]
+classification: Public
 tags: [getting-started,faq]
 date: 2023-05-18 00:27:58 
 updatedBy: jeny-amatya-qed

@@ -2,7 +2,7 @@
 title: "Style guide cheat sheet"
 author: Joyclyn
 categories: public
-classification: Unofficial (Everyone)
+classification: Public
 tags: [auto-import]
 date: 2024-10-10 05:22:16
 likes: 0
