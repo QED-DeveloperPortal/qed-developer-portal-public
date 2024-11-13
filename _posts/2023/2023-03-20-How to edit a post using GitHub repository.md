@@ -1,12 +1,12 @@
 ---
 title: "How to update existing content using the GitHub repository?"
 author: jeny-amatya-qed
-categories: [Public]
+categories: Public
 classification: Public
-tags: [getting-started]
+tags: [opinion,getting-started]
 date: 2023-03-20 01:38:13 
-updatedBy: Joyclyn
-updated: 2024-07-16 05:02:35 
+updatedBy: jeny-amatya-qed
+updated: 2024-11-13 06:06:02 
 likes: 0
 ---
 
@@ -17,7 +17,7 @@ This post provides step-by-step guidance on how to update an existing post in th
 ### Step 1
 In the header of each post, you'll see there are two ways to update it. 
 
-If you want to edit the post using the inline editing tool, click on the link 'Edit'. The detailed steps for this are available [here](/internal/How-to-edit-an-existing-post-in-Developer-Portal/).
+If you want to edit the post using the inline editing tool, click on the link 'Edit'. The detailed steps for this are available [here](/public/How-to-edit-an-existing-post-in-Developer-Portal/).
 
 If you want to edit the post using the GitHub repository, click on the link 'GitHub edit'.
 
