@@ -1,5 +1,5 @@
 ---
-title: Quick guide to the Developer Portal
+title: "Quick guide to the Developer Portal"
 author: jeny-amatya-qed
 categories: [Public]
 classification: Public

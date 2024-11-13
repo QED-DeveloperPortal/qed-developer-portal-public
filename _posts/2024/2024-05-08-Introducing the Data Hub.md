@@ -1,5 +1,5 @@
 ---
-title: Introducing the Data Hub
+title: "Introducing the Data Hub"
 author: g-morton
 categories: [Public]
 classification: Public

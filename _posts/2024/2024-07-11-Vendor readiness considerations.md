@@ -1,5 +1,5 @@
 ---
-title: Vendor readiness considerations
+title: "Vendor readiness considerations"
 author: jeny-amatya-qed
 categories: [Public]
 classification: Public

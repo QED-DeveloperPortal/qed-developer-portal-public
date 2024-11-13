@@ -1,5 +1,5 @@
 ---
-title: Information privacy and right to information procedure
+title: "Information privacy and right to information procedure"
 author: g-morton
 categories: [public]
 classification: Public

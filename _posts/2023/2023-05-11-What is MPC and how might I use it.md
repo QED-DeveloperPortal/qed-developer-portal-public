@@ -1,5 +1,5 @@
 ---
-title: What is MPC and how might I use it?
+title: "What is MPC and how might I use it?"
 author: andrew
 categories: [public]
 classification: Public

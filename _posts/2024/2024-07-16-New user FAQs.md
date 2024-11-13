@@ -1,10 +1,12 @@
 ---
-title: New user FAQs
+title: "New user FAQs"
 author: Joyclyn
 categories: [Public]
 classification: Public
 tags: [getting-started,about]
 date: 2024-07-16 05:26:17 
+updatedBy: Joyclyn
+updated: 2024-10-16 02:43:44 
 likes: 2
 ---
 
@@ -20,9 +22,7 @@ To create a new post, follow the steps in [this post](/public/How-to-add-a-new-p
 To suggest changes to an existing post, follow the steps in [this post](/public/How-to-edit-an-existing-post-in-Developer-Portal/).
 <br>
 
-##### ... add a tag to a post?
-Follow the steps in the post called [How to add a tag in the Developer Portal](/public/How-to-add-a-pre-defined-tag-in-DevPortal/).
-<br>
+
 
 ##### ... find out what access levels the portal has (and what role I have)? 
 This post called [Role based access mapping](/public/Role-based-access-mapping-in-Developer-Portal/) displays a table with the various roles available and corresponding access.

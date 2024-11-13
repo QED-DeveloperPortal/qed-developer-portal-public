@@ -1,5 +1,5 @@
 ---
-title: Encouraging agile adoption fostering agility in your organisation
+title: "Encouraging agility"
 author: jeny-amatya-qed
 categories: [Public]
 classification: Public

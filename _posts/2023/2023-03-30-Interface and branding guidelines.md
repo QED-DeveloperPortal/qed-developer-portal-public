@@ -1,5 +1,5 @@
 ---
-title: Interface and branding guidelines
+title: "Interface and branding guidelines"
 author: jeny-amatya-qed
 categories: [public]
 classification: Public

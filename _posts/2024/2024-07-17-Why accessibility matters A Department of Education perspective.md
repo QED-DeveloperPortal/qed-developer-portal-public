@@ -1,5 +1,5 @@
 ---
-title: A Department of Education perspective on why accessibility matters
+title: "A Department of Education perspective on why accessibility matters"
 author: g-morton
 categories: [Public]
 classification: Public

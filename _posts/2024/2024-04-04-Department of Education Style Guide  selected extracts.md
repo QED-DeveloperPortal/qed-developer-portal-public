@@ -1,5 +1,5 @@
 ---
-title: Department of Education style guide (selected extracts)
+title: "Department of Education Style Guide: Selected extracts"
 author: Joyclyn
 categories: [public]
 classification: Public

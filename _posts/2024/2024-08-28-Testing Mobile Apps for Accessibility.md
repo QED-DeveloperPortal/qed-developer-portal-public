@@ -1,5 +1,5 @@
 ---
-title: Testing mobile apps for accessibility
+title: "Testing mobile application accessibility"
 author: sushma-hazari-qed
 categories: [Public]
 classification: Public

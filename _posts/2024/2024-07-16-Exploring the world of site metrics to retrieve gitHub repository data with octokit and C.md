@@ -1,5 +1,5 @@
 ---
-title: Exploring the world of site metrics to retrieve GitHub repository data with Octokit and C#
+title: "Retrieving GitHub repo metrics using Octokit and C#"
 author: jeny-amatya-qed
 categories: [Public]
 classification: Public
