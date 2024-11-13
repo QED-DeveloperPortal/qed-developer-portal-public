@@ -1,10 +1,6 @@
 ---
-title: "Introducing iEducate 2024444"
-title: "Introducing iEducate 2024"
+title: Introducing iEducate 2024
 author: g-morton
-categories: Public
-classification: Public
-tags: [opinion,about]
 categories: Public
 classification: Public
 tags: [opinion,about]

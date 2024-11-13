@@ -1,5 +1,5 @@
 ---
-title: Personal information guideline
+title: "Personal information guideline"
 author: g-morton
 categories: [public]
 classification: Public

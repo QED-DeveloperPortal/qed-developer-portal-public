@@ -1,5 +1,5 @@
 ---
-title: How to join
+title: "How to join"
 author: jeny-amatya-qed
 categories: [Public]
 classification: Public

@@ -1,5 +1,5 @@
 ---
-title: Mobile application and operating systems standard
+title: "Mobile application and operating systems standard"
 author: Joyclyn
 categories: [public]
 classification: Public

@@ -1,13 +1,13 @@
 ---
-title: "What is LiveDoc and how it can help you"
+title: "How LiveDoc can help you"
 author: matt
-categories: Public
+categories: [Public]
 classification: Public
-tags: [opinion,ai]
-date: 2024-10-24 00:14:58 
-updatedBy: jeny-amatya-qed
-updated: 2024-10-29 02:48:47 
-likes: 0
+tags: [ai]
+date: 2024-10-22 05:00:10 
+updatedBy: Joyclyn
+updated: 2024-10-29 22:42:58 
+likes: 1
 ---
 
 # What is LiveDoc and how it can help you
@@ -57,7 +57,7 @@ LiveDoc is designed to be used as both a **headless API** and through the **QED 
 LiveDoc’s configuration can be managed directly through the **admin panel** on the QED Developer Portal, allowing users to:
 
 - **Add or remove repositories to scan:** Add new repositories or remove outdated ones from the scanning list.
-- **Modify repositories to scan:** Change the configuration values for existing respositories in the list.
+- **Modify repositories to scan:** Change the configuration values for existing repositories in the list.
 
 
 ## Feature gaps in the existing implementation
@@ -65,12 +65,7 @@ The existing implementation of the LiveDoc tool still has some features that hav
 - **Trigger LiveDoc:** Initiate a scan directly from the Admin site on the QED Developer Portal.
 - **Set schedules:** Define custom schedules for scanning based on the project’s requirements. Scheduling LiveDoc is an important part of the document generation as it ensures the projects documentation is always current and reflection of the existing state of the project.
 - **View Reports:** Access a history of generated markdown documents, with insights into changes made over time.
-- **Manage API keys:** Generate and manage API keys to maintain secure access. Whilst this functionality already exists in the Admin site on the QED Developer Portal, the LiveDoc Apis are secured by a different mechanism.
-
-
-## LiveDoc - Code documentation and dependency reporting features
-You can find more information on dependency scanning tool [here](https://devportal-functions.azurewebsites.net/api/DependencyScanningFunction).
+- **Manage API keys:** Generate and manage API keys to maintain secure access. Whilst this functionality already exists in the Admin site on the QED Developer Portal, the LiveDoc APIs are secured by a different mechanism.
 
 ## Links to LiveDoc samples
-- [LiveDoc summary of Developer Portal](https://ambitious-pond-0f5283f00-dev.eastasia.3.azurestaticapps.net/public/LiveDoc_Summary_of_Developer_Portal/)
-- [Dependency scan results of Developer Portal](https://ambitious-pond-0f5283f00-dev.eastasia.3.azurestaticapps.net/public/Dependency-scan-result-Developer-Portal/)
+- To be added in future

@@ -1,5 +1,5 @@
 ---
-title: Understanding Definition of Done (DOD)  When is it really done
+title: "Agile Definition of Done - Is it really done?"
 author: jeny-amatya-qed
 categories: [public]
 classification: Public

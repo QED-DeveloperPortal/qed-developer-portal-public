@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Developer Portal Early Bird developers!
+title: "Welcome to the Developer Portal Early Bird developers!"
 author: g-morton
 categories: [Public]
 classification: Public

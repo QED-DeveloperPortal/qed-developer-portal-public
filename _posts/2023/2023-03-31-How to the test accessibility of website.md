@@ -1,9 +1,9 @@
 ---
-title: How to test the accessibility of a website
+title: "Testing website accessibility"
 author: sushma-hazari-qed
 categories: [public]
 classification: Public
-tags: [accessibility]
+tags: [accessibility,opinion]
 date: 2023-03-31 05:52:09
 updatedBy: sushma-hazari-qed
 updated: 2023-05-23 00:22:29

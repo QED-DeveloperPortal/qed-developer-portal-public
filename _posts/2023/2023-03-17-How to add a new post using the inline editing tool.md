@@ -1,5 +1,5 @@
 ---
-title: How to publish new content using inline editor in Developer Portal
+title: "How to publish new content using inline editor in Developer Portal?"
 author: jeny-amatya-qed
 categories: [Public]
 classification: Public
