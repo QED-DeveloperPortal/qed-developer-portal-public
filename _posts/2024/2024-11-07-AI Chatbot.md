@@ -6,7 +6,7 @@ classification: Public
 tags: [opinion,architecture,ai]
 date: 2024-11-07 06:53:28 
 updatedBy: andrew
-updated: 2024-11-13 22:04:01 
+updated: 2024-11-13 22:26:31 
 likes: 0
 ---
 
@@ -34,6 +34,6 @@ SEMANTIC_KERNEL_FRONTEND_SECRET
 
 For Semantic Kernel to work inside Azure, two Entra App Registrations are required. SP-DeveloperportalBE-Dev is the backend App Registration, while SP-DeveloperportalFE-Dev is the frontend App Registration. These are configured as per instructions on the page [https://github.com/microsoft/chat-copilot/tree/main/scripts/deploy](https://github.com/microsoft/chat-copilot/tree/main/scripts/deploy).
 
-### Live~~~Doc and Dependency Scanner
+### LiveDoc and Dependency Scanner
 
 The same Azure Open AI service as used by the Chatbot is also used on occasion by the LiveDoc and Dependency Scanner tools to summarise text contained within the target repos.
