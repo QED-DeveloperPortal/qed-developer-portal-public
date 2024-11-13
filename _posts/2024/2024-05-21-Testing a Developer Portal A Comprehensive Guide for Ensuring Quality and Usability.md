@@ -3,7 +3,7 @@ title: "Case study - Quality assurance and the Developer Portal"
 author: sushma-hazari-qed
 categories: public
 tags: [quality-assurance,case-study]
-classification: Unofficial (Everyone)
+classification: Public
 date: 2024-05-21 03:56:30 
 updatedBy: Joyclyn
 updated: 2024-06-04 04:44:34 
