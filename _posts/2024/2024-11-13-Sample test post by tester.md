@@ -12,8 +12,6 @@ There are two types of tags in the DevPortal site.
 
 Pre-defined tags
 
-User defined tags
-
 Pre-defined tags
 
 These tags need to be specified in the tags.yml file. For example, a tag named ‘accessibility’ has been defined in this yml file shown as below.
