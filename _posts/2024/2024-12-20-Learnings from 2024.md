@@ -5,24 +5,24 @@ categories: Public
 classification: Public
 tags: [opinion,agile,technology,about]
 date: 2024-12-20 01:05:09 
+updatedBy: Joyclyn
+updated: 2025-01-08 03:06:18 
 likes: 0
 ---
 
-
-
-### The Power of the Beta tag
+### The power of the beta tag
 
 The Developer Portal enjoys the unique privilege of not connecting to any production database or storing personal data. This freedom, rare in our department, allows us to innovate boldly and 'practice what we preach': developing quickly, experimenting, incrementing through micro-deployments, and embracing imperfection. In essence, we choose to be vulnerable.
 
-Now, I realise "vulnerable" and "software" in the same sentence might send a chill down the spine. Rest assured, I’m not referring to cybersecurity here. Our team rigorously adheres to modern “security-by-design” principles. Instead, I mean being open about our journey and outcomes.
+Now, I realise 'vulnerable' and 'software' in the same sentence might send a chill down the spine. Rest assured, I’m not referring to cybersecurity here. Our team rigorously adheres to modern 'security-by-design' principles. Instead, I mean being open about our journey and outcomes.
 
-We made an intentional choice early on to brand the site prominently with a “Beta” tag—a first for a Department of Education site, as far as I know. But what does this tag really signify?
+We made an intentional choice early on to brand the site prominently with a 'Beta' tag—a first for a Department of Education site, as far as I know. But what does this tag really signify?
 
 It doesn’t mean we’re neglecting testing. In true Agile fashion, every feature undergoes rigorous evaluation within its sprint. Nor does it imply reckless deployment. Our branch management ensures tight control over what gets published and when. Micro-deployments are so seamless that most changes pass unnoticed—and rollback, while rarely needed, is just a button press away.
 
-Instead, the Beta tag is a statement: **We’re still listening, still learning.**
+Instead, the beta tag is a statement: **We’re still listening, still learning.**
 
-Our journey began with a small group of internal developers, and we’ve been widening our audience ever since. With every step, we proudly declare, “Hey, we’re in Beta—what can we do for you?” There’s something precious and powerful in trusting our users and staying vulnerable to their needs. I hope we remain vulnerable for as long as possible.
+Our journey began with a small group of internal developers, and we’ve been widening our audience ever since. With every step, we proudly declare, 'Hey, we’re in beta—what can we do for you?' There’s something precious and powerful in trusting our users and staying vulnerable to their needs. I hope we remain vulnerable for as long as possible.
 
 ---
 
@@ -43,32 +43,32 @@ But hey, don’t take my word for it. You must build your own journey. Cultivate
 
 ---
 
-### Projects, Patterns, and Possibilities
+### Projects, patterns and possibilities
 
-This year, our team has “pivoted” more than a few times. ("Pivoting," of course, being code for hitting an issue and quickly changing one's mind before anyone has time to assign blame.)
+This year, our team has 'pivoted' more than a few times. ('Pivoting', of course, being code for hitting an issue and quickly changing one's mind before anyone has time to assign blame.)
 
-We’ve learned to pivot faster and on smaller issues, freeing ourselves to be daring, to experiment, and to adapt. Minor changes, like moving a button or adding a menu item, have become trivial in this space of constant iteration. However, bigger changes, like restructuring databases or swapping PaaS/SaaS platforms, still demand caution. My advice? Make your big mistakes early.
+We’ve learned to pivot faster and on smaller issues, freeing ourselves to be daring, to experiment and to adapt. Minor changes, like moving a button or adding a menu item, have become trivial in this space of constant iteration. However, bigger changes, like restructuring databases or swapping PaaS/SaaS platforms, still demand caution. My advice? Make your big mistakes early.
 
-A key realisation for me this year is the accelerating pace of change. User expectations soar, technologies abstract ever further, and the rate of transformation can be dizzying. Earlier this year, I built a small solution for a personal project using ChatGPT as my coding partner. By iteration three, I realised I should let the LLM handle all the code while I focused solely on business logic. Toward the end, I stopped even glancing at the generated code. It was clean, elegant, and—most importantly—functional. And I was just slowing it down.
+A key realisation for me this year is the accelerating pace of change. User expectations soar, technologies abstract ever further, and the rate of transformation can be dizzying. Earlier this year, I built a small solution for a personal project using ChatGPT as my coding partner. By iteration there, I realised I should let it handle all the code while I focused solely on business logic. Toward the end, I stopped even glancing at the generated code. It was clean, elegant, and—most importantly—functional. And I was just slowing it down.
 
 While I’m not ready to advocate for removing humans from technology entirely, I do believe we should get out of its way as much as possible. Leverage boilerplates, rinse through AI tools, and deploy via pipelines. **Code is now disposable.** Build for today; as tomorrow will take care of itself.
 
-This raises a contentious question: what about tech debt? But isn't tech debt just technology’s way of saying, “Hey, you left me alone too long”?\
+This raises a contentious question: what about tech debt? But isn't tech debt just technology’s way of saying, 'Hey, you left me alone too long'?\
 Don't leave your product alone. It still needs you.
 
 ---
 
-### The Role of the Architect
+### The role of the architect
 
-This year, I’ve worked closely with the Enterprise Architecture team, both to ensure governance for the Developer Portal and to surface their excellent compliance work. Together, we’ve built Beta tools to try and make this knowledge more accessible.
+This year, I’ve worked closely with the enterprise architecture team, both to ensure governance for the Developer Portal and to surface their excellent compliance work. Together, we’ve built beta tools to try and make this knowledge more accessible.
 
 These experiences have prompted me to reflect: what is the role of the technology architect in 2024 and beyond? Traditionally, architecture guided project development and identified reusable patterns. But as technology evolves, patterns feel less like blessings and more like burdens. They can create a false sense of completion when, in reality, solutions demand ongoing care.
 
-“Pouring concrete” on an enterprise pattern risks creating tech debt at scale. Instead, architecture must look forward, carving new pathways and embracing the unknown. Architects should be futurists, not wardens.
+'Pouring concrete' on an enterprise pattern risks creating tech debt at scale. Instead, architecture must look forward, carving new pathways and embracing the unknown. Architects should be futurists, not wardens.
 
 ---
 
-### Our Team Culture
+### Our team culture
 
 Finally, I want to thank the team. And I say “the” team, not “my” team, because we all belong to each other. This shared ownership powers the Developer Portal and the humanity-centered culture it represents. Every page, icon, and decision asks:
 
@@ -78,6 +78,5 @@ Finally, I want to thank the team. And I say “the” team, not “my” team, 
 
 We ask this of the site because we ask it of ourselves and each other. Not a day goes by where I don’t remind myself why I do this and how important this journey is.
 
-So I hope I’ve inspired you to find your “why”—and to make your journey in 2025 meaningful too.
+So I hope I’ve inspired you to find your 'why'—and to make your journey in 2025 meaningful too.
 You do you and change the world.
-
