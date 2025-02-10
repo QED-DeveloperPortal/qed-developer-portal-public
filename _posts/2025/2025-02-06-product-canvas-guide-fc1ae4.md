@@ -1,5 +1,5 @@
 ---
-title: "Product canvas guide"
+title: "LiveDoc generation process"
 slug: "product-canvas-guide-fc1ae4"
 author: jeny-amatya-qed
 categories: Public
@@ -7,7 +7,7 @@ classification: Public
 tags: [opinion,getting-started]
 date: 2025-02-06 06:10:58 
 updatedBy: jeny-amatya-qed
-updated: 2025-02-10 06:27:47 
+updated: 2025-02-10 07:13:27 
 likes: 0
 ---
 
@@ -64,6 +64,8 @@ One of the crucial feature of the Developer Portal application is to automatical
 - The pull request is reviewed and approved before it can be merged and published on the Developer Portal site.
 - Once the PR is approved, the Developer Portal admin user publishes the LiveDoc to the portal.
 - The admin user then informs the product stakeholder that the LiveDoc has been generated and provides them with a link to the LiveDoc on the portal.
+
+<img src="https://sadevportal3.blob.core.windows.net/root/LiveDoc_Generation.jpg" alt="LiveDoc generation process">
 
 ## Conclusion
 
