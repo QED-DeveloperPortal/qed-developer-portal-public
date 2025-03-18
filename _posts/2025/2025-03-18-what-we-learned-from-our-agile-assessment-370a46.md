@@ -6,6 +6,8 @@ categories: Public
 classification: Public
 tags: [opinion,agile]
 date: 2025-03-18 02:23:58 
+updatedBy: jeny-amatya-qed
+updated: 2025-03-18 02:39:06 
 likes: 0
 ---
 
@@ -30,6 +32,7 @@ Even with all the wins, there's always room for growth:
 - **Compensation & Teamwork (Score: 3.67):** While rewards and recognition promote collaboration, there  is still room to align incentives with team-based success.
 
 # Actionable steps to improve 🚀
+These are the action items recommended by the assessment. They may or may not be applicable to our team.
 ### Boosting Automated Testing
 - Build a solid suite of unit and acceptance tests.
 - Integrate automated tests into our CI/CD pipeline.
@@ -60,6 +63,3 @@ How's your agile journey going? What challenges are you tackling? Let's swap ide
 
 # Reference
 - [Comparative Agility Report for Developer Portal](https://sadevportal3.blob.core.windows.net/root/DP_CA_Education.pdf)
-
-
-
