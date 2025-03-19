@@ -1,13 +1,14 @@
 ---
 title: "Quick guide to the Developer Portal"
+slug: "quick-guide-to-the-developer-portal-f89658"
 author: jeny-amatya-qed
 categories: Public
 classification: Public
 tags: [opinion,getting-started,about]
 date: 2023-03-30 01:04:10 
 updatedBy: jeny-amatya-qed
-updated: 2024-10-10 02:44:51 
-likes: 18
+updated: 2025-03-19 04:52:43 
+likes: 15
 ---
 
 ### What is a Developer Portal?
@@ -34,7 +35,7 @@ At the top of each page you'll find some useful links:
 
 ### Have you signed up?
 
-To sign up as a new user to developer portal, follow the steps at [How to join](/public/How-to-join/).
+To sign up as a new user to developer portal, follow the steps at [How to join](/public/how-to-join-900fe4/).
 
 ### Getting started
 Here are some useful resources to get you started:

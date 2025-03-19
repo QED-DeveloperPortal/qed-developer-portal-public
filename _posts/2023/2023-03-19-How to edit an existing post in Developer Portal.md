@@ -1,12 +1,12 @@
 ---
 title: "How to update existing content using the inline editor?"
 author: jeny-amatya-qed
-categories: [Public]
+categories: Public
 classification: Public
-tags: [getting-started]
+tags: [opinion,getting-started]
 date: 2023-03-19 23:08:18 
-updatedBy: Joyclyn
-updated: 2024-07-16 04:56:09 
+updatedBy: jeny-amatya-qed
+updated: 2025-01-19 23:21:12 
 likes: 0
 ---
 
@@ -23,9 +23,9 @@ But if you want to edit the post without leaving the portal, read on!
 ![image](https://sadevportal3.blob.core.windows.net/root/post/edit-post-step-2.png)
 
 ### Step 2
-To edit the post using the inline editor, click on the link 'Edit'. You will be redirected to the 'Edit Post' page, where you can edit the post. 
-If you need a primer on how to use Markdown, this [cheat sheet](https://www.markdownguide.org/cheat-sheet/) can help.
-You can then click on the 'Update' button to submit the updated content.
+* To edit the post using the inline editor, click on the link 'Edit'. You will be redirected to the 'Edit Post' page, where you can edit the post. 
+* If you need a primer on how to use Markdown, this [cheat sheet](https://www.markdownguide.org/cheat-sheet/) can help.
+* Tick the checkbox to indicate that the content does not contain any protected information and that it abides by the copyright laws. You can then click on the 'Update' button to submit the updated content.
 
 ![image](https://sadevportal3.blob.core.windows.net/root/post/edit-post-step-4-1.png)
 ![image](https://sadevportal3.blob.core.windows.net/root/post/edit-post-step-4-2.png)

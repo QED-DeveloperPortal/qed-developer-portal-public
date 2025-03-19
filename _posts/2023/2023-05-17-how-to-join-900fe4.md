@@ -1,12 +1,13 @@
 ---
 title: "How to join"
+slug: "how-to-join-900fe4"
 author: jeny-amatya-qed
-categories: [Public]
+categories: Public
 classification: Public
-tags: [getting-started]
+tags: [opinion,getting-started]
 date: 2023-05-17 02:05:00 
 updatedBy: jeny-amatya-qed
-updated: 2024-07-12 06:09:04 
+updated: 2025-03-19 04:53:04 
 likes: 1
 ---
 
