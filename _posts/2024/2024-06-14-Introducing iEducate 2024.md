@@ -1,12 +1,13 @@
 ---
-title: Introducing iEducate 2024
+title: "Introducing iEducate 2024"
+slug: "introducing-ieducate-2024-035721"
 author: g-morton
 categories: Public
 classification: Public
 tags: [opinion,about]
 date: 2024-06-14 00:54:43 
-updatedBy: Joyclyn
-updated: 2024-07-16 05:57:28 
+updatedBy: jeny-amatya-qed
+updated: 2025-03-19 04:46:31 
 likes: 2
 ---
 
