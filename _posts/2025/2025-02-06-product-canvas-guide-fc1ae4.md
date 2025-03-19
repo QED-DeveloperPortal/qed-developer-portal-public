@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "LiveDoc generation process"
 slug: "product-canvas-guide-fc1ae4"
@@ -12,21 +11,6 @@ updated: 2025-02-10 07:13:27
 likes: 0
 ---
 
-=======
----
-title: "LiveDoc generation process"
-slug: "product-canvas-guide-fc1ae4"
-author: jeny-amatya-qed
-categories: Public
-classification: Public
-tags: [opinion,getting-started]
-date: 2025-02-06 06:10:58 
-updatedBy: jeny-amatya-qed
-updated: 2025-02-10 07:13:27 
-likes: 0
----
-
->>>>>>> master
 # LiveDoc Generation workflow in Developer Portal application
 
 ## Overview
