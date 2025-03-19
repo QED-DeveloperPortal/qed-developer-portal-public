@@ -2,7 +2,7 @@
 title: "API testing using Postman"
 author: sushma-hazari-qed
 categories: public
-classification: Unofficial (Everyone)
+classification: Public
 tags: [api, opinion]
 date: 2024-04-17 04:13:46 
 updatedBy: sushma-hazari-qed

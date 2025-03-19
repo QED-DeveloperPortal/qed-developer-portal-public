@@ -6,7 +6,11 @@ classification: Public
 tags: [opinion,getting-started]
 date: 2024-11-20 00:58:23 
 updatedBy: jeny-amatya-qed
+<<<<<<< HEAD
 updated: 2024-11-22 01:23:26 
+=======
+updated: 2024-11-27 02:08:54 
+>>>>>>> master
 likes: 0
 ---
 
@@ -29,4 +33,9 @@ Clone the repository...
 
 <!-- Section: Installation -->
 ## Installation
+<<<<<<< HEAD
 Install the npm packages...
+=======
+Install the npm packages...
+```
+>>>>>>> master

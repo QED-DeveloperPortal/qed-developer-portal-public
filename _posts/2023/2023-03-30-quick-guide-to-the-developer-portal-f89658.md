@@ -35,7 +35,7 @@ At the top of each page you'll find some useful links:
 
 ### Have you signed up?
 
-To sign up as a new user to developer portal, follow the steps at [How to join](/public/How-to-join/).
+To sign up as a new user to developer portal, follow the steps at [How to join](/public/how-to-join-900fe4/).
 
 ### Getting started
 Here are some useful resources to get you started:

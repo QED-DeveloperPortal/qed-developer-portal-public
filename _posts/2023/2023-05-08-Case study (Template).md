@@ -2,7 +2,7 @@
 title: "Case study (Template)"
 author: g-morton
 categories: public
-classification: Official (Everyone)
+classification: Public
 tags: [architecture,case-study,getting-started]
 date: 2023-05-08 01:19:33 
 updatedBy: jeny-amatya-qed

@@ -1,13 +1,12 @@
 ---
 title: "Case study - The Developer Portal journey"
-title: "Case study - The Developer Portal journey"
 author: g-morton
 categories: public
 classification: Public
 tags: [architecture,case-study]
 date: 2024-09-03 00:06:01 
 updatedBy: jeny-amatya-qed
-updated: 2024-09-16 07:24:49 
+updated: 2024-09-18 05:03:10 
 likes: 0
 ---
 

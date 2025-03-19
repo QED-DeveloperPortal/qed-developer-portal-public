@@ -2,7 +2,7 @@
 title: "Case study - QTeachers"
 author: g-morton
 categories: public
-classification: Official (Everyone)
+classification: Public
 tags: [accessibility,architecture,case-study,mobile,security,technology,uxui]
 date: 2023-05-09 04:30:15 
 updatedBy: g-morton
