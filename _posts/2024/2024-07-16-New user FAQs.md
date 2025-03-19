@@ -13,7 +13,7 @@ likes: 2
 ## How do I...
 
 ##### ... join the Developer Portal?
-Follow the steps in the post called [How to join](/public/How-to-join/).
+Follow the steps in the post called [How to join](/public/how-to-join-900fe4/).
 <br>
 
 ##### ... contribute content?

@@ -1,5 +1,6 @@
 ---
 title: Introducing iEducate 2024
+slug: "introducing-ieducate-2024-400c0d"
 author: g-morton
 categories: Public
 classification: Public

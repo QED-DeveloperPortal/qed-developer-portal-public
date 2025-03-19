@@ -1,5 +1,6 @@
 ---
 title: "Vendor readiness considerations"
+slug: "vendor-readiness-considerations-c6d4c2"
 author: jeny-amatya-qed
 categories: [Public]
 classification: Public
