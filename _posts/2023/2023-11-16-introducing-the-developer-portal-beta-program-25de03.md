@@ -1,6 +1,6 @@
 ---
 title: "Introducing the Developer Portal BETA program"
-slug: "introducing-the-developer-portal-beta-program-ceef36"
+slug: "introducing-the-developer-portal-beta-program-25de03"
 author: g-morton
 categories: Public
 classification: Public
