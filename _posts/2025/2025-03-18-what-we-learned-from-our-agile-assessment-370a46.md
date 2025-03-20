@@ -1,13 +1,13 @@
 ---
-title: "What we learned from our agile assessment"
+title: "What we learned from our Agile assessment"
 slug: "what-we-learned-from-our-agile-assessment-370a46"
 author: jeny-amatya-qed
 categories: Public
 classification: Public
 tags: [opinion,agile]
 date: 2025-03-18 02:23:58 
-updatedBy: jeny-amatya-qed
-updated: 2025-03-18 02:39:06 
+updatedBy: Joyclyn
+updated: 2025-03-20 00:16:39 
 likes: 0
 ---
 
@@ -27,13 +27,13 @@ Our team showed some major strengths compared to the industry benchmark:
 # Where we need to level up ⚡
 Even with all the wins, there's always room for growth:
 - **Automated testing (Score: 3.0):** We still rely on too much manual testing, slowing us down.
-- **TDD (Test-Driven Development) (Score: 3.5):** Not enough adoption across the board, which could hurt long-term quality.
+- **TDD (test-driven development) (Score: 3.5):** Not enough adoption across the board, which could hurt long-term quality.
 - **Pair programming (Score: 3.5):** While encouraged, it's not widely practiced, meaning we miss out on knowledge sharing.
-- **Compensation & Teamwork (Score: 3.67):** While rewards and recognition promote collaboration, there  is still room to align incentives with team-based success.
+- **Compensation & teamwork (Score: 3.67):** While rewards and recognition promote collaboration, there  is still room to align incentives with team-based success.
 
 # Actionable steps to improve 🚀
 These are the action items recommended by the assessment. They may or may not be applicable to our team.
-### Boosting Automated Testing
+### Boosting automated testing
 - Build a solid suite of unit and acceptance tests.
 - Integrate automated tests into our CI/CD pipeline.
 - Define clear test success criteria to keep builds high-quality.
@@ -53,13 +53,12 @@ These are the action items recommended by the assessment. They may or may not be
 ### Aligning compensation with team success
 - Reward collaboration, not just individual contributions.
 - Use team-based performance metrics in reviews.
-- Recognize and celebrate team wins.
+- Recognise and celebrate team wins.
 - Regularly review how compensation structures impact teamwork.
 
-# Wrapping Up 🎯
-This agile assessment gave us some solid takeaways on what's working and what needs tweaking. By focusing on automation, TDD, pair programming, and better team incentives, we're aiming for even better outcomes in future sprints.
+# Wrapping up 🎯
+This assessment gave us some solid takeaways on what's working and what needs tweaking. By focusing on automation, TDD, pair programming, and better team incentives, we're aiming for even better outcomes in future sprints.
 
-How's your agile journey going? What challenges are you tackling? Let's swap ideas in the comments! 👇
 
 # Reference
 - [Comparative Agility Report for Developer Portal](https://sadevportal3.blob.core.windows.net/root/DP_CA_Education.pdf)
