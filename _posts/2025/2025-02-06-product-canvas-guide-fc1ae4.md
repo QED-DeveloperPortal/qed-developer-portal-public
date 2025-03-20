@@ -1,21 +1,23 @@
 ---
-title: "LiveDoc generation process"
+title: "The LiveDoc report generation process"
 slug: "product-canvas-guide-fc1ae4"
 author: jeny-amatya-qed
 categories: Public
 classification: Public
 tags: [opinion,getting-started]
 date: 2025-02-06 06:10:58 
-updatedBy: jeny-amatya-qed
-updated: 2025-02-10 07:13:27 
+updatedBy: Joyclyn
+updated: 2025-03-20 05:40:17 
 likes: 0
 ---
 
-# LiveDoc Generation workflow in Developer Portal application
+# LiveDoc report generation process
 
 ## Overview
 
-One of the crucial feature of the Developer Portal application is to automatically generate LiveDocs, which are dynamic summaries of GitHub repositories. The Developer Portal is built with a C# API backend, hosted as a static web app in Azure, and features a Jekyll-based frontend. The LiveDoc feature extracts relevant data from a given repository, including repository stats, contributor information, and product vision, to create a well-organized Markdown file.
+The LiveDoc feature of the Developer Portal allows you to have a dynamically generated report that summarises your GitHub code repository (DevOps service coming soon!). 
+
+We built the LiveDoc service with a C# API backend, hosted as a static web app in Azure, and featuring a Jekyll-based frontend. The LiveDoc feature extracts relevant data from a given repository, including repository stats, contributor information, and product vision, to create a well-organised Markdown file.
 
 ### Key information extracted for LiveDoc:
 - **Repository stats**: Primary languages used, file count, lines of code, last updated date.
@@ -28,7 +30,7 @@ One of the crucial feature of the Developer Portal application is to automatical
 ### Stage 1: Product stakeholder defines vision statement
 
 - The product stakeholder creates a vision statement outlining the product's goals, purpose, and strategic direction.
-- This vision statement is saved as a markdown file (e.g., `canvas/vision.md`) and uploaded to their GitHub repository.
+- They save this statement as a Markdown file (e.g., `canvas/vision.md`) and upload the file to their GitHub code repository.
 
 ### Stage 2: Configuration submission
 
@@ -38,35 +40,34 @@ One of the crucial feature of the Developer Portal application is to automatical
   - Author name
   - Token identifier (for accessing the repository)
 
-- This configuration information is then submitted to the Developer Portal team.
+- Then they provide this configuration information to us to process.
 
 ### Stage 3: Configuration entry in Developer Portal
 
-- The Developer Portal admin user receives the configuration details from the product stakeholder.
-- The admin user creates a new configuration entry in the Developer Portal, using the provided details.
-- This configuration is stored in Cosmos DB for future use during the LiveDoc generation process.
-- The admin user also stores the token identifier in the Developer Portal key vault.
+- An admin user from our team receives the configuration details from the product stakeholder and creates a new configuration entry, using the provided details.
+- This configuration is stored in Cosmos DB for future use during the LiveDoc report generation process.
+- We also store the token identifier in the Developer Portal key vault.
 
-### Stage 4: LiveDoc generation process
+### Stage 4: LiveDoc report generation process
 
-- The Developer Portal admin user triggers the LiveDoc generation process for the specified repository.
+- The admin user triggers the LiveDoc report generation process for the specified repository.
 - The application performs the following tasks:
   - Scans the repository using the provided token (fine-grained token) and retrieves key details such as:
     - Repository statistics (e.g., primary languages, file count, lines of code, last updated date).
     - Overview section from the `README.md` file.
     - A list of top contributors to the repository.
-  - Checks for the presence of the `canvas/vision-canvas.md` file. If found, the product vision statement from the file is included in the LiveDoc.
-  - The LiveDoc is generated as a markdown file, containing all the extracted details and formatted accordingly.
-  - A pull request (PR) is created in the repository, with the generated LiveDoc awaiting approval.
+  - Checks for the presence of the `canvas/vision-canvas.md` file. If found, the product vision statement from the file is included in the LiveDoc report.
+  - The LiveDoc report is generated as a Markdown file, containing all the extracted details and formatted accordingly.
+  - A pull request (PR) is created in the repository for the generated LiveDoc report which is awaiting approval.
 
-### Stage 5: Approval & publishing
+### Stage 5: Approval and publishing
 
-- The pull request is reviewed and approved before it can be merged and published on the Developer Portal site.
-- Once the PR is approved, the Developer Portal admin user publishes the LiveDoc to the portal.
-- The admin user then informs the product stakeholder that the LiveDoc has been generated and provides them with a link to the LiveDoc on the portal.
+- The PR is reviewed and approved in GitHub before being merged and published on the Developer Portal site.
+- Once the PR is approved, the Developer Portal admin user publishes the LiveDoc report to the portal.
+- The admin user then informs the product stakeholder that the LiveDoc report has been generated and provides them with a link to the report.
 
 <img src="https://sadevportal3.blob.core.windows.net/root/LiveDoc_Generation.jpg" alt="LiveDoc generation process">
 
 ## Conclusion
 
-This workflow describes the steps involved in generating a LiveDoc for a GitHub repository through the Developer Portal. The process ensures that the product vision, repository statistics, overview, and contributor information are all accurately captured and made available to stakeholders in a well-organized format.
+This workflow describes the steps involved in generating a LiveDoc report for a GitHub repository through the Developer Portal. The process ensures that the product vision, repository statistics, overview, and contributor information are all accurately captured and made available to stakeholders in a well-organised format.
