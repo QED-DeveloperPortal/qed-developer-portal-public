@@ -7,7 +7,7 @@ classification: Public
 tags: [opinion,about]
 date: 2024-06-14 00:54:43 
 updatedBy: jeny-amatya-qed
-updated: 2025-03-19 04:51:58 
+updated: 2025-04-02 04:33:13 
 likes: 0
 ---
 
@@ -43,4 +43,4 @@ As an i-Educate delegate, we invite you to become an early bird innovator in our
 
 
 ### Thank you!
-Thank you for joining us at the i-Educate conference. We look forward to collaborating with you and making the Developer Portal a cornerstone of innovation and excellence in education.
+Thank you for joining us at the i-Educate conference. We look forward to collaborating with you and making the Developer Portal a cornerstone of innovation and excellence in education. 
