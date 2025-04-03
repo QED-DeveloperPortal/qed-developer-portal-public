@@ -1,12 +1,13 @@
 ---
 title: "Formatting your code for LiveDoc"
+slug: "formatting-your-code-for-livedoc-a26132"
 author: jeny-amatya-qed
 categories: Public
 classification: Public
 tags: [opinion,getting-started]
 date: 2024-11-20 00:58:23 
 updatedBy: jeny-amatya-qed
-updated: 2024-11-27 02:08:54 
+updated: 2025-04-03 01:55:13 
 likes: 0
 ---
 
