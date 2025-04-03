@@ -1,12 +1,13 @@
 ---
 title: "How LiveDoc can help you"
+slug: "how-livedoc-can-help-you-8e64c3"
 author: matt
-categories: [Public]
+categories: Public
 classification: Public
-tags: [ai]
+tags: [opinion,ai]
 date: 2024-10-22 05:00:10 
-updatedBy: Joyclyn
-updated: 2024-10-29 22:42:58 
+updatedBy: jeny-amatya-qed
+updated: 2025-04-03 01:54:30 
 likes: 1
 ---
 
