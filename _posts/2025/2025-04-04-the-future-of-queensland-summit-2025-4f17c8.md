@@ -6,6 +6,8 @@ categories: Public
 classification: Public
 tags: [opinion,case-study,trending]
 date: 2025-04-04 05:08:19 
+updatedBy: Joyclyn
+updated: 2025-04-06 22:11:07 
 likes: 0
 ---
 
@@ -22,7 +24,7 @@ likes: 0
 
 ---
 
-## Managing Data as a Valuable National Asset  
+## Managing data as a valuable national asset  
 **Andrew Lalor**, Assistant Secretary, Data Policy and Assurance Branch, Department of Finance
 
 - Every agency should have a **service owner**
@@ -30,7 +32,7 @@ likes: 0
 - Trust depends on:
   - Tech  
   - Expectations  
-    - Social licence
+  - Social licence
 - People are tech savvy—and they expect government to be tech savvy too
 
 > The idea that all non-sensitive data should be open by default really stuck with me. It challenges the culture of defensiveness and silos. The key, of course, is ensuring it’s *non-sensitive*—but there’s still plenty we could and should be sharing.
@@ -38,14 +40,14 @@ likes: 0
 
 ---
 
-## Executive Think Tank  
+## Executive think tank  
 **Panel:**
 - Damian Green – Deputy Director-General, Corporate Services, Queensland Health  
 - Gillian Gardiner – Executive Director, Innovation Operations, Department of Environment, Tourism, Science and Innovation  
 - Mark Pozdena – General Manager, Business IT & Digital Delivery, Powerlink Queensland  
 - Lucy Poole – General Manager, Strategy, Planning and Performance Division, Digital Transformation Agency  
 
-**Key Messages:**
+**Key messages:**
 
 - **Damian Green:**
   - *“Agility!”*  
@@ -60,11 +62,11 @@ likes: 0
 - **Lucy Poole:**
   - *“AI has shifted the sands. Business is technology.”*  
   - *“We're trying to figure out the best approaches – best of both worlds.”*  
-  - *“Community has mixed feelings about AI in gov. Eg RoboDebt – but this was not caused by AI. It has created scepticism.”*  
+  - *“Community has mixed feelings about AI in government. e.g. RoboDebt – but this was not caused by AI. It has created scepticism.”*  
   - *“In reality, we do not have control anymore, should not expect to retain control.”*
 
-- **On Citizen Development:**
-  - *“Beware of the hype cycle ie High Tech, but low actual outcome delivery.”*  
+- **On citizen development:**
+  - *“Beware of the hype cycle i.e. High tech, but low actual outcome delivery.”*  
   - *“We need to change how we think: bring in the consumers – get clarity first.”*
 
 - **Mark Pozdena (again):**
@@ -77,7 +79,7 @@ likes: 0
 
 ---
 
-## Navigating Cybersecurity’s Future  
+## Navigating cybersecurity’s future  
 **Andrew Philp**, Field CISO, ANZ, Trend Micro
 
 *“It is our view that agencies are not ready to respond.”*
@@ -97,11 +99,11 @@ likes: 0
   - *“Fix what matters first.”*
 
 > This was a sobering look at cyber preparedness. I was struck by how real the disconnect is between checklist compliance and meaningful protection.
-> Andrew’s final message—*“Fix what matters first”*—was a sharp and necessary reminder.
+> Andrew’s final message—*“fix what matters first”*—was a sharp and necessary reminder.
 
 ---
 
-## Roundtable Discussion  
+## Roundtable discussion  
 **Are we ‘data rich but data selfish’?**
 
 - Current mindset: *“Why should we share it?”*  
@@ -111,7 +113,7 @@ likes: 0
 
 ---
 
-## Embracing Public Service Values in Digital Transformation  
+## Embracing public service values in digital transformation  
 **Scott Sheldon**, Digital Delivery Executive, DB Results
 
 - Emphasis on *“Customers First”* to build citizen-focused services
@@ -120,20 +122,20 @@ likes: 0
 
 **How to live public service values:**
 
-1. **Customers First** – *“Listen to your customers”*  
+1. **Customers first** – *“Listen to your customers”*  
    - Simplify: reduced 27 website functions to 3  
    - Included CX/UAU with blind users
 
-2. **Ideas into Action** – *“Your team must know they are supported”*  
+2. **Ideas into action** – *“Your team must know they are supported”*  
    - Protect them from unnecessary blockers
 
-3. **Unleash Potential** – *“Take calculated risks”*  
+3. **Unleash potential** – *“Take calculated risks”*  
    - Requires leadership and courage
 
-4. **Be Courageous** – *“Push for better”*  
+4. **Be courageous** – *“Push for better”*  
    - Embed innovation from the start
 
-5. **Empower People** – *“Listen and acknowledge feedback EVERY DAY”*
+5. **Empower people** – *“Listen and acknowledge feedback EVERY DAY”*
 
 **Success factors:**
 - Leadership, vision, purpose  
@@ -147,7 +149,7 @@ likes: 0
 
 ---
 
-## Empowering Queensland through Digital Connectivity  
+## Empowering Queensland through digital connectivity  
 **Georgina Gold**, Acting Director, NSW Telco Authority
 
 - Built the NSW Digital Connectivity Index using both **public and sensitive private data**
@@ -156,16 +158,16 @@ likes: 0
 - Delivered **two versions**: one for government, one public-facing
 - *“Government must be agile—in tech and in mindset—to deliver faster.”*
 
-> Though NSW-led, this case study had a lot to offer QLD. The bold but careful approach, and consistent user engagement, were inspiring.
+> Though NSW-led, this case study had a lot to offer Qld. The bold but careful approach, and consistent user engagement, were inspiring.
 
 ---
 
-## Data and AI Panel Discussion  
+## Data and AI panel discussion  
 **Panel:**
 - Dr Petra Kuhnert – CSIRO Data61  
 - Dr Olivier Salvado – QUT  
 - Joanne Kummrow – Queensland Information Commissioner  
-- Nathan Bines – Dept of Customer Services  
+- Nathan Bines – Department of Customer Services  
 
 - Ongoing tension: *Access to private information vs privacy*
 - *“Challenge: right-sizing policy. Public trust == greater uptake”*
@@ -177,7 +179,7 @@ likes: 0
 
 ---
 
-## Cyber Panel Discussion  
+## Cyber panel discussion  
 **Panel:**
 - Darron Richardson – Southern Cross University  
 - Sadeed Tirmizey – Seqwater  
@@ -190,9 +192,9 @@ likes: 0
   - Sandbox
   - Trial
 - *“Transparency is important. Keep the human in the centre – it’s all about people.”*
-- *“What's the risk/challenge of gov NOT using AI – but the community using it?”*
+- *“What's the risk/challenge of government NOT using AI – but the community using it?”*
 - *“High level of breach is human not technology – it’s a human issue.”*
-- *“Security is seen as a technology issue – The technology will protect me! – I call this The human firewall.”*
+- *“Security is seen as a technology issue – The technology will protect me! – I call this the human firewall.”*
 - Need for **collaboration**—current landscape too siloed
 - *“Phishing is still the top attack – Who is teaching us about this? We need cyber life skills taught in schools.”*
 - *“Annual mandatory training is often quite useless.”*
@@ -203,11 +205,10 @@ likes: 0
   - Run **cyber drills**, like fire drills
 
 > While I don’t consider myself a cybersecurity expert, this session made clear that digital safety is everyone’s responsibility. I thought of the comparison to driver training—most of us don’t know how an engine works, but we still need to understand how to drive safely - and are tested accordingly.
-> I feel Cyber awareness should be embedded more into school curricula. Our digital natives need real preparation for the future.
+> I feel cyber awareness should be embedded more into school curricula. Our digital natives need real preparation for the future.
 
 ---
 
-## Final Reflection  
+## Final reflection  
 
 > Overall, this was a highly valuable and thought-provoking summit. I came away energised—and a little challenged—to bring these lessons into my daily work, especially in how we support and engage with the Queensland education community.
-
