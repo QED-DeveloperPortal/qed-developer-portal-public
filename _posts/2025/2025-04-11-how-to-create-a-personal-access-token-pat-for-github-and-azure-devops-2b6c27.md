@@ -7,7 +7,7 @@ classification: Public
 tags: [opinion,tutorials,getting-started]
 date: 2025-04-11 05:05:47 
 updatedBy: jeny-amatya-qed
-updated: 2025-04-14 03:53:35 
+updated: 2025-04-14 04:11:52 
 likes: 0
 ---
 
@@ -53,9 +53,18 @@ Personal Access Tokens (PATs) act like passwords and are used to authenticate ag
 
 ---
 
-### ✅ How to use the GitHub PAT for LiveDoc
+### ✅ How to Use the GitHub PAT
 
-Once the user has generated the PAT, he/she can provide it to the Developer Portal team. They can store it in the Azure key vault securely. The Developer Portal team will provide the user a key that they can use in 'Token identifier' field while creating a LiveDoc configuration.
+You can use this token:
+- As a password when running `git clone`, `git push`, or `git pull`:
+
+    ```bash
+    git clone https://github.com/your-username/your-repo.git
+    Username: your GitHub username
+    Password: your PAT
+    ```
+
+- In CI/CD tools, scripts, and GitHub CLI (`gh`)
 
 ---
 
@@ -84,9 +93,19 @@ Once the user has generated the PAT, he/she can provide it to the Developer Port
 
 ---
 
+
 ### ✅ How to Use the Azure DevOps PAT
 
-Once the user has generated the PAT, he/she can provide it to the Developer Portal team. They can store it in the Azure key vault securely. The Developer Portal team will provide the user a key that they can use in 'Token identifier' field while creating a LiveDoc configuration.
+You can use this token:
+- With Git commands:
+
+    ```bash
+    git clone https://dev.azure.com/your-org/your-project/_git/your-repo
+    Username: anything (can be blank)
+    Password: your PAT
+    ```
+
+- In build pipelines, secret variables, or integration tools (like Postman)
 
 ---
 
@@ -99,3 +118,7 @@ Once the user has generated the PAT, he/she can provide it to the Developer Port
 - **Revoke** tokens if they are no longer needed or compromised.
 
 ---
+
+## References
+1. [Managing your personal tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
+2. [Personal access token for Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows)
