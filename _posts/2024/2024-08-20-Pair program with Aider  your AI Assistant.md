@@ -3,7 +3,7 @@ title: "Pair programming with Aider AI"
 author: andrew
 categories: [Public]
 classification: Public
-tags: [ai,opinion]
+tags: [ai]
 date: 2024-08-20 22:07:56 
 updatedBy: jeny-amatya-qed
 updated: 2024-08-21 03:00:56 

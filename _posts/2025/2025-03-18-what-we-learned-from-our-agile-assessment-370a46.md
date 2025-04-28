@@ -4,7 +4,7 @@ slug: "what-we-learned-from-our-agile-assessment-370a46"
 author: jeny-amatya-qed
 categories: Public
 classification: Public
-tags: [opinion,agile]
+tags: [agile]
 date: 2025-03-18 02:23:58 
 updatedBy: Joyclyn
 updated: 2025-03-20 00:16:39 

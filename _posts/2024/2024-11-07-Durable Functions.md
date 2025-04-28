@@ -3,7 +3,7 @@ title: "Durable Functions"
 author: andrew
 categories: Public
 classification: Public
-tags: [opinion,architecture]
+tags: [architecture]
 date: 2024-11-07 04:55:26 
 updatedBy: andrew
 updated: 2024-11-13 00:07:16 

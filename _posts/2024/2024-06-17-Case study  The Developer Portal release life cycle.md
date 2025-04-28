@@ -4,7 +4,7 @@ slug: "case-study-the-developer-portal-release-life-cycle-01a83a"
 author: g-morton
 categories: Public
 classification: Public
-tags: [opinion,agile,case-study]
+tags: [agile,case-study]
 date: 2024-06-17 03:31:47 
 updatedBy: jeny-amatya-qed
 updated: 2025-04-28 01:44:19 

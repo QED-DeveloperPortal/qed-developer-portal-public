@@ -3,7 +3,7 @@ title: "Why content design matters"
 author: Joyclyn
 categories: [Public]
 classification: Public
-tags: [accessibility,opinion]
+tags: [accessibility]
 date: 2024-10-03 01:05:10 
 updatedBy: Joyclyn
 updated: 2024-10-10 22:09:42 

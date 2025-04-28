@@ -4,7 +4,7 @@ slug: "how-to-create-a-personal-access-token-pat-for-github-and-azure-devops-8b1
 author: jeny-amatya-qed
 categories: Public
 classification: Public
-tags: [opinion,tutorials]
+tags: [tutorials]
 date: 2025-04-14 04:14:24 
 likes: 0
 ---
