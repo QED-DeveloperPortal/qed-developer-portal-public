@@ -1,12 +1,13 @@
 ---
 title: "Case study - The Developer Portal release life cycle"
+slug: "case-study-the-developer-portal-release-life-cycle-01a83a"
 author: g-morton
-categories: [Public]
+categories: Public
 classification: Public
-tags: [agile]
+tags: [opinion,agile,case-study]
 date: 2024-06-17 03:31:47 
 updatedBy: jeny-amatya-qed
-updated: 2024-09-18 23:26:20 
+updated: 2025-04-28 01:44:19 
 likes: 0
 ---
 
