@@ -4,9 +4,9 @@ slug: "information-types-on-the-developer-portal-7e9379"
 author: g-morton
 categories: Public
 classification: Public
-tags: [opinion,standards,getting-started,about]
+tags: [about]
 date: 2024-08-22 01:21:44 
-updatedBy: Joyclyn
+updatedBy: Gary
 updated: 2025-04-03 01:23:02 
 likes: 1
 ---
