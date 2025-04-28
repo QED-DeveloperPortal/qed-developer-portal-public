@@ -1,12 +1,13 @@
 ---
 title: "Testing website accessibility"
+slug: "testing-website-accessibility-92b9e9"
 author: sushma-hazari-qed
-categories: [public]
+categories: Public
 classification: Public
-tags: [accessibility,opinion]
-date: 2023-03-31 05:52:09
-updatedBy: sushma-hazari-qed
-updated: 2023-05-23 00:22:29
+tags: [opinion,accessibility]
+date: 2023-03-31 05:52:09 
+updatedBy: Joyclyn
+updated: 2025-04-28 23:59:48 
 likes: 0
 ---
 
@@ -26,9 +27,9 @@ There are several tools available for accessibility testing, and the choice of t
 
 * **WAVE (Web Accessibility Evaluation Tool)**: A widely used tool for evaluating web content for accessibility issues. It provides visual feedback and generates detailed reports.
 
-* **Axe**: A browser extension and JavaScript library that helps identify accessibility issues on web pages. It integrates with popular web browsers and provides actionable insights.****
+* **Axe**: A browser extension and JavaScript library that helps identify accessibility issues on web pages. It integrates with popular web browsers and provides actionable insights.
 
-*  **Lighthouse:** A tool built into the Google Chrome browser's Developer Tools. It offers an accessibility audit feature that analyzes web pages and provides suggestions for improvement.
+*  **Lighthouse:** A tool built into the Google Chrome browser's Developer Tools. It offers an accessibility audit feature that analyses web pages and provides suggestions for improvement.
 
 * **WebAIM's Wave**: An online accessibility evaluation tool that checks web pages for accessibility issues. It provides detailed reports and highlights potential problems.
 
@@ -36,6 +37,6 @@ There are several tools available for accessibility testing, and the choice of t
 
 * **NVDA (NonVisual Desktop Access)**: A free screen reader for Windows that can be used to test web pages for accessibility from the perspective of users with visual impairments.
 
-* **Color Contrast Analyzers**: Tools such as Contrast Checker, Color Contrast Analyzer, or WebAIM's Color Contrast Checker help assess the contrast ratio between foreground and background colors for better readability.
+* **Color contrast analysers**: Tools such as Contrast Checker, Color Contrast Analyzer, or WebAIM's Color Contrast Checker help assess the contrast ratio between foreground and background colors for better readability.
 
 While these tools can be helpful, manual testing and user feedback are also crucial for comprehensive accessibility testing.
