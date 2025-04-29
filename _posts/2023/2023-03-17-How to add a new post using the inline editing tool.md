@@ -1,18 +1,19 @@
 ---
-title: "How to publish new content using inline editor in Developer Portal?"
+title: "How to publish new content using inline editor in the Developer Portal"
+slug: "how-to-publish-new-content-using-inline-editor-in-the-developer-portal-704f93"
 author: jeny-amatya-qed
 categories: Public
 classification: Public
 tags: [getting-started]
 date: 2023-03-17 04:22:58 
-updatedBy: jeny-amatya-qed
-updated: 2025-01-19 23:05:08 
+updatedBy: Joyclyn
+updated: 2025-04-29 04:53:14 
 likes: 0
 ---
 
 ## Overview
 
-This post provides step-by-step guidance on how to add a new post in Developer Portal.
+This post provides step-by-step guidance on how to add a new post in the Developer Portal.
 
 ### Step 1
 
@@ -28,14 +29,15 @@ You will see a new page with an inline editor.
     * This is the title of the post.
 * **Tags**
     * You can add one or more tags from the pre-defined list that are relevant to your content.
-    * If you can't find a tag relevant to your content, please contact the Developer Portal team.
+    * If you can't find a tag relevant to your content, please [contact the Developer Portal team](https://developer.qed.qld.gov.au/contact-us/).
 * **Content**
     * You can add your content in the editor, preferably in Markdown.
 * **Classification and copyright**
-    * You can select one of the options from the dropdown list to indicate whether the content is suitable for general public or whether it is suitable for internal government use only.
-    * You can tick the checkbox to indicate that the content does not contain any protected information and that it abides by the copyright laws.
-* \*\* Further reading\*\*
-    * If you require additional information on information security classification and copyright procedures of Queensland government, you can refer to the information in this section.
+    * Select one of the options from the dropdown list to indicate whether the content is suitable for general public or whether it is suitable for internal government use only.
+    * Check the checkbox to indicate that the content does not contain any protected information and that it abides by the copyright laws.
+
+*    **Further reading**
+        * If you require additional information on the information security classification and copyright procedures of Queensland Government, you can refer to the information in this section.
 
 ![image](https://sadevportal3.blob.core.windows.net/root/post/add-post-step-2-dark.png)
 ![image](https://sadevportal3.blob.core.windows.net/root/post/add-post-step-2-1-dark.png)
@@ -49,7 +51,7 @@ You can preview the post in the right-hand pane of the editor. Alternatively, yo
 
 ### Step 4
 
-Click on the Submit button to submit the new post.
+Click on the 'Submit' button to submit the new post.
 
 ### Step 5
 
