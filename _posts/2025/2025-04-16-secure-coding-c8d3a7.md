@@ -6,10 +6,12 @@ categories: Public
 classification: Public
 tags: [opinion,security,standards,architecture,quality-assurance]
 date: 2025-04-16 05:35:06 
+updatedBy: Joyclyn
+updated: 2025-04-29 05:13:04 
 likes: 0
 ---
 
-**Overview**  
+### Overview
 To reduce security vulnerabilities and improve software quality, **secure coding principles** must be consistently applied throughout development. These principles ensure that code is not only functional and maintainable but also *resilient to misuse, malicious input, and unintended behaviour*.
 
 Secure code is the foundation of trustworthy systems. It enables long-term sustainability, rapid feature delivery, and reduced incident response burden.
@@ -34,7 +36,7 @@ Secure code is the foundation of trustworthy systems. It enables long-term susta
 
 ### Tools and controls for secure coding
 
-| Tool / practice | purpose |
+| Tool / practice | Purpose |
 |------------------|---------|
 | **ESLint / Prettier** | Linting and formatting for consistent, safe JS/TS code |
 | **SonarQube** | Detects code smells, vulnerabilities, and insecure patterns |
@@ -52,9 +54,8 @@ Secure code is the foundation of trustworthy systems. It enables long-term susta
 
 Secure coding is not a one-off activity—it must be a **habitual, team-wide practice**. To support this:
 
-- Developers should have access to **secure coding checklists and OWASP resources**.
-- **Security champions** can guide teams and help interpret threats or trade-offs.
-- **Code reviews** should be fast but purposeful, supporting mentoring and critical feedback.
-- Teams should be encouraged to **refactor and address tech debt**, on a continual right-size/right-time basis.
-- Digital applications are living products - Product Managers should ensure that operating systems, frameworks, and dependencies **remain up to date**. Running on **outdated software introduces unnecessary and often critical risk** to service integrity and security.
-
+- developers should have access to **secure coding checklists and OWASP resources**
+- **security champions** can guide teams and help interpret threats or trade-offs
+- **code reviews** should be fast but purposeful, supporting mentoring and critical feedback
+- teams should be encouraged to **refactor and address tech debt**, on a continual right-size/right-time basis
+- digital applications should be treated as living products - product managers should ensure that operating systems, frameworks, and dependencies **remain up to date**. Running on **outdated software introduces unnecessary and often critical risk** to service integrity and security.
