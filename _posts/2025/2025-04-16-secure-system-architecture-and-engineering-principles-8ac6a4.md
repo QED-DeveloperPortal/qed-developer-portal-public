@@ -6,21 +6,22 @@ categories: Public
 classification: Public
 tags: [opinion,architecture,security,standards]
 date: 2025-04-16 05:16:59 
+updatedBy: Joyclyn
+updated: 2025-04-29 05:08:47 
 likes: 0
 ---
 
- 
 **Overview**  
 To ensure systems are securely designed, implemented, and operated across their lifecycle, we must apply modern, adaptable **engineering principles** rooted in transparency, modularity, and resilience. These principles are not fixed rules—they are *living standards* shaped by experience, emerging threats, and user context.
 
-The Department draws upon both industry guidance and internal policy to continuously refine its architecture and engineering approach.
+The Department of Education draws upon both industry guidance and internal policy to continuously refine its architecture and engineering approach.
 
 
 ### Core engineering principles for secure systems
 
 | Principle | Best practice controls |
 |----------|------------------------|
-| **Separation of concerns** | Architect systems so that **logic, data, and presentation** layers are clearly separated. This promotes security isolation and easier updates. Applied in our Developer Portal using modular architecture and microservices. |
+| **Separation of concerns** | Architect systems so that **logic, data, and presentation** layers are clearly separated. This promotes security isolation and easier updates. Applied in our developer portal using modular architecture and microservices. |
 | **Least privilege & zero trust** | Systems and services should only have the minimum access required. Use **role-based access controls (RBAC)** and **environmental separation**. Avoid “trusted” zones—assume compromise and validate every action. |
 | **Modular, composable design** | Build systems from small, well-defined, independently testable components. This enables **scoped security controls**, faster incident response, and safe re-use. |
 | **Secure defaults & hardening** | Every system should use secure defaults—e.g., encrypted connections, disabled open ports, logging enabled by default. Infrastructure as Code (IaC) should enforce these (e.g., Bicep, Terraform with security baselines). |
@@ -28,7 +29,7 @@ The Department draws upon both industry guidance and internal policy to continuo
 | **Change responsiveness** | Architectures must anticipate change. Use **API-first design**, **contract testing**, and **event-driven services** to support continuous integration while maintaining security boundaries. |
 | **Proven patterns, not rigid templates** | Encourage use of proven design patterns, but allow deviation when context demands it. Every architecture should be critically assessed—not copied unthinkingly. |
 | **Observability and traceability** | Build in monitoring from day one. Use **application logs, distributed tracing, and structured audit events** to support incident response and continuous improvement. |
-| **Documentation through living artefacts** | Use lightweight, version-controlled architectural artefacts (e.g., markdown READMEs, diagrams as code) that evolve alongside the system, not static DOCs or PDFs that become outdated. |
+| **Documentation through living artefacts** | Use lightweight, version-controlled architectural artefacts (e.g., Markdown READMEs, diagrams as code) that evolve alongside the system, not static DOCs or PDFs that become outdated. |
 | **Human-centred design** | Security must not come at the cost of usability. Systems should be co-designed with users and stakeholders to ensure secure behaviour is natural, not burdensome. |
 
 
@@ -42,7 +43,7 @@ The Department draws upon both industry guidance and internal policy to continuo
 | **SonarQube / ESLint** | Code quality and vulnerability scanning for every commit |
 | **Dependabot / Snyk** | Automated dependency scanning and patch suggestions |
 | **Terraform / Bicep** | Infrastructure as Code for secure, repeatable deployments |
-| **OWASP Cheat Sheets & ASVS** | Reference security checklists for architectural decisions |
+| **OWASP cheat sheets & ASVS** | Reference security checklists for architectural decisions |
 | **Architecture Decision Records (ADRs)** | Version-controlled architectural reasoning that evolves with the solution |
 
 ---
