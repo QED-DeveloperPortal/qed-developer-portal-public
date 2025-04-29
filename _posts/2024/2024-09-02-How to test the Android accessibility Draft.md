@@ -4,7 +4,7 @@ slug: "how-to-test-android-accessibility-0effc5"
 author: sushma-hazari-qed
 categories: Public
 classification: Public
-tags: [opinion,mobile]
+tags: [mobile]
 date: 2024-09-02 05:00:31 
 updatedBy: Joyclyn
 updated: 2025-04-29 04:15:16 

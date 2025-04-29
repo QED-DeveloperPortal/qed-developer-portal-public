@@ -4,7 +4,7 @@ slug: "testing-mobile-application-accessibility-a3b71f"
 author: sushma-hazari-qed
 categories: Public
 classification: Public
-tags: [opinion,mobile]
+tags: [mobile]
 date: 2024-08-28 01:58:50 
 updatedBy: Joyclyn
 updated: 2025-04-29 03:57:20 

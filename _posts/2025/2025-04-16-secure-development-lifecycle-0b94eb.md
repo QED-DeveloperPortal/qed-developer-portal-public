@@ -4,7 +4,7 @@ slug: "secure-development-lifecycle-0b94eb"
 author: g-morton
 categories: Public
 classification: Public
-tags: [opinion,standards,security]
+tags: [standards,security]
 date: 2025-04-16 05:05:41 
 updatedBy: Joyclyn
 updated: 2025-04-29 05:05:00 

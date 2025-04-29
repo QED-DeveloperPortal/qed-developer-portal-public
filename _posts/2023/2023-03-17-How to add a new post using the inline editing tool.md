@@ -4,7 +4,7 @@ slug: "how-to-publish-new-content-using-inline-editor-in-the-developer-portal-70
 author: jeny-amatya-qed
 categories: Public
 classification: Public
-tags: [opinion,getting-started]
+tags: [getting-started]
 date: 2023-03-17 04:22:58 
 updatedBy: Joyclyn
 updated: 2025-04-29 04:53:14 

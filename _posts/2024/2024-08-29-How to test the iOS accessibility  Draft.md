@@ -4,7 +4,7 @@ slug: "how-to-test-ios-accessibility-6039ec"
 author: sushma-hazari-qed
 categories: Public
 classification: Public
-tags: [opinion,mobile]
+tags: [mobile]
 date: 2024-08-29 01:58:13 
 updatedBy: Joyclyn
 updated: 2025-04-29 04:08:59 

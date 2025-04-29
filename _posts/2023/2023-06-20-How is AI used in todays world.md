@@ -4,7 +4,7 @@ slug: "thoughts-on-ai-903f11"
 author: sushma-hazari-qed
 categories: Public
 classification: Public
-tags: [opinion,technology,ai]
+tags: [technology,ai]
 date: 2023-06-20 01:01:48 
 updatedBy: Joyclyn
 updated: 2025-04-29 01:17:20 

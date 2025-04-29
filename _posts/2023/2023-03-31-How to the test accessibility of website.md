@@ -4,10 +4,10 @@ slug: "testing-website-accessibility-92b9e9"
 author: sushma-hazari-qed
 categories: Public
 classification: Public
-tags: [opinion,accessibility]
-date: 2023-03-31 05:52:09 
-updatedBy: Joyclyn
-updated: 2025-04-28 23:59:48 
+tags: [accessibility]
+date: 2023-03-31 05:52:09
+updatedBy: sushma-hazari-qed
+updated: 2023-05-23 00:22:29
 likes: 0
 ---
 

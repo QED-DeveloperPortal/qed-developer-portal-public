@@ -4,7 +4,7 @@ slug: "ai-chatbot-bc6cd4"
 author: andrew
 categories: Public
 classification: Public
-tags: [opinion,architecture,ai]
+tags: [architecture,ai]
 date: 2024-11-07 06:53:28 
 updatedBy: Joyclyn
 updated: 2025-04-29 00:38:15 

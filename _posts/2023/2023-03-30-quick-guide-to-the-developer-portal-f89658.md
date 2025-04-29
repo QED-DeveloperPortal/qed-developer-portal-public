@@ -4,7 +4,7 @@ slug: "quick-guide-to-the-developer-portal-f89658"
 author: jeny-amatya-qed
 categories: Public
 classification: Public
-tags: [opinion,getting-started,about]
+tags: [getting-started,about]
 date: 2023-03-30 01:04:10 
 updatedBy: jeny-amatya-qed
 updated: 2024-10-10 02:44:51 

@@ -4,7 +4,7 @@ slug: "api-testing-using-postman-615d79"
 author: sushma-hazari-qed
 categories: Public
 classification: Public
-tags: [opinion,api]
+tags: [api]
 date: 2024-04-17 04:13:46 
 updatedBy: Joyclyn
 updated: 2025-04-28 23:18:45 

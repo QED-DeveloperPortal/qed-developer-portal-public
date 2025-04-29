@@ -4,7 +4,7 @@ slug: "how-chatgpt-is-changing-education-6a6608"
 author: tim
 categories: Public
 classification: Public
-tags: [opinion,technology,ai]
+tags: [technology,ai]
 date: 2023-05-17 05:08:24 
 updatedBy: Joyclyn
 updated: 2025-04-29 01:31:43 

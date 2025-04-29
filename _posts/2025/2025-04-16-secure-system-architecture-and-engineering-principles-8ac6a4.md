@@ -4,7 +4,7 @@ slug: "secure-system-architecture-and-engineering-principles-8ac6a4"
 author: g-morton
 categories: Public
 classification: Public
-tags: [opinion,architecture,security,standards]
+tags: [architecture,security,standards]
 date: 2025-04-16 05:16:59 
 updatedBy: Joyclyn
 updated: 2025-04-29 05:08:47 

@@ -3,7 +3,7 @@ title: Get started with QED APIs
 author: andrew
 categories: [Public]
 classification: Public
-tags: [api,trending,opinion]
+tags: [api,trending]
 date: 2024-09-03 08:28:17 
 likes: 0
 ---

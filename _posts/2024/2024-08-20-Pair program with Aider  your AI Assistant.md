@@ -4,7 +4,7 @@ slug: "pair-programming-with-aider-ai-a5ecee"
 author: andrew
 categories: Public
 classification: Public
-tags: [opinion,ai]
+tags: [ai]
 date: 2024-08-20 22:07:56 
 updatedBy: Joyclyn
 updated: 2025-04-28 22:56:09 

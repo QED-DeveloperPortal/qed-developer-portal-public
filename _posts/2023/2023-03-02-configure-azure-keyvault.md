@@ -4,7 +4,7 @@ slug: "how-to-create-and-configure-azure-keyvault-for-a-static-web-app-be7167"
 author: matt
 categories: Public
 classification: Public
-tags: [opinion,technology]
+tags: [technology]
 date: 2023-02-03 12:00:00 
 updatedBy: Joyclyn
 updated: 2025-04-29 04:57:32 

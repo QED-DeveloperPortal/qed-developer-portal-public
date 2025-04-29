@@ -4,7 +4,7 @@ slug: "secure-coding-c8d3a7"
 author: g-morton
 categories: Public
 classification: Public
-tags: [opinion,security,standards,architecture,quality-assurance]
+tags: [security,standards,architecture,quality-assurance]
 date: 2025-04-16 05:35:06 
 updatedBy: Joyclyn
 updated: 2025-04-29 05:13:04 

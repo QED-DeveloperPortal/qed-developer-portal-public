@@ -4,7 +4,7 @@ slug: "durable-functions-e9d68d"
 author: andrew
 categories: Public
 classification: Public
-tags: [opinion,architecture]
+tags: [architecture]
 date: 2024-11-07 04:55:26 
 updatedBy: Joyclyn
 updated: 2025-04-29 00:49:27 
