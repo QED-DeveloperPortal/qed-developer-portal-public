@@ -11,7 +11,7 @@ likes: 0
 
 # Overview
 
-Personal Access Tokens (PATs) act like passwords and are used to authenticate against APIs, Git operations, and tools like GitHub CLI or Azure DevOps pipelines. This post walks you through creating PATs in both platforms so the user can interact with both repositories securely.
+Personal Access Tokens (PATs) act like passwords and are used to authenticate against APIs, Git operations, and tools like GitHub CLI or Azure DevOps pipelines. This post walks you through creating PATs in both platforms so the user can interact with both repositories securely. 
 
 ---
 
