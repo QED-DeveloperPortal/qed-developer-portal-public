@@ -7,7 +7,7 @@ classification: Public
 tags: [getting-started,about]
 date: 2023-03-30 01:04:10 
 updatedBy: jeny-amatya-qed
-updated: 2024-10-10 02:44:51 
+updated: 2025-05-02 00:33:26 
 likes: 18
 ---
 
@@ -39,9 +39,9 @@ To sign up as a new user to developer portal, follow the steps at [How to join](
 
 ### Getting started
 Here are some useful resources to get you started:
-* [Publish new content using inline editor](/public/How-to-add-a-new-post-using-the-inline-editing-tool/).
-* [Update existing content using inline editor](/public/How-to-edit-an-existing-post-in-Developer-Portal/).
-* [Update existing content using GitHub repository](/public/How-to-edit-a-post-using-GitHub-repository/).
+* [Publish new content using inline editor](/public/how-to-publish-new-content-using-inline-editor-in-the-developer-portal-704f93/).
+* [Update existing content using inline editor](/public/how-to-update-existing-content-using-the-inline-editor-6da990/).
+* [Update existing content using GitHub repository](/public/how-to-update-existing-content-using-the-github-repository-12c654/).
 
 ### Support
 If you need any support or would like to contact us, please visit our [Contact us](/contact-us/) page or [Help](/help/) page.
