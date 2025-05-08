@@ -6,8 +6,8 @@ categories: Public
 classification: Public
 tags: [architecture]
 date: 2024-11-07 06:49:33 
-updatedBy: Joyclyn
-updated: 2025-04-29 00:42:23 
+updatedBy: jeny-amatya-qed
+updated: 2025-05-08 23:05:31 
 likes: 0
 ---
 
@@ -27,4 +27,4 @@ The Authorisation token for accessing this is stored in the CONTENT_MANAGER_ACCE
 
 ### Architecture diagrams
 
-Details of how the auto importer fits into the Developer Portal architecture to source documents from Content Manager can be found at [How the portals import generation and transformation services work](https://ambitious-pond-0f5283f00-dev.eastasia.3.azurestaticapps.net/public/How_the_portals_import_generation_and_transformation_services_work/). Note: You'll need staff credentials to access this link.
+Details of how the auto importer fits into the Developer Portal architecture to source documents from Content Manager can be found at [How the portals import generation and transformation services work](/public/How_the_portals_import_generation_and_transformation_services_work/). Note: You'll need staff credentials to access this link.
