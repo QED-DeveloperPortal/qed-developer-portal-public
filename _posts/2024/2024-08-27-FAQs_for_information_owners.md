@@ -31,7 +31,7 @@ import-reference: ""
 ## 5. Who will have access to view my information if I agree to import it?
 
 - If you're happy for your information to be viewed by internal *and* external users, publish a public post; otherwise you can publish an internal post so only users with an internal role can view it.
-- We use [role-based access controls](https://developer.qed.qld.gov.au/public/Role-based-access-mapping-in-Developer-Portal/) to allow only credentialed users to view internal information.
+- We use [role-based access controls](https://developer.qed.qld.gov.au/internal/role-based-access-mapping-in-developer-portal-dfa2cb/) to allow only credentialed users to view internal information.
 
 ## 6. What if the 'single source of truth' changes?
 
