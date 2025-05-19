@@ -7,7 +7,7 @@ classification: Public
 tags: [getting-started,about]
 date: 2024-07-16 05:26:17 
 updatedBy: jeny-amatya-qed
-updated: 2025-05-02 00:40:04 
+updated: 2025-05-19 02:56:35 
 likes: 2
 ---
 
@@ -26,7 +26,7 @@ To suggest changes to an existing post, follow the steps in [this post](/public/
 
 
 ##### ... find out what access levels the portal has (and what role I have)? 
-This post called [Role based access mapping](/internal/role-based-access-mapping-in-developer-portal-dfa2cb/) displays a table with the various roles available and corresponding access.
+This post called [Role based access mapping](public/Role-based_access_mapping_in_the_Developer_Portal) displays a table with the various roles available and corresponding access.
 If you are a departmental employee or contractor and you would like internal access, please [contact us](/contact-us/) to let us know.
 <br>
 
