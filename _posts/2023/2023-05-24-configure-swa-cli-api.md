@@ -1,14 +1,17 @@
 ---
 title: "Configuring local Azure Function APIs for Azure SWA"
+slug: "configuring-local-azure-function-apis-for-azure-swa-124c3c"
 author: matt
-categories: [public]
+categories: Public
 classification: Public
 tags: [getting-started,cloud,api]
 date: 2023-05-24 12:30:00 
+updatedBy: Joyclyn
+updated: 2025-05-21 01:42:29 
 likes: 14
 ---
 
-When running your SWA site in a local development environment, you may be incorporating Apis using Azure serverless functions under the covers, and getting these running locally can be a challenge. In a lot of cases authentication relies on local Apis to work as well.
+When running your SWA (statis web app) site in a local development environment, you may be incorporating APIs using Azure serverless functions under the covers, and getting these running locally can be a challenge. In a lot of cases authentication relies on local APIs to work as well.
 
 Here is how to get up and running.
 
@@ -24,7 +27,7 @@ npm install -g @azure/static-web-apps-cli
 
 ### Start the API server
 
-Open a new Node console, browse to your projects Api folder and run the following:
+Open a new Node console, browse to your projects API folder and run the following:
 
 ```
 func host start --csharp
@@ -42,9 +45,9 @@ Allow the local servers to fire up and then browse to http://localhost:7071 to t
 
 ## Authenticate locally using SWA Auth
 
-If you have configured authenticaion using Azure B2C then clicking on your "Sign in" button or link will take you to a local sign in test page:
+If you have configured authentication using Azure B2C then clicking on your "Sign in" button or link will take you to a local sign in test page:
 
-![Azure B2C test authentication page](/images/azure-b2c-test-page.png)
+![Image of Azure B2C test authentication page](/images/azure-b2c-test-page.png)
 
 Here you can edit some default values including:
 
