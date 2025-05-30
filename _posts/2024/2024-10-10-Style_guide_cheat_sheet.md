@@ -37,4 +37,4 @@ Use short sentences with no more than about 20 words.
  
 Use plain English and avoid jargon. Choose words that people are familiar with. Unfamiliar words make content harder to read and understand.
  
-![plain English.png](https://sadevportal3.blob.core.windows.net/root/plain_english.png)
+![plain English.png](https://sadevportal3.blob.core.windows.net/root/plain-English.png)
