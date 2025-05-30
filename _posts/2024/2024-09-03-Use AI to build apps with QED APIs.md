@@ -10,13 +10,13 @@ updated: 2024-09-03 23:22:57
 likes: 0
 ---
 
-The [DevPortal AI Kit](https://github.com/qed-developerportal/devportal-ai-kit) has been developed to help you start building apps that target publicly available QED APIs, with AI assistance to guide you along the way.
+We developed the [Developer Portal AI kit](https://github.com/qed-developerportal/devportal-ai-kit) to help you start building apps that target our publicly available APIs, with AI assistance to guide you along the way.
 
 The default configuration allows you to explore the APIs through natural language conversations with a locally installed Large Language Model (LLM), which is set up during the configuration process.
 
-When you make a request to the LLM, Microsoft’s Semantic Kernel interprets it and, if relevant, makes API calls to the DevPortal Semantic Kernel Plugin (source code available in [DevPortalPlugin.cs](https://github.com/QED-DeveloperPortal/DevPortal-AI-Kit/blob/main/Plugins/DevPortalPlugin.cs)). The plugin's descriptions help determine whether an API call should be made.
+When you make a request to the LLM, Microsoft’s Semantic Kernel interprets it and, if relevant, makes API calls to the Developer Portal Semantic Kernel Plugin (source code available in [DevPortalPlugin.cs](https://github.com/QED-DeveloperPortal/DevPortal-AI-Kit/blob/main/Plugins/DevPortalPlugin.cs)). The plugin's descriptions help determine whether an API call should be made.
 
-Responses from the DevPortal Plugin are then passed to the local [LLM](https://llama.meta.com/) (via [Ollama](https://ollama.com)), where they are formatted into a final answer presented to the user.
+Responses from the Developer Portal Plugin are then passed to the local [LLM](https://llama.meta.com/) (via [Ollama](https://ollama.com)), where they are formatted into a final answer presented to the user.
 
 This setup not only provides you with descriptions of available resources but also includes code examples for using the APIs.
 
