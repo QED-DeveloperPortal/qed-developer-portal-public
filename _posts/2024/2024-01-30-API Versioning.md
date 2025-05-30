@@ -1,10 +1,13 @@
 ---
-title: "API Versioning"
+title: "API versioning"
+slug: "api-versioning-ffa9d6"
 author: jeny-amatya-qed
-categories: [public]
+categories: Public
 classification: Public
 tags: [api]
 date: 2024-01-30 01:03:36 
+updatedBy: Joyclyn
+updated: 2025-05-30 05:14:53 
 likes: 3
 ---
 
@@ -13,11 +16,11 @@ API versioning is the process of managing and tracking changes to an API. It inv
 
 
 ## What are the benefits of API versioning?
-API versioning enables the API producers to iterate in a way that minimizes breaking changes to the consumers and also provides a framework to communicate these changes effectively to consumers. This transparent strategy builds trust and then strengthens organization's reputation, hence boosting the API's adoption and retention rates.
+API versioning enables the API producers to iterate in a way that minimises breaking changes to the consumers and also provides a framework to communicate these changes effectively to consumers. This transparent strategy builds trust and then strengthens an organisation's reputation, hence boosting the API's adoption and retention rates.
 
 
 ## When should you version an API?
-One should version the API whenever there is a "breaking change". A breaking change is the type of change that will require the consumers to modify their codebase in order to continue using the API. Some of these can involve changes to API's input and output data structures, success and error feedback and security mechanisms.
+One should version the API whenever there is a 'breaking change'. A breaking change is the type of change that will require the consumers to modify their codebase in order to continue using the API. Some of these can involve changes to an API's input and output data structures, success and error feedback and security mechanisms.
 Some common examples of breaking changes are:
 * Renaming a property or endpoint
 * Turning an optional parameter into a required parameter
@@ -56,6 +59,4 @@ Some common examples of breaking changes are:
 
 
 ### Reference
-https://www.postman.com/api-platform/api-versioning/
-
-
+[https://www.postman.com/api-platform/api-versioning/](https://www.postman.com/api-platform/api-versioning/)
