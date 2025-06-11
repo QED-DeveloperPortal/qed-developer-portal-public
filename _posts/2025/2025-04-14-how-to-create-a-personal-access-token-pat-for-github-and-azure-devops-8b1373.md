@@ -6,6 +6,8 @@ categories: Public
 classification: Public
 tags: [tutorials]
 date: 2025-04-14 04:14:24 
+updatedBy: Joyclyn
+updated: 2025-06-11 05:26:26 
 likes: 0
 ---
 
@@ -51,10 +53,10 @@ Personal Access Tokens (PATs) act like passwords and are used to authenticate ag
 
 ---
 
-### ✅ How to Use the GitHub PAT
+### ✅ How to use the GitHub PAT
 
 You can use this token:
-- As a password when running `git clone`, `git push`, or `git pull`:
+- as a password when running `git clone`, `git push`, or `git pull`:
 
     ```bash
     git clone https://github.com/your-username/your-repo.git
@@ -62,7 +64,7 @@ You can use this token:
     Password: your PAT
     ```
 
-- In CI/CD tools, scripts, and GitHub CLI (`gh`)
+- in CI/CD tools, scripts, and GitHub CLI (`gh`).
 
 ---
 
@@ -92,10 +94,10 @@ You can use this token:
 ---
 
 
-### ✅ How to Use the Azure DevOps PAT
+### ✅ How to use the Azure DevOps PAT
 
 You can use this token:
-- With Git commands:
+- with Git commands:
 
     ```bash
     git clone https://dev.azure.com/your-org/your-project/_git/your-repo
@@ -103,16 +105,16 @@ You can use this token:
     Password: your PAT
     ```
 
-- In build pipelines, secret variables, or integration tools (like Postman)
+- in build pipelines, secret variables, or integration tools (like Postman).
 
 ---
 
-## 🔒 Best Practices for PATs
+## 🔒 Best practices for PATs
 
 - **Never commit a PAT** to source control.
 - **Use fine-grained permissions** where possible.
 - **Set short expiration periods** and regenerate when needed.
-- **Store securely** in tools like Azure Key Vault, GitHub Secrets, or password managers.
+- **Store securely** in tools like Azure Key Vault, GitHub Secrets, or a password manager.
 - **Revoke** tokens if they are no longer needed or compromised.
 
 ---
