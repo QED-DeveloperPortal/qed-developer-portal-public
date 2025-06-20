@@ -1,12 +1,13 @@
 ---
 title: "Choosing a suitable title for your post"
+slug: "choosing-a-suitable-title-for-your-post-ef5813"
 author: jeny-amatya-qed
-categories: [Public]
+categories: Public
 classification: Public
 tags: [getting-started,faq]
 date: 2023-05-18 00:27:58 
 updatedBy: jeny-amatya-qed
-updated: 2024-06-13 02:33:07 
+updated: 2025-06-20 00:15:47 
 likes: 2
 ---
 
@@ -49,4 +50,4 @@ validTitle = Regex.Replace(validTitle, @"\s+", " ").Trim();
 * "Learn Grow" - Special character removed.
 
 ### Conclusion
-Choose a title that is engaging, clear, and compliant with validation rules. Focus on key phrases, avoid special characters, and ensure proper spacing to create effective and valid titles that attract readers and enhance your post's visibility. 
+Choose a title that is engaging, clear, and compliant with validation rules. Focus on key phrases, avoid special characters, and ensure proper spacing to create effective and valid titles that attract readers and enhance your post's visibility.
