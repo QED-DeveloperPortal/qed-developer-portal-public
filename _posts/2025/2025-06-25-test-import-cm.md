@@ -4,7 +4,7 @@ slug: "test-import-cm-61202f"
 author: jeny-amatya-qed
 categories: Public
 classification: Public
-tags: [about]
+tags: [auto-import, about]
 date: 2025-05-25 01:00:00 
 likes: 0
 imported: True 
