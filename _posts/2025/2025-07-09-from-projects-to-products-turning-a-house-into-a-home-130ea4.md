@@ -20,7 +20,7 @@ These are valid concerns. But rather than diving too deeply into the mechanics o
 
 ### Project thinking: building the house
 
-Imagine a new house being built. It requires careful planning, architecture, and engineering. There are constraints - on materials, cost, and time. Council approvals, safety standards, and structural integrity must all be considered.
+Imagine a new house being built. It requires careful planning, architecture, and engineering. There are constraints on materials, cost, and time. Council approvals, safety standards, and structural integrity must all be considered.
 
 This is classic project thinking:
 * A fixed goal
@@ -59,14 +59,14 @@ What if MVP stood for **Maximal Valued Product**?
 Not *everything*, but *everything that matters most* - is done well. The things users truly need, delivered with care, warmth, and usability.
 Because even in a first release, we can still deliver something **great**, not just *viable*.
 
-We’re not skipping the pool and giving people a hole in the yard. We’re giving them a space to splash, laugh, and feel joy - *even if the landscaping comes later*.
+We’re not skipping the pool and giving people a hole in the yard. We’re giving them a space to splash, laugh, and feel joy, *even if the landscaping comes later*.
 
 
 ### Where to from here?
 
-Embracing product thinking doesn’t mean abandoning structure. It means extending our commitment beyond delivery - to *value*, *experience*, and *evolution*. It means designing for real users, not just requirements.
+Embracing product thinking doesn’t mean abandoning structure. It means extending our commitment beyond delivery to *value*, *experience*, and *evolution*. It means designing for real users, not just requirements.
 
-In our journey, we’re not demolishing the old house. We’re moving in, listening, and shaping it into a home - together.
+In our journey, we’re not demolishing the old house. We’re moving in, listening, and shaping it into a home—together.
 
-*A Project is when we build things.
-A Product is when we build experiences.*
+*A project is when we build things.
+A product is when we build experiences.*
