@@ -1,12 +1,13 @@
 ---
 title: "A Department of Education perspective on why accessibility matters"
+slug: "a-department-of-education-perspective-on-why-accessibility-matters-24d0dd"
 author: g-morton
-categories: [Public]
+categories: Public
 classification: Public
 tags: [accessibility]
 date: 2024-07-17 01:23:38 
-updatedBy: Joyclyn
-updated: 2024-07-25 03:06:39 
+updatedBy: jeny-amatya-qed
+updated: 2025-07-09 01:36:39 
 likes: 0
 ---
 
