@@ -1,12 +1,13 @@
 ---
 title: "Testing mobile application accessibility"
+slug: "testing-mobile-application-accessibility-c020df"
 author: sushma-hazari-qed
-categories: [Public]
+categories: Public
 classification: Public
-tags: [mobile,opinion]
+tags: [mobile]
 date: 2024-08-28 01:58:50 
-updatedBy: sushma-hazari
-updated: 2024-08-29 23:11:20 
+updatedBy: Divya28237
+updated: 2025-07-13 22:41:12 
 likes: 0
 ---
 
