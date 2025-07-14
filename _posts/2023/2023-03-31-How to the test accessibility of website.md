@@ -1,14 +1,17 @@
 ---
 title: "Testing website accessibility 1"
+slug: "testing-website-accessibility-1-a28b70"
 author: sushma-hazari-qed
 categories: Public
 classification: Public
-tags: [opinion,accessibility]
+tags: [accessibility]
 date: 2023-03-31 05:52:09 
-updatedBy: Divya28237
-updated: 2024-12-11 03:43:42 
+updatedBy: jeny-amatya-qed
+updated: 2025-07-14 00:10:34 
 likes: 0
 ---
+
+[Testing update]
 
 Testing the accessibility of a website involves using a variety of tool and methods to check if people with disabilities or impairments can use the site easily. Here are some steps to test the accessibility of a website:
 
