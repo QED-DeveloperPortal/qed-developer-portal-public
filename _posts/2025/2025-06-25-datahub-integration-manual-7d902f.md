@@ -8,7 +8,7 @@ tags: [auto-import, about]
 date: 2025-05-25 01:00:00 
 likes: 0
 imported: True 
-import-source: "Content Manager"
+import-source: "content-manager"
 import-reference: "CM12309"
 ---
 

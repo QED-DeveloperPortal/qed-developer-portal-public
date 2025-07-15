@@ -7,7 +7,7 @@ tags: [auto-import]
 date: 2025-06-26 03:48:03
 likes: 0
 imported: True 
-import-source: "GitHub"
+import-source: "github"
 import-reference: "1234"
 ---
 
