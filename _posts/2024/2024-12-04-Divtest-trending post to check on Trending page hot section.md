@@ -1,5 +1,5 @@
 ---
-title: "Divtest-trending post to check on Trending page hot section"
+title: "Divtest-trending post to check on Trending page hot section update"
 author: Divya28237
 categories: Public
 classification: Public
