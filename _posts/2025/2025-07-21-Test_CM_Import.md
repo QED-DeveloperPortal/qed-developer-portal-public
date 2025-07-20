@@ -1,0 +1,421 @@
+---
+title: "Test CM Import"
+slug: "test-cm-import-cd67bc"
+author: Jennifer Smith
+owner: Jennifer Smith
+categories: Public
+classification: Public
+tags: [auto-import, technology]
+date: 2025-07-21 08:43:07
+likes: 0
+imported: True 
+import-source: "content-manager"
+import-reference: "234324324"
+---
+
+﻿NFR ID (NEW),Requirement,Category,Sub-Category,Category SME,Grouping
+IM.01.001,The Supplier MUST provide certifications for the deletion of customer or user data.,Information Management (IM),Retention (01),"Enterprise Information Services
+Manager, Enterprise Information Service",Baseline
+IM.01.002,The Supplier SHOULD provide information surrounding the sharing user data with third parties in any circumstance and any permission should be obtained in writing from an authorised person from the customer.,Information Management (IM),Retention (01),"Enterprise Information Services
+Manager, Enterprise Information Service",Optional
+IM.01.003,"The solution MUST have the ability, to easily manage the storage, archiving and disposal of data.",Information Management (IM),Retention (01),"Enterprise Information Services
+Manager, Enterprise Information Service",Baseline
+IM.01.004,The system MUST retain data for a specified duration as per regulatory or business requirements.,Information Management (IM),Retention (01),"Enterprise Information Services
+Manager, Enterprise Information Service",Baseline
+IM.01.005,The system MAY support data archiving policies that ensure data is moved to appropriate storage tiers.,Information Management (IM),Retention (01),"Enterprise Information Services
+Manager, Enterprise Information Service",Optional
+IM.01.006,The system SHOULD manage retention schedules and enforce policies automatically.,Information Management (IM),Retention (01),"Enterprise Information Services
+Manager, Enterprise Information Service",Optional
+IM.02.001,The system MUST support policies for the secure disposal of data once the retention period expires.,Information Management (IM),Disposal (02),"Enterprise Information Services
+Manager, Enterprise Information Service",Baseline
+IM.02.002,The system SHOULD automate the disposal process to ensure compliance with data disposal policies.,Information Management (IM),Disposal (02),"Enterprise Information Services
+Manager, Enterprise Information Service",Optional
+IM.02.003,The system MUST ensure that data is irrecoverably deleted in accordance with regulatory standards.,Information Management (IM),Disposal (02),"Enterprise Information Services
+Manager, Enterprise Information Service",Baseline
+IM.03.001,"The system MUST classify data based on sensitivity, retention requirements, and disposal policies.",Information Management (IM),Records Management (03),"Enterprise Information Services
+Manager, Enterprise Information Service",Baseline
+IM.03.002,The system SHOULD manage metadata for all records to support retention and disposal policies.,Information Management (IM),Records Management (03),"Enterprise Information Services
+Manager, Enterprise Information Service",Optional
+IM.03.003,The system MAY support legal holds to prevent data disposal when required by legal proceedings.,Information Management (IM),Records Management (03),"Enterprise Information Services
+Manager, Enterprise Information Service",Optional
+IM.03.004,The system MUST provide audit trails for data retention and disposal activities for compliance audits.,Information Management (IM),Records Management (03),"Enterprise Information Services
+Manager, Enterprise Information Service",Baseline
+IM.04.001,The system SHOULD allow for updates to retention policies and ensure that changes are applied uniformly.,Information Management (IM),Data Governance (04),"Enterprise Information Services
+Manager, Enterprise Information Service",Optional
+IP.01.001,The Supplier SHOULD provide evidence that the solution has undergone Hub Integration Testing Service (HITS) use case integration testing.,Interoperability (IP),System Integration (01),"Application Development and Delivery
+Manager, Integration",Optional
+IP.01.002,"The solution SHOULD have the ability to integrate with DoE’s on-premises and online corporate and school email services, Microsoft Office/Exchange for communications, alerts, warnings, reminders and notifications",Interoperability (IP),System Integration (01),"Application Development and Delivery
+Manager, Integration",Optional
+IP.01.003,"The solution SHOULD provide the ability to integrate with other commercially available third-party programs already in use within the department – Examples, but not limited to: Microsoft OneNote and Class Notebook, Microsoft OneDrive, Survey Manger, Eventbrite, Mathletics.",Interoperability (IP),System Integration (01),"Application Development and Delivery
+Manager, Integration",Optional
+IP.02.001,"If the solution proposal is required to be deployed into DoE's internal IT infrastructure, the solution SHOULD be compatible with DoE’s business continuity, performance and availability architecture.  Including mirrored environments: Production (Prod), User Acceptance Testing (UAT) and System Integration Testing (SIT) environments.",Interoperability (IP),Compatibility (02),"Application Development and Delivery
+Manager, Integration",Optional
+IP.02.002,The supplier SHOULD detail any assumptions about the existing DoE environment have been made that are considered to be critical to the success of the proposed solution.,Interoperability (IP),Compatibility (02),"Application Development and Delivery
+Manager, Integration",Optional
+IP.02.003,The solution SHOULD be compatible with the Systems Interoperability Framework (SIF) as part of the National Schools Interoperability Program (NSIP).,Interoperability (IP),Compatibility (02),"Application Development and Delivery
+Manager, Integration",Optional
+IP.03.001,"All exposed APIs MUST be implemented using REST or SOAP architectures that align with WS-\* standards, OData standards and/or the Commonwealth API standard defined at [https://api.gov.au](https://api.gov.au).  The Department’s preferred approach is to use RESTful Web Services over SOAP based Webservices for integration and service interoperability.",Interoperability (IP),API Management (03),"Application Development and Delivery
+Manager, Integration",Baseline
+IP.03.002,"Exposed API’s MUST be protected by authentication and authorisation mechanisms supplied by the application (I.E., where all data communications between DoE’s systems and the application remain encrypted).",Interoperability (IP),API Management (03),"Application Development and Delivery
+Manager, Integration",Baseline
+IP.03.003,"Clear and concise documentation describing the details of the supplied security mechanisms, including usage of authentication and authorisation components MUST be provided to DoE during the implementation of the API. Documentation should include details on how external system integrations can be configured and managed within the system, including operational reporting and troubleshooting capabilities.",Interoperability (IP),API Management (03),"Application Development and Delivery
+Manager, Integration",Baseline
+IP.03.004,"DoE systems SHOULD be able to easily access the interfaces for the purpose of integrating DoE data. Please detail if firewall rules, proxies or VPNs are required to access the interfaces.",Interoperability (IP),API Management (03),"Application Development and Delivery
+Manager, Integration",Optional
+IP.03.005,"Solution SHOULD offer the ability to support external system integrations, which can be configured and managed within the system, including operational reporting and troubleshooting capabilities.",Interoperability (IP),API Management (03),"Application Development and Delivery
+Manager, Integration",Optional
+IS.01.001,The solution MUST allow for users to have a single identity (username and password) free from infiltration or impersonation.,Information Security (IS),Identification and Authentication (01),"Information Security Services
+Manager, Identity Access Management",Baseline
+IS.01.002,The solution  MUST provide functionality that allows different levels of administrative function to be delegated to roles defined in the system,Information Security (IS),Identification and Authentication (01),"Information Security Services
+Manager, Identity Access Management",Baseline
+IS.01.003,"The solution SHOULD allow for the restricted visibility of user public profiles (e.g., made private or restricted to unknown users)",Information Security (IS),Identification and Authentication (01),"Information Security Services
+Manager, Identity Access Management",Optional
+IS.01.004,The solution SHOULD secure all authentication and account data including passwords,Information Security (IS),Identification and Authentication (01),"Information Security Services
+Manager, Identity Access Management",Optional
+IS.01.005,"The Supplier SHOULD ensure authentication, authorisation, and access control (AAA) data, and related user can be accessed by personnel with the appropriate rights.",Information Security (IS),Identification and Authentication (01),"Information Security Services
+Manager, Identity Access Management",Optional
+IS.01.006,The solution MUST have multi-factor authentication service for users authenticated by the solution itself (i.e. not authenticated via federation service).,Information Security (IS),Identification and Authentication (01),"Information Security Services
+Manager, Identity Access Management",Baseline
+IS.01.007,The solution MUST be able to use the department's Identity Management platform to manage federation and single sign-on.,Information Security (IS),Identification and Authentication (01),"Information Security Services
+Manager, Identity Access Management",Baseline
+IS.02.001,The solution MUST have Role Based Access Control (RBAC) functionality to support role relationships in organisational hierarchies.,Information Security (IS),Access Control (02),"Information Security Services
+Manager, Identity Access Management",Baseline
+IS.02.002,The solution SHOULD have the ability to provision access to users  dynamically or via a synchronisation method. Describe the approach(es) supported to manage federated identities and roles used by the system.,Information Security (IS),Access Control (02),"Information Security Services
+Manager, Identity Access Management",Optional
+IS.02.003,The Supplier SHOULD ensure functions within solution can be controlled or disabled by an administrator or moderator,Information Security (IS),Access Control (02),"Information Security Services
+Manager, Identity Access Management",Optional
+IS.02.004,"The Supplier SHOULD ensure non-privileged accounts are restricted from installing, uninstalling, disabling or making any changes to software on servers and endpoints.",Information Security (IS),Access Control (02),"Information Security Services
+Manager, Identity Access Management",Optional
+IS.02.005,The solution SHOULD have a User Registration function for users that are unable to access the system via a federated identity.,Information Security (IS),Access Control (02),"Information Security Services
+Manager, Identity Access Management",Optional
+IS.03.001,The solution MUST record a log of all user interactions including users with administrative rights.,Information Security (IS),Auditability (03),"Information Security Services
+Manager, Security",Baseline
+IS.03.002,"The solution MUST have a proactive event log auditing procedure which outlines, at a minimum: Schedule of audits (e.g., annual or real-time for sensitive data).",Information Security (IS),Auditability (03),"Information Security Services
+Manager, Security",Baseline
+IS.03.003,The solution SHOULD record a log of all security related events.,Information Security (IS),Auditability (03),"Information Security Services
+Manager, Security",Optional
+IS.03.004,"The solution SHOULD have the ability to manage, audit and inspect log data at any time by authorised users.",Information Security (IS),Auditability (03),"Information Security Services
+Manager, Security",Optional
+IS.04.001,The solution SHOULD provide authorised control and protection of audit trail data.,Information Security (IS),Non-repudiation (04),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.04.002,"The solution MUST record proof that a user carried out an action, or sent or received some information, at a particular time",Information Security (IS),Non-repudiation (04),"Information Security Services
+Manager, Security Operations
+",Baseline
+IS.04.003,"The solution must capture system activity, including access requests, fraudulent activity, security related and user events and aggregate into a central Departmental SIEM platform either pushed by the solution or through SIEM log aggregation capabilities.",Information Security (IS),Non-repudiation (04),"Information Security Services
+Manager, Security Operations
+",Baseline
+IS.05.001,The solution SHOULD have the ability to scan any file uploaded by a user for malware and viruses before being committed to storage.,Information Security (IS),Security Management (05),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.05.002,"The Supplier SHOULD at a minimum, have the following physical access controls in place at the locations where data is stored: No public access; Visitor access only for visitors with a need to know and with a close escort; Restricted access for authorised personnel with appropriate security clearance; Single factor authentication for access control using secure swipe card, biometrics, coded access, other; and Security alarm system.",Information Security (IS),Security Management (05),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.05.003,The Supplier SHOULD ensure the organisation has implemented the following perimeter controls: External Firewall; IDS/IPS (Intrusion Detection System/Intrusion Prevention System); DMZ (Demilitarised Zone) for hosting external sites.,Information Security (IS),Security Management (05),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.05.004,The Supplier SHOULD ensure database(s) and web servers are separated (physically or virtually) and on different subnets/networks.,Information Security (IS),Security Management (05),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.05.005,The Supplier SHOULD ensure the secure segregation of customer's data in multiple tenancy solutions.,Information Security (IS),Security Management (05),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.05.006,"The Supplier SHOULD ensure production servers (e.g., authentication servers, Domain Name System (DNS) servers, web servers, file servers and email servers) and all endpoints protected by HIDS (Host-based Intrusion Detection System), software-based application firewalls and anti-virus software",Information Security (IS),Security Management (05),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.05.007,"The solution SHOULD inherently contain robust detection and mitigation techniques to prevent cybersecurity attacks including (but not limited to):  Persistent Cross Site Scripting; Unrestricted file uploads leading to client and server side attacks, Denial of Service, hosting illegal contents or uploading malicious files; Phishing due to insufficient validation; and Replay attacks occurring due to the failure to invalidate the server-sided session state on timeouts / explicit logouts.",Information Security (IS),Security Management (05),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.05.008,"If the proposed solution is to be hosted by DoE, the solution MUST have documented and implemented system hardening (servers, storage, network and applications) process that outline the required ports, protocols, and services and restricts all others.",Information Security (IS),Security Management (05),"Information Security Services
+Manager, Security Operations
+",Baseline
+IS.05.009,"The Supplier MUST at a minimum, provide evidence of staff access to systems, applications and information (including audit logs): 1. Validated and approved by appropriate personnel; 2. Periodically reviewed (at least annually) and revalidated or revoked. 3. Reviewed and validated or revoked following changes to role, employment and/or inactivity.",Information Security (IS),Security Management (05),"Information Security Services
+Manager, Security Operations
+",Baseline
+IS.05.010,"The Supplier SHOULD ensure staff undergo appropriate employment screening (e.g., criminal history checks) as per regulatory requirements.",Information Security (IS),Security Management (05),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.05.011,The Supplier SHOULD ensure the organisation runs a security awareness/education program for staff. Please provide details to the DoE.,Information Security (IS),Security Management (05),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.05.012,The Supplier MUST detail the organisation's response surrounding data breaches; how affected customers and/or organisations are notified as soon as possible after a data breach is discovered and are provided with all relevant details.,Information Security (IS),Security Management (05),"Information Security Services
+Manager, Security Operations
+",Baseline
+IS.05.013,"The supplier MUST notify DoE promptly using the agreed process in the event of any system or data breach, regardless of severity, and which has the potential to have leaked DoE information within 2 (two) hours of such breach being detected.",Information Security (IS),Security Management (05),"Information Security Services
+Manager, Security Operations
+",Baseline
+IS.05.014,The Supplier MUST cooperate with any investigation in the event of a data breach.  ,Information Security (IS),Security Management (05),"Information Security Services
+Manager, Security Operations
+",Baseline
+IS.05.015,"If the proposed solution is hosted by DoE, the solution SHOULD provide a mechanism to disable anonymous and default database administrator accounts.",Information Security (IS),Security Management (05),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.05.016,The Supplier SHOULD provide evidence of a documented and implemented security risk assessment process.,Information Security (IS),Security Management (05),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.05.017,The supplier SHOULD provide DoE with any security accreditations in held by the supplier.,Information Security (IS),Security Management (05),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.06.001,The Supplier SHOULD ensure vulnerability assessments are carried out during the service lifecycle of the solution.,Information Security (IS),Vulnerability Management (06),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.06.002,"The Supplier SHOULD ensure security vulnerabilities in operating systems, applications, drivers and hardware devices assessed as extreme risk are patched or mitigated within 48 hours of being identified.",Information Security (IS),Vulnerability Management (06),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.06.003,"The Supplier SHOULD ensure security vulnerabilities in operating systems, applications, drivers and hardware devices assessed as high risk patched or mitigated within two weeks of being identified.",Information Security (IS),Vulnerability Management (06),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.06.004,"The Supplier SHOULD ensure security vulnerabilities in operating systems, applications, drivers and hardware devices assessed as moderate or low risk patched or mitigated within one month of being identified.",Information Security (IS),Vulnerability Management (06),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.06.005,The vendor MUST conduct penetration testing on the solution annually or at every major release and attach evidence (redacted/attestation of results and remediation plan) if processing OFFICIAL or SENSITIVE Information.,Information Security (IS),Vulnerability Management (06),"Information Security Services
+Manager, Security Operations
+",Baseline
+IS.06.006,The vendor MUST perform a Threat Risk Assessment (TRA) on the solution annually or at every major release and attach evidence (redacted/attestation) if processing OFFICIAL or SENSITIVE Information.,Information Security (IS),Vulnerability Management (06),"Information Security Services
+Manager, Security Operations
+",Baseline
+IS.06.007,The vendor MUST conduct penetration testing on the solution annually and at every major release and attach evidence (redacted/attestation of results and remediation plan) if processing PROTECTED Information.,Information Security (IS),Vulnerability Management (06),"Information Security Services
+Manager, Security Operations
+",Baseline
+IS.06.008,The vendor MUST perform a Threat Risk Assessment (TRA) on the solution annually and at every major release and attach evidence (redacted/attestation) if processing PROTECTED Information.,Information Security (IS),Vulnerability Management (06),"Information Security Services
+Manager, Security Operations
+",Baseline
+IS.06.009,"The supplier SHOULD outline any Defence in Depth controls (I.E., strategies/models/technologies/tools/techniques) that have been implemented ensuring Integrity, Availability and Confidentiality maintained across the following layers:
+Application, Database, Compute, Perimeter, Network, Identity & Access and Physical Security",Information Security (IS),Vulnerability Management (06),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.07.001,"The Supplier MUST provide, prepare and maintain a formal incident response plan for cyber security incidents.",Information Security (IS),Incident Response (07),"Information Security Services
+Manager, Security Operations
+",Baseline
+IS.07.002,"The Supplier SHOULD detail the organisation's response when a data loss/corruption event occurs, are affected customers and/or organisations notified as soon as possible after this is discovered and provided with all relevant details.",Information Security (IS),Incident Response (07),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.08.001,The solution MUST encrypt all data in transit.,Information Security (IS),Data Encryption (08),"Information Security Services
+Manager, Security Operations
+",Baseline
+IS.08.002,The solution MUST encrypt all data at rest.,Information Security (IS),Data Encryption (08),"Information Security Services
+Manager, Security Operations
+",Baseline
+IS.08.003,Please provide details of the encryption mechanisms used to protect DoE's data whilst in transmission.,Information Security (IS),Data Encryption (08),"Information Security Services
+Manager, Security Operations
+",Baseline
+IS.08.004,"The Supplier SHOULD ensure, that if the solution is able to process electronic payments or holds credit card data, it is compliant to Payment Card Industry (PCI) Data Security Standards (DSS)",Information Security (IS),Data Encryption (08),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.08.005,"The solution SHOULD ensure all digital certificates for all external sites, are hosted on the internet.",Information Security (IS),Data Encryption (08),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.08.006,The Supplier SHOULD provide evidence of a documented and implemented key management process for the solution.,Information Security (IS),Data Encryption (08),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.08.007,The Solution MUST comply with the requirments set out in the Whole of Government Data Encryption Standard.,Information Security (IS),Data Encryption (08),"Information Security Services
+Manager, Security Operations
+",Baseline
+IS.09.001,"The solution SHOULD provide the ability to manage and interact with users, providing appropriate feedback and assistance, as part of the login function.",Information Security (IS),System Entry Control (09),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.09.002,"If identities are managed by the solution the solution SHOULD ensure password complexity requirements are enforced: 1. Eight Characters; 2. One upper and lower case character; 3. One numerical character, and; One special ASCII character.",Information Security (IS),System Entry Control (09),"Information Security Services
+Manager, Security Operations
+",Optional
+IS.09.003,The solution SHOULD allow for user-initiated locking of a session preventing further access until the user has been re-authenticated,Information Security (IS),System Entry Control (09),"Information Security Services
+Manager, Security Operations
+",Optional
+MT.01.001,The Supplier SHOULD provide evidence of documented and implemented IT Change management process.,Maintainability (MT),Change Management (01),"Enterprise Technology Services
+Manager, ICT Change",Optional
+MT.01.002,The architecture MUST allow for the addition of new features with minimal disruption to existing functionality.,Maintainability (MT),Change Management (01),"Enterprise Technology Services
+Manager, ICT Change",Baseline
+MT.01.003,"The SaaS platform MUST support continuous deployment practices to enable frequent, non-disruptive updates.",Maintainability (MT),Change Management (01),"Enterprise Technology Services
+Manager, ICT Change",Baseline
+MT.01.004,Configuration settings MUST be centrally managed and dynamically adjustable to accommodate different environments and requirements.,Maintainability (MT),Change Management (01),"Enterprise Technology Services
+Manager, ICT Change",Baseline
+MT.01.005,Dates of any planned updates MUST be communicated with DoE IT Operations and the Application Owner at least 2 months prior to the production release of an update.,Maintainability (MT),Change Management (01),"Enterprise Technology Services
+Manager, ICT Change",Baseline
+MT.01.006,Planned downtime MUST be advertised well in advance and MUST not occur within designated core periods within the DoE change calendar.,Maintainability (MT),Change Management (01),"Enterprise Technology Services
+Manager, ICT Change",Baseline
+IS.11.001,The system MUST be designed to allow for updates and patches to be applied without requiring a full reinstallation.,Information Security (IS),Patch Management (10),"Information Security Services
+Manager, Security",Baseline
+IS.11.002,"The platform SHOULD include comprehensive, automated testing frameworks to verify the integrity of updates and patches before deployment.",Information Security (IS),Patch Management (10),"Information Security Services
+Manager, Security",Optional
+IS.11.003,The platform MUST ensure that critical updates can be applied with minimal impact on system performance and user experience.,Information Security (IS),Patch Management (10),"Information Security Services
+Manager, Security",Baseline
+MT.03.001,Documentation for maintenance procedures MUST be comprehensive and kept up to date with each new release.,Maintainability (MT),Supportability (03),"Enterprise Technology Services
+Manager, ICT Change",Baseline
+MT.03.002,All configuration settings MUST be documented and easily editable to ensure maintainability across different environments.,Maintainability (MT),Supportability (03),"Enterprise Technology Services
+Manager, ICT Change",Baseline
+MT.03.003,"Users SHOULD easily access up to date Help Content natively within the application, via a web browser or mobile app.",Maintainability (MT),Supportability (03),"Enterprise Technology Services
+Manager, ICT Change",Optional
+MT.03.004,The supplier MUST provide at minimum one avenue of support available during DoE Business Operations (Mon to Friday 7:00 am till 5:00 pm),Maintainability (MT),Supportability (03),"Enterprise Technology Services
+Manager, ICT Change",Optional
+MT.03.005,"The supplier SHOULD ensure the following methods of support are available: Phone, Helpdesk, Online and Email",Maintainability (MT),Supportability (03),"Enterprise Technology Services
+Manager, ICT Change",Optional
+PF.01.001,The solution MUST be able to meet the performance expectations of the department without changing the functionality or operation of the solution.,Performance (PF),Capacity Management (01),"Enterprise Technology Services
+Manager, Monitoring Services",Baseline
+PF.01.002,The solution MUST describe any limits on data stored within the solution,Performance (PF),Capacity Management (01),"Enterprise Technology Services
+Manager, Monitoring Services",Optional
+PF.01.003,The supplier SHOULD detail any specific Carriage/Perimeter/WAN/LAN pre-requisite requirements for the proposed solution,Performance (PF),Capacity Management (01),"Enterprise Technology Services
+Manager, Monitoring Services",Optional
+PF.02.001,"The solution SHOULD cater for varying levels of bandwidth and connectivity for users located in remote or regional locations with limited connectivity, inclusive of the ability to work offline.  The supplier will provide the minimum bandwidth and caching requirements of the platform.",Performance (PF),Scalability (02),"Enterprise Technology Services
+Manager, Monitoring Services",Optional
+PF.02.002,"The solution SHOULD meet or exceed the responsiveness of <cite>X seconds</cite>, as defined by the business requirements. Describe how to solution meets this requirement, e.g. page load time.",Performance (PF),Scalability (02),"Enterprise Technology Services
+Manager, Monitoring Services",Optional
+PF.02.003,The solution SHOULD provide buffering or video quality options to deliver a consistent user experience irrespective of device or the screen resolution of the device. ,Performance (PF),Scalability (02),"Enterprise Technology Services
+Manager, Monitoring Services",Optional
+PF.02.004,"The host environment MUST have the capacity to scale resources to meet peak demands (e.g., servers, storage, memory, disk capacity, processor capacity) of 'X' concurrent users.",Performance (PF),Scalability (02),"Enterprise Technology Services
+Manager, Monitoring Services",Baseline
+PF.02.005,"At peak loads the solution SHOULD not consume more than 80% of any resource in the stated solution (i.e.: CPU, memory, storage system IOPS, communications bandwidth).",Performance (PF),Scalability (02),"Enterprise Technology Services
+Manager, Monitoring Services",Optional
+PF.03.001,"If this is a complimentary solution or is a solution that runs concurrently with another solution, any impacts or usability issues that may be encountered or impacts to performance should be identified. ",Performance (PF),Performance Monitoring (03),"Enterprise Technology Services
+Manager, Monitoring Services",Optional
+PF.03.002,The system SHOULD provide API's to allow for the real-time monitoring of Service Health and system availability to support automated monitoring and reporting. ,Performance (PF),Performance Monitoring (03),"Enterprise Technology Services
+Manager, Monitoring Services",Optional
+PF.03.003,"The system SHOULD support synthetic transaction monitoring through external monitoring tools to perform regular, automated checks of system availability, key functionality and performance metrics to support reporting capabilities. ",Performance (PF),Performance Monitoring (03),"Enterprise Technology Services
+Manager, Monitoring Services",Optional
+PF.03.004,"The SaaS supplier MUST provide automated alerts within x time for any SaaS service availability changed (downtime, degradation, maintenance) via the following channels: (SMS, Email etc). ",Performance (PF),Performance Monitoring (03),"Enterprise Technology Services
+Manager, Monitoring Services",Optional
+PR.01.001,"The Supplier MUST detail the organisation's privacy policy regarding the collection and management of personal information, ensure it is made readily available, free of charge, and published to customers prior to using the solution.",Privacy (PR),Consent Management (01),"Privacy and Safer Technologies
+Manager, PST",Baseline
+PR.01.002,The Solution MUST not store or transfer personal information offshore without agreement (consent) from the individual.,Privacy (PR),Consent Management (01),"Privacy and Safer Technologies
+Manager, PST",Baseline
+PR.01.003,"The Supplier MUST have a detailed collection notice/privacy policy that stipulates what personal information will be collected, for what purpose, by whom, and who it will be shared/disclosed to.",Privacy (PR),Consent Management (01),"Privacy and Safer Technologies
+Manager, PST",Baseline
+PR.01.004,The Solution MUST only collect personal information that is relevant to providing its core service to the department.,Privacy (PR),Consent Management (01),"Privacy and Safer Technologies
+Manager, PST",Baseline
+PR.01.005,The Solution MUST provide users the ability to amend their personal information where appropriate.,Privacy (PR),Consent Management (01),"Privacy and Safer Technologies
+Manager, PST",Baseline
+PR.01.006,The Supply MUST ensure personal information is only used for the purpose for which it was originally collected and not for any other purpose without the consent of the individual or unless authorised or required by law.,Privacy (PR),Consent Management (01),"Privacy and Safer Technologies
+Manager, PST",Baseline
+PR.02.001,The Supplier SHOULD ensure the platform does not expose users to unsolicited advertising or marketing.,Privacy (PR),Data Protection (02),"Privacy and Safer Technologies
+Manager, PST",Optional
+PR.02.002,The solution SHOULD not allow for the collection of any unnecessary information from users,Privacy (PR),Data Protection (02),"Privacy and Safer Technologies
+Manager, PST",Optional
+PR.02.003,The supplier MUST provide evidence of a process for supplying the department with user data or records at any time.,Privacy (PR),Data Protection (02),"Privacy and Safer Technologies
+Manager, PST",Baseline
+PR.02.004,For supplier hosted or SaaS the solution MUST provide a clear separation of DoE data and system instances from that of other customers.,Privacy (PR),Data Protection (02),"Privacy and Safer Technologies
+Manager, PST",Baseline
+PT.01.001,The solution SHOULD be able to modify user interfaces through the use of a form or code view editor,Portability (PT),Adaptability (01),"Digital Solutions
+Manager, Corporate Development",Optional
+PT.02.001,The reliance on any software or user agents to be installed on any end user devices to achieve particular solution functionality SHOULD be limited to those that do not require administrator rights on the client to install,Portability (PT),Modifiability (02),"Digital Solutions
+Manager, Corporate Development",Optional
+PT.02.002,The solution SHOULD be able to be updated (platform / content) without the need to log into the DoE network to obtain updates.  The supplier SHOULD be able to provide the update solution,Portability (PT),Modifiability (02),"Digital Solutions
+Manager, Corporate Development",Optional
+PT.02.003,The solution SHOULD be developed in a modular format where the modules clearly reflect a capability. The Supplier SHOULD work with the department to continually improve capabilities,Portability (PT),Modifiability (02),"Digital Solutions
+Manager, Corporate Development",Optional
+PT.02.004,The Supplier SHOULD provide information to enable the assessment of configuration (customer enabled control and edit of solution operation) versus customisation (Supplier required to develop and implement the solution operation) ratio.,Portability (PT),Modifiability (02),"Digital Solutions
+Manager, Corporate Development",Optional
+PT.03.001,The Supplier SHOULD ensure regular patching of the solution and any related systems,Information Security (IS),Vulnerability Management (06),"Information Security Services
+Manager, Security Operations
+",Optional
+RL.01.001,The Supplier SHOULD provide details of the organisation's documented and implemented Business Continuity Plan for the proposed solution.,Reliability (RL),Disaster Recovery (01),"Enterprise Technology Services
+Manager, Database and Application Services",Optional
+RL.01.002,The solution SHOULD be configured for High Availability,Reliability (RL),Disaster Recovery (01),"Enterprise Technology Services
+Manager, Database and Application Services",Optional
+RL.01.003,The solution SHOULD be configured for Disaster Recovery,Reliability (RL),Disaster Recovery (01),"Enterprise Technology Services
+Manager, Database and Application Services",Optional
+RL.01.004,"The solution SHOULD be architected for “High Recoverability” to ensure that any solution can be brought back online under most disaster scenarios, with reasonably recent data, in just a few hours.",Reliability (RL),Disaster Recovery (01),"Enterprise Technology Services
+Manager, Database and Application Services",Optional
+RL.01.005,"A retention period SHOULD be specified for any Full, Daily and Weekly backup routines (e.g., No. of days a backed-up data must be retained, prior to that backup being overwritten/refreshed",Reliability (RL),Disaster Recovery (01),"Enterprise Technology Services
+Manager, Database and Application Services",Optional
+RL.01.006,Backup Frequency SHOULD be configurable (for relevant Backup Types),Reliability (RL),Disaster Recovery (01),"Enterprise Technology Services
+Manager, Database and Application Services",Optional
+RL.01.007,Backup media SHOULD be secured from unauthorised access and copies held at an alternative location in the case of theft or a natural disaster at the primary location.,Reliability (RL),Disaster Recovery (01),"Enterprise Technology Services
+Manager, Database and Application Services",Optional
+RL.02.001,"The Supplier SHOULD ensure system / platform changes and upgrades that cause service disruption to the solution are completed outside of stated business hours: <cite>X</cite> am to <cite>Y</cite> pm, <cite>Z</cite> days a week.",Reliability (RL),System Availability (02),"Enterprise Technology Services
+Manager, Database and Application Services",Optional
+RL.02.002,The solution SHOULD provide monthly reports on the overall availability of the solution.,Reliability (RL),System Availability (02),"Enterprise Technology Services
+Manager, Database and Application Services",Optional
+RL.02.003,"The solution SHOULD be available for use <cite>X</cite> hrs per day, <cite>Y</cite> days per week, for a total availability of <cite>Z</cite>%.",Reliability (RL),System Availability (02),"Enterprise Technology Services
+Manager, Database and Application Services",Optional
+RL.02.004,The solution SHOULD be accompanied by published or current SaaS Service Level Agreements (SLAs) and Key Performance Indicators (KPIs).,Reliability (RL),System Availability (02),"Enterprise Technology Services
+Manager, Database and Application Services",Optional
+RL.02.005,The solution SHOULD be configured for fault tolerance so that the solution continues to operate properly in the event of the failure of (or one or more faults within) some of its components,Reliability (RL),System Availability (02),"Enterprise Technology Services
+Manager, Database and Application Services",Optional
+RL.03.001,The solution MUST provide data backups to be stored for a minimum of 3 months,Reliability (RL),Backup and Restore (03),"Enterprise Technology Services
+Manager, Database and Application Services",Baseline
+RL.03.002,"The solution SHOULD provide an overall Recovery Time Objective (RTO) which supports the stated business requirments. Provide the cumulative RTO of the solution, which factors in all dependencies.",Reliability (RL),Backup and Restore (03),"Enterprise Technology Services
+Manager, Database and Application Services",Optional
+RL.03.003,"The solution SHOULD provide an overall Recovery Point Objective (RPO) which supports the stated business requirments. Provide the cumulative RPO of the solution, which factors in all dependencies.",Reliability (RL),Backup and Restore (03),"Enterprise Technology Services
+Manager, Database and Application Services",Optional
+RL.04.001,"The solution SHOULD demonstrate characteristics of a mature product, including proven reliability, comprehensive support, security and compliance adherence, scalability, interoperability with industry-standard systems, and regular updates to maintain performance and adapt to evolving industry requirements.",Reliability (RL),Maturity (04),"Enterprise Technology Services
+Manager, Database and Application Services",Optional
+RL.04.002,The Supplier SHOULD  demonstrate continuous investment and ongoing development of the solution providing the department a roadmap clearly articulating strategic direction and development of the product over a 1-3 year period,Reliability (RL),Maturity (04),"Enterprise Technology Services
+Manager, Database and Application Services",Optional
+RL.04.003,"The Supplier MUST demonstrate a customer focus by describing the process used to solicit customer feedback on the product Roadmap. Also describe any other forums, groups, or processes that the supplier provides to hear the voice of the customer.",Reliability (RL),Maturity (04),"Enterprise Technology Services
+Manager, Database and Application Services",Baseline
+TS.01.001,The supplier MUST provide a comprehensive test strategy and test plan.,Testability (TS),Test Planning (01),"Governance, Cyber and Policy
+Test Manager",Baseline
+TS.01.002,The supplier MUST specify all required test environments,Testability (TS),Test Planning (01),"Governance, Cyber and Policy
+Test Manager",Baseline
+TS.01.003,The supplier SHOULD define test data requirements and management processes.,Testability (TS),Test Planning (01),"Governance, Cyber and Policy
+Test Manager",Optional
+TS.02.001,The supplier MUST use specified test design techniques,Testability (TS),Test Design and Implementation (02),"Governance, Cyber and Policy
+Test Manager",Baseline
+TS.02.002,The supplier MUST adhere to defined test case documentation standards.,Testability (TS),Test Design and Implementation (02),"Governance, Cyber and Policy
+Test Manager",Baseline
+TS.02.003,The supplier MUST maintain traceability between requirements and test cases. ,Testability (TS),Test Design and Implementation (02),"Governance, Cyber and Policy
+Test Manager",Baseline
+TS.03.001,The supplier SHOULD use the project's preferred test management tools or integrate with existing tools.,Testability (TS),Test Execution (03),"Governance, Cyber and Policy
+Test Manager",Optional
+TS.03.002, The supplier MUST define and apply clear pass/fail criteria for all tests,Testability (TS),Test Execution (03),"Governance, Cyber and Policy
+Test Manager",Baseline
+TS.03.003, The supplier SHOULD implement the specified level of test automation.,Testability (TS),Test Execution (03),"Governance, Cyber and Policy
+Test Manager",Optional
+TS.03.004, The supplier SHOULD provide regular test execution reports.,Testability (TS),Test Execution (03),"Governance, Cyber and Policy
+Test Manager",Optional
+TS.03.005,The supplier MUST track and report on defined key performance indicators (KPIs) for the testing process,Testability (TS),Test Execution (03),"Governance, Cyber and Policy
+Test Manager",Baseline
+TS.04.001,The supplier MUST produce test summary reports in the format specified by the department.,Testability (TS),Test Closure (04),"Governance, Cyber and Policy
+Test Manager",Baseline
+TS.04.002,The supplier MUST deliver detailed test closure reports at the end of each testing phase.,Testability (TS),Test Closure (04),"Governance, Cyber and Policy
+Test Manager",Baseline
+TS.04.003,The supplier SHOULD meet or exceed defined performance metrics for the testing process.,Testability (TS),Test Closure (04),"Governance, Cyber and Policy
+Test Manager",Optional
+US.01.001,The proposed solution MUST be WCAG 2.1 (AA) compliant. NOTE: This requirement should no longer be recommended as the latest version of the GITC contract contains this requirement. ,Usability (US),Accessibility (01),"Digital Solutions
+Manager, Corporate Development",Baseline
+US.01.002,"The solution SHOULD have the ability to provide, voice activated digital assistance similar to Siri / Google Assistant to assist users with disabilities.",Usability (US),Accessibility (01),"Digital Solutions
+Manager, Corporate Development",Optional
+US.01.003,"The solution SHOULD have the ability to cater for differing levels of disability including touch, eye gaze, voice to text, text to voice, Augmented and Alternative Communication (AAC)",Usability (US),Accessibility (01),"Digital Solutions
+Manager, Corporate Development",Optional
+US.01.004,"The solution SHOULD provide support for multiple languages across the platform including but not limited to the translation of text, text to speech support etc. similar to Office 365 Learning Tools.",Usability (US),Accessibility (01),"Digital Solutions
+Manager, Corporate Development",Optional
+US.01.005,The supplier SHOULD detail what languages are supported and how languages are supported in which parts of the solution.,Usability (US),Accessibility (01),"Digital Solutions
+Manager, Corporate Development",Optional
+US.02.001,"The solution MAY provide consistent, structurally similar interfaces for all users who MAY move between positions, schools or job roles",Usability (US),User Interface (02),"Digital Solutions
+Manager, Corporate Development",Optional
+US.02.002,"The solution SHOULD provide ability to differentiate visual branding to indicate differences between individual accesses.  Example - Different colours for teachers, learners, managers, administrators, parents and other external users",Usability (US),User Interface (02),"Digital Solutions
+Manager, Corporate Development",Optional
+US.02.003,"The use of software agents on end user devices, pop-ups, child forms or screens SHOULD be minimised unless considered essential, unavoidable or to add secondary value (e.g., date field calendar picker).",Usability (US),User Interface (02),"Digital Solutions
+Manager, Corporate Development",Optional
+US.02.004,The solution SHOULD provide the ability to allow users to view multiple screens and device(s) simultaneously while maintaining data and session integrity.,Usability (US),User Interface (02),"Digital Solutions
+Manager, Corporate Development",Optional
+US.02.005,"The solution SHOULD provide an intuitive, user friendly, visually appealing user interface providing ease of navigation.",Usability (US),User Interface (02),"Digital Solutions
+Manager, Corporate Development",Optional
+US.02.006,"The solution SHOULD provide an intuitive user interface, with a logical layout in order to: 1. limit the volume of interactions required to reach the desired location within the platform; 2. cater for various levels of user skill level; 3. provide readily accessible solution functions without the need to drill-down through heavily nested menus.",Usability (US),User Interface (02),"Digital Solutions
+Manager, Corporate Development",Optional
+US.02.007,"The solution MAY provide the ability for easily changeable branding, banners/campaign style content, featured courses, etc. to be displayed on landing page or dashboard",Usability (US),User Interface (02),"Digital Solutions
+Manager, Corporate Development",Optional
+US.02.008,"The solution SHOULD provide the ability to customise the branding in terms of the branding, colours, fonts etc. so that it can be aligned with DoE’s standards. Examples: The ability to add links, tools, resources etc. to favourites. This applies to both: a) The skin of online pages & b) printed output.",Usability (US),User Interface (02),"Digital Solutions
+Manager, Corporate Development",Optional
+US.02.009,"The solution SHOULD support the ability to have a personalised view with notification push to end users (e.g., updates in procedures, configuration of customisable widgets etc.).",Usability (US),User Interface (02),"Digital Solutions
+Manager, Corporate Development",Optional
+US.02.010,"The solution SHOULD provide the ability to deep link into specific functions or screens, enabling a targeted and seamless user experience.",Usability (US),User Interface (02),"Digital Solutions
+Manager, Corporate Development",Optional
+US.02.011,"The solution SHOULD provide a user experience that is localised to Australia including the use of Australian (or UK) English, Australian date and currency format, and Australian time zones.",Usability (US),User Interface (02),"Digital Solutions
+Manager, Corporate Development",Optional
+US.03.001,The solution SHOULD provide natural language search capability across all content,Usability (US),Operability (03),"Digital Solutions
+Manager, Corporate Development",Optional
+US.03.002,"The solution SHOULD provide a platform that is technology agnostic across commonly used web browsers, including (but not limited to): Google Chrome, Safari; and Microsoft Edge operating environments (Windows and iOS) including both managed and unmanaged; and a range of devices (desktop, laptop, tablet and mobile).",Usability (US),Operability (03),"Digital Solutions
+Manager, Corporate Development",Optional
+US.03.003,"The solution SHOULD follow contemporary Responsive Web Design principles ([https://www.nngroup.com/articles/responsive-web-design-definition/](https://www.nngroup.com/articles/responsive-web-design-definition/)) and provide all functionality delivered through optimal experiences to end-users on any mobile device (across Apple iOS and Google Android platforms), computers, embedded systems, including orientation.",Usability (US),Operability (03),"Digital Solutions
+Manager, Corporate Development",Optional
+US.03.004,"The solution SHOULD provide the users with the ability to access the solution anywhere, any time and on any device",Usability (US),Operability (03),"Digital Solutions
+Manager, Corporate Development",Optional
+US.03.005,The solution SHOULD be able to provide process/workflow automation.,Usability (US),Operability (03),"Digital Solutions
+Manager, Corporate Development",Optional
+US.03.006,"The solution SHOULD provide the ability to enable all incomplete transactions to be saved manually and automatically, at any stage, for completion at a later time by authorised users",Usability (US),Operability (03),"Digital Solutions
+Manager, Corporate Development",Optional
+US.03.007,The solution SHOULD provide the ability to customise error messages to include additional text / links / help information.,Usability (US),Operability (03),"Digital Solutions
+Manager, Corporate Development",Optional
+US.03.008,"The vendor SHOULD provide training services (both self-serve and instructor-led) and on-demand support services, including documentation, tutorials, and helpdesk services.",Usability (US),User Training (04),"Digital Solutions
+Manager, Corporate Development",Optional
+PR.02.005,"The Supplier, MUST be able to provide access to user data or records containing personal information of an individual (staff or students) when requested.",Privacy (PR),Data Protection (02),"Privacy and Safer Technologies
+Manager, PST",Baseline
