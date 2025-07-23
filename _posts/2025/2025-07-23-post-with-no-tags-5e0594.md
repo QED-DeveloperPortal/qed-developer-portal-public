@@ -5,6 +5,8 @@ author: Divya28237
 categories: Public
 classification: Public
 date: 2025-07-23 23:00:25 
+updatedBy: Divya28237
+updated: 2025-07-23 23:31:27 
 likes: 0
 ---
 
@@ -22,4 +24,4 @@ Endpoint understanding: Fully understand the available API endpoints and their i
 
 Documentation review: Thoroughly review the API documentation to ensure correct usage and minimise errors.
 
-Rate limiting: Plan for API rate limiting and implement error handling to ensure a smooth user experience.
+Rate limiting: Plan for API rate limiting and implement error handling to ensure a smooth user experience. Updatedc
