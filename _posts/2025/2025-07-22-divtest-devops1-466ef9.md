@@ -5,7 +5,7 @@ author: Divya
 owner: Divya
 categories: Public
 classification: Public
-tags: [auto-import, getting started]
+tags: [auto-import, getting-started]
 date: 2025-07-22 22:36:04
 likes: 0
 imported: True 
