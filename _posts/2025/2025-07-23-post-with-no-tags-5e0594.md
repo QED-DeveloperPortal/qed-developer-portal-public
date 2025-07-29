@@ -1,13 +1,13 @@
 ---
-title: "Post with no tags - Updated with tags"
+title: "Post with no tags - Updated with tags 29/7"
 slug: "post-with-no-tags-5e0594"
 author: Divya28237
 categories: Public
 classification: Public
-tags: [myths,tutorials]
+tags: [myths,uxui]
 date: 2025-07-23 23:00:25 
 updatedBy: Divya28237
-updated: 2025-07-23 23:52:33 
+updated: 2025-07-29 04:17:21 
 likes: 0
 ---
 
