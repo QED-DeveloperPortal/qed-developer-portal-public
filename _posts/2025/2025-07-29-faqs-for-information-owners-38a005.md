@@ -1,8 +1,8 @@
 ---
 title: "FAQs for information owners"
 slug: "faqs-for-information-owners-38a005"
-author: joyclyn
-owner: joyclyn
+author: Joyclyn
+owner: Joyclyn
 categories: Public
 classification: Public
 tags: [auto-import, faq]
