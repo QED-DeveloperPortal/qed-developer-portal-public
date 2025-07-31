@@ -1,12 +1,13 @@
 ---
 title: "Can we use agile in government?"
+slug: "can-we-use-agile-in-government-1c9ebe"
 author: Joyclyn
-categories: [Public]
+categories: Public
 classification: Public
 tags: [myths,agile]
 date: 2024-08-21 05:48:24 
-updatedBy: g-morton
-updated: 2024-10-03 04:11:15 
+updatedBy: Joyclyn
+updated: 2025-07-31 05:09:31 
 likes: 0
 ---
 
@@ -24,6 +25,7 @@ Here is the minimum we need to do:
 * Work incrementally starting with the minimum needed to achieve an outcome and build on this. 
 * Test and iterate at each step, with very clear and fast feedback loops to improve quickly.
 
+Update: as of 31 July 2025, the 2022 standard linked below is still the most current version.
 
 ***
 
