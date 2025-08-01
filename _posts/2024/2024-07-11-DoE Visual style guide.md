@@ -1,12 +1,13 @@
 ---
 title: "Corporate visual style guide"
+slug: "corporate-visual-style-guide-4d8e59"
 author: jeny-amatya-qed
-categories: [Public]
+categories: Public
 classification: Public
 tags: [standards]
 date: 2024-07-11 02:14:45 
-updatedBy: g-morton
-updated: 2024-10-03 04:18:09 
+updatedBy: jeny-amatya-qed
+updated: 2025-08-01 04:32:11 
 likes: 0
 ---
 
