@@ -1,16 +1,17 @@
 ---
 title: "Can we use open source software in government?"
+slug: "can-we-use-open-source-software-in-government-1bfe68"
 author: Joyclyn
-categories: [Public]
+categories: Public
 classification: Public
 tags: [myths,standards]
 date: 2024-08-20 01:30:41 
-updatedBy: g-morton
-updated: 2024-10-03 04:12:52 
+updatedBy: Joyclyn
+updated: 2025-08-01 03:26:53 
 likes: 0
 ---
 
-Open source software (OSS) is increasingly important in the public sector, but a common question is whether we can use it.
+Even though open source software (OSS) is increasingly important in the public sector, and common question is still: Can we use it?
 
 The answer is yes—government agencies can and do use OSS developed by external sources. Despite some misconceptions, OSS is secure, reliable, and widely adopted when properly vetted.
 
@@ -34,3 +35,5 @@ Further reading:
 - Obama Whitehouse Archives (2016) *[The People's Code](https://obamawhitehouse.archives.gov/blog/2016/08/08/peoples-code)*, accessed 20 August 2024.
 - QGEA (Queensland Government Enterprise Architecture) (2020) *[Open source software guideline](https://www.forgov.qld.gov.au/information-and-communication-technology/qgea-policies-standards-and-guidelines/open-source-software-guideline)*, accessed 20 August 2024.
 - ——(2022) *[Digital service standard](https://www.forgov.qld.gov.au/information-and-communication-technology/qgea-policies-standards-and-guidelines/digital-service-standard)*, accessed 20 August 2024.
+
+Reviewed for currency 1 August 2025.
