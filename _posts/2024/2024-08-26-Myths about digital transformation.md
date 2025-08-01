@@ -1,15 +1,19 @@
 ---
 title: "Myths about digital transformation"
+slug: "myths-about-digital-transformation-4e4b70"
 author: Joyclyn
-categories: [Public]
+categories: Public
 classification: Public
 tags: [myths]
 date: 2024-08-26 04:36:32 
-updatedBy: 
+updatedBy: Joyclyn
+updated: 2025-08-01 00:45:54 
 likes: 0
 ---
 
-The term ‘digital transformation’ tends to be thrown about a lot without much consideration for what it actually is, which is one way myths begin. Here are some common myths about digital transformation: 
+The term ‘digital transformation’ tends to be thrown about a lot without much consideration for what it actually is, which is one way myths begin. 
+
+Here are some common myths about digital transformation I'd like to challenge: 
  
 | Myth | Truth |
 | --- | --- |
@@ -22,20 +26,20 @@ The Digital Transformation Agency offers the following definition of digital tra
 >Digital transformation is about delivery improvements to policy, process and technology to better meet user needs.
 
  What it is:
-* User-centred.
-* Innovation.
-* Willingness to change.
-* Developing new skills and capabilities across entire organisations.
-* Evidence-based.
-* Data-driven.
-* Enabled by technology.
+* User-centred
+* Innovation
+* Willingness to change
+* Developing new skills and capabilities across entire organisations
+* Evidence-based
+* Data-driven
+* Enabled by technology
 
 What it’s not:
-* Only digitising paper transactions or processes.
-* Restricted to technology teams.
-* Siloed skills and single-function teams.
-* Focused on outputs.
-* Driven by technology.
+* Only digitising paper transactions or processes
+* Restricted to technology teams
+* Siloed skills and single-function teams
+* Focused on outputs
+* Driven by technology
 
 Transformation begins with building awareness of, and then building capability in, digital tools, practices and mindsets. 
 
