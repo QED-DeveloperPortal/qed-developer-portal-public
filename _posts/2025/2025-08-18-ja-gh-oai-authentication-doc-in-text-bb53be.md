@@ -6,7 +6,7 @@ owner: jeny-amatya-qed
 categories: Public
 classification: Public
 tags: [auto-import, about]
-date: 2025-08-18 04:58:57
+date: 2025-08-18 05:09:17
 likes: 0
 imported: True 
 import-source: "github"
@@ -14,7 +14,7 @@ import-reference: ""
 import-config-id: "61355e30-9bf7-4d48-ba80-cb08bb580a99"
 ---
 
-# Updated, need to import
+# Import me again, I'm updated! Yayy!!!
 # Action authentication
 
 Actions offer different authentication schemas to accommodate various use cases. To specify the authentication schema for your action, use the GPT editor and select "None", "API Key", or "OAuth".
