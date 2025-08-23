@@ -6,7 +6,7 @@ owner: Divya
 categories: Public
 classification: Public
 tags: [auto-import, technology]
-date: 2025-08-22 04:33:56
+date: 2025-08-23 04:35:10
 likes: 0
 imported: True 
 import-source: "content-manager"
@@ -16,7 +16,7 @@ import-config-id: "18c9d83f-9211-4c09-9fd6-2d20136bcee0"
 
 Software Development Life Cycle: (SDLC) A value driven approach 
 A departmental approach to delivering successful digital solutions. 
-TL;DR Our SDLC is a value-driven framework for delivering and managing digital solutions that are fast, safe, and centred on real user needs. It balances strategy, structure, and agility - empowering teams to build meaningful, evolving products through continuous quality, collaboration, and purpose.
+TL;DR Our SDLC is a value-driven framework for delivering and managing digital solutions that are fast, safe, and centred on real user needs. It balances strategy, structure, and agility - empowering teams to build meaningful, evolving products through continuous quality, collaboration, and purpose. 
 
 
 Start with WHYTo deliver and manage better digital solutions - faster, safer, and with purpose.Driven by our valuesAt its heart, an SDLC is not just about writing code or following process. It’s about solving real problems for real people - through technology that’s responsive, inclusive, and sustainable.
