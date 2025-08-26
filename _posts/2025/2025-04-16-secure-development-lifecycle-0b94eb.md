@@ -7,7 +7,7 @@ classification: Public
 tags: [standards,security]
 date: 2025-04-16 05:05:41 
 updatedBy: Joyclyn
-updated: 2025-04-29 05:05:00 
+updated: 2025-08-26 00:56:37 
 likes: 0
 ---
 
@@ -64,7 +64,7 @@ The **Developer Portal** exemplifies a modern and secure SDLC model, delivering 
 
 Security is not static. Teams should regularly:
 
-- **Review and iterate** on security practices as the product and context evolve.
-- **Refactor** to reduce complexity and risk as systems grow.
-- **Embed security champions** to promote awareness and challenge assumptions.
-- **Promote learning**, not blame, when addressing defects or risks.
+- **review and iterate** on security practices as the product and context evolve
+- **refactor** to reduce complexity and risk as systems grow
+- **embed security champions** to promote awareness and challenge assumptions
+- **promote learning**, not blame, when addressing defects or risks.
