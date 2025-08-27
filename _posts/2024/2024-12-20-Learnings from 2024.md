@@ -1,12 +1,13 @@
 ---
 title: "Learnings from 2024"
+slug: "learnings-from-2024-9c84b0"
 author: g-morton
 categories: Public
 classification: Public
 tags: [agile,technology,about]
 date: 2024-12-20 01:05:09 
-updatedBy: Joyclyn
-updated: 2025-01-08 03:06:18 
+updatedBy: jeny-amatya-qed
+updated: 2025-08-27 04:41:10 
 likes: 0
 ---
 
