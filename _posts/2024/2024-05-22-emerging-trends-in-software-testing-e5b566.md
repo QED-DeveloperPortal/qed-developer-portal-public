@@ -1,5 +1,6 @@
 ---
 title: "Emerging trends in software testing"
+slug: "emerging-trends-in-software-testing-e5b566"
 author: sushma-hazari-qed
 categories: [public]
 classification: Public

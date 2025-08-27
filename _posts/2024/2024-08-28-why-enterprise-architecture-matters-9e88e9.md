@@ -1,5 +1,6 @@
 ---
 title: "Why enterprise architecture matters?"
+slug: "why-enterprise-architecture-matters-9e88e9"
 author: g-morton
 categories: [Public]
 classification: Public

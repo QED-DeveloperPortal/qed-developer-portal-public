@@ -1,5 +1,6 @@
 ---
 title: "Web Content Accessibility Guideline (WCAG) reviews"
+slug: "web-content-accessibility-guideline-wcag-reviews-c84c60"
 author: g-morton
 categories: [Public]
 classification: Public

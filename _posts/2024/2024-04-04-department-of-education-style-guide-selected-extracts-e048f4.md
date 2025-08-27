@@ -1,5 +1,6 @@
 ---
 title: "Department of Education Style Guide: Selected extracts"
+slug: "department-of-education-style-guide-selected-extracts-e048f4"
 author: Joyclyn
 categories: [public]
 classification: Public
