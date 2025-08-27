@@ -1,10 +1,13 @@
 ---
 title: "Mobile application and operating systems standard"
+slug: "mobile-application-and-operating-systems-standard-48b7bd"
 author: Joyclyn
-categories: [public]
+categories: Public
 classification: Public
 tags: [standards]
 date: 2024-04-08 01:25:35 
+updatedBy: jeny-amatya-qed
+updated: 2025-08-27 05:23:24 
 likes: 0
 ---
 
