@@ -1,12 +1,13 @@
 ---
 title: "Software development practice"
+slug: "software-development-practice-db6ab5"
 author: Dave
-categories: [public]
+categories: Public
 classification: Public
 tags: [standards]
 date: 2024-05-07 03:18:02 
-updatedBy: Joyclyn
-updated: 2024-07-16 00:55:40 
+updatedBy: jeny-amatya-qed
+updated: 2025-08-27 06:44:49 
 likes: 0
 ---
 
