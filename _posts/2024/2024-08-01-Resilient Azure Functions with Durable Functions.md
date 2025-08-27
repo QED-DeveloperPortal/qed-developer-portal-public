@@ -1,10 +1,13 @@
 ---
 title: "Resilient Azure Functions with Durable Functions"
+slug: "resilient-azure-functions-with-durable-functions-05bee5"
 author: matt
-categories: [Public]
+categories: Public
 classification: Public
 tags: [cloud]
 date: 2024-08-01 22:29:58 
+updatedBy: jeny-amatya-qed
+updated: 2025-08-27 07:00:41 
 likes: 1
 ---
 
