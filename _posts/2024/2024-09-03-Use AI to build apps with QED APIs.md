@@ -1,12 +1,13 @@
 ---
 title: "Using AI to build API driven apps"
+slug: "using-ai-to-build-api-driven-apps-7c18e0"
 author: andrew
-categories: [Public]
+categories: Public
 classification: Public
 tags: [ai,api,trending]
 date: 2024-09-03 05:16:52 
 updatedBy: jeny-amatya-qed
-updated: 2024-09-03 23:22:57 
+updated: 2025-08-27 04:55:22 
 likes: 0
 ---
 
