@@ -1,5 +1,6 @@
 ---
 title: "Introducing our API Sandbox with synthetic data"
+slug: "introducing-our-api-sandbox-with-synthetic-data-4d62ec"
 author: g-morton
 categories: [Public]
 classification: Public

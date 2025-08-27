@@ -1,5 +1,6 @@
 ---
 title: "Software development practice"
+slug: "software-development-practice-db6ab5"
 author: Dave
 categories: [public]
 classification: Public

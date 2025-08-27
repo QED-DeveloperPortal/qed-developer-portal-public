@@ -1,5 +1,6 @@
 ---
 title: "CSS standards and guidelines"
+slug: "css-standards-and-guidelines-986129"
 author: g-morton
 categories: [Public]
 classification: Public

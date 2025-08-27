@@ -1,5 +1,6 @@
 ---
 title: "Cross-platform naming conventions"
+slug: "cross-platform-naming-conventions-330e83"
 author: g-morton
 categories: [Public]
 classification: Public
