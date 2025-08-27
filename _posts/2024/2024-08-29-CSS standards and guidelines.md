@@ -1,12 +1,13 @@
 ---
 title: "CSS standards and guidelines"
+slug: "css-standards-and-guidelines-986129"
 author: g-morton
-categories: [Public]
+categories: Public
 classification: Public
 tags: [standards]
 date: 2024-08-29 02:01:48 
-updatedBy: sushma-hazari
-updated: 2024-09-03 00:23:49 
+updatedBy: jeny-amatya-qed
+updated: 2025-08-27 07:04:42 
 likes: 0
 ---
 
