@@ -1,12 +1,13 @@
 ---
 title: "Emerging trends in software testing"
+slug: "emerging-trends-in-software-testing-e5b566"
 author: sushma-hazari-qed
-categories: [public]
+categories: Public
 classification: Public
 tags: [trending,quality-assurance]
 date: 2024-05-22 04:56:13 
-updatedBy: sushma-hazari
-updated: 2024-08-26 03:15:21 
+updatedBy: jeny-amatya-qed
+updated: 2025-08-27 06:57:54 
 likes: 0
 ---
 
