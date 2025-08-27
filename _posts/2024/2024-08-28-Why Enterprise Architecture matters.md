@@ -1,12 +1,13 @@
 ---
 title: "Why enterprise architecture matters?"
+slug: "why-enterprise-architecture-matters-9e88e9"
 author: g-morton
-categories: [Public]
+categories: Public
 classification: Public
 tags: [architecture]
 date: 2024-08-28 04:36:52 
-updatedBy: sushma-hazari
-updated: 2024-08-29 00:24:04 
+updatedBy: jeny-amatya-qed
+updated: 2025-08-27 07:02:33 
 likes: 0
 ---
 
