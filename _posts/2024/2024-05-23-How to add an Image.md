@@ -1,12 +1,13 @@
 ---
 title: "Adding images to posts using the markdown editor"
+slug: "adding-images-to-posts-using-the-markdown-editor-f838e5"
 author: sushma-hazari-qed
-categories: [public]
+categories: Public
 classification: Public
 tags: [getting-started]
 date: 2024-05-23 02:12:44 
-updatedBy: Sushma Hazari (IA)
-updated: 2024-06-28 05:53:53 
+updatedBy: jeny-amatya-qed
+updated: 2025-08-27 06:58:46 
 likes: 0
 ---
 
