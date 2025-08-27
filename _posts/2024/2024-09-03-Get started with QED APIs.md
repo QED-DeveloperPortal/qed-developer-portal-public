@@ -1,10 +1,13 @@
 ---
-title: Get started with QED APIs
+title: "Get started with QED APIs"
+slug: "get-started-with-qed-apis-a42186"
 author: andrew
-categories: [Public]
+categories: Public
 classification: Public
 tags: [api,trending]
 date: 2024-09-03 08:28:17 
+updatedBy: jeny-amatya-qed
+updated: 2025-08-27 04:56:27 
 likes: 0
 ---
 
