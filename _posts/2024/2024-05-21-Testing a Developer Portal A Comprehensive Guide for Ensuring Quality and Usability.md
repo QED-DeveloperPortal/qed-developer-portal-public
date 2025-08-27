@@ -1,12 +1,13 @@
 ---
 title: "Case study - Quality assurance and the Developer Portal"
+slug: "case-study-quality-assurance-and-the-developer-portal-91285a"
 author: sushma-hazari-qed
-categories: public
-tags: [quality-assurance,case-study]
+categories: Public
 classification: Public
+tags: [quality-assurance,case-study]
 date: 2024-05-21 03:56:30 
-updatedBy: Joyclyn
-updated: 2024-06-04 04:44:34 
+updatedBy: jeny-amatya-qed
+updated: 2025-08-27 06:57:01 
 likes: 0
 ---
 
