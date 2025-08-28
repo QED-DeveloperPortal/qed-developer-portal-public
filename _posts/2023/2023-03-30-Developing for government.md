@@ -1,12 +1,13 @@
 ---
 title: "Developing for government"
+slug: "developing-for-government-86ab64"
 author: jeny-amatya-qed
-categories: [public]
+categories: Public
 classification: Public
 tags: [getting-started]
 date: 2023-04-19 05:22:17 
-updatedBy: Sushma Hazari
-updated: 2024-04-30 01:15:39 
+updatedBy: jeny-amatya-qed
+updated: 2025-08-28 04:16:27 
 likes: 1
 ---
 
