@@ -1,5 +1,6 @@
 ---
 title: "Case study - The Developer Portal journey"
+slug: "case-study-the-developer-portal-journey-856518"
 author: g-morton
 categories: public
 classification: Public

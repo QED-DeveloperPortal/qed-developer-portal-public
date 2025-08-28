@@ -1,5 +1,6 @@
 ---
 title: "Accessibility for all"
+slug: "accessibility-for-all-3714a1"
 author: g-morton
 categories: [public]
 classification: Public

@@ -1,5 +1,6 @@
 ---
 title: "Using web tags to improve SEO"
+slug: "using-web-tags-to-improve-seo-2468a9"
 author: sushma-hazari-qed
 categories: [public]
 classification: Public

@@ -1,5 +1,6 @@
 ---
 title: "Agile Definition of Done - Is it really done?"
+slug: "agile-definition-of-done-is-it-really-done-e0cfb6"
 author: jeny-amatya-qed
 categories: [public]
 classification: Public

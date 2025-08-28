@@ -1,5 +1,6 @@
 ---
 title: "Personal information guideline"
+slug: "personal-information-guideline-dcaaaa"
 author: g-morton
 categories: [public]
 classification: Public

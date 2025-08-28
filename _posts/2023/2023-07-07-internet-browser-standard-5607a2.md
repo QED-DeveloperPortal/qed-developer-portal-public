@@ -1,5 +1,6 @@
 ---
 title: "Internet browser standard"
+slug: "internet-browser-standard-5607a2"
 author: g-morton
 categories: [public]
 classification: Public

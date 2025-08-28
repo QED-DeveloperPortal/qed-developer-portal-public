@@ -1,5 +1,6 @@
 ---
 title: "Welcome to the Developer Portal!"
+slug: "welcome-to-the-developer-portal-41124a"
 author: matt
 categories: [public]
 classification: Public

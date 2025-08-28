@@ -1,5 +1,6 @@
 ---
 title: "Information privacy and right to information procedure"
+slug: "information-privacy-and-right-to-information-procedure-648da7"
 author: g-morton
 categories: [public]
 classification: Public

@@ -1,5 +1,6 @@
 ---
 title: "Case study (Template)"
+slug: "case-study-template-c45f2c"
 author: g-morton
 categories: public
 classification: Public
