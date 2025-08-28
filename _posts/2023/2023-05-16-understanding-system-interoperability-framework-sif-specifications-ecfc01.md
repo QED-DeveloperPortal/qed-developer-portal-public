@@ -1,5 +1,6 @@
 ---
 title: "Understanding System Interoperability Framework (SIF) Specifications"
+slug: "understanding-system-interoperability-framework-sif-specifications-ecfc01"
 author: jeny-amatya-qed
 categories: [public]
 classification: Public

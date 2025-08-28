@@ -1,5 +1,6 @@
 ---
 title: "Mobile application standards"
+slug: "mobile-application-standards-ca6843"
 author: g-morton
 categories: [public]
 classification: Public

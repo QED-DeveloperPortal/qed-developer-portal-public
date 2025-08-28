@@ -1,5 +1,6 @@
 ---
 title: "Testing tips for quality websites"
+slug: "testing-tips-for-quality-websites-b6f56b"
 author: sushma-hazari-qed
 categories: [public]
 classification: Public

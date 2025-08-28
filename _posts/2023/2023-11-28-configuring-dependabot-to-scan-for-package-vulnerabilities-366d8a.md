@@ -1,5 +1,6 @@
 ---
 title: "Configuring Dependabot to scan for package vulnerabilities"
+slug: "configuring-dependabot-to-scan-for-package-vulnerabilities-366d8a"
 author: matt
 categories: [public]
 classification: Public

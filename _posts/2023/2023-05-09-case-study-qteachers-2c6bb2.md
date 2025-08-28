@@ -1,5 +1,6 @@
 ---
 title: "Case study - QTeachers"
+slug: "case-study-qteachers-2c6bb2"
 author: g-morton
 categories: public
 classification: Public

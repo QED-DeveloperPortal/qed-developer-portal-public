@@ -1,6 +1,7 @@
 ---
 
 title: "Building a strong foundation for Agile Success"
+slug: "building-a-strong-foundation-for-agile-success-021009"
 author: jeny-amatya-qed
 categories: [public]
 classification: Public
