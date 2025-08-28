@@ -1,12 +1,13 @@
 ---
 title: "Testing tips for quality websites"
+slug: "testing-tips-for-quality-websites-b6f56b"
 author: sushma-hazari-qed
-categories: [public]
+categories: Public
 classification: Public
 tags: [web,quality-assurance]
 date: 2023-05-26 05:49:29 
-updatedBy: Sushma Hazari
-updated: 2024-04-17 22:22:22 
+updatedBy: jeny-amatya-qed
+updated: 2025-08-28 04:07:57 
 likes: 1
 ---
 
