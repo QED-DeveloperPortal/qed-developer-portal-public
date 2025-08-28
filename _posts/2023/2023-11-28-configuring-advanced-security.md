@@ -1,10 +1,13 @@
 ---
 title: "Configuring advanced setup for code scanning with CodeQL"
+slug: "configuring-advanced-setup-for-code-scanning-with-codeql-656029"
 author: matt
-categories: [public]
+categories: Public
 classification: Public
 tags: [security]
 date: 2023-11-27 00:00:00 
+updatedBy: jeny-amatya-qed
+updated: 2025-08-28 04:03:17 
 likes: 1
 ---
 
