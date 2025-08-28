@@ -1,14 +1,16 @@
 ---
 title: "How to deploy to a new SWA from a GitHub repository?"
+slug: "how-to-deploy-to-a-new-swa-from-a-github-repository-3acde3"
 author: matt
-categories: [public]
+categories: Public
 classification: Public
 tags: [technology]
 date: 2023-08-02 14:00:00 
-updatedBy: Joyclyn
-updated: 2024-03-22 01:19:57 
+updatedBy: jeny-amatya-qed
+updated: 2025-08-28 04:12:48 
 likes: 8
 ---
+
 ## Create new SWA from GitHub repository
 
 Create a new Azure Static Web App as described [here](https://learn.microsoft.com/en-us/azure/static-web-apps/publish-jekyll).
