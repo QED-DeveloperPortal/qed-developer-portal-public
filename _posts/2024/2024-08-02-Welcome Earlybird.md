@@ -1,12 +1,13 @@
 ---
 title: "Welcome to the Developer Portal Early Bird developers!"
+slug: "welcome-to-the-developer-portal-early-bird-developers-c1a47c"
 author: g-morton
-categories: [Public]
+categories: Public
 classification: Public
 tags: [getting-started]
 date: 2024-08-02 06:11:01 
 updatedBy: jeny-amatya-qed
-updated: 2024-08-05 00:48:16 
+updated: 2025-08-28 03:47:04 
 likes: 1
 ---
 
