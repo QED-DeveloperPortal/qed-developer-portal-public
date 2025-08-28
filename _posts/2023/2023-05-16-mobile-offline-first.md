@@ -1,12 +1,13 @@
 ---
 title: "Offline first - a look at how the R4Q app manages data between device and cloud"
+slug: "offline-first-a-look-at-how-the-r4q-app-manages-data-between-device-and-cloud-29cfdf"
 author: matt
-categories: [public]
+categories: Public
 classification: Public
 tags: [cloud,architecture]
-date: 2023-05-16 03:29:31
-updatedBy: Joyclyn
-updated: 2023-05-16 03:30:20
+date: 2023-05-16 03:29:31 
+updatedBy: jeny-amatya-qed
+updated: 2025-08-28 04:09:57 
 likes: 0
 ---
 
