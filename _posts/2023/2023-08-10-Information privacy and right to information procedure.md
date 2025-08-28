@@ -1,13 +1,14 @@
 ---
 title: "Information privacy and right to information procedure"
+slug: "information-privacy-and-right-to-information-procedure-648da7"
 author: g-morton
-categories: [public]
+categories: Public
 classification: Public
 tags: [privacy]
 date: 2023-08-10 00:45:02 
-likes: 0
 updatedBy: jeny-amatya-qed
-updated: 2023-08-21 05:39:34 
+updated: 2025-08-28 04:01:12 
+likes: 0
 ---
 
 Version number 1\.3 \| Version effective 03 May 2022
