@@ -1,12 +1,13 @@
 ---
 title: "Accessibility for all"
+slug: "accessibility-for-all-3714a1"
 author: g-morton
-categories: [public]
+categories: Public
 classification: Public
 tags: [accessibility]
-date: 2023-04-12 00:18:13
-updatedBy: Joyclyn
-updated: 2023-05-11 03:42:23
+date: 2023-04-12 00:18:13 
+updatedBy: jeny-amatya-qed
+updated: 2025-08-28 04:13:56 
 likes: 0
 ---
 
