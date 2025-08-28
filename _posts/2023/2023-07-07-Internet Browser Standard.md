@@ -1,12 +1,13 @@
 ---
 title: "Internet browser standard"
+slug: "internet-browser-standard-5607a2"
 author: g-morton
-categories: [public]
+categories: Public
 classification: Public
 tags: [standards,architecture,web]
 date: 2023-07-07 00:40:23 
-updatedBy: Joyclyn
-updated: 2024-07-16 01:11:31 
+updatedBy: jeny-amatya-qed
+updated: 2025-08-28 04:05:33 
 likes: 1
 ---
 
