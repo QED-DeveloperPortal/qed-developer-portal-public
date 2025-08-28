@@ -1,13 +1,13 @@
 ---
 title: "Personal information guideline"
+slug: "personal-information-guideline-dcaaaa"
 author: g-morton
-categories: [public]
+categories: Public
 classification: Public
 tags: [privacy]
 date: 2023-08-10 02:19:51 
-timezone: Australia/Brisbane
-updatedBy: sushma-hazari
-updated: 2023-10-10 02:50:16 
+updatedBy: jeny-amatya-qed
+updated: 2025-08-28 04:18:26 
 likes: 0
 ---
 
