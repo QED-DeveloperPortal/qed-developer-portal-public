@@ -1,10 +1,13 @@
 ---
 title: "Configuring Dependabot to scan for package vulnerabilities"
+slug: "configuring-dependabot-to-scan-for-package-vulnerabilities-366d8a"
 author: matt
-categories: [public]
+categories: Public
 classification: Public
 tags: [security]
 date: 2023-11-27 00:00:00 
+updatedBy: jeny-amatya-qed
+updated: 2025-08-28 04:02:14 
 likes: 1
 ---
 
