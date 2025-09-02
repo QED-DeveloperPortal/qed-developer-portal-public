@@ -6,7 +6,7 @@ owner: Divya
 categories: Public
 classification: Public
 tags: [auto-import, about]
-date: 2025-09-01 15:19:16
+date: 2025-09-02 05:15:20
 likes: 0
 imported: True 
 import-source: "content-manager"
@@ -16,24 +16,19 @@ import-config-id: "2cabe658-202c-4792-869c-da59b110a84d"
 
 # Main topics
 - Value-driven Software Testing Life Cycle (STLC) framework
-- Fast and safe testing practices
-- User-needs-centered testing
+- Emphasis on quality and user-centric validation
+- Continuous improvement in digital solutions delivery
 - Integration of testing early and often
-- Real user scenarios
-- Automation in testing
-- Continuous quality assurance
-- Shift-left testing
-- Continuous integration/continuous delivery (CI/CD)
-- Risk-based test sign-off
-- Role of automation in the testing process
-- Building trust and managing risk
-- Collaboration among testers, developers, and users
-- Preventing costly rework
-- Enhancing transparency
-- Ensuring reliability, security, and user-friendliness of products
+- Use of automation and manual testing
+- Recommendations for automation tools across various testing types
+- CI/CD integration for seamless execution
+- Building trust and preventing costly rework
+- Focus on transparency, collaboration, and learning
+- Evolution from traditional models with a focus on defect detection and ongoing monitoring
+- Empowering teams and managing risk in software development
 
 # Intent / purpose of the document
-- The intent of the document is to present a comprehensive framework for the Software Testing Life Cycle (STLC) that focuses on user-centered testing practices, integration of testing early in the development process, and the significant role of automation and collaboration in ensuring quality and value in digital solutions.
+- The document aims to present a comprehensive STLC framework that prioritises quality and user needs in software testing. It advocates for early and frequent integration of testing, utilising both automation and manual methods, to enhance reliability, security, and usability of digital solutions. The framework seeks to promote a culture of quality within teams, manage risks effectively, and ensure that software development outcomes are meaningful and aligned with user requirements.
 
 # Links to source
 - [View in Content Manager](https://ecmweb.qed.qld.gov.au/ContentManager/?q=25%2F828596&t=Record)
