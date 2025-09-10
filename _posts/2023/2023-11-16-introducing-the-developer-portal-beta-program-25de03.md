@@ -6,12 +6,12 @@ categories: Public
 classification: Public
 tags: [about]
 date: 2023-11-16 01:09:32 
-updatedBy: jamatya
-updated: 2024-11-11 03:23:09 
+updatedBy: g-morton
+updated: 2025-09-10 05:28:37 
 likes: 43
 ---
 
-We are excited to welcome you to the Developer Portal BETA - a dynamic online platform designed with your needs in mind. As we prepare to launch the full-fledged version of this portal, we invite you to join on this exciting journey with us. Our BETA program offers you the unique opportunity to be among the first to explore and experience the Developer Portal before its official public release.
+We are excited to welcome you to the Developer Portal - a dynamic online platform designed with your needs in mind. As we launch more features and refinements into the portal, we invite you to join on this exciting journey with us. Our continued BETA program offers you the unique opportunity to be among the first to explore and experience the Developer Portal during this journey.
 
 ## What is the Developer Portal BETA?
 
@@ -28,7 +28,7 @@ We want you to feel comfortable and empowered as you explore the portal. We enco
 
 
 
-## Why join the Developer Portal BETA?
+## Why join the Developer Portal?
 
 Don't miss out on this incredible opportunity to shape the future of the Developer Portal. Join us on this exciting journey as we work together to create a platform that empowers and inspires.
 
