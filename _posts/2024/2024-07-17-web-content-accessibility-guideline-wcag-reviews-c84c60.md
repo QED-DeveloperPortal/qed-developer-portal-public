@@ -2,12 +2,12 @@
 title: "Web Content Accessibility Guideline (WCAG) reviews"
 slug: "web-content-accessibility-guideline-wcag-reviews-c84c60"
 author: g-morton
-categories: [Public]
+categories: Public
 classification: Public
 tags: [accessibility]
 date: 2024-07-17 01:31:22 
-updatedBy: jeny-amatya-qed
-updated: 2024-10-08 23:39:29 
+updatedBy: g-morton
+updated: 2025-09-10 05:32:16 
 likes: 0
 ---
 
@@ -36,7 +36,7 @@ Reviews or abridged assessments are required when products are part of the PRC o
 If you are unsure if you require a review, please email [WebAccessibility.WDP@qed.qld.gov.au](mailto:WebAccessibility.WDP@qed.qld.gov.au) to determine your eligibility.
 
 ### How often do I need a review done?
-As part of the review process, any faults identified will require remediation timelines from the client. When these remediation timelines are approaching, WDP will contact the client to review the product again to ensure that these targeted fixes have been applied correctly.
+As part of the review process, any faults identified will require remediation timelines from the client. When these remediation timelines are approaching, Web and Digital Production (WDP) will contact the client to review the product again to ensure that these targeted fixes have been applied correctly.
 
 If a product is requiring a PRC as part of a new deployment or a large software upgrade, an accessibility review will need to be performed.
 
