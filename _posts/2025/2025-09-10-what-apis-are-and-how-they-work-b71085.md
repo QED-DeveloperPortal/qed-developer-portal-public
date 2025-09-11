@@ -7,7 +7,7 @@ classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 23:15:08 
 updatedBy: jeny-amatya-qed
-updated: 2025-09-11 04:38:14 
+updated: 2025-09-11 04:44:52 
 likes: 0
 ---
 
@@ -47,13 +47,14 @@ The API validates your request (using your application key), then retrieves the 
 
 3. **Receive a response**
 The API returns the result in a standard format (typically JSON) that your application can use.
-[add screenshot]
+
 ---
 ### Why you should care
 APIs make it easy to
 - access up-to-date, accurate data
 - save time - no manual data entry
 - build apps and dashboards that update automatically
+
 ---
 ### Next Step
 - [Learn how to authenticate using your application key](/public/setting-up-and-managing-your-application-key-57837c/)
