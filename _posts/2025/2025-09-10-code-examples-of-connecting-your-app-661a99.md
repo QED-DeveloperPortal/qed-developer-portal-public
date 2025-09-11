@@ -12,29 +12,27 @@ likes: 0
 ---
 
 # Overview  
-This guide shows you how to connect to the API sandbox using your **Application Key**.  
-It includes examples in **cURL**, **Node.js**, **Python**, and **C#** to help you get started quickly.  
+This guide shows you how to connect to the API sandbox using your **Application Key**. It includes examples in **cURL**, **Node.js**, **Python**, and **C#** so you can make your first API call quickly and confidently.
 
 ---
 
-##  Authentication  🔑
-Every request must include your **Application Key**:  
-- Add it to the **headers** as `X-API-KEY: <key>`  
-
-Example header:  
+###  Authentication  🔑
+All API requests must include your **Application Key** for authentication.
+- Add it to the request **headers** using the format: 
 
 ```http
 X-API-KEY: YOUR_APP_KEY
 ```
+ Tip: Replace YOUR_APP_KEY with your actual Application Key before running the examples below.💡
 
-### Example: cURL
+### Example: cURL 📌
 ```bash
 curl -X GET "https://dp-mockaco.azurewebsites.net/QT_staff/school-api/schools/111/staff?centreCode =1245" \
       -H "X-API-KEY: YOUR_APP_KEY"
 
 ```
 
-### Example: node.js
+### Example: node.js 📌
 ```javascript
 const axios = require("axios");
 
@@ -45,7 +43,7 @@ axios.get("https://dp-mockaco.azurewebsites.net/QT_staff/school-api/schools/111/
 .catch(err => console.error(err));
 ```
 
-### Example: Python
+### Example: Python 📌
 ```python
 import requests
 
@@ -58,8 +56,7 @@ response = requests.get(url, headers=headers)
 print(response.json())
 ```
 
-
-### Example: C#
+### Example: C# 📌
 ```csharp
 using System.Net.Http;
 
@@ -70,5 +67,5 @@ var response = await client.GetStringAsync("https://dp-mockaco.azurewebsites.net
 Console.WriteLine(response);
 ```
 
-✅ Tip: Replace YOUR_APP_KEY with your actual Application Key before running these requests.
-This will allow you to test endpoints in the sandbox environment safely.
+### Next steps
+Run one of these examples to confirm your application key is working and that you can retrieve data from the sandbox environment safely.
