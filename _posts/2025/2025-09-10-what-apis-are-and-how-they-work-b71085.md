@@ -7,7 +7,7 @@ classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 23:15:08 
 updatedBy: jeny-amatya-qed
-updated: 2025-09-10 23:22:00 
+updated: 2025-09-11 04:38:14 
 likes: 0
 ---
 
@@ -18,7 +18,7 @@ This post is the perfect place to start if you are new to APIs.
 
 ### What is an API?
 An **API** (Application Programming Interface) is a **standard way for two software systems to communicate with each other**. You can think of it as a bridge between your application and another system.
-It allows one software system to request information or trigger an action in another applicaiton in a safe, consistent and controlled manner.
+It allows one software system to request information or trigger an action in another application in a safe, consistent and controlled manner.
 
 In simpler terms, an API acts as a **messenger**:  
 - It receives a request from your application  
@@ -52,11 +52,10 @@ The API returns the result in a standard format (typically JSON) that your appli
 ### Why you should care
 APIs make it easy to
 - access up-to-date, accurate data
-- save time - no  manual data entry
-- build apps and dashboards that upate automatically
+- save time - no manual data entry
+- build apps and dashboards that update automatically
 ---
 ### Next Step
-You are now ready to try it yourself!
 - [Learn how to authenticate using your application key](/public/setting-up-and-managing-your-application-key-57837c/)
 - [See code examples for Node.js, Python, C# and curl](/public/code-examples-of-connecting-your-app-661a99/)
 - Test your first call in our API sandbox - a safe place to experiment
