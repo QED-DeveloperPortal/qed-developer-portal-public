@@ -7,15 +7,13 @@ classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 05:25:54 
 updatedBy: jeny-amatya-qed
-updated: 2025-09-12 04:27:46 
+updated: 2025-09-12 04:38:07 
 likes: 0
 ---
 
 # Quick Start: Using the API portal 🚀 
 
 Welcome to the API portal! Whether you are just starting out or already an experienced developer, this guide will walk you through everything you need to start using our APIs.
-
----
 
 ## 1. Getting started (for new API developers)
 - [What are APIs and how they work (short intro, real-world DoE analogies)](/public/what-apis-are-and-how-they-work-b71085/) ✔
