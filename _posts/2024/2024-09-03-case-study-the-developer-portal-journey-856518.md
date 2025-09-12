@@ -2,12 +2,12 @@
 title: "Case study - The Developer Portal journey"
 slug: "case-study-the-developer-portal-journey-856518"
 author: g-morton
-categories: public
+categories: Public
 classification: Public
 tags: [architecture,case-study]
 date: 2024-09-03 00:06:01 
-updatedBy: jeny-amatya-qed
-updated: 2024-09-18 05:03:10 
+updatedBy: g-morton
+updated: 2025-09-11 23:28:01 
 likes: 0
 ---
 
@@ -29,18 +29,18 @@ The development journey of the Developer Portal involved multiple phases, during
 
 - **Microservices architecture**: The portal was built around a microservices architecture, allowing for greater flexibility and scalability. This approach was crucial in supporting diverse content types and user interactions, from API integrations to AI-driven content transformations.
 
-**Software lifecycle management**: The portal's development process was managed using GitHub for storage and publication. Feature branches were employed to enable the rapid deployment of updates and improvements. The release pipeline followed a structured approach, progressing from internal development (Dev/Pre-alpha) to broader public testing (Beta), before moving towards general availability. The Developer Portal is currently labelled as **Beta**, inviting early adopters to explore and provide feedback while managing expectations that some features may still be evolving.
+- **Software lifecycle management**: The portal's development process was managed using GitHub for storage and publication. Feature branches were employed to enable the rapid deployment of updates and improvements. The release pipeline followed a structured approach, progressing from internal development (Dev/Pre-alpha) to broader public testing (Beta), before moving towards general availability. The Developer Portal is currently labelled as **Beta**, inviting early adopters to explore and provide feedback while managing expectations that some features may still be evolving.
 
 - **Security and safety**: To ensure the portal's security, all sandbox data is 100% simulated, with no connections to production databases. This approach ensures that the portal is safe for developers to interact with, minimising the risk of malicious exploitation.
 
 #### Challenges
-Several challenges emerged during the journey, particularly due to the department's initial limited adoption of cloud technologies and modern development practices. There was also resistance to embracing 'continuous improvement' methodologies, which supported our phased public release approach. This created some friction in the early stages of development. Additionally, the team faced the challenge of designing the portal to meet the diverse needs of various user groups—internal developers, external vendors, and third-party partners—while maintaining high standards of security and usability.
+Several challenges emerged during the journey, particularly due to the department's initial limited adoption of cloud technologies and modern development practices. There was also resistance to embracing 'continuous improvement' methodologies, which supported our phased public release approach. This created some friction in the early stages of development. Additionally, the team faced the challenge of designing the portal to meet the diverse needs of various user groups — internal developers, external vendors, and third-party partners — while maintaining high standards of security and usability.
 
 #### Results
 The Developer Portal is improving development processes and raising awareness of modern software 'best practices' within the department. The portal is also enhancing collaboration between internal teams, leading the way for more consistent and higher-quality software products. User feedback is positive, with many praising the portal’s ease of use and the resources it provides.
 
 #### Lessons learned
-One of the key lessons learned from the initiative was the importance of being flexible and open to change during the development process. The early phased release approach allowed the team to build momentum and pivot quickly in response to emerging needs. By adopting a cloud-native, microservices architecture, the product gained the adaptability needed to evolve alongside these changes. The Beta site has been instrumental in this process, enabling us to rapidly, safely, and transparently adjust features to meet the needs of our members and stakeholders. This iterative approach has proven invaluable in refining the portal and ensuring its alignment with user expectations.
+One of the key lessons learned from the initiative was the importance of being flexible and open to change during the development process. The early phased release approach allowed the team to build momentum and pivot quickly in response to emerging needs. By adopting a cloud-native, microservice-based architecture, the product gained the adaptability needed to evolve alongside these changes. The Beta site has been instrumental in this process, enabling us to rapidly, safely, and transparently adjust features to meet the needs of our members and stakeholders. This iterative approach has proven invaluable in refining the portal and ensuring its alignment with user expectations.
 
 #### Conclusion
 The Developer Portal initiative is supporting transformative change within the Department of Education, offering a centralised, secure platform that fosters innovation and collaboration. Through its adoption of modern software development practices and a culture of continuous improvement, the portal has not only enhanced efficiency and quality but is also laying a robust foundation for future digital initiatives. As the portal continues to evolve, it will play a pivotal role in advancing the department’s digital strategy and its commitment to delivering high-quality, user-centred digital services.
