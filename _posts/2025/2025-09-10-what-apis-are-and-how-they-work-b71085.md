@@ -7,7 +7,7 @@ classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 23:15:08 
 updatedBy: jeny-amatya-qed
-updated: 2025-09-12 01:28:46 
+updated: 2025-09-12 01:58:39 
 likes: 0
 ---
 
@@ -25,8 +25,13 @@ In simpler terms, an API acts as a **messenger**:
 - Passes that request to the appropriate system  
 - Returns the response back to your application  
 
+![API workflow](https://sadevportal3.blob.core.windows.net/root/post/api-workflow.png)
+
 For example:
-- A weather application sends a request to a weather API: *"What is the current temperature in Brisbane?"* The API responds: *"23°C, sunny."*
+- A mobile weather app sends our location to an API and request the local weather forecast, which is returned back to our phones.
+
+- APIs are like waiters in a restaurant; they take our order (or request), communicate it to the kitchen (the system providing the service) and finally, deliver the food (or response from the system) back to our table. 
+ ![Restarant analogy](https://sadevportal3.blob.core.windows.net/root/post/api-analogy-1.png)
 
 ---
 ### A Department of Education analogy
@@ -35,7 +40,6 @@ The staff API is like the school reception desk. Your app can ask *"Who are the 
 
 - **Class attendance roll (Attendance API )**
 An attendance API records student presence or absence and shares it with other authorised systems like QParents.
-
 ---
 ### How APIs work - The basics
 The process can be summarised in three steps:
