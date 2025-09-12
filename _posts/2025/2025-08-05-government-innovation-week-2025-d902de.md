@@ -6,6 +6,8 @@ categories: Public
 classification: Public
 tags: [about]
 date: 2025-08-05 01:53:30 
+updatedBy: Divya28237
+updated: 2025-09-10 06:00:47 
 likes: 0
 ---
 
@@ -27,4 +29,4 @@ The Queensland Department of Education Developer Portal is your open invitation 
 - **Open-source projects**: View, fork, or contribute to live projects on GitHub. A lot of our work is open, so dive in!
 - **Our readiness canvas**: [A visual compliance tool](https://developer.qed.qld.gov.au/readiness-canvas) to help you assess and align your product to department requirements - from security to accessibility (sign in required).
 
-To browse more information about the Developer Portal, click the 'About' tag at the top of this post. 
+To browse more information about the Developer Portal, click the 'About' tag at the top of this post.
