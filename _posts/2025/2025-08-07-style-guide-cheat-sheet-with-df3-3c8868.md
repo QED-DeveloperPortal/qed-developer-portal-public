@@ -2,13 +2,13 @@
 title: "Style guide cheat sheet with DF3"
 slug: "style-guide-cheat-sheet-with-df3-3c8868"
 author: jeny-amatya-qed
-owner: jeny-amatya-qed
 categories: Public
 classification: Public
-tags: [auto-import, agile]
-date: 2025-08-07 06:26:52
+tags: [auto-import,agile]
+date: 2025-08-07 06:26:52 
+pokedOn: 2025-09-12 05:24:54 
 likes: 0
-imported: True 
+imported: true
 import-source: "azure-devops"
 import-reference: ""
 ---
