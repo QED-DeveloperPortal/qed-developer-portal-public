@@ -7,7 +7,7 @@ classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 05:25:54 
 updatedBy: jeny-amatya-qed
-updated: 2025-09-12 03:38:10 
+updated: 2025-09-12 04:27:46 
 likes: 0
 ---
 
@@ -28,6 +28,6 @@ Welcome to the API portal! Whether you are just starting out or already an exper
 - [Tips for setting up your connections/testing]()
 
 ## 3. Using your app with our APIs (for hands-on coders)
-- [Setting up and managing your Application Key](/public/setting-up-and-managing-your-application-key-57837c/)
+- [Setting up and managing your Application Key](/public/setting-up-and-managing-your-application-key-57837c/) ✔
 - [Code examples for connecting your app (Node.js, Python, C#, curl)](/public/code-examples-of-connecting-your-app-661a99/) ✔
 - [Handling authentication/headers/tokens, errors, and common pitfalls]()
