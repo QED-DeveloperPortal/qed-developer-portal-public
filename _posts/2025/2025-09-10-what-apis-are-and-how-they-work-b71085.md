@@ -25,8 +25,12 @@ In simpler terms, an API acts as a **messenger**:
 - Passes that request to the appropriate system  
 - Returns the response back to your application  
 
+![API workflow](https://sadevportal3.blob.core.windows.net/root/post/what-is-an-api.jpg)
+
 For example:
-- A weather application sends a request to a weather API: *"What is the current temperature in Brisbane?"* The API responds: *"23°C, sunny."*
+- A mobile weather app sends our location to an API and request the local weather forecast, which is returned back to our phones.
+- APIs are like waiters in a restaurant; they take our order (or request), communicate it to the kitchen (the system providing the service) and finally, deliver the food (or response from the system) back to our table. 
+ ![Restarant analogy](https://sadevportal3.blob.core.windows.net/root/post/api-analogy-1.jpg)
 
 ---
 ### A Department of Education analogy
