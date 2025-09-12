@@ -6,6 +6,8 @@ categories: Public
 classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 23:25:29 
+updatedBy: jeny-amatya-qed
+updated: 2025-09-12 04:11:40 
 likes: 0
 ---
 
@@ -14,8 +16,6 @@ likes: 0
 Application keys are required to securely access our APIs. You must include your key in the request header `X-API-KEY` when making requests from Postman or other API clients.  
 
 This guide walks you through creating, managing, and using application keys.  
-
----
 
 ## Step 1: Sign in to the Developer Portal  🔐
 
@@ -36,8 +36,6 @@ You will use this API key to authenticate your requests in Postman or any third-
 
 ![Create API key](https://sadevportal3.blob.core.windows.net/root/post/2-api-key-create.png)
 
----
-
 ## Step 3: Delete an application key  🗑
 
 If an application key is no longer required:  
@@ -47,7 +45,6 @@ If an application key is no longer required:
 
 > 🔒 **Best practice:** Delete unused keys to keep your API access secure.  
 
----
 
 ## Step 4: View API activity 📊 
 
@@ -55,7 +52,6 @@ If an application key is no longer required:
 2. Download the usage history in CSV format for reporting or auditing. 
 ![View API usage](https://sadevportal3.blob.core.windows.net/root/post/3-api-key-activity.png) 
 
----
 
 ## Why the API key is important 🚀
 
@@ -75,9 +71,7 @@ When testing in Postman:
 
 ![Add API Key in Postman](https://sadevportal3.blob.core.windows.net/root/post/4-import-add-api-key.png)  
 
----
 
 ## Next steps 🚀 
 
-- [Import the API specifications into Postman](/public/importing-endpoints-via-openapi-download-d37897/)   
-
+- [Import the API specifications into Postman](/public/importing-endpoints-via-openapi-download-d37897/)
