@@ -1,7 +1,7 @@
 ---
 title: "How to use Postman to connect to our APIs"
 slug: "how-to-use-postman-to-connect-to-our-apis-e4b947"
-author: jeny-amatya-qed
+author: andrew
 categories: Public
 classification: Public
 tags: [getting-started,api]
@@ -10,6 +10,7 @@ updatedBy: andrew
 updated: 2025-09-12 00:29:08 
 likes: 0
 ---
+
 
 **What is Postman?**
 
