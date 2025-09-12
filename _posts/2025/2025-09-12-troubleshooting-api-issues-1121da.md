@@ -4,8 +4,10 @@ slug: "troubleshooting-api-issues-1121da"
 author: jeny-amatya-qed
 categories: Public
 classification: Public
-tags: [getting-started,ai]
+tags: [getting-started,api]
 date: 2025-09-12 05:54:43 
+updatedBy: jeny-amatya-qed
+updated: 2025-09-12 06:09:11 
 likes: 0
 ---
 
@@ -89,5 +91,4 @@ If you deleted or rotated the key, older requests will fail until updated.
 If issues persist after troubleshooting:  
 ✔ Refer to the [Quick start guides](/public/quick-start-using-the-api-portal-959619/).  
 ✔ Check the API activity log in the Developer Portal for clues (e.g., failed request counts).  
-✔ Contact the support team with the error message, request details, and timestamp for faster resolution.  
-
+✔ Contact the support team with the error message, request details, and timestamp for faster resolution.
