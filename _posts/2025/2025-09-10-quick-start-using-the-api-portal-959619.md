@@ -24,7 +24,7 @@ Welcome to the API portal! Whether you are just starting out or already an exper
 
 ## 2. Using Postman & other tools (for intermediate developers)
 - [How to use Postman to connect to our APIs (step-by-step)](/public/how-to-use-postman-to-connect-to-our-apis-e4b947/)
-- [Importing endpoints via OpenAPI download](/public/importing-endpoints-via-openapi-download-d37897/)
+- [Importing API specifications into Postman](/public/importing-endpoints-via-openapi-download-d37897/)
 - [Tips for setting up your connections/testing]()
 
 ## 3. Using your app with our APIs (for hands-on coders)
