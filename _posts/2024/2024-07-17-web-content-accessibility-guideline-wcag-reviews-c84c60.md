@@ -2,12 +2,12 @@
 title: "Web Content Accessibility Guideline (WCAG) reviews"
 slug: "web-content-accessibility-guideline-wcag-reviews-c84c60"
 author: g-morton
-categories: [Public]
+categories: Public
 classification: Public
 tags: [accessibility]
 date: 2024-07-17 01:31:22 
-updatedBy: jeny-amatya-qed
-updated: 2024-10-08 23:39:29 
+updatedBy: g-morton
+updated: 2025-09-11 23:17:55 
 likes: 0
 ---
 
