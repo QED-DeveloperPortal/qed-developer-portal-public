@@ -28,4 +28,4 @@ Welcome to the API portal! Whether you are just starting out or already an exper
 ## 3. Using your app with our APIs (for hands-on coders)
 - [Setting up and managing your Application Key](/public/setting-up-and-managing-your-application-key-57837c/) ✔
 - [Code examples for connecting your app (Node.js, Python, C#, curl)](/public/code-examples-of-connecting-your-app-661a99/) ✔
-- [Handling authentication/headers/tokens, errors, and common pitfalls]()
+- [Troubleshooting API issues](/public/troubleshooting-api-issues-1121da/) ✔
