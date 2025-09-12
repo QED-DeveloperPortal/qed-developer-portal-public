@@ -1,7 +1,7 @@
 ---
 title: "How our Application Catalogue works"
 slug: "how-our-application-catalogue-works-0737f7"
-author: jeny-amatya-qed
+author: andrew
 categories: Public
 classification: Public
 tags: [getting-started,api]
