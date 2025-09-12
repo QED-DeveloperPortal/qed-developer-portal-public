@@ -7,14 +7,13 @@ classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 23:10:34 
 updatedBy: jeny-amatya-qed
-updated: 2025-09-11 04:51:13 
+updated: 2025-09-12 03:43:17 
 likes: 0
 ---
 
 # Overview  
 This guide shows you how to connect to the API sandbox using your **Application Key**. It includes examples in **cURL**, **Node.js**, **Python**, and **C#** so you can make your first API call quickly and confidently.
 
----
 
 ###  Authentication  🔑
 All API requests must include your **Application Key** for authentication.
