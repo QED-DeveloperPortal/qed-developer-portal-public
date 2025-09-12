@@ -2,12 +2,12 @@
 title: "Case study - QTeachers"
 slug: "case-study-qteachers-2c6bb2"
 author: g-morton
-categories: public
+categories: Public
 classification: Public
 tags: [accessibility,architecture,case-study,mobile,security,technology,uxui]
 date: 2023-05-09 04:30:15 
 updatedBy: g-morton
-updated: 2024-09-03 00:10:31 
+updated: 2025-09-12 03:33:27 
 likes: 0
 ---
 
@@ -30,11 +30,11 @@ The QTeachers Mobile Application (formerly known as OneSchool Mobile Experience)
 In addition to creating a user-friendly mobile application specifically for teachers inside and outside the classroom, the team also aimed to establish mobile design patterns that were repeatable and scalable.
 
 ### Context
-The application was a part of two broader initiatives - to reduce the administrative burden on teaching staff and to modernize components of the department's ecosystem.
+The application was a part of two broader initiatives - to reduce the administrative burden on teaching staff and to modernise components of the department's ecosystem.
 
 ### Approach
 The team employed Scrum/Agile and Lean design methodologies to plan, design, and develop the application.
 Along with internal stakeholders, a group of interested teachers were appointed as 'Change champions' to be part of the ongoing UX journey.
-Initially, a prototype was created using Progressive Web App (PWA) technology and then tested in a select group of schools. Based on business and technical feedback, the project shifted to the near-native Xamarin framework.
+Initially, a prototype was created using Progressive Web App (PWA) technology and then tested in a select group of schools. Based on business and technical feedback, the project shifted to the near-native Xamarin framework (now MAUI).
 The primary reason for the architectural change was the need for secure and reliable offline data management.
 The Change champions stayed involved through various channels, including a dedicated Teams forum.
