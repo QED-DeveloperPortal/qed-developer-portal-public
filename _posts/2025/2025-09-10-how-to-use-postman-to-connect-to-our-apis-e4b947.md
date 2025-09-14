@@ -7,16 +7,15 @@ classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 23:42:15 
 updatedBy: andrew
-updated: 2025-09-12 00:29:08 
+updated: 2025-09-14 23:28:42 
 likes: 0
 ---
 
-
 **What is Postman?**
 
-Postman is a powerful and user-friendly tool that takes a lot of the complexity out of working with APIs.
+Postman is a powerful and user-friendly tool that takes a lot of the complexity out of testing APIs.
 
-It is an API platform developers to design build, test and collaborate on APIs (Application Programming Interfaces).
+It is an API platform for developers to design build, test and collaborate on APIs (Application Programming Interfaces).
 
 **Why use Postman?**
 
