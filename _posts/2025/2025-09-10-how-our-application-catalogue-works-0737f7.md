@@ -7,7 +7,7 @@ classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 23:15:59 
 updatedBy: andrew
-updated: 2025-09-14 22:22:56 
+updated: 2025-09-14 23:05:56 
 likes: 0
 ---
 
@@ -19,7 +19,7 @@ Application Catalogue is the gatekeeper for such access and interactions.
 
 **What Application Catalogue Groups are available?**
 
-Application Catalogue provides a consistent base URL (https://api.qed.qld.gov.au) for all API interactions for systems that have gone live. You can apply for security credentials once the application you have developed has been vetted by the Department.
+Application Catalogue provides a consistent base URL (https://api.qed.qld.gov.au) for all API interactions for systems that have gone live. You can apply for security credentials once the application you have developed has been approved by the Department.
 
 While testing against DevPortal the base URL is https://dp-mockaco.azurewebsites.net.
 
