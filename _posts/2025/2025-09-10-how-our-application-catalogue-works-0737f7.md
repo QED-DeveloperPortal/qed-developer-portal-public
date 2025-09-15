@@ -6,8 +6,8 @@ categories: Public
 classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 23:15:59 
-updatedBy: jeny-amatya-qed
-updated: 2025-09-15 02:13:34 
+updatedBy: andrew
+updated: 2025-09-15 22:22:51 
 likes: 0
 ---
 
@@ -50,7 +50,7 @@ It is designed to help you quickly develop, test, and integrate your application
 
 * **While testing** APIs that we surface through API catalogue, use the base URL: 
 ```http
-https://dp-mockaco.azurewebsites.net.
+https://dp-mockaco.azurewebsites.net
 ```
 * **When going live**, all production APIs use a consistent base URL: 
 
