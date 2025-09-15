@@ -7,7 +7,7 @@ classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 05:25:54 
 updatedBy: jeny-amatya-qed
-updated: 2025-09-12 04:38:07 
+updated: 2025-09-15 00:57:36 
 likes: 0
 ---
 
@@ -23,7 +23,6 @@ Welcome to the API portal! Whether you are just starting out or already an exper
 ## 2. Using Postman & other tools (for intermediate developers)
 - [How to use Postman to connect to our APIs (step-by-step)](/public/how-to-use-postman-to-connect-to-our-apis-e4b947/)
 - [Importing API specifications into Postman](/public/importing-endpoints-via-openapi-download-d37897/) ✔
-- [Tips for setting up your connections/testing]()
 
 ## 3. Using your app with our APIs (for hands-on coders)
 - [Setting up and managing your Application Key](/public/setting-up-and-managing-your-application-key-57837c/) ✔
