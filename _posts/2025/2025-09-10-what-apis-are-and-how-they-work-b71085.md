@@ -7,7 +7,7 @@ classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 23:15:08 
 updatedBy: Joyclyn
-updated: 2025-09-15 02:59:43 
+updated: 2025-09-15 04:50:27 
 likes: 0
 ---
 
@@ -25,7 +25,6 @@ An API acts as a **messenger** that:
 
 ![API workflow](https://sadevportal3.blob.core.windows.net/root/post/what-is-an-api.png)
 
----
 ### How do APIs work?
 The process can be summarised in three steps:
 1. **Send a request**
