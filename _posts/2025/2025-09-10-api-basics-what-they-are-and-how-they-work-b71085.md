@@ -16,14 +16,14 @@ An **API** (Application Programming Interface) is a **standard way for two softw
 
 The waiter takes your order (or request), communicates it to the kitchen (the system providing the service) and finally, delivers the food (or response from the system) back to your table. 
 
- ![Restaurant analogy](https://sadevportal3.blob.core.windows.net/root/post/API-kitchen-analogy.png)
+ ![Restaurant analogy](https://sadevportal3.blob.core.windows.net/root/post/API-kitchen-analogy.svg)
 
 An API acts as a **messenger** that:  
 - receives a request from your application
 - passes that request to the appropriate system  
 - returns the response back to your application.  
 
-![API workflow](https://sadevportal3.blob.core.windows.net/root/post/what-is-an-api.png)
+![API workflow](https://sadevportal3.blob.core.windows.net/root/post/what-is-an-api.svg)
 
 ### How do APIs work?
 The process can be summarised in three steps:
@@ -60,3 +60,5 @@ APIs make it easy to:
 - [Learn how to authenticate using your application key](/public/setting-up-and-managing-your-application-key-57837c/)
 - [See code examples for Node.js, Python, C# and curl](/public/code-examples-of-connecting-your-app-661a99/)
 - Test your first call in our API sandbox - a safe place to experiment
+
+^Images used in this post are from [Flaticon](https://www.flaticon.com/free-icons/)^
