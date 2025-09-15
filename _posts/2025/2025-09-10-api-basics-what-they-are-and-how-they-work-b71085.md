@@ -1,6 +1,6 @@
 ---
 title: "API basics: What they are and how they work"
-slug: "what-apis-are-and-how-they-work-b71085"
+slug: "api-basics-what-they-are-and-how-they-work-b71085"
 author: jeny-amatya-qed
 categories: Public
 classification: Public
