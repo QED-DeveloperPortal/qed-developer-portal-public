@@ -7,7 +7,7 @@ classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 23:24:12 
 updatedBy: jeny-amatya-qed
-updated: 2025-09-12 03:41:56 
+updated: 2025-09-15 00:44:59 
 likes: 0
 ---
 
@@ -51,6 +51,7 @@ Then click **Import**.
 
 ### Step 5: Confirm Import  
 Once imported, you will see the API listed in your Postman workspace.
+
  ![Imported API](https://sadevportal3.blob.core.windows.net/root/post/3-import-import-window-2.png)
 
 ## Next Steps  
