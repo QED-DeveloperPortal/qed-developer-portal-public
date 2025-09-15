@@ -7,7 +7,7 @@ classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 05:25:54 
 updatedBy: jeny-amatya-qed
-updated: 2025-09-15 00:57:36 
+updated: 2025-09-15 01:49:24 
 likes: 0
 ---
 
@@ -17,11 +17,11 @@ Welcome to the API portal! Whether you are just starting out or already an exper
 
 ## 1. Getting started (for new API developers)
 - [What are APIs and how they work (short intro, real-world DoE analogies)](/public/what-apis-are-and-how-they-work-b71085/) ✔
-- [How our Application Catalogue works (keys, fields, permissions, versioning)](/public/how-our-application-catalogue-works-0737f7/)
+- [How our Application Catalogue works (keys, fields, permissions, versioning)](/public/how-our-application-catalogue-works-0737f7/) ✔
 - [Exploring APIs via the Portal interface (making your first web call, seeing live responses)](/public/exploring-apis-via-the-portal-interface-22ac86/)
 
 ## 2. Using Postman & other tools (for intermediate developers)
-- [How to use Postman to connect to our APIs (step-by-step)](/public/how-to-use-postman-to-connect-to-our-apis-e4b947/)
+- [How to use Postman to connect to our APIs (step-by-step)](/public/how-to-use-postman-to-connect-to-our-apis-e4b947/) ✔
 - [Importing API specifications into Postman](/public/importing-endpoints-via-openapi-download-d37897/) ✔
 
 ## 3. Using your app with our APIs (for hands-on coders)
