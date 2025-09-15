@@ -12,7 +12,8 @@ likes: 0
 ---
 
 ### What is an API?
-An **API** (Application Programming Interface) is a **standard way for two software systems to communicate with each other** in a safe, consistent and controlled manner. You can think of it as a bridge between your application and another system, or like a waiter in a restaurant.
+An **API** (Application Programming Interface) is a **standard way for two software systems to communicate with each other** in a safe, consistent and controlled manner. 
+You can think of it as a bridge between your application and another system, or like a waiter in a restaurant.
 
 The waiter takes your order (or request), communicates it to the kitchen (the system providing the service) and finally, delivers the food (or response from the system) back to your table. 
 
@@ -60,5 +61,3 @@ APIs make it easy to:
 - [Learn how to authenticate using your application key](/public/setting-up-and-managing-your-application-key-57837c/)
 - [See code examples for Node.js, Python, C# and curl](/public/code-examples-of-connecting-your-app-661a99/)
 - Test your first call in our API sandbox - a safe place to experiment
-
-^Images used in this post are from [Flaticon](https://www.flaticon.com/free-icons/)^
