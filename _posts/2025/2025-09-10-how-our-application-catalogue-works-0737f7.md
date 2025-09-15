@@ -1,25 +1,30 @@
 ---
-title: "How the API catalogue works"
+title: "How the API Catalogue works"
 slug: "how-our-application-catalogue-works-0737f7"
 author: andrew
 categories: Public
 classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 23:15:59 
-updatedBy: andrew
-updated: 2025-09-15 00:34:08 
+updatedBy: jeny-amatya-qed
+updated: 2025-09-15 01:35:42 
 likes: 0
 ---
 
-**What is API catalogue?**
+# What is the API Catalogue?
 
-API catalogue is where you can find Department APIs to develop, test and eventually deploy against.
+The **API Catalogue** is your one-stop shop for discovering and using the Department of Education's APIs. It allows you to:
 
-All APIs are OpenAPI compatible and their specifications are downloadable.
+- **Explore** available APIs and their documentation
+- **Download** OpenAPI specification
+- **Test** APIs directly in the Developer Portal sandbox or with tools like Postman
+- **Integrate** APIs into your own applications
 
-You can try them out within APIs section of the DevPortal website or you can run them from API test suites like Postman or from your own applications.
+> 💡 **Good to know:** The API Catalogue is designed for developers at all levels — whether you're just getting started or already experienced.  
  
-The API Catalogue currently has the following groups of APIs:
+---
+## API Groups
+The API Catalogue currently includes the following groups of APIs:  
 
 * Consent Management
 * Attendance/Roll Marking
@@ -30,20 +35,47 @@ The API Catalogue currently has the following groups of APIs:
 * Student Management
 * Student Management Publisher
 
-There are also three QTeachers groups:
+Additionally, there are three **QTeachers** groups:
 
 * Rollmarking
 * Staff
 * Student
 
-**Where did API catalogue come from?**
+## Where did API Catalogue come from?
 
-DataHub is the name of the Department of Education's internal service and team that exposes APIs to enable internal and external vendor applications to interact with data and systems that are internal to the Department.
+The **DataHub** is the Department of Education's internal service and team responsible for securely exposing APIs. These APIs enable both internal systems and external vendor applications to interact with the Department data and services.
 
-API Catalogue is our expression of the APIs that DataHub provides so that you can rapidly develop and test applications that integrate with the Department.
+The API Catalogue is simply the developer-friendly view of these APIs. 
+It is designed to help you quickly develop, test, and integrate your applications with Department systems.
 
-While testing against the APIs that we surface through API catalogue the base URL is https://dp-mockaco.azurewebsites.net.
+* **While testing** APIs that we surface through API catalogue, use the base URL: 
+```http
+https://dp-mockaco.azurewebsites.net.
+```
+* **When going live**, all production APIs use a consistent base URL: 
 
-DataHub provides a consistent base URL (https://api.qed.qld.gov.au) for all API interactions for systems that have gone live. You can apply for security credentials once the application you have developed has been approved by the Department.
+```http
+http://api.qed.gov.au
+```
 
-More APIs and Groups will be added as they are made available by the DataHub team.
+> 🔑 Tip: Once your application is approved by the Department, you can apply for security credentials to access production APIs.
+
+## Why the API Catalogue matters
+Using the API Catalogue saves you time and reduces guesswork. It ensures you are:
+
+- **Working with trusted, up-to-date information** - so your apps stay compatible with Department systems
+-  **Testing safely** - with a dedicated test environment before going live
+-  **Building secure integration** - by following the Department's approved process for credentials and API access
+- **Scaling easily** - as more APIs are added, your applications can expand their capabilities without major rework
+
+> The API Catalogue helps you build better, more reliable applications faster. 
+
+## Next steps for getting started
+1. **Visit the Portal interface** - Browse the[ API Catalogue](https://developer.qed.qld.gov.au/apis/) and review the available API groups
+2. **Download the API specifications** - Use the OpenAPI spec to understand endpoints, parameters, and request/response formats.
+3. **Try an API call** - Use the Developer Portal's built-in 'Try it' feature or import the spec into Postman.
+4. **Experiment in the test environment** - Send request to: 
+```http
+   https://dp-mockaco.azurewebsites.net 
+```
+5. **Plan your integration** - Once your app is ready, request approval and security credentials to access the production environment. 
