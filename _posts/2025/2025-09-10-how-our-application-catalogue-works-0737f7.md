@@ -7,7 +7,7 @@ classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 23:15:59 
 updatedBy: jeny-amatya-qed
-updated: 2025-09-15 01:57:31 
+updated: 2025-09-15 02:13:34 
 likes: 0
 ---
 
@@ -73,8 +73,8 @@ Using the API Catalogue saves you time and reduces guesswork. It ensures you are
 ## Next steps for getting started
 - **Visit the Portal interface** - Browse the [API Catalogue](https://developer.qed.qld.gov.au/apis/) and review the available API groups
 - **Download the API specifications** - Use the OpenAPI spec to understand endpoints, parameters, and request/response formats.
--. **Try an API call** - Execute the API endpoint in Developer Portal's API sandbox or import the spec into Postman.
--. **Experiment in the test environment** - Send request to: 
+- **Try an API call** - Execute the API endpoint in Developer Portal's API sandbox or import the spec into Postman.
+- **Experiment in the test environment** - Send request to: 
 ```http
    https://dp-mockaco.azurewebsites.net 
 ```
