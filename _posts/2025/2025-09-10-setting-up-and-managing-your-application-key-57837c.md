@@ -7,7 +7,7 @@ classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 23:25:29 
 updatedBy: Joyclyn
-updated: 2025-09-16 05:53:18 
+updated: 2025-09-16 22:37:37 
 likes: 0
 ---
 
@@ -22,7 +22,8 @@ This guide walks you through creating, managing, and using application keys.
 1. Sign in to the Developer Portal using your credentials.  
 2. Navigate to the **APIs** page from the main navigation menu.  
 3. Go to **APIs → My applications**. 
-![](https://sadevportal3.blob.core.windows.net/root/post/1-api-key-page.png)
+
+![](https://sadevportal3.blob.core.windows.net/root/post/Step-1-my-applications.png)
 
 ## Step 2: Create an application key 🆔
 
@@ -35,7 +36,7 @@ This guide walks you through creating, managing, and using application keys.
 
 You will use this API key to authenticate your requests in Postman or any third-party application.  
 
-![Create API key](https://sadevportal3.blob.core.windows.net/root/post/2-api-key-create.png)
+![Create API key](https://sadevportal3.blob.core.windows.net/root/post/Step-2-create-and-copy-api-key.png)
 
 ## Step 3: Delete an application key 🗑
 
@@ -47,13 +48,15 @@ If an application key is no longer required:
 > **Best practice** 🔒
 > Delete unused keys to keep your API access secure.
 
+![Delete API key](https://sadevportal3.blob.core.windows.net/root/post/Step-3-delete-api-key.png)
 
 ## Step 4: View API activity 📊 
 
 1. View API usage by clicking on the **Activity** button next to your application.  
 2. Download the usage history in CSV format for reporting or auditing. 
-![View API usage](https://sadevportal3.blob.core.windows.net/root/post/3-api-key-activity.png) 
 
+![View API usage](https://sadevportal3.blob.core.windows.net/root/post/Step-4a-api-activity-view.png) 
+![Download API usage](https://sadevportal3.blob.core.windows.net/root/post/Step-4b-api-activity-download.png) 
 
 ## Why the API key is important 🚀
 
@@ -72,7 +75,7 @@ When testing in Postman:
 
 3. Save the collection so you don’t need to re-enter the key for every request.  
 
-![Add API Key in Postman](https://sadevportal3.blob.core.windows.net/root/post/4-import-add-api-key.png)  
+![Add API Key in Postman](https://sadevportal3.blob.core.windows.net/root/post/Step-5-api-key-save.png) 
 
 
 ## Next steps 🚀 
