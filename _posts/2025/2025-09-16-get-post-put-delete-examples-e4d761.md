@@ -4,7 +4,10 @@ slug: "get-post-put-delete-examples-e4d761"
 author: andrew
 categories: Public
 classification: Public
+tags: [api,getting-started]
 date: 2025-09-16 04:23:44 
+updatedBy: andrew
+updated: 2025-09-16 05:54:38 
 likes: 0
 ---
 
