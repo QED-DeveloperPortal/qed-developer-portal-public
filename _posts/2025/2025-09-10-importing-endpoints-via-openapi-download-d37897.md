@@ -6,8 +6,8 @@ categories: Public
 classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 23:24:12 
-updatedBy: jeny-amatya-qed
-updated: 2025-09-15 00:44:59 
+updatedBy: Joyclyn
+updated: 2025-09-16 05:35:15 
 likes: 0
 ---
 
@@ -26,35 +26,35 @@ Follow these steps to import OpenAPI specifications into Postman so you can star
 ### Step 1: Download the API specs  
 From the [API catalogue](https://developer.qed.qld.gov.au/apis/), download the OpenAPI specification file.  
 
-![Download API specs](https://sadevportal3.blob.core.windows.net/root/post/1-import-download-api-specs.png)  
-
+![Download API specs](https://sadevportal3.blob.core.windows.net/root/post/Step-1-download-api-specs.png)
 
 ### Step 2: Open Postman and start the import  
 1. Launch **Postman**.  
 2. Go to **File → Import** from the top menu.  
 
-    ![Import in Postman](https://sadevportal3.blob.core.windows.net/root/post/2-import-import-in-postman.png)  
+    ![Import in Postman](https://sadevportal3.blob.core.windows.net/root/post/Step-2-import-in-Postman.png)  
 
 
 ### Step 3: Select the file  
-Choose the OpenAPI file you downloaded in Step 1.  
+Choose the OpenAPI file you downloaded in step 1.  
 
-> 💡 **Tip:** You must be signed in to Postman to import files from your local system.  
+>  **Tip** 💡
+> You must be signed in to Postman to import files from your local system.
 
-![import window](https://sadevportal3.blob.core.windows.net/root/post/3-import-import-window.png)
+![import window](https://sadevportal3.blob.core.windows.net/root/post/Step-3-import-window.png)
    
 ### Step 4: Choose import options  
 Select one of the available import options (e.g., **Generate collection** or **API**).  
 Then click **Import**.  
-![Choose import option](https://sadevportal3.blob.core.windows.net/root/post/3-import-import-window-1.png)  
+![Choose import option](https://sadevportal3.blob.core.windows.net/root/post/Step-4-import-window.png)  
 
 
-### Step 5: Confirm Import  
+### Step 5: Confirm import  
 Once imported, you will see the API listed in your Postman workspace.
 
- ![Imported API](https://sadevportal3.blob.core.windows.net/root/post/3-import-import-window-2.png)
+ ![Imported API](https://sadevportal3.blob.core.windows.net/root/post/Step-5-import-result.png)
 
-## Next Steps  
+## Next steps  
 
 You can now explore endpoints, review parameters, and start sending requests.  
 For details on making your first request, refer to [Postman’s official documentation](https://learning.postman.com/docs/getting-started/importing-and-exporting/importing-data/).
