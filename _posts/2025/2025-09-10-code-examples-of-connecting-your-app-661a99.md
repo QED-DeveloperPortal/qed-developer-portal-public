@@ -6,23 +6,24 @@ categories: Public
 classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 23:10:34 
-updatedBy: jeny-amatya-qed
-updated: 2025-09-12 03:43:17 
+updatedBy: Joyclyn
+updated: 2025-09-16 22:41:53 
 likes: 0
 ---
 
 # Overview  
-This guide shows you how to connect to the API sandbox using your **Application Key**. It includes examples in **cURL**, **Node.js**, **Python**, and **C#** so you can make your first API call quickly and confidently.
+This guide shows you how to connect to the API sandbox using your **application key**. It includes examples in **cURL**, **Node.js**, **Python**, and **C#** so you can make your first API call quickly and confidently.
 
 
-###  Authentication  🔑
-All API requests must include your **Application Key** for authentication.
+### Authentication 🔑
+All API requests must include your **application key** for authentication.
 - Add it to the request **headers** using the format: 
 
 ```http
 X-API-KEY: YOUR_APP_KEY
 ```
- Tip: Replace YOUR_APP_KEY with your actual Application Key before running the examples below.💡
+ > **Tip** 💡
+>  Replace YOUR_APP_KEY with your actual Application Key before running the examples below.
 
 ### Example: cURL 📌
 ```bash
