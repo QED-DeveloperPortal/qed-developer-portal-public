@@ -7,7 +7,7 @@ classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 23:42:15 
 updatedBy: Joyclyn
-updated: 2025-09-16 04:48:13 
+updated: 2025-09-17 00:18:45 
 likes: 0
 ---
 
@@ -34,9 +34,9 @@ Choose the version for your operating system (Windows, macOS, Linux) and follow 
 
 ### Step 1: Create a new request 
 - Open Postman and click the *New* button next to the *My Workspace* column to create a new request.
-    ![postman_new.png](https://sadevportal3.blob.core.windows.net/root/postman_new.png)
+![postman_new.png](https://sadevportal3.blob.core.windows.net/root/postman_new.png)
 - Select **HTTP** from the list of available options. 
-   ![postman_choose_http.png](https://sadevportal3.blob.core.windows.net/root/postman_choose_http.png)
+![postman_choose_http.png](https://sadevportal3.blob.core.windows.net/root/postman_choose_http.png)
 
 ### Step 2: Set the request type
    - You will see that **GET** is selected by default.  
@@ -54,12 +54,12 @@ Choose the version for your operating system (Windows, macOS, Linux) and follow 
    - Add a new header:  
      - **Key:** `x-api-key`  
      - **Value:** *(your API key from 'My applications')*  
-   ![postman_set_header.png](https://sadevportal3.blob.core.windows.net/root/postman_set_header.png)
+![postman_set_header.png](https://sadevportal3.blob.core.windows.net/root/postman_set_header.png)
 
 ### Step 5: Send the request
 - Click *Send* (or *Execute* depending on your version).  
 - After a few seconds, you should see a JSON response from the server.  
-   ![postman_200_response.png](https://sadevportal3.blob.core.windows.net/root/postman_200_response.png)
+![postman_200_response.png](https://sadevportal3.blob.core.windows.net/root/postman_200_response.png)
 
 ### What’s next?
 Now that you have successfully sent a `GET` request, try experimenting with:  
