@@ -1,7 +1,8 @@
 ---
 title: "API Versioning"
+slug: "api-versioning-8afe0b"
 author: jeny-amatya-qed
-categories: [public]
+categories: Public
 classification: Public
 tags: [api]
 date: 2024-01-30 01:03:36 
@@ -57,5 +58,3 @@ Some common examples of breaking changes are:
 
 ### Reference
 https://www.postman.com/api-platform/api-versioning/
-
-
