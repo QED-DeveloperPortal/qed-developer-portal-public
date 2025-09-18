@@ -6,7 +6,7 @@ owner: Joyclyn
 categories: Public
 classification: Public
 tags: [auto-import, faq]
-date: 2025-09-17 04:57:58
+date: 2025-09-18 06:03:45
 likes: 0
 imported: True 
 import-source: "azure-devops"
@@ -14,18 +14,37 @@ import-reference: ""
 import-config-id: "fa8efb0f-5727-4eb1-b3cc-904cb90b2f6d"
 ---
 
-# Main topics
-- Information import function
-- Control of published information
-- Opting out of information publication
-- Handling lengthy or complex information
-- Access control for information viewing
-- Changes to the single source of truth
-- Types of information to share
-- Starting the information sharing process
+## 1. How does the information import function work? 
+- Once we have the information's location and the information owner's consent, the portal can automatically draw the information from its source, transform it into the required [Markdown](https://www.markdownguide.org/) format, summarise the content and publish the information in a post.  
 
-# Intent / purpose of the document
-- The intent of the document is to explain the process of importing information into the Developer Portal, address concerns regarding control and visibility of the information, and provide guidance on how to engage with the portal for information sharing.
+- All posts created this way will be automatically tagged with 'Auto-import' so we can distinguish between information created and imported.
 
-# Links to source
-- [Developer Portal](https://developer.qed.qld.gov.au/)
+## 2. Does this mean I'll lose control of my information once it's published?
+- Not at all! The portal is only holding up a mirror to show useful information that lives elsewhere. We want to make useful information visible without duplicating it. Your source material will always be the single point of truth. 
+
+## 3. What if I don't want my information on the Developer Portal? 
+- If you don't want to make your information available via the Developer Portal then we won't import it.
+
+## 4. What if the information is too long or complex for a blog post?
+- Our summarisation service can transform lengthy and/or complex information. Or you can choose to publish an original summary of the information yourself. The service will also include a link back to the single point of truth.
+
+## 5. Who will have access to view my information if I agree to import it?
+- If you're happy for your information to be viewed by internal _and_ external users, publish a public post; otherwise you can publish an internal post so only users with an internal role can view it.
+
+- We use [role-based access controls](https://developer.qed.qld.gov.au/public/Why_and_how_we_use_role-based_access_control/) to allow only credentialed users to view internal information.
+
+## 6. What if the 'single point of truth' changes?
+- If the _location_ of the information changes, let us know and we can easily adjust. 
+- If the _content_ of the information changes, there are a few options to consider. For infrequent changes, a manual request/refresh might be sufficient. For frequent changes, we can set up an automatic import refresh on a regular cycle. 
+
+## 7. What information could I share? 
+- Anything you want our developer community to know! 
+- Browse the topic [tags](https://developer.qed.qld.gov.au/tags/) to get a feel for the for the information already available. 
+
+## 8. How do I start?
+- Email us at [developer@qed.qld.gov.au](mailto:developer@qed.qld.gov.au) to start the conversation with our team. We'd love to hear from you!
+
+<br>
+Here's a simplified workflow that steps out the import/update/remove info process:
+
+![Workflow diagram showing the steps and decision points of the process for adding, updating or removing information from the Developer Portal](https://sadevportal3.blob.core.windows.net/root/post/Add-change-remove-info-process-workflow.png)
