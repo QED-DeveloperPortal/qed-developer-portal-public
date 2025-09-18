@@ -4,11 +4,12 @@ slug: "vendor-readiness-considerations-c6d4c2"
 author: jeny-amatya-qed
 categories: Public
 classification: Public
-tags: [opinion,getting-started]
+tags: [getting-started]
 date: 2024-07-11 04:46:12 
 updatedBy: jeny-amatya-qed
-updated: 2024-03-19 04:53:22 
+updated: 2025-09-18 05:49:46 
 likes: 1
+published: false
 ---
 
 ## Overview
