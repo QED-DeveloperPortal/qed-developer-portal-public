@@ -1,13 +1,15 @@
 ---
 title: "Encouraging agility"
+slug: "encouraging-agility-357a8f"
 author: jeny-amatya-qed
-categories: [Public]
+categories: Public
 classification: Public
 tags: [agile]
 date: 2024-07-16 02:37:35 
 updatedBy: Joyclyn
 updated: 2024-07-16 05:17:47 
 likes: 2
+published: false
 ---
 
 ## Introduction
