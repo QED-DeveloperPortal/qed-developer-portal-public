@@ -1,26 +1,26 @@
 ---
 title: "How ChatGPT is changing education"
 slug: "how-chatgpt-is-changing-education-6a6608"
-author: tim
+author: Kaila
 categories: Public
 classification: Public
 tags: [technology,ai]
 date: 2023-05-17 05:08:24 
 updatedBy: Joyclyn
-updated: 2025-04-29 01:31:43 
+updated: 2025-09-19 15:04:43 
 likes: 3
 ---
 
 # The future of learning: How AI-powered ChatGPT is changing education
 
-**Written and compiled by Tim Foote, 24/2/2023**
+**Written and compiled by Kaila Foote, 24/2/2023**
 
 If you haven't heard by now, ChatGPT is taking the world by storm.  It is already transforming how we use technology in many areas of life, and has set the record for the fastest adopted "app" on the internet so far (100 million users in just 2 months).  But before we go into the why's and how's, let's explore what ChatGPT is and is not...
 
 ## Putting the GPT in Chat
 ### GPT
 
-What is GPT? GPT stands for Generative Pre-trained Transformer. It's a type of large language model (LLM) that uses artificial intelligence to generate text. Specifically, GPT models are trained on large amounts of data, such as books, articles, and other written materials, to learn the patterns and structures of language.  It is an evolution of BERT (bidirectional encoder representations from transformers) which was invented by Google in 2018 to enhance their search and translation capabilities.
+What is GPT? GPT stands for Generative Pre-trained Transformer. It's a type of large language model (LLM) that uses artificial intelligence to generate text. Specifically, GPT models are trained on large amounts of data, such as books, articles, and other written materials, to learn the patterns and structures of language. It is an evolution of BERT (bidirectional encoder representations from transformers) which was invented by Google in 2018 to enhance their search and translation capabilities.
 
 Once a GPT model is trained, it can be used to generate new text based on a given prompt or context. For example, if you input a sentence into a GPT model, it can generate a paragraph or essay based on that sentence. This makes GPT models extremely versatile, as they can be used for a wide range of applications, such as language translation, text summarisation, and even creative writing.
 
@@ -40,7 +40,7 @@ ChatGPT is a powerful tool that can be used in a variety of industries to automa
 
 ### What it won't do
 
-There's a lot of uncertainty circulating our sphere about what are the potentials and pitfalls on allow something like ChatGPT into our education system.  Let's explore what ChatGPT is NOT:
+There's a lot of uncertainty circulating our sphere about what are the potentials and pitfalls on allow something like ChatGPT into our education system. Let's explore what ChatGPT is NOT:
 
 While ChatGPT is a powerful tool that has many potential benefits for education, it's important to recognise what it is not. Firstly, ChatGPT is not a substitute for human teachers. While it can assist in providing students with information and answering their questions, it cannot provide the personalised attention and care that a human teacher can.
 
@@ -98,7 +98,7 @@ Furthermore, by developing solutions using GPT API's and algorithms, it opens up
 
 #### Smarter meetings
 
-We will see more of the functionality outlined above coming down the line as Microsoft integrates GPT functionality into their Office/365 products.  They have already announced an integration with the new [Teams Premium features](https://www.theverge.com/2023/2/2/23582610/microsoft-teams-premium-openai-gpt-features).  Here are some of the new features we can expect in the future:
+We will see more of the functionality outlined above coming down the line as Microsoft integrates GPT functionality into their Office/365 products. They have already announced an integration with the new [Teams Premium features](https://www.theverge.com/2023/2/2/23582610/microsoft-teams-premium-openai-gpt-features).  Here are some of the new features we can expect in the future:
 
 - **Intelligent recap:** With the intelligent recap feature in Teams Premium, you can save time by getting automatically generated meeting notes, recommended tasks, and personalised highlights. This feature can help you stay up-to-date on important information even if you missed the meeting.
 
@@ -112,11 +112,11 @@ We will see more of the functionality outlined above coming down the line as Mic
 
 ## Sounds great, but how?
 
-ChatGPT is available via [https://chat.openai.com](https://chat.openai.com).  The official blog post announcement from OpenAI, with more information, is available at [https://openai.com/blog/chatgpt/](https://openai.com/blog/chatgpt/).
+ChatGPT is available via [https://chat.openai.com](https://chat.openai.com). The official blog post announcement from OpenAI, with more information, is available at [https://openai.com/blog/chatgpt/](https://openai.com/blog/chatgpt/).
 
 ### Usage
 
-The responses you get from ChatGPT/GPT models are directly associated with the input that it receives.  These are called "prompts", which has itself spawned a whole new area of research called "prompt engineering".  ChatGPT allows you to reference the same content/context that you provide to it within a chat session, but it will not remember it long term or be able to reference it via other chat sessions (at the time of writing this).
+The responses you get from ChatGPT/GPT models are directly associated with the input that it receives. These are called "prompts", which has itself spawned a whole new area of research called "prompt engineering". ChatGPT allows you to reference the same content/context that you provide to it within a chat session, but it will not remember it long term or be able to reference it via other chat sessions (at the time of writing this).
 
 #### Prompt engineering
 
@@ -166,13 +166,13 @@ A more complex prompt for ChatGPT might be:
 
     "I am a software developer working on a natural language processing project and I need to fine-tune my model to improve its performance on a specific task. Can you provide me with a set of hyperparameters to use in training, as well as a list of relevant datasets and pre-processing steps to use for this task?"
 
-The possibilities are endless!  One of the best collections of free prompts is available in the [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) repo on GitHub.  It includes prompts that make ChatGPT act as different personas, like teacher, translator, technical writer, etc.
+The possibilities are endless!  One of the best collections of free prompts is available in the [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) repo on GitHub. It includes prompts that make ChatGPT act as different personas, like teacher, translator, technical writer, etc.
 
 #### For developers
 
 OpenAI has an [API Playground](https://platform.openai.com/playground) which can be used to discover and test the GPT API features and models that they have available.
 
-The AI industry's favourite programming language is Python, as the majority of natural language processing modules and tools have been developed using this language.  Here's a snippet of what an API request and response might look like:
+The AI industry's favourite programming language is Python, as the majority of natural language processing modules and tools have been developed using this language. Here's a snippet of what an API request and response might look like:
 
 ```python
 import os
@@ -195,17 +195,17 @@ response = openai.Completion.create(
 print (response)
 ```
 
-There are many other use cases and models that can be queried for certain types of functions.  More can be discovered via the [API Playground](https://platform.openai.com/playground).
+There are many other use cases and models that can be queried for certain types of functions. More can be discovered via the [API Playground](https://platform.openai.com/playground).
 
 ## Moving forward
 
 ### Future advances
 
-ChatGPT is based on the GPT 3.5 model developed by OpenAI.  It has certain limitations, such as the amount of text it can consume and respond with in any given conversation.  The next iteration, GPT-4, is not that far away and is expected to increase the total amount of textual data from 4k tokens (think word count), up to 32k tokens.  This means that it will have the potential to write a full screen play or essay based off of a single prompt.
+ChatGPT is based on the GPT 3.5 model developed by OpenAI.  It has certain limitations, such as the amount of text it can consume and respond with in any given conversation. The next iteration, GPT-4, is not that far away and is expected to increase the total amount of textual data from 4k tokens (think word count), up to 32k tokens.  This means that it will have the potential to write a full screen play or essay based off of a single prompt.
 
-The technology is moving fast and being adopted by big players in industry across the globe.  There's no doubt that ChatGPT and other GPT models are revolutionising the way we do things, not just in Education but in all areas of life.  
+The technology is moving fast and being adopted by big players in industry across the globe. There's no doubt that ChatGPT and other GPT models are revolutionising the way we do things, not just in Education but in all areas of life.  
 
-ChatGPT is currently one of the best ways to interact with a large language model, but there are other initiatives and products being built as you are reading this.  DoE has the potential to be a leader in the adoption of this technology, and to build our own GPT-based chatbots and personal assistants which conform to various legislative and policy requirements.
+ChatGPT is currently one of the best ways to interact with a large language model, but there are other initiatives and products being built as you are reading this. The Department of Education has the potential to be a leader in the adoption of this technology, and to build our own GPT-based chatbots and personal assistants which conform to various legislative and policy requirements.
 
 ### Collaboration
 
