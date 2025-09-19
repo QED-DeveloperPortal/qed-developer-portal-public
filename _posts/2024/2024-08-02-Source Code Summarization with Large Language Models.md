@@ -1,13 +1,15 @@
 ---
 title: "Source code summarisation with large language models"
+slug: "source-code-summarisation-with-large-language-models-53159b"
 author: jeny-amatya-qed
-categories: [Public]
+categories: Public
 classification: Public
 tags: [ai]
 date: 2024-08-02 00:53:16 
 updatedBy: Joyclyn
 updated: 2024-08-02 01:42:39 
 likes: 0
+published: false
 ---
 
 # Source code summarisation with large language models
