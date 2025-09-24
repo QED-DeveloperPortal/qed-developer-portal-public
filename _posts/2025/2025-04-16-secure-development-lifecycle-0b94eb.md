@@ -6,8 +6,8 @@ categories: Public
 classification: Public
 tags: [standards,security]
 date: 2025-04-16 05:05:41 
-updatedBy: Joyclyn
-updated: 2025-08-26 00:56:37 
+updatedBy: jeny-amatya-qed
+updated: 2025-09-24 23:04:01 
 likes: 0
 ---
 
@@ -16,7 +16,7 @@ To ensure security is designed into software and systems from the beginning, dev
 
 Security should not be a final checkbox—it must be baked into the everyday way we plan, build, test, deploy, and evolve digital solutions.
 
-Our [development principles](https://developer.qed.qld.gov.au/public/Software-Development-Practice/) describe how we aim to deliver secure, high-quality, and user-focused products in a modern, sustainable way.
+Our [development principles](https://developer.qed.qld.gov.au/public/software-development-practice-db6ab5/) describe how we aim to deliver secure, high-quality, and user-focused products in a modern, sustainable way.
 
 
 
