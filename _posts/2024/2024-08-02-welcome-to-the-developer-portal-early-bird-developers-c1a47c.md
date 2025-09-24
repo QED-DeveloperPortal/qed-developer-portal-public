@@ -1,5 +1,6 @@
 ---
 title: "Welcome to the Developer Portal Early Bird developers!"
+slug: "welcome-to-the-developer-portal-early-bird-developers-c1a47c"
 author: g-morton
 categories: [Public]
 classification: Public
