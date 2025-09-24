@@ -6,7 +6,7 @@ owner: divya28237
 categories: Public
 classification: Public
 tags: [auto-import]
-date: 2025-09-18 05:03:32
+date: 2025-09-24 21:25:59
 likes: 0
 imported: True 
 import-source: "github"
@@ -14,7 +14,7 @@ import-reference: ""
 import-config-id: "96c8d7f9-92cc-4efd-9b02-5d6c38af927e"
 ---
 
-# Action authentication updated 18/9/25
+# Action authentication updated 25/9/25
 
 Actions offer different authentication schemas to accommodate various use cases. To specify the authentication schema for your action, use the GPT editor and select "None", "API Key", or "OAuth".
 
@@ -37,13 +37,13 @@ This approach is useful if you have an API that takes slightly more consequentia
 Actions allow OAuth sign in for each user. This is the best way to provide personalised experiences and make the most powerful actions available to users. A simple example of the OAuth flow with actions will look like the following:
 
 - To start, select "Authentication" in the GPT editor UI, and select "OAuth".
-- You will be prompted to enter the OAuth client ID, client secret, authorisation URL, token URL, and scope.
-  - The client ID and secret can be simple text strings but should [follow OAuth best practices](https://www.oauth.com/oauth2-servers/client-registration/client-id-secret/).
-  - We store an encrypted version of the client secret, while the client ID is available to end users.
+- You will be prompted to enter the OAuth client ID, client secret, authorization URL, token URL, and scope.
+    - The client ID and secret can be simple text strings but should [follow OAuth best practices](https://www.oauth.com/oauth2-servers/client-registration/client-id-secret/).
+    - We store an encrypted version of the client secret, while the client ID is available to end users.
 - OAuth requests will include the following information: `request={'grant_type': 'authorization_code', 'client_id': 'YOUR_CLIENT_ID', 'client_secret': 'YOUR_CLIENT_SECRET', 'code': 'abc123', 'redirect_uri': 'https://chatgpt.com/aip/g-some_gpt_id/oauth/callback'}`
 - In order for someone to use an action with OAuth, they will need to send a message that invokes the action and then the user will be presented with a "Sign in to [domain]" button in the ChatGPT UI.
 - The `authorization_url` endpoint should return a response that looks like:
-  `{ "access_token": "example_token", "token_type": "bearer", "refresh_token": "example_token", "expires_in": 59 }`
+    `{ "access_token": "example_token", "token_type": "bearer", "refresh_token": "example_token", "expires_in": 59 }`
 - During the user sign in process, ChatGPT makes a request to your `authorization_url` using the specified `authorization_content_type`, we expect to get back an access token and optionally a [refresh token](https://auth0.com/learn/refresh-tokens) which we use to periodically fetch a new access token.
 - Each time a user makes a request to the action, the user’s token will be passed in the Authorization header: (“Authorization”: “[Bearer/Basic] [user’s token]”).
 - We require that OAuth applications make use of the [state parameter](https://auth0.com/docs/secure/attack-protection/state-parameters#set-and-compare-state-parameter-values) for security reasons.
