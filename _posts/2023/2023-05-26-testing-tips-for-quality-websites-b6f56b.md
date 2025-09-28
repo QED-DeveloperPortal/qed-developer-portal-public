@@ -2,12 +2,12 @@
 title: "Testing tips for quality websites"
 slug: "testing-tips-for-quality-websites-b6f56b"
 author: sushma-hazari-qed
-categories: [public]
+categories: Public
 classification: Public
 tags: [web,quality-assurance]
 date: 2023-05-26 05:49:29 
-updatedBy: Sushma Hazari
-updated: 2024-04-17 22:22:22 
+updatedBy: Divya28237
+updated: 2025-09-28 23:09:11 
 likes: 1
 ---
 
@@ -113,4 +113,4 @@ Language Support: Verify that the website functions correctly with different lan
 
 **Content Management System (CMS) Testing:**
 
-Test CMS Functionality: If the website utilizes a CMS, validate that content creation, editing, and publishing features work correctly. Remember, this is a general checklist, and you may need to customize it based on your specific website requirements and functionalities.
+Test CMS Functionality: If the website utilizes a CMS, validate that content creation, editing, and publishing features work correctly. Remember, this is a general checklist, and you may need to customize it based on your specific website requirements and functionalities.........
