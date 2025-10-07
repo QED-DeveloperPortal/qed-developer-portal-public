@@ -1,12 +1,12 @@
 ---
-title: "Divtest public repo 1"
+title: "Divtest public repo 12"
 slug: "divtest-public-repo-22657c"
 author: divya28237
 owner: divya28237
 categories: Public
 classification: Public
 tags: [auto-import]
-date: 2025-09-24 21:25:59
+date: 2025-10-07 02:12:24
 likes: 0
 imported: True 
 import-source: "github"
@@ -38,12 +38,12 @@ Actions allow OAuth sign in for each user. This is the best way to provide perso
 
 - To start, select "Authentication" in the GPT editor UI, and select "OAuth".
 - You will be prompted to enter the OAuth client ID, client secret, authorization URL, token URL, and scope.
-    - The client ID and secret can be simple text strings but should [follow OAuth best practices](https://www.oauth.com/oauth2-servers/client-registration/client-id-secret/).
-    - We store an encrypted version of the client secret, while the client ID is available to end users.
+  - The client ID and secret can be simple text strings but should [follow OAuth best practices](https://www.oauth.com/oauth2-servers/client-registration/client-id-secret/).
+  - We store an encrypted version of the client secret, while the client ID is available to end users.
 - OAuth requests will include the following information: `request={'grant_type': 'authorization_code', 'client_id': 'YOUR_CLIENT_ID', 'client_secret': 'YOUR_CLIENT_SECRET', 'code': 'abc123', 'redirect_uri': 'https://chatgpt.com/aip/g-some_gpt_id/oauth/callback'}`
 - In order for someone to use an action with OAuth, they will need to send a message that invokes the action and then the user will be presented with a "Sign in to [domain]" button in the ChatGPT UI.
 - The `authorization_url` endpoint should return a response that looks like:
-    `{ "access_token": "example_token", "token_type": "bearer", "refresh_token": "example_token", "expires_in": 59 }`
+  `{ "access_token": "example_token", "token_type": "bearer", "refresh_token": "example_token", "expires_in": 59 }`
 - During the user sign in process, ChatGPT makes a request to your `authorization_url` using the specified `authorization_content_type`, we expect to get back an access token and optionally a [refresh token](https://auth0.com/learn/refresh-tokens) which we use to periodically fetch a new access token.
 - Each time a user makes a request to the action, the user’s token will be passed in the Authorization header: (“Authorization”: “[Bearer/Basic] [user’s token]”).
 - We require that OAuth applications make use of the [state parameter](https://auth0.com/docs/secure/attack-protection/state-parameters#set-and-compare-state-parameter-values) for security reasons.
