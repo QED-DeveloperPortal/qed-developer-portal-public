@@ -7,7 +7,7 @@ classification: Public
 tags: [accessibility]
 date: 2024-10-03 01:05:10 
 updatedBy: Joyclyn
-updated: 2025-10-06 22:39:38 
+updated: 2025-10-07 03:37:13 
 likes: 0
 ---
 
@@ -46,7 +46,7 @@ It says:
 
 ***Pssst!*** 
 Want to know what the most common mistakes are and how to avoid them? 
-Check out our [cheat sheet](https://developer.qed.qld.gov.au/public/style-guide-cheat-sheet-3207f7/)!
+Check out our [cheat sheet](https://developer.qed.qld.gov.au/public/style-guide-cheat-sheet-c6c454/)!
 
 ***
 
