@@ -1,7 +1,7 @@
 ---
 title: "How ChatGPT is changing education"
 slug: "how-chatgpt-is-changing-education-6a6608"
-author: Kaila
+author: kaila
 categories: Public
 classification: Public
 tags: [technology,ai]
