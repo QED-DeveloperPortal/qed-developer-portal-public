@@ -1,6 +1,6 @@
 ---
 title: "How ChatGPT is changing education"
-author: Kaila
+author: kaila
 categories: [public]
 classification: Public
 tags: [technology,ai,opinion]
