@@ -2,13 +2,14 @@
 title: "Developing for government"
 slug: "developing-for-government-86ab64"
 author: jeny-amatya-qed
-categories: [public]
+categories: Public
 classification: Public
 tags: [getting-started]
 date: 2023-04-19 05:22:17 
 updatedBy: Sushma Hazari
 updated: 2024-04-30 01:15:39 
 likes: 1
+published: false
 ---
 
 Developing a project for a government entity requires adherence to specific policies and procedures to ensure compliance with legal and regulatory requirements, as well as effective project management practices. Here are some standard policies and procedures to consider when developing a project for government:
