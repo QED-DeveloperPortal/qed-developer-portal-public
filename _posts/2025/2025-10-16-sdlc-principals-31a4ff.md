@@ -6,16 +6,12 @@ owner: jeny-amatya-qed
 categories: Public
 classification: Public
 tags: [auto-import, sdlc]
-date: 2025-10-16 04:29:19
+date: 2025-10-16 05:01:05
 likes: 0
 imported: True 
 import-source: "github"
 import-reference: ""
 import-config-id: "d9dbb970-ed1b-4383-86e5-99a962962a1f"
----
-
----
-title: Principals
 ---
 
 ## Start with WHY 
@@ -29,7 +25,7 @@ At its heart, an SDLC is not just about writing code or following process. It’
 4. **Be courageous:** We challenge outdated practices and simplify where complexity holds us back. 
 5. **Empower people:** We build systems that serve people - our colleagues, stakeholders, and the communities we support. 
 
-[Learn more](https://www.forgov.qld.gov.au/)
+[https://www.forgov.qld.gov.au/](https://www.forgov.qld.gov.au/)
 
 SDLC can be described as a combination of strategy, framework and methodology. 
 
@@ -45,4 +41,4 @@ SDLC can be described as a combination of strategy, framework and methodology.
 * **Change is expected:** Systems must be built for adaptability - technically, culturally, and procedurally. 
 * **Quality is everyone’s job:** Testing, review, and validation are embedded everyday activities, not infrequent and gated. 
 * **Collaboration beats handover:** Designers, developers, testers, stakeholders and users work together throughout. It’s a team sport, not a relay. 
-* **Simplicity supports flow:** Complexity breeds confusion, delay and waste. We reduce unnecessary gates, zones, and clutter. Just enough, just in time.
+* **Simplicity supports flow:** Complexity breeds confusion, delay and waste. We reduce unnecessary gates, zones, and clutter. Just enough, just in time. 
