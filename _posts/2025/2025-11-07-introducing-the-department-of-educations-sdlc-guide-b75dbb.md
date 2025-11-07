@@ -1,5 +1,5 @@
 ---
-title: "Introducing the SDLC guide"
+title: "Introducing the Department of Education's SDLC guide"
 slug: "introducing-the-sdlc-guide-b75dbb"
 author: jeny-amatya-qed
 categories: Public
@@ -26,6 +26,7 @@ By following this SDLC guide, teams ensure that their applications are:
 - secure, maintainable, and fit for purpose  
 
 Whether you are new in the department or looking to refresh your understanding, this documentation ensures your project meets the **required governance and compliance standards** and helps you to understand what's required to **deliver quality solutions** across the Department of Education ecosystem. 
+
 
 
 
