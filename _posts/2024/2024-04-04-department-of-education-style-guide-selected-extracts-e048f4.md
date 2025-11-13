@@ -2,12 +2,12 @@
 title: "Department of Education Style Guide: Selected extracts"
 slug: "department-of-education-style-guide-selected-extracts-e048f4"
 author: Joyclyn
-categories: [public]
+categories: Public
 classification: Public
 tags: [standards]
 date: 2024-04-04 03:57:01 
 updatedBy: Joyclyn
-updated: 2024-04-05 01:11:48 
+updated: 2025-11-13 02:56:09 
 likes: 0
 ---
 
@@ -282,7 +282,8 @@ Regulations (delegated legislation) not italics: roman type and title case
 > Education (General Provisions) Regulation 2017 (Qld)
 
 Letters, words and phrases cited as such.
-> The word _proactive_ is . . ., The letter _s_ is doubled
+> The word _proactive_ is 
+> The letter _s_ is doubled
 
 Emphasis – use sparingly.
 > The deadline is _Monday_, not Friday
@@ -303,7 +304,7 @@ Use active rather than passive voice.
 Use short, clear sentences rather than complex convoluted sentences.
 
 Avoid using long or pompous words when a short, familiar word will do. 
-> start _not_ commence, use _not_ utilise
+> Start _not_ commence, use _not_ utilise
 
 Avoid turning verbs into nouns.
 > Teachers prefer short holidays not Teachers have a preference for short holidays.
@@ -312,26 +313,26 @@ Avoid turning verbs into nouns.
 ### Inclusive writing
 Treat all people equally, regardless of gender, background, age, interests or abilities. Balance the occurrence of genders, cultures and backgrounds of participants as appropriate. 
 
-Use inclusive terms. Avoid job terms that specify women.
-> police officer _not_ policeman, firefighter _not_ fireman, actor _not_ actress, waiter _not_ waitress, flight attendant _not_ stewardess<b
+Use inclusive terms. Avoid job terms that specify a gender.
+> Police officer _not_ policeman, firefighter _not_ fireman, actor _not_ actress, waiter _not_ waitress, flight attendant _not_ stewardess<b
 > 
 > Given name/family name _not_ Christian name/surname
 
 Avoid using generic pronouns such as he, him, his. Also avoid clumsy inclusive writing such as him/her, s/he.
 
 Use inclusive pronouns – the singular ‘they’ is gender-neutral. You can also use ‘themself’ instead of ‘himself’ or ‘herself’.
-> use _they_ or _them_ rather than _him/her_ or _he/she_ 
+> Use _they_ or _them_ rather than _him/her_ or _he/she_ 
 
 Rewrite the sentence to use the second person. This not only encourages gender neutrality, it makes your writing more active and interesting to the reader.
 > You can use your time for professional development _rather than_ A teacher can use his or her time.
 
 Avoid using stereotypes, especially in illustrations.
-> middle-class nuclear families, boys playing with trucks and girls with dolls. 
+> Middle-class nuclear families, boys playing with trucks and girls with dolls. 
 
 Mention disability only when it’s relevant to the content. Use person-first language for Australian Government content, unless user research says otherwise.
 
 You can cause offence when you do not use respectful language, even if it is well intentioned. 
-> people with disability [Person-first language] – person who is Deaf or hard of hearing _not_ deaf person, person who is blind or has low vision _not_ blind person, people with mental illness or people with mental ill-health _not_ the mentally ill, Lu has bipolar disorder _not_ Lu is bipolar.
+> People with disability [Person-first language] – person who is Deaf or hard of hearing _not_ deaf person, person who is blind or has low vision _not_ blind person, people with mental illness or people with mental ill-health _not_ the mentally ill, Lu has bipolar disorder _not_ Lu is bipolar.
 
 ## Aboriginal and Torres Strait Islander terminology
 The preferable and most inclusive collective term to use is ‘Aboriginal peoples and Torres Strait Islander peoples’. If a person or group has both Aboriginal and Torres Strait Islander heritage, use ‘Aboriginal and Torres Strait Islander peoples’ to demonstrate dual heritage.
@@ -357,7 +358,7 @@ If the word ‘Indigenous’ is used, a statement should be placed in the footer
 When using the term ‘Indigenous’ while referring to Aboriginal peoples and Torres Strait Islander peoples, it should always be capitalised.
 > Indigenous communities
 
-It is the department’s preference to use the term ‘Aboriginal peoples and Torres Strait Islander peoples’ in external facing documents, so that it is inclusive of both distinct groups of people. 
+The department’s preference is to use the term ‘Aboriginal peoples and Torres Strait Islander peoples’ in external facing documents, so that it is inclusive of both distinct groups of people. 
 > Indigenous students (acceptable)
 
 Abbreviations or acronyms used to describe Aboriginal peoples and Torres Strait Islander people may cause offense and should not be used in any internal or external departmental communications with or about Aboriginal peoples and Torres Strait Islander peoples.
