@@ -6,6 +6,8 @@ categories: Public
 classification: Public
 tags: [myths,accessibility]
 date: 2025-05-09 04:38:19 
+updatedBy: Joyclyn
+updated: 2025-11-13 01:16:07 
 likes: 0
 ---
 
@@ -27,4 +29,4 @@ Accessibility is not charity or a specialised niche, its fundamental usability a
 
 ***
 
-Global Accessibility Awareness Day is marked on the third Thursday in May. Check out the [GAAD events page](https://accessibility.day/events/) to see what’s happening in your corner of the world.
+Global Accessibility Awareness Day is marked on the third Thursday in May each year. Check out the [GAAD events page](https://accessibility.day/events/) to see what’s happening in your corner of the world.
