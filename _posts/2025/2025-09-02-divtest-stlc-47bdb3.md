@@ -6,7 +6,7 @@ owner: Divya
 categories: Public
 classification: Public
 tags: [auto-import, technology]
-date: 2025-11-18 03:53:51
+date: 2025-11-18 06:03:00
 likes: 0
 imported: True 
 import-source: "content-manager"
@@ -15,7 +15,7 @@ import-config-id: "db27bcef-045c-4f13-9270-027bf7488f0f"
 ---
 
 Software Testing Life Cycle (STLC): A value-driven approach
-A departmental approach to delivering quality-driven digital solutions.
+Test A departmental approach to delivering quality-driven digital solutions.
 
 [Updated for Divya – 02/09/2025 16:15PM]
 Types of Testing in STLC
