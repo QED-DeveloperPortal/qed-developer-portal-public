@@ -2,13 +2,13 @@
 title: "GH OAI authentication doc in text with DF"
 slug: "gh-oai-authentication-doc-in-text-with-df-4c858d"
 author: jeny-amatya-qed
-owner: jeny-amatya-qed
 categories: Public
 classification: Public
-tags: [auto-import, about]
-date: 2025-08-07 06:19:27
+tags: [auto-import,about]
+date: 2025-08-07 06:19:27 
+pokedOn: 2025-11-20 23:46:57 
 likes: 0
-imported: True 
+imported: true
 import-source: "github"
 import-reference: ""
 ---
