@@ -2,13 +2,13 @@
 title: "Style guide cheat sheet with DF4"
 slug: "style-guide-cheat-sheet-with-df4-6a4599"
 author: jeny-amatya-qed
-owner: jeny-amatya-qed
 categories: Public
 classification: Public
-tags: [auto-import, agile]
-date: 2025-08-08 05:25:23
+tags: [auto-import,agile]
+date: 2025-08-08 05:25:23 
+pokedOn: 2025-11-21 09:19:52 
 likes: 0
-imported: True 
+imported: true
 import-source: "azure-devops"
 import-reference: ""
 ---
