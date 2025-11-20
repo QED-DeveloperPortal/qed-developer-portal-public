@@ -6,6 +6,7 @@ categories: Public
 classification: Public
 tags: [getting-started]
 date: 2025-11-06 07:01:41 
+pokedOn: 2025-11-20 22:36:32 
 likes: 0
 ---
 
@@ -57,4 +58,4 @@ By following this SDLC guide, teams ensure that their applications are:
 Head to the official GitHub repository to start exploring:  
  [**QED-DeveloperPortal/SDLC**](https://github.com/QED-DeveloperPortal/SDLC){:target="_blank"}  
 
-Whether you’re a developer, tester, or project lead, this documentation will help you understand what’s required to deliver quality solutions across the Department of Education ecosystem.  
+Whether you’re a developer, tester, or project lead, this documentation will help you understand what’s required to deliver quality solutions across the Department of Education ecosystem.
