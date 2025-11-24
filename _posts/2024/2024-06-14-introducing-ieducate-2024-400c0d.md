@@ -4,10 +4,10 @@ slug: "introducing-ieducate-2024-400c0d"
 author: g-morton
 categories: Public
 classification: Public
-tags: [opinion,about]
+tags: [about]
 date: 2024-06-14 00:54:43 
-updatedBy: jeny-amatya-qed
-updated: 2025-04-02 04:33:13 
+updatedBy: Divya28237
+updated: 2025-11-24 04:23:46 
 likes: 0
 ---
 
@@ -43,4 +43,4 @@ As an i-Educate delegate, we invite you to become an early bird innovator in our
 
 
 ### Thank you!
-Thank you for joining us at the i-Educate conference. We look forward to collaborating with you and making the Developer Portal a cornerstone of innovation and excellence in education. 
+Thank you for joining us at the i-Educate conference. We look forward to collaborating with you and making the Developer Portal a cornerstone of innovation and excellence in education.
