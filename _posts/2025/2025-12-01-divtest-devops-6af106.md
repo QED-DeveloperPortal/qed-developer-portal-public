@@ -6,7 +6,7 @@ owner: Divya28237
 categories: Public
 classification: Public
 tags: [auto-import, technology]
-date: 2025-12-01 05:37:27
+date: 2025-12-02 22:15:47
 likes: 0
 imported: True 
 import-source: "azure-devops"
@@ -60,9 +60,6 @@ import-config-id: "4d26f435-3764-493a-aab7-ca0158bd2b0f"
 
 We look forward to hearing from you!
 
-<br>
 Here's a simplified workflow that steps out the import/update/remove info process:
-<br>
-<br>
 
 ![Workflow-overview](https://sadevportal3.blob.core.windows.net/root/Display-update-remove-info.png)
