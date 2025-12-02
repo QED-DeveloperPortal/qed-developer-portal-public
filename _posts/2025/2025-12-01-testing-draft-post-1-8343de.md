@@ -6,8 +6,9 @@ categories: Public
 classification: Public
 tags: [about,faq,standards,technology,getting-started,accessibility,agile,myths,trending]
 date: 2025-12-01 05:26:55 
+updatedBy: jeny-amatya-qed
+updated: 2025-12-02 00:02:15 
 likes: 0
-draft: true
 ---
 
-Testing draft post 1
+Testing draft post 1111
