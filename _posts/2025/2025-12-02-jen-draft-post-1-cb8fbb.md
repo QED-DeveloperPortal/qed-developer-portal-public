@@ -7,11 +7,10 @@ classification: Public
 tags: [about,faq,standards,technology,getting-started,accessibility]
 date: 2025-12-02 01:43:31 
 updatedBy: jeny-amatya-qed
-updated: 2025-12-02 12:20:30 
+updated: 2025-12-02 12:21:06 
 likes: 0
-draft: true
 ---
 
 Jen Draft Post 1
 Edited and saved as draft again
-Published
+Published now
