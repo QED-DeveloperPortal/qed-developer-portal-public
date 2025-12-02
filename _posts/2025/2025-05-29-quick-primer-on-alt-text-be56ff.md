@@ -6,6 +6,8 @@ categories: Public
 classification: Public
 tags: [accessibility,uxui]
 date: 2025-05-29 00:22:48 
+updatedBy: Joyclyn
+updated: 2025-12-02 01:18:54 
 likes: 0
 ---
 
@@ -33,4 +35,4 @@ Writing good alt text is a skill that needs practice so, if it doesn’t come na
 Further reading: 
 * [https://www.wcag.com/blog/good-alt-text-bad-alt-text-making-your-content-perceivable/](https://www.wcag.com/blog/good-alt-text-bad-alt-text-making-your-content-perceivable/) 
 
-* [https://www.accessibility.org.au/](https://www.accessibility.org.au/) 
+* [https://www.accessibility.org.au/](https://www.accessibility.org.au/)
