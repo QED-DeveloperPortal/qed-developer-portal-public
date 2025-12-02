@@ -12,4 +12,6 @@ likes: 0
 draft: true
 ---
 
-Draft post
+
+Draft post 
+Draft updated from Github edit
