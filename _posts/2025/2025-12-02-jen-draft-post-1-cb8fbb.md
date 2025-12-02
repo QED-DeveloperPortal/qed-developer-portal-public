@@ -4,10 +4,13 @@ slug: "jen-draft-post-1-cb8fbb"
 author: jeny-amatya-qed
 categories: Public
 classification: Public
-tags: [about,faq,standards]
+tags: [about,faq,standards,technology]
 date: 2025-12-02 01:43:31 
+updatedBy: jeny-amatya-qed
+updated: 2025-12-02 01:44:31 
 likes: 0
 draft: true
 ---
 
 Jen Draft Post 1
+Saved as draft
