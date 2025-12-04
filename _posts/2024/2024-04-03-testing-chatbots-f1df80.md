@@ -21,11 +21,11 @@ Chatbots can range from simple rule-based bots that follow predefined scripts to
 
 ### What are the different types of chatbot?
 
-There are several types of chatbots based on their functionality, complexity, and underlying technology. Here are the main types of chatbots:
+There are several types of chatbots based on their functionality, complexity, and underlying technology, for example:
 
 * Rule-based chatbots: These chatbots follow predefined rules and scripts to respond to user inputs. They are typically used for basic tasks like answering FAQs, providing information, and guiding users through simple interactions.
 
-* AI-powered chatbots: Natural Language Processing (NLP) Chatbots: These chatbots use NLP technology to understand and interpret user inputs in natural language. They can handle more complex queries, engage in conversations, and provide personalised responses based on context.
+* AI-powered chatbots: These chatbots use NLP technology to understand and interpret user inputs in natural language. They can handle more complex queries, engage in conversations, and provide personalised responses based on context.
 
 * Machine learning (ML) chatbots: ML chatbots leverage machine learning algorithms to learn from user interactions and improve their responses over time. They can adapt to user preferences, understand nuances in language, and offer more accurate and relevant suggestions.
 
@@ -38,7 +38,7 @@ There are several types of chatbots based on their functionality, complexity, an
 * Voice assistants: Voice assistants like Amazon's Alexa, Google Assistant, and Apple's Siri are chatbots that use voice recognition technology to understand spoken commands and provide responses or perform actions. They can control smart devices, answer questions, play music, and more.
 * Hybrid chatbots: Hybrid chatbots combine elements of rule-based systems and AI technologies to provide a balanced approach. They use rules for straightforward interactions and AI for more complex tasks, offering versatility and scalability.
 
-These are the main types of chatbots, each with its strengths and capabilities suited for different use cases and industries. Organisations can choose the type of chatbot that best aligns with their goals, customer needs, and technological requirements.
+Each type has strengths and capabilities suited for different use cases and industries. Organisations can choose the type of chatbot that best aligns with their goals, customer needs, and technological requirements.
 
 ***
 
@@ -130,18 +130,17 @@ A well-defined checklist saves you a lot of time and helps move ahead with your 
 ***
 
 ### Local chatbot VS remote chatbot
+This table highlights differences between local and remote chatbots across various aspects:
 
 | Aspect | Local chatbot |  Remote chatbot|
 | --- | --- | --- |
-|Data storage  | Stored on local servers or devices |Stored on remote servers or cloud services  |
+| Data storage  | Stored on local servers or devices |Stored on remote servers or cloud services  |
 | Access controls |  Controlled access within the local network| Accessible from anywhere via the internet  |
-|Encryption  | Data encrypted on local storage |  Data encrypted during transmission and storage|
-|Authentication  |  Authentication within local environment| Remote authentication with secure protocols  |
-|  Network security| Focus on securing local network  |Emphasis on securing internet connections  |
-|  Data backup| Local backups with physical security  |Remote backups with redundancy and security  |
+| Encryption  | Data encrypted on local storage |  Data encrypted during transmission and storage|
+| Authentication  |  Authentication within local environment| Remote authentication with secure protocols  |
+| Network security| Focus on securing local network  |Emphasis on securing internet connections  |
+| Data backup| Local backups with physical security  |Remote backups with redundancy and security  |
 | Compliance | Compliance with local data protection laws |  Compliance with global data protection regulations|
 | Security audits | Regular audits within local environment |  Regular audits with remote access monitoring|
-|  Vendor dependence| Less dependence on external vendors  | May rely on third-party vendors for hosting |
-|  Cost considerations| Infrastructure costs for local hosting |Subscription costs for remote hosting  |
-
-This table highlights key differences between local and remote chatbot security and data storage, covering aspects such as access controls, encryption, data backup, compliance, and vendor dependence.
+| Vendor dependence| Less dependence on external vendors  | May rely on third-party vendors for hosting |
+| Cost considerations| Infrastructure costs for local hosting |Subscription costs for remote hosting  |
