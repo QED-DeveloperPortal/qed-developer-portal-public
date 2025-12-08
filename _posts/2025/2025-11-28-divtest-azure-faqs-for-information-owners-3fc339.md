@@ -6,7 +6,7 @@ owner: Divya28237
 categories: Public
 classification: Public
 tags: [auto-import, technology]
-date: 2025-12-06 02:15:14
+date: 2025-12-08 02:35:13
 likes: 0
 imported: True 
 import-source: "azure-devops"
@@ -15,18 +15,13 @@ import-config-id: "642eb228-fcb1-4f8b-aea2-38e30610c902"
 ---
 
 # Main topics
-- Introduction to the Developer Portal
-- Centralised hub for developers
-- Information sourcing and consent
-- Content formatting and summarisation
-- User control over content accuracy
+- Developer Portal overview
+- Information import process
+- Content control and accuracy
 - Transparency and accessibility
-- Manual and scheduled updates
-- Content removal requests
-- Workflow for content lifecycle management
 
 # Intent / purpose of the document
-- The intent of the document is to introduce the Developer Portal as a streamlined platform for both internal and external developers to access departmental information, ensuring transparency, user control, and a structured approach to content management.
+- The intent of the document is to outline the functionalities and processes of the Developer Portal, highlighting how it serves as a central hub for developers to access departmental information while ensuring user control over content accuracy and availability.
 
 # Links to source
 - [View in DevOps](https://dev.azure.com/qed-qld-gov-au/Developer%20Portal/_wiki/wikis/Developer-Portal.wiki/72211/Divya's-FAQs-for-information-owners)
