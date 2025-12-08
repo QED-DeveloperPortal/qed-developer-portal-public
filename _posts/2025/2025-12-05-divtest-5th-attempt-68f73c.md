@@ -12,5 +12,7 @@ likes: 0
 draft: true
 ---
 
+
 Divtest
 Updated using Edit button.
+Draft post edit using GitHub edit.
