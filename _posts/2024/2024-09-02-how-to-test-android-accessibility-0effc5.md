@@ -16,9 +16,9 @@ Testing accessibility involves evaluating how well an app supports users with va
 ## Android's accessibility features
 ### TalkBack
 
-TalkBack is Android's built-in screen reader. When TalkBack is on, users can interact with their Android device without seeing the screen. This is great for those with vision impairments that make it difficult to navigate applications or websites.
+TalkBack is Android's built-in screen reader. When TalkBack is on, users can interact with their Android device without seeing the screen. This is great for users with a visual impairment that makes it difficult to navigate applications or websites.
 
-**What to test for?**
+**What to test for**
 
 1. Are all the elements properly labeled allowing TalkBack to read them to the user?
 2. Do notifications or popup windows read to the user?
@@ -31,7 +31,7 @@ TalkBack is Android's built-in screen reader. When TalkBack is on, users can int
 
 Switch Access lets users interact with Android devices using a switch instead of the touch screen. There are several kinds of switches but a simple example is the volume down button and the volume up button.
 
-**What to test for?**
+**What to test for**
 
 1. Are users able to navigate through the application easily?
 2.  If there are text or other inputs, can you add and edit content easily?
@@ -45,7 +45,7 @@ Switch Access lets users interact with Android devices using a switch instead of
 
 Google's BrailleBack is a mobile application that enables users to type text using a Braille display on Android devices via Bluetooth. This service works directly with TalkBack to offer users both speech and Braille supports.
 
-**What to test for?**
+**What to test for**
 
 1. Is the name of the application or website correctly displayed using the connected Braille device?
 2. Can the user or tester properly navigate the site or application using the connected Braille device?

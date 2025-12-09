@@ -11,17 +11,17 @@ updated: 2025-04-29 04:08:59
 likes: 0
 ---
 
-Testing accessibility on iOS is essential for creating apps that are inclusive and user-friendly for everyone, including those with disabilities. This process involves evaluating how well an app integrates with iOS’s accessibility features, such as VoiceOver, AssistiveTouch, and color contrast adjustments. By thoroughly testing these aspects, developers can identify and address potential barriers that might prevent users with visual, auditory, or motor impairments from fully engaging with the app. Ensuring accessibility not only helps meet legal requirements but also improves the app’s usability and expands its reach to a broader audience.
+Testing accessibility on iOS involves evaluating how well an app integrates with iOS’s accessibility features, such as VoiceOver, AssistiveTouch, and color contrast adjustments. Ensuring accessibility not only helps meet legal requirements but also improves the app’s usability and expands its reach to a broader audience.
 
-- **Voice Over**: the screen reader for all Apple devices (iPhone, iPad, MacOS). It allows you to vocalize all the (useful) information present on the screen. It's an essential tool for blind and visually impaired people.
+- **VoiceOver**: The screen reader for all Apple devices (iPhone, iPad, MacOS). It allows you to vocalise all the (useful) information present on the screen. It's an essential tool for users who have a visual impairment.
 
-- **Switch control**: this option allows the control of the phone with an external contactor, head movements, or even sounds. This tool is mainly used by people with motor disabilities who can't perform touchscreen gestures.
+- **Switch Control**: This option allows the control of the phone with an external contactor, head movements, or even sounds. This tool is mainly used by people with motor disabilities who can't perform touchscreen gestures.
 
-- **Keyboard navigation**: enable this feature to use your phone with an external keyboard (usually via Bluetooth). It's useful for people who have difficulties using the touch screen due, for example, to motor impairment.
+- **Keyboard navigation**: Enable this feature to use your phone with an external keyboard (usually via Bluetooth). It's useful for people who have difficulties using the touch screen, for example, due to a motor impairment.
 
-- **Voice control**: option to control a phone only with the voice. It's essential for people who cannot physically interact with the device or an external contactor.
+- **Voice control**: This is an option to control a phone only with the voice. It's essential for people who cannot physically interact with the device or an external contactor.
 
-- **Larger Text size**: increase text size, only useful with applications that manage this option.
+- **Larger text size**: Increases text size, only useful with applications that manage this option.
 
 ***
 #### Getting started with accessibility options 
@@ -59,7 +59,7 @@ It is possible to use your phone only with an external keyboard.
 1. Keyboard navigation also allows you to check that the navigation order is consistent.
 1. If the focus is not visible enough, it is possible to increase its contrast in the option settings.
 
-**Voice control #**
+**Voice Control #**
 
 When "Voice Control" is enabled, you can say commands like:
 
@@ -74,10 +74,10 @@ By default, element names are superimposed. Also, for an application to be contr
 
 1. Increase the text size using the shortcut configured above.
 2. One can increase text up to 310%, but accessibility recommendations require a correct display up to 235%.
-3. If the application has been designed to support enlargement (Dynamic Type), then the texts will be correctly rendered, readable, and without loss of information (no truncated text or superposition)
+3. If the application has been designed to support enlargement (Dynamic Type), then the texts will be correctly rendered, readable, and without loss of information (no truncated text or superposition).
 
 **Dark mode**
-As dark mode is used more and more, it's strongly recommended to test your    application by activating “dark mode”.
+As dark mode is used more and more, it's strongly recommended to test your application by activating dark mode.
 
 1. Go to Settings > Display & Brightness (or directly from Control Centre).
 2. Check that all texts and components are visible and meet the expected contrast levels.
@@ -88,11 +88,11 @@ As dark mode is used more and more, it's strongly recommended to test your    ap
 ### How to test accessibility with an iPhone
 
 1. Turn on VoiceOver: Go to Settings > Accessibility > VoiceOver. There is a toggle to turn VoiceOver on/off at the top of the VoiceOver menu. When you turn VoiceOver on the gestures that you use to navigate your iPhone will change.
-1. Orient to VoiceOver
+1. Navigate to VoiceOver
 1. Change how fast VoiceOver talks: Go to Settings > Accessibility > VoiceOver > Speaking Rate. Choosing a slower speaking rate can help with comprehension as you listen during testing.
 1. Try VoiceOver practice: iPhones have a practice mode where you can practise using the different gestures needed to use VoiceOver. Turn on VoiceOver. Tap VoiceOver Practice, then double-tap to start. Follow the instruction provided in practice mode.
 
-### Basic Testing Gestures
+### Basic testing gestures
 
 * Use swipe gestures to move forward or backward through all page elements.
 * The screen reader should announce each element and relevant text on the page.
@@ -102,10 +102,10 @@ As dark mode is used more and more, it's strongly recommended to test your    ap
 ### Now, let's test!
 
 1. Is all the text accessible to the screen reader and read aloud?
-1.  Are elements read in a logical order that follows the visible page structure?
+1. Are elements read in a logical order that follows the visible page structure?
 1. Do the names of items that you hear match the visual text? 
-1.  Can interactive elements (like links and forms) be activated and used?
-1.  Is any content being skipped that should be read?
+1. Can interactive elements (like links and forms) be activated and used?
+1. Is any content being skipped that should be read?
 1. Is any content being read that is visually hidden?
 
 

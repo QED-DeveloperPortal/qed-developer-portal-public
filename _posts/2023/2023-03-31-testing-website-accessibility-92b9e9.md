@@ -11,8 +11,9 @@ updated: 2023-05-23 00:22:29
 likes: 0
 ---
 
-Testing the accessibility of a website involves using a variety of tool and methods to check if people with disabilities or impairments can use the site easily. Here are some steps to test the accessibility of a website:
+Testing the accessibility of a website involves using a variety of tools and methods to check if people with accessibility needs can use the site easily. Here are some steps to test the accessibility of a website:
 
+* Seek feedback from people with disabilities: Ask people with disabilities to test your website and provide feedback on any accessibility issues they encounter.
 * Use accessibility tools: There are various online accessibility tools such as WebAIM’s WAVE, aXe, or Google’s Lighthouse which can scan your website for accessibility issues and suggest fixes.
 * Use keyboard-only navigation: Test your website using only a keyboard. Check if you can navigate through the entire site using only the keyboard.
 * Check colour contrast: Use a colour contrast checker tool to check if the contrast between text and background meets accessibility standards.
@@ -20,7 +21,7 @@ Testing the accessibility of a website involves using a variety of tool and meth
 * Check image alt tags: Ensure that all images on your website have appropriate alternative text, which provides a description of the image for screen readers.
 * Use captioning and transcripts: Check if videos have closed captioning or transcripts for people who are deaf or hearing impaired.
 * Test with different browser and devices: Test your website on different browsers and devices to make sure it works well across a range of platforms.
-* Seek feedback from people with disabilities: Ask people with disabilities to test your website and provide feedback on any accessibility issues they encounter.
+
 
 
 There are several tools available for accessibility testing, and the choice of tool depends on the specific needs and requirements of your project. Here are some commonly used tools for accessibility testing:
@@ -39,4 +40,4 @@ There are several tools available for accessibility testing, and the choice of t
 
 * **Color contrast analysers**: Tools such as Contrast Checker, Color Contrast Analyzer, or WebAIM's Color Contrast Checker help assess the contrast ratio between foreground and background colors for better readability.
 
-While these tools can be helpful, manual testing and user feedback are also crucial for comprehensive accessibility testing.
+While these tools can be helpful, manual testing and direct user engagement and feedback are critical for comprehensive accessibility testing.
