@@ -1,10 +1,14 @@
 ---
 title: "What is MPC and how might I use it?"
+slug: "what-is-mpc-and-how-might-i-use-it-4e1509"
 author: andrew
-categories: [public]
+categories: Public
 classification: Public
 tags: [privacy]
-date: 2023-05-11 01:26:26
+date: 2023-05-11 01:26:26 
+updatedBy: andrew
+updated: 2025-12-09 00:30:11 
+publishedOn: 2025-12-09 00:30:11 
 likes: 0
 ---
 
