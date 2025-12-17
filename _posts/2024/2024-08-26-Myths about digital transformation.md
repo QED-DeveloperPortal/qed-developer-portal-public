@@ -1,6 +1,6 @@
 ---
 title: "Myths about digital transformation"
-author: Joyclyn
+author: joyclyn
 categories: [Public]
 classification: Public
 tags: [myths]

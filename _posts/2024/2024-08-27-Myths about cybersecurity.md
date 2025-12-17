@@ -1,6 +1,6 @@
 ---
 title: "Myths about cybersecurity"
-author: Joyclyn
+author: joyclyn
 categories: [Public]
 classification: Public
 tags: [myths,security,opinion]

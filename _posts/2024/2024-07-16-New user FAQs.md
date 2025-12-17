@@ -1,11 +1,11 @@
 ---
 title: "New user FAQs"
-author: Joyclyn
+author: joyclyn
 categories: [Public]
 classification: Public
 tags: [getting-started,about]
 date: 2024-07-16 05:26:17 
-updatedBy: Joyclyn
+updatedBy: joyclyn
 updated: 2024-10-16 02:43:44 
 likes: 2
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Role-based access mapping in the Developer Portal"
-author: Joyclyn
+author: joyclyn
 categories: public
 classification: Public
 tags: [auto-import, getting-started,about]

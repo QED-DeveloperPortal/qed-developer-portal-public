@@ -1,6 +1,6 @@
 ---
 title: "Style guide cheat sheet"
-author: Joyclyn
+author: joyclyn
 categories: public
 classification: Public
 tags: [auto-import]

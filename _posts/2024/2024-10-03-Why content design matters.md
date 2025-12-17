@@ -1,11 +1,11 @@
 ---
 title: "Why content design matters"
-author: Joyclyn
+author: joyclyn
 categories: [Public]
 classification: Public
 tags: [accessibility,opinion]
 date: 2024-10-03 01:05:10 
-updatedBy: Joyclyn
+updatedBy: joyclyn
 updated: 2024-10-10 22:09:42 
 likes: 0
 ---
