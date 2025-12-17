@@ -1,7 +1,7 @@
 ---
 title: "Want to connect with other Australian public servants?"
 slug: "want-to-connect-with-other-australian-public-servants-f9a7ad"
-author: Joyclyn
+author: joyclyn
 categories: Public
 classification: Public
 tags: [accessibility,agile,web]

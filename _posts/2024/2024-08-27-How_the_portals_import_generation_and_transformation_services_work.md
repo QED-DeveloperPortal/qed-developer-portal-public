@@ -1,6 +1,6 @@
 ---
 title: "How the portals import generation and transformation services work"
-author: Joyclyn
+author: joyclyn
 categories: [public]
 classification: Public
 tags: [auto-import]

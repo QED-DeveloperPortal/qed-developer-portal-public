@@ -1,12 +1,12 @@
 ---
 title: "New user FAQs"
 slug: "new-user-faqs-60cd4a"
-author: Joyclyn
+author: joyclyn
 categories: Public
 classification: Public
 tags: [getting-started,about]
 date: 2024-07-16 05:26:17 
-updatedBy: Joyclyn
+updatedBy: joyclyn
 updated: 2025-07-09 04:49:11 
 likes: 2
 ---

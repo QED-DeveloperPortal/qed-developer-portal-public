@@ -1,6 +1,6 @@
 ---
 title: "Can we use open source software in government?"
-author: Joyclyn
+author: joyclyn
 categories: [Public]
 classification: Public
 tags: [myths,standards]

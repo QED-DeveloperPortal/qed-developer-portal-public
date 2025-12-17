@@ -1,6 +1,6 @@
 ---
 title: "Busting myths about Agile open and transparent practices"
-author: Joyclyn
+author: joyclyn
 categories: [public]
 classification: Public
 tags: [auto-import, myths]

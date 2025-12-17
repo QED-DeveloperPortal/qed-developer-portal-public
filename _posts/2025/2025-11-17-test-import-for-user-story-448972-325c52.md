@@ -1,8 +1,8 @@
 ---
 title: "Test import for user story 448972"
 slug: "test-import-for-user-story-448972-325c52"
-author: Joyclyn
-owner: Joyclyn
+author: joyclyn
+owner: joyclyn
 categories: Public
 classification: Public
 tags: [auto-import, test]

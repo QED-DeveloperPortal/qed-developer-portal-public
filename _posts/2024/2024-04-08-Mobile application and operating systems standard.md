@@ -1,6 +1,6 @@
 ---
 title: "Mobile application and operating systems standard"
-author: Joyclyn
+author: joyclyn
 categories: [public]
 classification: Public
 tags: [standards]

@@ -1,8 +1,8 @@
 ---
 title: "Joss test for content import revision number bug"
 slug: "joss-test-for-content-import-revision-number-bug-04cdc3"
-author: Joyclyn
-owner: Joyclyn
+author: joyclyn
+owner: joyclyn
 categories: Public
 classification: Public
 tags: [auto-import, test]
