@@ -11,7 +11,7 @@ updated: 2025-05-21 01:42:29
 likes: 14
 ---
 
-When running your SWA (statis web app) site in a local development environment, you may be incorporating APIs using Azure serverless functions under the covers, and getting these running locally can be a challenge. In a lot of cases authentication relies on local APIs to work as well.
+When running your static web app (SWA) site in a local development environment, you may be incorporating APIs using Azure serverless functions under the covers, and getting these running locally can be a challenge. In a lot of cases authentication relies on local APIs to work as well.
 
 Here is how to get up and running.
 
@@ -47,7 +47,7 @@ Allow the local servers to fire up and then browse to http://localhost:7071 to t
 
 If you have configured authentication using Azure B2C then clicking on your "Sign in" button or link will take you to a local sign in test page:
 
-![Image of Azure B2C test authentication page](/images/azure-b2c-test-page.png)
+![Image of Azure B2C test authentication page](https://sadevportal3.blob.core.windows.net/root/azure-b2c-test-page.png)
 
 Here you can edit some default values including:
 
