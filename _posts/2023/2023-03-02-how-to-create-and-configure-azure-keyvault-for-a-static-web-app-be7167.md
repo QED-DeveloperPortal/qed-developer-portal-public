@@ -17,33 +17,33 @@ First ensure all sensitive configuration data is identified and added to Azure K
 
 As well as creating the KeyVault, it will need to have access policies configured so values can be read from the SWA itself.
 
-* Create the Keyvault (use a naming convention appropriate for the application, e.g. 'kv-dev-portal').
-* Ensure Region is Australia Southeast, pricing tier is standard.
-* Open the KeyVault properties in Azure.
-* Under "Settings", click on "Access policies".
-* Check "Azure Resource Manager for template deployment".
-* Under permission model leave "Vault access policy" as default.
+* Create the Keyvault (use a naming convention appropriate for the application, e.g. 'kv-dev-portal')
+* Ensure Region is Australia Southeast, pricing tier is standard
+* Open the KeyVault properties in Azure
+* Under "Settings", click on "Access policies"
+* Check "Azure Resource Manager for template deployment"
+* Under permission model leave "Vault access policy" as default
 
 ### Add an access policy for the SWA
 
-* Browse to your SWA in the Azure Portal.
-* From the left menu, click "Identity".
+* Browse to your SWA in the Azure Portal
+* From the left menu, click "Identity"
 * Under system-assigned tab, toggle the status field on as shown below. This should show a GUID and button below. Then click the Save button to save the newly generated identity.
-* Copy the newly created Object Id.
-* Browse back to the Key Vault.
-* Click "+ Add Access Policy".
-* Search for the Object Id and select it.
-* Select Key permissions "Get, List".
-* Select Secret permissions "Get, List".
-* Save changes.
+* Copy the newly created Object Id
+* Browse back to the Key Vault
+* Click "+ Add Access Policy"
+* Search for the Object Id and select it
+* Select Key permissions "Get, List"
+* Select Secret permissions "Get, List"
+* Save changes
 
 ### Adding secrets to KeyVault
 
 Now you can add the following values to Azure KeyVault:
 
-* On the left-hand menu, click on "Secrets".
-* On the top menu, click "Generate/Import".
-* Enter the name and value of the secret, click "Create".
+* On the left-hand menu, click on "Secrets"
+* On the top menu, click "Generate/Import"
+* Enter the name and value of the secret, click "Create"
 
 Generated secrets/passwords using a Node.js command prompt:
 Secrets:
