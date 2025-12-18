@@ -6,6 +6,7 @@ categories: Public
 classification: Public
 date: 2025-12-05 05:12:30 
 likes: 0
+publishedOn: 2025-12-05 05:12:30
 ---
 
 Test publish 7

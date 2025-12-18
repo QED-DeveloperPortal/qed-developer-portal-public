@@ -8,6 +8,7 @@ date: 2023-04-12 00:18:13
 updatedBy: joyclyn
 updated: 2023-05-11 03:42:23
 likes: 0
+publishedOn: 2023-05-11 03:42:23
 ---
 
 ## Why web accessibility is important:

@@ -8,6 +8,7 @@ tags: [source-code]
 date: 2025-09-19 04:03:06 
 likes: 0
 published: false
+publishedOn: 2025-09-19 04:03:06
 ---
 
 Test archiving public post

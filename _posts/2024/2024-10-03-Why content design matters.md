@@ -8,6 +8,7 @@ date: 2024-10-03 01:05:10
 updatedBy: joyclyn
 updated: 2024-10-10 22:09:42 
 likes: 0
+publishedOn: 2024-10-10 22:09:42
 ---
 
 Government products and services must be available to everyone which means we need to create inclusive content for equal access. Content design matters because it directly influences how effectively information is communicated to and understood by our users.

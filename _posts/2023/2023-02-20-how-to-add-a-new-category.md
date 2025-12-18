@@ -8,6 +8,7 @@ date: 2023-05-08 06:10:26
 updatedBy: joyclyn
 updated: 2023-05-11 04:15:40
 likes: 0
+publishedOn: 2023-05-11 04:15:40
 ---
 
 Adding a new category to a Jekyll site involves modifying the site's configuration file and updating the front matter of each post that should be included in the new category.

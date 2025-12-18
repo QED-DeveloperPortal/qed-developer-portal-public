@@ -6,6 +6,7 @@ classification: Public
 tags: [privacy]
 date: 2023-05-11 01:26:26
 likes: 0
+publishedOn: 2023-05-11 01:26:26
 ---
 
 MPC (Multiparty Computation) is a technique used to perform computations on data without revealing the data itself. This can be useful in a wide range of applications where data privacy is important. One example of using MPC in an application is in the context of secure machine learning.

@@ -7,6 +7,7 @@ classification: Public
 tags: [about]
 date: 2025-09-21 22:01:46 
 likes: 0
+publishedOn: 2025-09-21 22:01:46
 ---
 
 Testing public post for archive 1
