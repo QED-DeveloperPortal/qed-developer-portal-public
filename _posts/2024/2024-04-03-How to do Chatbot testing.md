@@ -8,6 +8,7 @@ date: 2024-04-03 04:39:54
 updatedBy: sushma-hazari-qed
 updated: 2024-04-10 03:43:42 
 likes: 3
+publishedOn: 2024-04-10 03:43:42
 ---
 
 A chatbot is a computer program designed to simulate human conversation, typically through text or voice interactions. Chatbots use artificial intelligence (AI) technologies such as natural language processing (NLP) to understand and respond to user queries or commands in a conversational manner.

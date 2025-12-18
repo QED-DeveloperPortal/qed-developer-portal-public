@@ -8,6 +8,7 @@ date: 2023-03-31 05:52:09
 updatedBy: sushma-hazari-qed
 updated: 2023-05-23 00:22:29
 likes: 0
+publishedOn: 2023-05-23 00:22:29
 ---
 
 Testing the accessibility of a website involves using a variety of tool and methods to check if people with disabilities or impairments can use the site easily. Here are some steps to test the accessibility of a website:

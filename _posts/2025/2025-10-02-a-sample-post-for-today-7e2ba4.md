@@ -7,6 +7,7 @@ classification: Public
 tags: [getting-started,tutorials]
 date: 2025-10-02 02:31:10 
 likes: 0
+publishedOn: 2025-10-02 02:31:10
 ---
 
 Sample post to see if we are ok!

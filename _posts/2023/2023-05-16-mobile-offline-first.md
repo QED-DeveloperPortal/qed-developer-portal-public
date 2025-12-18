@@ -8,6 +8,7 @@ date: 2023-05-16 03:29:31
 updatedBy: joyclyn
 updated: 2023-05-16 03:30:20
 likes: 0
+publishedOn: 2023-05-16 03:30:20
 ---
 
 The recent R4Q Application Uplift project saw the creation of a new Xamarin 5.0 mobile app and Angular 14 web site, with both supported by a .NET Core 3.1 Web Api service layer hosted in Microsoft Azure.

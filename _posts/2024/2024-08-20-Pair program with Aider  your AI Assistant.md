@@ -8,6 +8,7 @@ date: 2024-08-20 22:07:56
 updatedBy: jeny-amatya-qed
 updated: 2024-08-21 03:00:56 
 likes: 2
+publishedOn: 2024-08-21 03:00:56
 ---
 
 There has been much fan fare about the AI revolution and what it means for people who write and maintain software.

@@ -9,6 +9,7 @@ date: 2025-09-16 04:23:44
 updatedBy: andrew
 updated: 2025-09-16 22:32:29 
 likes: 0
+publishedOn: 2025-09-16 22:32:29
 ---
 
 Here are  examples of using POST, PUT and DELETE requests from the API Catalogue.

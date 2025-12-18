@@ -8,6 +8,7 @@ date: 2024-07-11 02:14:45
 updatedBy: g-morton
 updated: 2024-10-03 04:18:09 
 likes: 0
+publishedOn: 2024-10-03 04:18:09
 ---
 
 The Queensland Department of Education (DoE) visual style guide provides a comprehensive framework for maintaining a consistent and recognisable corporate identity. Here are the key elements and guidelines:

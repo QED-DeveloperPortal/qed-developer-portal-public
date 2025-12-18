@@ -8,6 +8,7 @@ date: 2024-11-07 06:53:28
 updatedBy: andrew
 updated: 2024-11-13 00:02:22 
 likes: 0
+publishedOn: 2024-11-13 00:02:22
 ---
 
 Users are able to have natural language conversations with the DevPortal site, mock QED APIs and site content via an AI Chatbot.

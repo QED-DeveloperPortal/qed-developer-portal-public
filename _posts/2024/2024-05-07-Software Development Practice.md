@@ -8,6 +8,7 @@ date: 2024-05-07 03:18:02
 updatedBy: joyclyn
 updated: 2024-07-16 00:55:40 
 likes: 0
+publishedOn: 2024-07-16 00:55:40
 ---
 
 This article outlines the software development practice framework to be followed by Department of Education for the development of software solutions to meet organisational objectives with respect to the development, maintenance and management of software products.

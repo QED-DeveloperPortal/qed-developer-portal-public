@@ -8,6 +8,7 @@ date: 2023-04-19 05:11:39
 updatedBy: joyclyn
 updated: 2023-05-11 03:59:25
 likes: 0
+publishedOn: 2023-05-11 03:59:25
 ---
 
 To call the GitHub API using the **Octokit** library, you first need to install it in your project by running the following command in your terminal:

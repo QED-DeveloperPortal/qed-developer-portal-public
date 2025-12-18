@@ -7,6 +7,7 @@ classification: Public
 tags: [about]
 date: 2025-10-27 02:59:05 
 likes: 0
+publishedOn: 2025-10-27 02:59:05
 ---
 
 # SDLC Artefact glossary
