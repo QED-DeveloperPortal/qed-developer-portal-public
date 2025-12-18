@@ -8,6 +8,7 @@ date: 2024-09-02 05:00:31
 updatedBy: sushma-hazari
 updated: 2024-09-24 05:21:24 
 likes: 0
+publishedOn: 2024-09-24 05:21:24
 ---
 
 Testing accessibility involves evaluating how well an app supports users with various disabilities. By using Android’s accessibility tools, such as TalkBack for screen reading, Accessibility Scanner for identifying improvement areas, and Color Contrast Analyzer for checking visual readability, testers can uncover and address potential barriers. This process helps create apps that are not only user-friendly for everyone but also compliant with accessibility standards and guidelines.

@@ -6,6 +6,7 @@ classification: Public
 tags: [technology,ai,opinion]
 date: 2023-05-17 05:08:24
 likes: 3
+publishedOn: 2023-05-17 05:08:24
 ---
 
 # The Future of Learning: How AI-Powered ChatGPT is Changing Education

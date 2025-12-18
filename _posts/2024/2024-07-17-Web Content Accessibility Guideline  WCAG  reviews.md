@@ -8,6 +8,7 @@ date: 2024-07-17 01:31:22
 updatedBy: jeny-amatya-qed
 updated: 2024-10-08 23:39:29 
 likes: 0
+publishedOn: 2024-10-08 23:39:29
 ---
 
 ## What is WCAG?

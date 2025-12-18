@@ -8,6 +8,7 @@ tags: [uxui,faq,getting-started]
 date: 2025-09-23 00:06:22 
 likes: 0
 published: false
+publishedOn: 2025-09-23 00:06:22
 ---
 
 Test post
