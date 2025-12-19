@@ -6,8 +6,9 @@ categories: Public
 classification: Public
 tags: [getting-started,about]
 date: 2024-07-16 05:26:17 
-updatedBy: jeny-amatya-qed
-updated: 2025-05-19 03:35:04 
+updatedBy: Joyclyn
+updated: 2025-12-19 01:33:29 
+publishedOn: 2025-12-19 01:33:28 
 likes: 2
 ---
 
@@ -19,8 +20,8 @@ Follow the steps in the post called [How to join](/public/how-to-join-900fe4/).
 
 ##### ... contribute content?
 If you are signed in you can create a new post or suggest changes to existing posts.
-To create a new post, follow the steps in [this post](/public/how-to-publish-new-content-using-inline-editor-in-the-developer-portal-704f93/).
-To suggest changes to an existing post, follow the steps in [this post](/public/how-to-update-existing-content-using-the-inline-editor-6da990/).
+
+Follow the steps in the post called [How to publish new content...](/public/how-to-publish-new-content-using-inline-editor-in-the-developer-portal-704f93/) or you can [follow these steps to suggest changes to an existing post](/public/how-to-update-existing-content-using-the-inline-editor-6da990/).
 <br>
 
 
@@ -30,6 +31,4 @@ This post called [Role based access mapping](/public/Role-based_access_mapping_i
 If you are a departmental employee or contractor and you would like internal access, please [contact us](/contact-us/) to let us know.
 <br>
 
-*Psssst*, if you're a new user with questions or you have an idea for other content that would be useful in this FAQ post, please use the feedback box below to let us know! 
-
-*Please note, you must be signed in to send us feedback.*
+*Psssst*, if you're a new user with questions or you have an idea for other content that would be useful in this FAQ post, please (sign in first and then) use the feedback box below to let us know! 
