@@ -10,6 +10,7 @@ updatedBy: Divya28237
 updated: 2025-09-28 23:09:11 
 likes: 1
 published: false
+publishedOn: 2025-09-28 23:09:11
 ---
 
 Testing a website typically involves several aspects, including functionality, usability, performance, compatibility, and security. Here is a general overview of the steps involved in testing a website:

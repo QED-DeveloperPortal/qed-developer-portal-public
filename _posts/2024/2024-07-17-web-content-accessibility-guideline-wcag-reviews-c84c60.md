@@ -9,6 +9,7 @@ date: 2024-07-17 01:31:22
 updatedBy: g-morton
 updated: 2025-09-11 23:17:55 
 likes: 0
+publishedOn: 2025-09-11 23:17:55
 ---
 
 ## What is WCAG?

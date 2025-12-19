@@ -7,6 +7,7 @@ classification: Public
 tags: [accessibility,agile,architecture,myths]
 date: 2025-07-09 05:14:17 
 likes: 0
+publishedOn: 2025-07-09 05:14:17
 ---
 
 In the transformational journey towards product thinking, it's natural to feel a bit unsettled. Questions arise:

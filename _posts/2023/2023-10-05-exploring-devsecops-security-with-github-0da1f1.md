@@ -9,6 +9,7 @@ date: 2023-10-05 01:46:39
 updatedBy: Joyclyn
 updated: 2025-08-01 00:36:44 
 likes: 0
+publishedOn: 2025-08-01 00:36:44
 ---
 
 'Secure code' isn't a single thing but a complex blend of factors. Two major factors that influence our Developer Portal set up are:

@@ -11,6 +11,7 @@ likes: 0
 imported: True 
 import-source: "azure-devops"
 import-reference: ""
+publishedOn: 2025-08-22 02:01:53
 ---
 
 The Developer Portal's import, generation and transformation services leverage Azure functions, factories, and GitHub integrations. This system ensures efficient content reception, transformation, validation, and publication across multiple platforms.

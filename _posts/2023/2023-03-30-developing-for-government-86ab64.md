@@ -10,6 +10,7 @@ updatedBy: Sushma Hazari
 updated: 2024-04-30 01:15:39 
 likes: 1
 published: false
+publishedOn: 2024-04-30 01:15:39
 ---
 
 Developing a project for a government entity requires adherence to specific policies and procedures to ensure compliance with legal and regulatory requirements, as well as effective project management practices. Here are some standard policies and procedures to consider when developing a project for government:
