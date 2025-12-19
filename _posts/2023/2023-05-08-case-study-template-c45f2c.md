@@ -2,14 +2,14 @@
 title: "Case study (Template)"
 slug: "case-study-template-c45f2c"
 author: g-morton
-categories: public
+categories: Public
 classification: Public
 tags: [architecture,case-study,getting-started]
 date: 2023-05-08 01:19:33 
-updatedBy: jeny-amatya-qed
-updated: 2024-07-02 00:40:33 
+updatedBy: Joyclyn
+updated: 2025-12-19 03:38:29 
+publishedOn: 2025-12-19 03:38:29 
 likes: 0
-publishedOn: 2024-07-02 00:40:33
 ---
 
 ## Case study: Project or solution name
@@ -37,4 +37,4 @@ What did your team learn? What worked well and what could you have done differen
 
 ### Conclusion
 What's the key takeaway for readers or a TL;DR summary? 
-Summarize the key takeaways and emphasize the impact that the project had on the organization, users, and/or community.
+Summarise the key takeaways and emphasise the impact that the project had on the organisation, users, and/or community.
