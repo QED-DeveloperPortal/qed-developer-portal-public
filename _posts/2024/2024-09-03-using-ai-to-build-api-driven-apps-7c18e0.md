@@ -9,6 +9,7 @@ date: 2024-09-03 05:16:52
 updatedBy: jeny-amatya-qed
 updated: 2025-08-27 04:55:22 
 likes: 0
+publishedOn: 2025-08-27 04:55:22
 ---
 
 We developed the [Developer Portal AI kit](https://github.com/qed-developerportal/devportal-ai-kit) to help you start building apps that target our publicly available APIs, with AI assistance to guide you along the way.

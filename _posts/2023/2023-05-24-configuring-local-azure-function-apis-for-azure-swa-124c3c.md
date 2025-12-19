@@ -9,6 +9,7 @@ date: 2023-05-24 12:30:00
 updatedBy: Joyclyn
 updated: 2025-05-21 01:42:29 
 likes: 14
+publishedOn: 2025-05-21 01:42:29
 ---
 
 When running your static web app (SWA) site in a local development environment, you may be incorporating APIs using Azure serverless functions under the covers, and getting these running locally can be a challenge. In a lot of cases authentication relies on local APIs to work as well.

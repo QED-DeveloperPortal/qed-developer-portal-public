@@ -9,6 +9,7 @@ date: 2025-09-10 23:42:15
 updatedBy: Joyclyn
 updated: 2025-09-17 00:18:45 
 likes: 0
+publishedOn: 2025-09-17 00:18:45
 ---
 
 ## What is Postman?  

@@ -9,6 +9,7 @@ date: 2023-07-03 13:20:33
 updatedBy: Joyclyn
 updated: 2024-07-16 01:30:09 
 likes: 2
+publishedOn: 2024-07-16 01:30:09
 ---
 
 # Mobile application standards

@@ -7,6 +7,7 @@ classification: Public
 tags: [security]
 date: 2023-11-27 00:00:00 
 likes: 1
+publishedOn: 2023-11-27 00:00:00
 ---
 
 We have recently enabled and configured advanced security for GitHub Actions in our software project. Enabling this allows our source code to be scanned regularly for vulnerabilities.

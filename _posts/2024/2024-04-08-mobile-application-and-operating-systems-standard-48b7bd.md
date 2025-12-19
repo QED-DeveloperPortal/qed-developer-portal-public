@@ -9,6 +9,7 @@ date: 2024-04-08 01:25:35
 updatedBy: Joyclyn
 updated: 2025-11-13 02:51:33 
 likes: 0
+publishedOn: 2025-11-13 02:51:33
 ---
 
 # Mobile application and operating systems standard

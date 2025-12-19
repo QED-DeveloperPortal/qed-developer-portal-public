@@ -12,6 +12,7 @@ imported: True
 import-source: "azure-devops"
 import-reference: ""
 import-config-id: "2a08bdc1-53da-4b48-b08c-2e505c888cd8"
+publishedOn: 2025-09-29 23:40:28
 ---
 
 Role-based access control (RBAC) is a security method that helps manage users’ access to systems and resources based on an assigned role. We use RBAC in the Developer Portal for a few purposes.

@@ -9,6 +9,7 @@ date: 2025-08-05 01:53:30
 updatedBy: Divya28237
 updated: 2025-09-10 06:00:47 
 likes: 0
+publishedOn: 2025-09-10 06:00:47
 ---
 
 The Public Sector Network hosts Government Innovation Week events all around the world and, this September, it's Brisbane's turn. The event runs over 3 days at the Brisbane Convention & Exhibition Centre. 
