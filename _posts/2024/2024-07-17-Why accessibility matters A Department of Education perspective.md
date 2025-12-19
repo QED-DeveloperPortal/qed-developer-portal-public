@@ -8,6 +8,7 @@ date: 2024-07-17 01:23:38
 updatedBy: joyclyn
 updated: 2024-07-25 03:06:39 
 likes: 0
+publishedOn: 2024-07-25 03:06:39
 ---
 
 At the Queensland Department of Education, we firmly believe that accessibility is not just a requirement but a fundamental right. Our commitment to accessibility reflects our dedication to fostering an inclusive environment where every individual, regardless of their abilities, can thrive and contribute to their fullest potential.

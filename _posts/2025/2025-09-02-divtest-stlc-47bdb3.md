@@ -12,6 +12,7 @@ imported: True
 import-source: "content-manager"
 import-reference: "25/828596"
 import-config-id: "db27bcef-045c-4f13-9270-027bf7488f0f"
+publishedOn: 2025-11-18 06:03:00
 ---
 
 Software Testing Life Cycle (STLC): A value-driven approach

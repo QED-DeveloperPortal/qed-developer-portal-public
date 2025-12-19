@@ -9,6 +9,7 @@ likes: 0
 imported: True 
 import-source: "azure-devops"
 import-reference: "1234"
+publishedOn: 2024-08-27 03:56:31
 ---
 
 Myths about Agile and embracing open and transparent practices can hinder innovation and breed mistrust. By identifying these myths and sharing information to demonstrate the benefits of open and transparent practices, we can encourage others to join us in building trust and supporting innovation.

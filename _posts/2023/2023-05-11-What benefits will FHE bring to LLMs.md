@@ -8,6 +8,7 @@ date: 2023-05-15 04:36:35
 updatedBy: jeny-amatya-qed
 updated: 2023-05-15 04:37:39
 likes: 0
+publishedOn: 2023-05-15 04:37:39
 ---
 
 FHE (Fully Homomorphic Encryption) is a type of encryption that allows computations to be performed on encrypted data without requiring decryption. This has the potential to bring several benefits to LLMs (Large Language Models) such as GPT-3. Some of these benefits include:
