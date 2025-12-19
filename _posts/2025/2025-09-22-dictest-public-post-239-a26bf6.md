@@ -6,6 +6,7 @@ categories: Public
 classification: Public
 date: 2025-09-22 22:03:06 
 likes: 0
+publishedOn: 2025-09-22 22:03:06
 ---
 
 Test post 

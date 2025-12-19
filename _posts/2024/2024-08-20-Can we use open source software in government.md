@@ -8,6 +8,7 @@ date: 2024-08-20 01:30:41
 updatedBy: g-morton
 updated: 2024-10-03 04:12:52 
 likes: 0
+publishedOn: 2024-10-03 04:12:52
 ---
 
 Open source software (OSS) is increasingly important in the public sector, but a common question is whether we can use it.

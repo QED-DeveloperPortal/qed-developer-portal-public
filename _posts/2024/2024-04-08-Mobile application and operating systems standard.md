@@ -6,6 +6,7 @@ classification: Public
 tags: [standards]
 date: 2024-04-08 01:25:35 
 likes: 0
+publishedOn: 2024-04-08 01:25:35
 ---
 
 # Mobile application and operating systems standard

@@ -12,6 +12,7 @@ imported: True
 import-source: "github"
 import-reference: ""
 import-config-id: "9a94dc98-35c0-4e72-a6a9-e82a75535e9b"
+publishedOn: 2025-12-02 22:36:40
 ---
 
 18/11 The Developer Portal's import, generation and transformation services leverage Azure functions, factories, and GitHub integrations. This system ensures efficient content reception, transformation, validation, and publication across multiple platforms.
