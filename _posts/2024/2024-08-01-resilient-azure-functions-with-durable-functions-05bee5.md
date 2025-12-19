@@ -9,20 +9,20 @@ date: 2024-08-01 22:29:58
 likes: 1
 ---
 
-*Durable Functions* is a feature of [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview) that lets you write stateful functions in a serverless compute environment. The extension lets you define stateful workflows by writing *[orchestrator functions](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-orchestrations)* and stateful entities by writing *[entity functions](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-entities)* using the Azure Functions programming model. Behind the scenes, the extension manages state, checkpoints, and restarts for you, allowing you to focus on your business logic. [1]
+*Durable Functions* is a feature of [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview) that lets you write stateful functions in a serverless compute environment. The extension lets you define stateful workflows by writing [orchestrator functions](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-orchestrations) and stateful entities by writing [entity functions](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-entities) using the Azure Functions programming model. Behind the scenes, the extension manages state, checkpoints, and restarts for you, allowing you to focus on your business logic. [1]
 
-## Key Concepts
+## Key concepts
 
 1. **Durable Functions**: Allows writing stateful functions in a serverless environment, enabling workflows that can resume from the last known state.
-2. **State Persistence**: Store the state (e.g., last processed ID) in durable storage like Azure Table Storage or Cosmos DB.
-3. **Exception Handling**: Implement robust exception handling to ensure workflows can resume from the last checkpoint.
+2. **State persistence**: Store the state (e.g., last processed ID) in durable storage like Azure Table Storage or Cosmos DB.
+3. **Exception handling**: Implement robust exception handling to ensure workflows can resume from the last checkpoint.
 4. **Idempotency**: Ensure operations can be retried without adverse effects or duplications.
 
-## Implementing Resilient Workflows
+## Implementing resilient workflows
 
-Durable Function workflow consists primarily of an Orchestrator Function and one or more Activity Functions. Multiple activities can be chained together in sequence, with contextual information optionally being passed from one activity to another in the chain.
+Durable Function workflow consists primarily of an orchestrator function and one or more Activity Functions. Multiple activities can be chained together in sequence, with contextual information optionally being passed from one activity to another in the chain.
 
-The following examples describe the Function Chaining pattern described in [1]. The examples all target the Azure Function Isolated Worker Model.
+The following examples describe the function chaining pattern described in referenced Durable Functions overview[1]. The examples all target the Azure Function Isolated Worker Model.
 
 ### Orchestrator Function example for Isolated Worker Model
 
@@ -70,7 +70,7 @@ public class OrchestratorFunction
 }
 ```
 
-### Activity Function Example for Isolated Worker Model
+### Activity Function example for Isolated Worker Model
 
 ```csharp
 using Microsoft.Azure.Functions.Worker;
@@ -119,7 +119,7 @@ public class ActivityFunctions
 }
 ```
 
-### Program.cs Configuration for Isolated Worker Model
+### Program.cs configuration for Isolated Worker Model
 
 An easy way to persist additional state is via Azure Table Storage - configure the TableServiceClient as descibed below.
 
@@ -146,4 +146,4 @@ By leveraging Azure Durable Functions, you can implement resilient, stateful wor
 
 ### References
 
-\[1\] Durable Functions Overview \- Azure \| Microsoft Learn\]\(https://learn\.microsoft\.com/en\-us/azure/azure\-functions/durable/durable\-functions\-overview\)
+\[1\] Microsoft Learn, [Durable Functions overview](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview), accessed 1 August 2024
