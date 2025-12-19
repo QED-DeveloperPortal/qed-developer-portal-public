@@ -2,14 +2,14 @@
 title: "Case study - QTeachers"
 slug: "case-study-qteachers-2c6bb2"
 author: g-morton
-categories: public
+categories: Public
 classification: Public
 tags: [accessibility,architecture,case-study,mobile,security,technology,uxui]
 date: 2023-05-09 04:30:15 
-updatedBy: g-morton
-updated: 2024-09-03 00:10:31 
+updatedBy: Joyclyn
+updated: 2025-12-19 03:40:32 
+publishedOn: 2025-12-19 03:40:32 
 likes: 0
-publishedOn: 2024-09-03 00:10:31
 ---
 
 ### Audience
@@ -31,7 +31,7 @@ The QTeachers Mobile Application (formerly known as OneSchool Mobile Experience)
 In addition to creating a user-friendly mobile application specifically for teachers inside and outside the classroom, the team also aimed to establish mobile design patterns that were repeatable and scalable.
 
 ### Context
-The application was a part of two broader initiatives - to reduce the administrative burden on teaching staff and to modernize components of the department's ecosystem.
+The application was a part of two broader initiatives - to reduce the administrative burden on teaching staff and to modernise components of the department's ecosystem.
 
 ### Approach
 The team employed Scrum/Agile and Lean design methodologies to plan, design, and develop the application.
