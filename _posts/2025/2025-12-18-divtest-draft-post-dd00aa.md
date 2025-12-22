@@ -1,12 +1,12 @@
 ---
 title: "Divtest draft post"
 slug: "divtest-draft-post-dd00aa"
-author: Divya28237
+author: divya28237
 categories: Public
 classification: Public
 tags: [accessibility,myths,mobile,privacy]
 date: 2025-12-18 04:36:31 
-updatedBy: Divya28237
+updatedBy: divya28237
 updated: 2025-12-21 22:50:27 
 likes: 0
 draft: true

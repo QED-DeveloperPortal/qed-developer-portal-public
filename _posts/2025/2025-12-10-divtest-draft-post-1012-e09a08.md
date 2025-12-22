@@ -1,7 +1,7 @@
 ---
 title: "Divtest Draft post 10/12"
 slug: "divtest-draft-post-1012-e09a08"
-author: Divya28237
+author: divya28237
 categories: Public
 classification: Public
 tags: [api,mobile,uxui]

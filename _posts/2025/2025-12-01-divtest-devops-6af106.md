@@ -1,8 +1,8 @@
 ---
 title: "Divtest DevOps"
 slug: "divtest-devops-6af106"
-author: Divya28237
-owner: Divya28237
+author: divya28237
+owner: divya28237
 categories: Public
 classification: Public
 tags: [auto-import, technology]

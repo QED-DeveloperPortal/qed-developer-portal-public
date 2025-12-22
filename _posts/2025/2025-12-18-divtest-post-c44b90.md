@@ -1,7 +1,7 @@
 ---
 title: "Divtest post"
 slug: "divtest-post-c44b90"
-author: Divya28237
+author: divya28237
 categories: Public
 classification: Public
 tags: [accessibility,uxui,privacy]

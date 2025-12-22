@@ -1,12 +1,12 @@
 ---
 title: "Divtest sample public post"
 slug: "divtest-sample-public-post-7bc7e1"
-author: Divya28237
+author: divya28237
 categories: Public
 classification: Public
 tags: [about,getting-started,tutorials,privacy,quality-assurance]
 date: 2025-09-24 04:00:59 
-updatedBy: Divya28237
+updatedBy: divya28237
 updated: 2025-09-25 04:49:15 
 likes: 0
 publishedOn: 2025-09-25 04:49:15

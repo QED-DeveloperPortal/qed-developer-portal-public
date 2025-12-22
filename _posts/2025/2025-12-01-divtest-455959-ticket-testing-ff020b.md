@@ -1,8 +1,8 @@
 ---
 title: "Divtest 455959 ticket testing"
 slug: "divtest-455959-ticket-testing-ff020b"
-author: Divya28237
-owner: Divya28237
+author: divya28237
+owner: divya28237
 categories: Public
 classification: Public
 tags: [auto-import, technology]
