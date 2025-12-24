@@ -1,12 +1,12 @@
 ---
 title: "Quick primer on alt text"
 slug: "quick-primer-on-alt-text-be56ff"
-author: Joyclyn
+author: joyclyn
 categories: Public
 classification: Public
 tags: [accessibility,uxui]
 date: 2025-05-29 00:22:48 
-updatedBy: Joyclyn
+updatedBy: joyclyn
 updated: 2025-12-02 01:18:54 
 likes: 0
 publishedOn: 2025-12-02 01:18:54

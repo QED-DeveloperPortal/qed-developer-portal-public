@@ -1,12 +1,12 @@
 ---
 title: "Can we use agile in government?"
 slug: "can-we-use-agile-in-government-1c9ebe"
-author: Joyclyn
+author: joyclyn
 categories: Public
 classification: Public
 tags: [myths,agile]
 date: 2024-08-21 05:48:24 
-updatedBy: Joyclyn
+updatedBy: joyclyn
 updated: 2025-07-31 05:09:31 
 likes: 0
 publishedOn: 2025-07-31 05:09:31

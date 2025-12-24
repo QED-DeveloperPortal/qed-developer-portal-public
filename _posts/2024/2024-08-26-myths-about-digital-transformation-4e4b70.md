@@ -1,12 +1,12 @@
 ---
 title: "Myths about digital transformation"
 slug: "myths-about-digital-transformation-4e4b70"
-author: Joyclyn
+author: joyclyn
 categories: Public
 classification: Public
 tags: [myths]
 date: 2024-08-26 04:36:32 
-updatedBy: Joyclyn
+updatedBy: joyclyn
 updated: 2025-08-01 00:45:54 
 likes: 0
 publishedOn: 2025-08-01 00:45:54

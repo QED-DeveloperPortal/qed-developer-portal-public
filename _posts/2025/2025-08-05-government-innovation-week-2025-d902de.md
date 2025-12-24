@@ -1,7 +1,7 @@
 ---
 title: "Government Innovation Week 2025"
 slug: "government-innovation-week-2025-d902de"
-author: Joyclyn
+author: joyclyn
 categories: Public
 classification: Public
 tags: [about]

@@ -1,8 +1,8 @@
 ---
 title: "Why and how we use role-based access control"
 slug: "why-and-how-we-use-role-based-access-control-27fbeb"
-author: Joyclyn
-owner: Joyclyn
+author: joyclyn
+owner: joyclyn
 categories: Public
 classification: Public
 tags: [auto-import, about, getting-started]

@@ -1,12 +1,12 @@
 ---
 title: "Global Accessibility Awareness Day"
 slug: "global-accessibility-awareness-day-9693b9"
-author: Joyclyn
+author: joyclyn
 categories: Public
 classification: Public
 tags: [myths,accessibility]
 date: 2025-05-09 04:38:19 
-updatedBy: Joyclyn
+updatedBy: joyclyn
 updated: 2025-11-13 01:16:07 
 likes: 0
 publishedOn: 2025-11-13 01:16:07

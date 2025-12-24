@@ -1,12 +1,12 @@
 ---
 title: "Why content design matters"
 slug: "why-content-design-matters-070d48"
-author: Joyclyn
+author: joyclyn
 categories: Public
 classification: Public
 tags: [accessibility]
 date: 2024-10-03 01:05:10 
-updatedBy: Joyclyn
+updatedBy: joyclyn
 updated: 2025-10-07 03:37:13 
 likes: 0
 publishedOn: 2025-10-07 03:37:13

@@ -6,7 +6,7 @@ categories: Public
 classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 23:42:15 
-updatedBy: Joyclyn
+updatedBy: joyclyn
 updated: 2025-09-17 00:18:45 
 likes: 0
 publishedOn: 2025-09-17 00:18:45
