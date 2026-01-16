@@ -1,50 +1,73 @@
 ---
-title: "Divtest public repo 12"
+title: "Divtest public repo 16/1"
 slug: "divtest-public-repo-22657c"
 author: divya28237
 owner: divya28237
 categories: Public
 classification: Public
-tags: [auto-import, technology]
-date: 2025-10-07 03:08:25
+tags: [auto-import, technology, myths]
+date: 2026-01-16 03:50:55
 likes: 0
+publishedOn: 2026-01-16 03:50:55
 imported: True 
 import-source: "github"
 import-reference: ""
 import-config-id: "96c8d7f9-92cc-4efd-9b02-5d6c38af927e"
-publishedOn: 2025-10-07 03:08:25
 ---
 
-# Updated Action authentication updated 25/9/25
+16/1/26 The Developer Portal's import, generation and transformation services leverage Azure functions, factories, and GitHub integrations. This system ensures efficient content reception, transformation, validation, and publication across multiple platforms.
 
-Actions offer different authentication schemas to accommodate various use cases. To specify the authentication schema for your action, use the GPT editor and select "None", "API Key", or "OAuth".
+## High-level overview
+The diagram represents a system architecture involving various services, factories, and integrations. It includes components for content management, transformation, and generation, integrated with external platforms like GitHub, Azure, and a DevOps wiki.
 
-By default, the authentication method for all actions is set to "None", but you can change this and allow different actions to have different authentication methods.
+## Key components and interactions
 
-## No authentication
+### Azure Function and Cosmos DB
+- **ContentService**: An Azure Function named ContentService is configured to interact with Azure Cosmos DB for data storage and retrieval.
 
-We support flows without authentication for applications where users can send requests directly to your API without needing an API key or signing in with OAuth.
+### Factories
+- **ContentReceiverFactory**: Creates instances for receiving content.
+- **ContentTransformationFactory**: Creates instances for transforming content.
+- **ContentGenerationFactory**: Creates instances for generating content.
 
-Consider using no authentication for initial user interactions as you might experience a user drop off if they are forced to sign into an application. You can create a "signed out" experience and then move users to a "signed in" experience by enabling a separate action.
+### Services
+#### Content receiver services:
+- **DevopsWikiReceiverService**: Receives content from a DevOps wiki.
+- **GithubReceiverService**: Receives content from a GitHub repository.
+- **ContentmanagerReceiverService**: Receives content from a Content Manager system.
 
-## API key authentication
+#### Content transformation services:
+- **AISummaryTransformationService**: Transforms content by generating AI summaries.
+- **AIMarkdownTransformationService**: Transforms content into Markdown format using AI.
 
-Just like how a user might already be using your API, we allow API key authentication through the GPT editor UI. We encrypt the secret key when we store it in our database to keep your API key secure.
+#### Content generation services:
+- **ContentGenerationService**: Generates markdown files that include the transformed content, to be published into Developer Portal.
+- **MarkdownService**: Specifically processes transformed content into markdown file.
+- **ValidationService**: Validates the content, ensuring it meets certain criteria.
 
-This approach is useful if you have an API that takes slightly more consequential actions than the no authentication flow but does not require an individual user to sign in. Adding API key authentication can protect your API and give you more fine-grained access controls along with visibility into where requests are coming from.
+### GitHub integration
+- **HttpClientGithubService** and **OctokitGithubService**: These services interact with GitHub repository via GitHub API and Octokit API, to perform a number of operations.
+- **GitHub CI/CD pipelines**: Continuous Integration and Continuous Deployment pipelines validate the structure of Markdown content and the author information before publishing them to the portal website.
+- **GitHub repository**: The storage location for the content being processed and validated.
 
-## OAuth
+### External content
+- **DevOps Wiki**: Source of content for the DevopsWikiReceiverService.
+- **Content Manager**: System managing the content received by the ContentmanagerReceiverService.
 
-Actions allow OAuth sign in for each user. This is the best way to provide personalised experiences and make the most powerful actions available to users. A simple example of the OAuth flow with actions will look like the following:
+## Data flow
+- The ContentService function retrieves configurations from Azure Cosmos DB.
+- Factories generate service instances for handling content reception, transformation, and generation.
+- The services interact with various sources like the DevOps wiki, GitHub repo, and content manager.
+- Transformed content goes through CI/CD pipelines for validation before being deployed to the portal website.
 
-- To start, select "Authentication" in the GPT editor UI, and select "OAuth".
-- You will be prompted to enter the OAuth client ID, client secret, authorization URL, token URL, and scope.
-    - The client ID and secret can be simple text strings but should [follow OAuth best practices](https://www.oauth.com/oauth2-servers/client-registration/client-id-secret/).
-    - We store an encrypted version of the client secret, while the client ID is available to end users.
-- OAuth requests will include the following information: `request={'grant_type': 'authorization_code', 'client_id': 'YOUR_CLIENT_ID', 'client_secret': 'YOUR_CLIENT_SECRET', 'code': 'abc123', 'redirect_uri': 'https://chatgpt.com/aip/g-some_gpt_id/oauth/callback'}`
-- In order for someone to use an action with OAuth, they will need to send a message that invokes the action and then the user will be presented with a "Sign in to [domain]" button in the ChatGPT UI.
-- The `authorization_url` endpoint should return a response that looks like:
-    `{ "access_token": "example_token", "token_type": "bearer", "refresh_token": "example_token", "expires_in": 59 }`
-- During the user sign in process, ChatGPT makes a request to your `authorization_url` using the specified `authorization_content_type`, we expect to get back an access token and optionally a [refresh token](https://auth0.com/learn/refresh-tokens) which we use to periodically fetch a new access token.
-- Each time a user makes a request to the action, the user’s token will be passed in the Authorization header: (“Authorization”: “[Bearer/Basic] [user’s token]”).
-- We require that OAuth applications make use of the [state parameter](https://auth0.com/docs/secure/attack-protection/state-parameters#set-and-compare-state-parameter-values) for security reasons.
+## Detailed flow
+- ContentService retrieves configurations from Azure Cosmos DB.
+- ContentReceiverFactory creates instances of services like DevopsWikiReceiverService, GithubReceiverService, and ContentmanagerReceiverService to receive content from different sources.
+- ContentTransformationFactory creates instances of services like AISummaryTransformationService and AIMarkdownTransformationService to transform the fetched content into Markdown format, using Azure OpenAI.
+- ContentGenerationFactory creates instances of services like ContentGenerationService, MarkdownService, and ValidationService to generate and validate the content.
+- Interaction with GitHub repository is done through HttpClientGithubService and OctokitGithubService.
+- GitHub CI/CD Pipelines validate the content structure and author information.
+- Validated content is deployed to the Developer Portal website.
+
+## Import-function-diagram
+This system showcases a robust architecture that efficiently handles content from reception to publication. By integrating Azure functions, various service factories, and GitHub automation, the system ensures that content is processed, validated, and published seamlessly. This setup not only maintains content integrity but also optimises the workflow through automation and validation steps.
