@@ -6,9 +6,9 @@ owner: divya28237
 categories: Public
 classification: Public
 tags: [auto-import, technology, myths]
-date: 2026-01-16 03:50:55
+date: 2026-01-20 01:43:23
 likes: 0
-publishedOn: 2026-01-16 03:50:55
+publishedOn: 2026-01-20 01:43:23
 imported: True 
 import-source: "github"
 import-reference: ""
@@ -17,7 +17,7 @@ import-config-id: "96c8d7f9-92cc-4efd-9b02-5d6c38af927e"
 
 16/1/26 The Developer Portal's import, generation and transformation services leverage Azure functions, factories, and GitHub integrations. This system ensures efficient content reception, transformation, validation, and publication across multiple platforms.
 
-## High-level overview
+## High-level overview update
 The diagram represents a system architecture involving various services, factories, and integrations. It includes components for content management, transformation, and generation, integrated with external platforms like GitHub, Azure, and a DevOps wiki.
 
 ## Key components and interactions
