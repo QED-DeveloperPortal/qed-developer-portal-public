@@ -6,9 +6,9 @@ owner: Joyclyn
 categories: Public
 classification: Public
 tags: [auto-import, faq]
-date: 2026-01-30 00:38:57
+date: 2026-01-30 00:55:20
 likes: 0
-publishedOn: 2026-01-30 00:38:57
+publishedOn: 2026-01-30 00:55:20
 imported: True 
 import-source: "azure-devops"
 import-reference: ""
@@ -63,4 +63,4 @@ We look forward to hearing from you!
 
 Here's a simplified workflow that steps out the import/update/remove info process:
 
-![Workflow-overview](https://sadevportal3.blob.core.windows.net/root/Display-update-remove-info.png)
+[![Workflow-overview](https://sadevportal3.blob.core.windows.net/root/Display-update-remove-info.png)](https://sadevportal3.blob.core.windows.net/root/Display-update-remove-info.png){:target="_blank" rel="noopener noreferrer"}
