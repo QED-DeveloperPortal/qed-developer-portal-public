@@ -7,9 +7,9 @@ classification: Public
 tags: [security]
 date: 2023-10-05 01:46:39 
 updatedBy: joyclyn
-updated: 2025-08-01 00:36:44 
+updated: 2026-02-02 23:58:40 
+publishedOn: 2026-02-02 23:58:40 
 likes: 0
-publishedOn: 2025-08-01 00:36:44
 ---
 
 'Secure code' isn't a single thing but a complex blend of factors. Two major factors that influence our Developer Portal set up are:
@@ -53,3 +53,7 @@ A comprehensive security strategy that includes best practices in configuration 
 
 ### So how safe is our Developer Portal code?
 It’s difficult, and perhaps even foolish, to try to assign a security rating or number to the security of our code. But with the layers of protection we have in our practices (DevSecOps) and our infrastructure (GitHub Enterprise), our code is well protected.
+
+***
+
+Reviewed for currency 3 February 2025
