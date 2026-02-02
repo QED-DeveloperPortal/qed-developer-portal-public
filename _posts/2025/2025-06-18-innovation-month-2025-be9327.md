@@ -1,20 +1,16 @@
 ---
-title: "Innovation month 2025"
+title: "Innovating with risk"
 slug: "innovation-month-2025-be9327"
 author: g-morton
 categories: Public
 classification: Public
 tags: [about]
 date: 2025-06-18 05:28:44 
-updatedBy: jeny-amatya-qed
-updated: 2025-07-07 02:01:42 
+updatedBy: g-morton
+updated: 2026-01-29 04:18:28 
+publishedOn: 2026-01-29 04:18:28 
 likes: 0
-publishedOn: 2025-07-07 02:01:42
 ---
-
-Celebrating the Australian Public Service innovation month: **Risk. Resolve. Results.**
-[Visit the official website](https://www.apsprofessions.gov.au/events-and-news/events/innovation-month-2025-risk-resolve-results)
-
 
 ## Risk is exciting!
 
@@ -22,7 +18,7 @@ Wait, what? You can’t say that in government!
 
 Risk represents uncertainty and the possibility of unexpected outcomes, exactly the world where innovation thrives. It’s precisely where innovators want to be. This is where the magic happens, allowing us to uncover novel solutions.
 
-The more we push boundaries, the scarier innovation seems. Yet, the secret to innovation, particularly in government, is balancing the excitement of the unknown with smart risk management. A guiding principle I value in product development is *limit the blast radius.* Imagine eager scientists detonating experimental materials, all safely enclosed in concrete and ballistic perspex. The inspiration is two-fold:
+The more we push boundaries, the scarier innovation seems. Yet, the secret to innovation, particularly in government, is balancing the excitement of the unknown with smart risk management. A guiding principle I value in product development is *limit the blast radius.* Imagine eager scientists detonating experimental materials, all safely enclosed in concrete and ballistic Perspex. The inspiration is two-fold:
 
 1. Fearlessly experiment, testing ideas in real-world scenarios.
 2. Ensure experiments are safely contained to prevent unintended harm.
