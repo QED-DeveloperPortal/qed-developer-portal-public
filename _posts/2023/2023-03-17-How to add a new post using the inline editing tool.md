@@ -7,12 +7,12 @@ classification: Public
 tags: [getting-started]
 date: 2023-03-17 04:22:58 
 updatedBy: jeny-amatya-qed
-updated: 2025-12-16 01:25:32 
-publishedOn: 2025-12-16 01:25:32 
+updated: 2025-12-19 00:36:15 
+publishedOn: 2025-12-19 00:36:15 
 likes: 0
 ---
 
-## Overview
+## Overview 
 
 This post provides step-by-step guidance on how to add a new post in Developer Portal.
 
