@@ -6,15 +6,15 @@ categories: Public
 classification: Public
 tags: [getting-started,about]
 date: 2023-03-30 01:04:10 
-updatedBy: jeny-amatya-qed
-updated: 2025-05-02 00:33:26 
+updatedBy: matt
+updated: 2026-01-13 23:14:51 
+publishedOn: 2026-01-13 23:14:51 
 likes: 18
-publishedOn: 2025-05-02 00:33:26
 ---
 
 ### What is a Developer Portal?
 
-A **Developer Portal** is a website that provides documentation, resources, and tools for you to learn, use, and integrate with APIs (Application Programming Interfaces). It is a centralised platform that offers you everything you need to work with our APIs quickly and easily, including code samples, tutorials, SDKs (Software Development Kits), API reference documentation and testing tools. It is also a platform that provides a clear and structured way for our developer community to collaborate, gather feedback, and manage the API lifecycle.
+A **Developer Portal** is a website that provides documentation, resources, and tools for you to learn, use, and integrate with APIs (Application Programming Interfaces). It is a centralised platform that offers you everything you need to work with our APIs quickly and easily, including tutorials, API reference documentation and testing tools. It is also a platform that provides a clear and structured way for our developer community to collaborate, gather feedback, and manage the API lifecycle.
 
 ### Why does it matter?
 
