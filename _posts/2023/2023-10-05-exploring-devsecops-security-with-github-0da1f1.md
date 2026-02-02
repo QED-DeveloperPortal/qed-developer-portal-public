@@ -1,12 +1,12 @@
 ---
 title: "Exploring DevSecOps security with GitHub"
 slug: "exploring-devsecops-security-with-github-0da1f1"
-author: Joyclyn
+author: joyclyn
 categories: Public
 classification: Public
 tags: [security]
 date: 2023-10-05 01:46:39 
-updatedBy: Joyclyn
+updatedBy: joyclyn
 updated: 2025-08-01 00:36:44 
 likes: 0
 publishedOn: 2025-08-01 00:36:44

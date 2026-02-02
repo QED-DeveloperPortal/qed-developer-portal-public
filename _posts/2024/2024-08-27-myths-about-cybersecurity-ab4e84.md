@@ -1,12 +1,12 @@
 ---
 title: "Myths about cybersecurity"
 slug: "myths-about-cybersecurity-ab4e84"
-author: Joyclyn
+author: joyclyn
 categories: Public
 classification: Public
 tags: [myths,security]
 date: 2024-08-27 05:08:30 
-updatedBy: Joyclyn
+updatedBy: joyclyn
 updated: 2025-11-13 01:18:31 
 likes: 0
 publishedOn: 2025-11-13 01:18:31

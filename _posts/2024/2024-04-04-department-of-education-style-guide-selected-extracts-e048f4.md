@@ -1,12 +1,12 @@
 ---
 title: "Department of Education Style Guide: Selected extracts"
 slug: "department-of-education-style-guide-selected-extracts-e048f4"
-author: Joyclyn
+author: joyclyn
 categories: Public
 classification: Public
 tags: [standards]
 date: 2024-04-04 03:57:01 
-updatedBy: Joyclyn
+updatedBy: joyclyn
 updated: 2025-11-13 02:56:09 
 likes: 0
 publishedOn: 2025-11-13 02:56:09

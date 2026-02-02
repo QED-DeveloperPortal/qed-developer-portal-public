@@ -6,7 +6,7 @@ categories: Public
 classification: Public
 tags: [getting-started,cloud,api]
 date: 2023-05-24 12:30:00 
-updatedBy: Joyclyn
+updatedBy: joyclyn
 updated: 2025-05-21 01:42:29 
 likes: 14
 publishedOn: 2025-05-21 01:42:29

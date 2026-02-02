@@ -1,12 +1,12 @@
 ---
 title: "Can we use open source software in government?"
 slug: "can-we-use-open-source-software-in-government-1bfe68"
-author: Joyclyn
+author: joyclyn
 categories: Public
 classification: Public
 tags: [myths,standards]
 date: 2024-08-20 01:30:41 
-updatedBy: Joyclyn
+updatedBy: joyclyn
 updated: 2025-08-01 03:26:53 
 likes: 0
 publishedOn: 2025-08-01 03:26:53

@@ -1,8 +1,8 @@
 ---
 title: "Style guide cheat sheet"
 slug: "style-guide-cheat-sheet-c6c454"
-author: Joyclyn
-owner: Joyclyn
+author: joyclyn
+owner: joyclyn
 categories: Public
 classification: Public
 tags: [auto-import]

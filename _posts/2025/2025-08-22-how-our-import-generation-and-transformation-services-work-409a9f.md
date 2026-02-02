@@ -6,64 +6,61 @@ owner: Joyclyn
 categories: Public
 classification: Public
 tags: [auto-import]
-date: 2025-08-22 02:01:53
+date: 2026-02-01 23:47:59
 likes: 0
+publishedOn: 2026-02-01 23:47:59
 imported: True 
 import-source: "azure-devops"
 import-reference: ""
-publishedOn: 2025-08-22 02:01:53
+import-config-id: "7fe4144f-d01c-4c45-8590-30c8b12700b0"
 ---
 
 The Developer Portal's import, generation and transformation services leverage Azure functions, factories, and GitHub integrations. This system ensures efficient content reception, transformation, validation, and publication across multiple platforms.
 
 ### High-level overview
-
 The diagram represents a system architecture involving various services, factories, and integrations. It includes components for content management, transformation, and generation, integrated with external platforms like GitHub, Azure, and a DevOps wiki.
 
 ### Key components and interactions
 
 1. **Azure Function and Cosmos DB**
+   - **ContentService**: An Azure Function named `ContentService` is configured to interact with Azure Cosmos DB for data storage and retrieval.
 
-    - **ContentService**: An Azure Function named `ContentService` is configured to interact with Azure Cosmos DB for data storage and retrieval.
 2. **Factories**
+   - **ContentReceiverFactory**: Creates instances for receiving content.
+   - **ContentTransformationFactory**: Creates instances for transforming content.
+   - **ContentGenerationFactory**: Creates instances for generating content.
 
-    - **ContentReceiverFactory**: Creates instances for receiving content.
-    - **ContentTransformationFactory**: Creates instances for transforming content.
-    - **ContentGenerationFactory**: Creates instances for generating content.
 3. **Services**
+   - **Content receiver services**:
+     - **DevopsWikiReceiverService**: Receives content from a DevOps wiki.
+     - **GithubReceiverService**: Receives content from a GitHub repository.
+     - **ContentmanagerReceiverService**: Receives content from a Content Manager system.
 
-    - **Content receiver services**:
+   - **Content transformation services**:
+     - **AISummaryTransformationService**: Transforms content by generating AI summaries.
+     - **AIMarkdownTransformationService**: Transforms content into Markdown format using AI.
 
-        - **DevopsWikiReceiverService**: Receives content from a DevOps wiki.
-        - **GithubReceiverService**: Receives content from a GitHub repository.
-        - **ContentmanagerReceiverService**: Receives content from a Content Manager system.
-    - **Content transformation services**:
+   - **Content generation services**:
+     - **ContentGenerationService**: Generates markdown files that include the transformed content, to be published into Developer Portal.
+     - **MarkdownService**: Specifically processes transformed content into markdown file.
+     - **ValidationService**: Validates the content, ensuring it meets certain criteria.
 
-        - **AISummaryTransformationService**: Transforms content by generating AI summaries.
-        - **AIMarkdownTransformationService**: Transforms content into Markdown format using AI.
-    - **Content generation services**:
-
-        - **ContentGenerationService**: Generated markdown files that includes the transformed content, to be published into Developer Portal
-        - **MarkdownService**: Specifically processes transformed content into markdown file.
-        - **ValidationService**: Validates the content, ensuring it meets certain criteria.
 4. **GitHub integration**
+   - **HttpClientGithubService** and **OctokitGithubService**: These services interact with GitHub repository via GitHub API and Octokit API, to perform a number of operations.
+   - **GitHub CI/CD pipelines**: Continuous Integration and Continuous Deployment pipelines validate the structure of Markdown content and the author information before publishing them to the portal website.
+   - **GitHub repository**: The storage location for the content being processed and validated.
 
-    - **HttpClientGithubService** and **OctokitGithubService**: These services interact with GitHub repository via GitHub API and Octokit API, to perform a number of operations.
-    - **GitHub CI/CD pipelines**: Continuous Integration and Continuous Deployment pipelines validate the structure of Markdown content and the author information before publishing them to the portal website.
-    - **GitHub repository**: The storage location for the content being processed and validated.
 5. **External content**
+   - **DevOps Wiki**: Source of content for the `DevopsWikiReceiverService`.
+   - **Content Manager**: System managing the content received by the `ContentmanagerReceiverService`.
 
-    - **DevOps Wiki**: Source of content for the `DevopsWikiReceiverService`.
-    - **Content Manager**: System managing the content received by the `ContentmanagerReceiverService`.
 6. **Data flow**
-
-    - The `ContentService` function retrieves configurations from Azure Cosmos DB.
-    - Factories generate service instances for handling content reception, transformation, and generation.
-    - The services interact with various sources like the DevOps wiki, GitHub repo, and content manager.
-    - Transformed content goes through CI/CD pipelines for validation before being deployed to the portal website.
+   - The `ContentService` function retrieves configurations from Azure Cosmos DB.
+   - Factories generate service instances for handling content reception, transformation, and generation.
+   - The services interact with various sources like the DevOps wiki, GitHub repo, and content manager.
+   - Transformed content goes through CI/CD pipelines for validation before being deployed to the portal website.
 
 ### Detailed flow
-
 1. **ContentService** retrieves configurations from Azure Cosmos DB.
 2. **ContentReceiverFactory** creates instances of services like `DevopsWikiReceiverService`, `GithubReceiverService`, and `ContentmanagerReceiverService` to receive content from different sources.
 3. **ContentTransformationFactory** creates instances of services like `AISummaryTransformationService` and `AIMarkdownTransformationService` to transform the fetched content into Markdown format, using Azure OpenAI.
@@ -72,8 +69,6 @@ The diagram represents a system architecture involving various services, factori
 6. **GitHub CI/CD Pipelines** validate the content structure and author information.
 7. Validated content is deployed to the **Developer Portal website**.
 
-![image.png](/.attachments/image-7db7c28f-65ad-4ed5-a5c7-9e76ae3e694c.png)
+![Import-function-diagram](https://sadevportal3.blob.core.windows.net/root/Import-function-diagram.jpg)
 
 This system showcases a robust architecture that efficiently handles content from reception to publication. By integrating Azure functions, various service factories, and GitHub automation, the system ensures that content is processed, validated, and published seamlessly. This setup not only maintains content integrity but also optimises the workflow through automation and validation steps.
-
-*This post was written in conjunction with ChatGPT.*
