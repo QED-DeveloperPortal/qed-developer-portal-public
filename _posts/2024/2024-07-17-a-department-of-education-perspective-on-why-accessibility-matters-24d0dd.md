@@ -6,10 +6,10 @@ categories: Public
 classification: Public
 tags: [accessibility]
 date: 2024-07-17 01:23:38 
-updatedBy: jeny-amatya-qed
-updated: 2025-07-09 01:36:39 
+updatedBy: g-morton
+updated: 2026-01-29 01:13:47 
+publishedOn: 2026-01-29 01:13:47 
 likes: 0
-publishedOn: 2025-07-09 01:36:39
 ---
 
 At the Queensland Department of Education, we firmly believe that accessibility is not just a requirement but a fundamental right. Our commitment to accessibility reflects our dedication to fostering an inclusive environment where every individual, regardless of their abilities, can thrive and contribute to their fullest potential.
