@@ -7,12 +7,12 @@ classification: Public
 tags: [myths,standards]
 date: 2024-08-20 01:30:41 
 updatedBy: joyclyn
-updated: 2025-08-01 03:26:53 
+updated: 2026-02-02 23:51:03 
+publishedOn: 2026-02-02 23:51:03 
 likes: 0
-publishedOn: 2025-08-01 03:26:53
 ---
 
-Even though open source software (OSS) is increasingly important in the public sector, and common question is still: Can we use it?
+Even though open source software (OSS) is increasingly important in the public sector, a common question is still: Can we use it?
 
 The answer is yes—government agencies can and do use OSS developed by external sources. Despite some misconceptions, OSS is secure, reliable, and widely adopted when properly vetted.
 
@@ -37,4 +37,4 @@ Further reading:
 - QGEA (Queensland Government Enterprise Architecture) (2020) *[Open source software guideline](https://www.forgov.qld.gov.au/information-and-communication-technology/qgea-policies-standards-and-guidelines/open-source-software-guideline)*, accessed 20 August 2024.
 - ——(2022) *[Digital service standard](https://www.forgov.qld.gov.au/information-and-communication-technology/qgea-policies-standards-and-guidelines/digital-service-standard)*, accessed 20 August 2024.
 
-Reviewed for currency 1 August 2025.
+Reviewed for currency 3 February 2025.
