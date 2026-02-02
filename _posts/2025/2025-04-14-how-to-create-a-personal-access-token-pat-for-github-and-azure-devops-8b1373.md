@@ -6,10 +6,10 @@ categories: Public
 classification: Public
 tags: [tutorials]
 date: 2025-04-14 04:14:24 
-updatedBy: joyclyn
-updated: 2025-06-11 05:26:26 
+updatedBy: jeny-amatya-qed
+updated: 2026-02-02 03:45:27 
+publishedOn: 2026-02-02 03:45:27 
 likes: 0
-publishedOn: 2025-06-11 05:26:26
 ---
 
 # Overview
@@ -18,9 +18,9 @@ Personal Access Tokens (PATs) act like passwords and are used to authenticate ag
 
 ---
 
-## ✅ GitHub: Creating a Personal Access Token
+## GitHub: Creating a Personal Access Token
 
-### 🔹 Step 1: Go to Developer Settings
+### Step 1: Go to Developer Settings
 
 1. Login to GitHub at [https://github.com](https://github.com).
 2. Click on the profile picture (top right corner) → **Settings**.
@@ -31,7 +31,7 @@ Personal Access Tokens (PATs) act like passwords and are used to authenticate ag
 
 ---
 
-### 🔹 Step 2: Generate the token
+### Step 2: Generate the token
 
 #### Option A: **Fine-grained token (recommended)**
 
@@ -44,7 +44,7 @@ Personal Access Tokens (PATs) act like passwords and are used to authenticate ag
 6. Click **Generate token**.
 7. **Copy the token** and store it securely (e.g., in a password manager).
 
-> 🔒 Please note that GitHub won’t show it again. If the user loses it, they must generate a new one.
+> Please note that GitHub won’t show it again. If the user loses it, they must generate a new one.
 
 #### Option B: **Classic token**
 
@@ -54,7 +54,7 @@ Personal Access Tokens (PATs) act like passwords and are used to authenticate ag
 
 ---
 
-### ✅ How to use the GitHub PAT
+### How to use the GitHub PAT
 
 You can use this token:
 - as a password when running `git clone`, `git push`, or `git pull`:
@@ -69,9 +69,9 @@ You can use this token:
 
 ---
 
-## 🔷 Azure DevOps: Creating a Personal Access Token
+## Azure DevOps: Creating a Personal Access Token
 
-### 🔹 Step 1: Open user settings
+### Step 1: Open user settings
 
 1. Login to Azure DevOps at [https://dev.azure.com](https://dev.azure.com).
 2. In the top-right corner, click on the user profile picture.
@@ -79,7 +79,7 @@ You can use this token:
 
 ---
 
-### 🔹 Step 2: Generate a new token
+### Step 2: Generate a new token
 
 1. Click **+ New Token**.
 2. Enter a **name** (e.g., _Developer Portal PAT_).
@@ -95,7 +95,7 @@ You can use this token:
 ---
 
 
-### ✅ How to use the Azure DevOps PAT
+### How to use the Azure DevOps PAT
 
 You can use this token:
 - with Git commands:
@@ -110,7 +110,7 @@ You can use this token:
 
 ---
 
-## 🔒 Best practices for PATs
+## Best practices for PATs
 
 - **Never commit a PAT** to source control.
 - **Use fine-grained permissions** where possible.
