@@ -2,14 +2,14 @@
 title: "Welcome to the Developer Portal!"
 slug: "welcome-to-the-developer-portal-41124a"
 author: matt
-categories: [public]
+categories: Public
 classification: Public
-tags: [getting-started]
+tags: [getting-started,faq]
 date: 2023-04-17 22:34:01 
-updatedBy: joyclyn
-updated: 2023-05-11 22:52:50 
+updatedBy: matt
+updated: 2026-02-03 03:05:54 
+publishedOn: 2026-02-03 03:05:54 
 likes: 1
-publishedOn: 2023-05-11 22:52:50
 ---
 
 Welcome!
