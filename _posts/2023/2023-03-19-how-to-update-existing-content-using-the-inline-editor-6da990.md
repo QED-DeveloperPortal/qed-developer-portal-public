@@ -6,10 +6,10 @@ categories: Public
 classification: Public
 tags: [getting-started]
 date: 2023-03-19 23:08:18 
-updatedBy: joyclyn
-updated: 2025-04-29 04:47:13 
+updatedBy: jeny-amatya-qed
+updated: 2026-02-03 03:33:37 
+publishedOn: 2026-02-03 03:33:37 
 likes: 0
-publishedOn: 2025-04-29 04:47:13
 ---
 
 ### Overview
@@ -18,7 +18,7 @@ This post provides step-by-step guidance on how to update an existing content in
 ### Step 1
 In the header of each post, you'll see there are two ways to update a post.  
 
-If you want to edit the post directly in the GitHub repository, click on the link 'GitHub edit'. You will be redirected to the corresponding file in GitHub repository. The detailed steps for this are available [here](https://developer.qed.qld.gov.au/getting-started/How-to-edit-a-post-using-GitHub-repository/).
+If you want to edit the post directly in the GitHub repository, click on the link 'GitHub edit'. You will be redirected to the corresponding file in GitHub repository. The detailed steps for this are available [here](https://developer.qed.qld.gov.au/public/how-to-update-existing-content-using-the-github-repository-12c654/).
 
 But if you want to edit the post without leaving the portal, read on! 
 
@@ -35,4 +35,4 @@ But if you want to edit the post without leaving the portal, read on!
 ### Step 3
 All changes require review by a moderator but, assuming a moderator approves the updated contact, your changes will be published. 
 
-If you don't see your changes after about a week, you can 'poke' the moderator via your profile summary. Just find the title of the post in your profile summary and click the question mark.
+If you don't see your changes after about a week, you can 'poke' the moderator via your profile summary. Just navigate to Profile Summary > Manage my posts > Pending moderation tab and find the title of the post and click the question mark icon.
