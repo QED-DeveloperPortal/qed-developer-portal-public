@@ -6,10 +6,10 @@ categories: Public
 classification: Public
 tags: [accessibility,agile,web]
 date: 2025-01-15 05:00:04 
-updatedBy: divya28237
-updated: 2025-07-24 22:58:29 
+updatedBy: joyclyn
+updated: 2026-02-03 00:03:34 
+publishedOn: 2026-02-03 00:03:34 
 likes: 0
-publishedOn: 2025-07-24 22:58:29
 ---
 
 Mid-2024 I discovered that the Australian Public Service Commission (APSC) provides an online space where public servants can connect called **APS Professions**. I joined a handful of communities across both the digital and data professions to get a feel for the sorts of conversations members have and to see what the site offered.
