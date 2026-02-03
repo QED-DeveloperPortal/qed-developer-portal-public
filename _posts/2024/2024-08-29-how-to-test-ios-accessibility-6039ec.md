@@ -6,10 +6,10 @@ categories: Public
 classification: Public
 tags: [mobile]
 date: 2024-08-29 01:58:13 
-updatedBy: joyclyn
-updated: 2025-04-29 04:08:59 
+updatedBy: divya28237
+updated: 2026-02-03 04:17:32 
+publishedOn: 2026-02-03 04:17:32 
 likes: 0
-publishedOn: 2025-04-29 04:08:59
 ---
 
 Testing accessibility on iOS involves evaluating how well an app integrates with iOS’s accessibility features, such as VoiceOver, AssistiveTouch, and color contrast adjustments. Ensuring accessibility not only helps meet legal requirements but also improves the app’s usability and expands its reach to a broader audience.
