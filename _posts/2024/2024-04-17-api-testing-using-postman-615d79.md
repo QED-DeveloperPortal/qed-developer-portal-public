@@ -6,10 +6,10 @@ categories: Public
 classification: Public
 tags: [api]
 date: 2024-04-17 04:13:46 
-updatedBy: joyclyn
-updated: 2025-04-28 23:18:45 
+updatedBy: divya28237
+updated: 2026-02-03 03:46:02 
+publishedOn: 2026-02-03 03:46:02 
 likes: 1
-publishedOn: 2025-04-28 23:18:45
 ---
 
 ## APIs (Application Programming Interfaces)
@@ -95,4 +95,3 @@ Postman provides features for organising tests and collaborating with team membe
 - Test data management: Create reusable test data and scenarios to cover various test cases and edge conditions.
 
 - Automation: Consider automating API tests using tools like Postman, Newman, or scripting languages (JavaScript, Python) for continuous testing and regression testing.
-
