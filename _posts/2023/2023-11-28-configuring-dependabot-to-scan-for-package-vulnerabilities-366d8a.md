@@ -2,12 +2,14 @@
 title: "Configuring Dependabot to scan for package vulnerabilities"
 slug: "configuring-dependabot-to-scan-for-package-vulnerabilities-366d8a"
 author: matt
-categories: [public]
+categories: Public
 classification: Public
-tags: [security]
+tags: [security,tutorials,web]
 date: 2023-11-27 00:00:00 
+updatedBy: matt
+updated: 2026-02-03 02:29:40 
+publishedOn: 2026-02-03 02:29:40 
 likes: 1
-publishedOn: 2023-11-27 00:00:00
 ---
 
 We have recently enabled and configured dependabot for GitHub Actions. Configuring Dependabot in GitHub involves setting up automated dependency updates for your repository.

@@ -4,12 +4,12 @@ slug: "configuring-local-azure-function-apis-for-azure-swa-124c3c"
 author: matt
 categories: Public
 classification: Public
-tags: [getting-started,cloud,api]
+tags: [getting-started,cloud,api,faq]
 date: 2023-05-24 12:30:00 
-updatedBy: joyclyn
-updated: 2025-05-21 01:42:29 
+updatedBy: matt
+updated: 2026-02-03 00:11:20 
+publishedOn: 2026-02-03 00:11:20 
 likes: 14
-publishedOn: 2025-05-21 01:42:29
 ---
 
 When running your static web app (SWA) site in a local development environment, you may be incorporating APIs using Azure serverless functions under the covers, and getting these running locally can be a challenge. In a lot of cases authentication relies on local APIs to work as well.
