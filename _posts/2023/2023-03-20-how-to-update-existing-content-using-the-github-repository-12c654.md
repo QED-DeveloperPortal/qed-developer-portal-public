@@ -6,10 +6,10 @@ categories: Public
 classification: Public
 tags: [getting-started]
 date: 2023-03-20 01:38:13 
-updatedBy: joyclyn
-updated: 2025-04-29 04:38:55 
+updatedBy: jeny-amatya-qed
+updated: 2026-02-03 03:46:29 
+publishedOn: 2026-02-03 03:46:29 
 likes: 0
-publishedOn: 2025-04-29 04:38:55
 ---
 
 ### Overview
@@ -19,7 +19,7 @@ This post provides step-by-step guidance on how to update an existing post in th
 ### Step 1
 In the header of each post, you'll see there are two ways to update it. 
 
-If you want to edit the post using the inline editing tool, click on the link 'Edit'. The detailed steps for this are available [here](/public/How-to-edit-an-existing-post-in-Developer-Portal/).
+If you want to edit the post using the inline editing tool, click on the link 'Edit'. The detailed steps for this are available [here](/public/how-to-update-existing-content-using-the-inline-editor-6da990/).
 
 If you want to edit the post using the GitHub repository, click on the link 'GitHub edit'.
 
@@ -56,4 +56,4 @@ You can enable 'Auto-merge' so that the build will be triggered once the pull re
 
 All changes require review by a moderator but, assuming a moderator approves the updated contact, your changes will be published. 
 
-If you don't see your changes after about a week, you can 'poke' the moderator via your profile summary. Just find the title of the post in your profile summary and click the question mark.
+If you don’t see your changes after about a week, you can ‘poke’ the moderator via your profile summary. Just navigate to Profile Summary > Manage my posts > Pending moderation tab and find the title of the post and click the question mark icon.
