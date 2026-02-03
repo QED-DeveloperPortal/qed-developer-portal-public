@@ -6,10 +6,10 @@ categories: Public
 classification: Public
 tags: [agile,case-study]
 date: 2024-06-17 03:31:47 
-updatedBy: jeny-amatya-qed
-updated: 2025-04-28 01:44:19 
+updatedBy: g-morton
+updated: 2026-02-02 23:28:51 
+publishedOn: 2026-02-02 23:28:51 
 likes: 0
-publishedOn: 2025-04-28 01:44:19
 ---
 
 At the Queensland Department of Education, we are excited to share the journey of how we release new features and updates for the Developer Portal. Our process is designed to ensure that every feature is thoroughly tested, user-centric, and aligned with our mission of being 'by developers, for developers.'
@@ -26,10 +26,10 @@ To manage the release of fixes, improvements, and features, we use feature branc
 
 Our release pipeline is a critical part of how we ensure the quality and reliability of the Developer Portal, aligning with the industry-standard software release life cycle:
 
-1. **Pre-alpha**: Internal development phase where initial features are built and tested by developers.
-1. **Alpha**: Early testing phase where features are still being developed. Internal stakeholders test the software to identify bugs and improvements on our staging site.
-1. **Beta**: The Developer Portal is currently in this phase. After internal testing, features are released to a broader audience for real-world testing and feedback. We label our live site as Beta to invite early adopters and public enthusiasts to explore and use the portal, while managing expectations that some features may still be in development and subject to change.
-1. **General availability**: When a feature drops its Beta label, it enters 'general availability', meaning it is feature-complete and fit for public use. However, we remain open to user feedback for further updates and improvements, ensuring continuous enhancement of the feature.
+1. **Development**: Internal development phase where initial features are built and tested by developers.
+1. **Test**: Early testing phase where features are still being developed. Internal stakeholders test the software to identify bugs and improvements on our staging site.
+1. **Beta**: Many of the Developer Portal's features are currently in this phase. After internal testing, features are released to a broader audience for real-world testing and feedback. We label our live site as Beta to invite early adopters and public enthusiasts to explore and use the portal, while managing expectations that some features may still be in development and subject to change.
+1. **General availability/GA**: When a feature drops its Beta label, it enters 'general availability', meaning it is feature-complete and fit for public use. However, we remain open to user feedback for further updates and improvements, ensuring continuous enhancement of the feature.
 
 ## Automated deployment pipelines
 
@@ -47,7 +47,7 @@ Labelling the Developer Portal as Beta serves multiple purposes:
 
 Our commitment to Agile principles is at the core of our development philosophy. We believe that the best products are built with constant input from end users. By engaging with our community early and often, we can develop features that are not only innovative but also highly relevant and useful.
 
-## Security and safety: 100% simulated data
+## Security and safety: 100% synthetic data
 
 The Developer Portal site is completely detached from our production databases. This means all sandbox data is 100% simulated, ensuring that there are no connections to production that malicious users could exploit. The portal is 100% safe for developers to interact with and use. This level of security and safety allows us to be confident in being so open and accessible.
 
