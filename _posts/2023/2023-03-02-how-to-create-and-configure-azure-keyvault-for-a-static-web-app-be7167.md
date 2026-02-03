@@ -4,12 +4,12 @@ slug: "how-to-create-and-configure-azure-keyvault-for-a-static-web-app-be7167"
 author: matt
 categories: Public
 classification: Public
-tags: [technology]
+tags: [technology,cloud,web]
 date: 2023-02-03 12:00:00 
-updatedBy: joyclyn
-updated: 2025-04-29 04:57:32 
+updatedBy: matt
+updated: 2026-02-03 00:42:17 
+publishedOn: 2026-02-03 00:42:17 
 likes: 3
-publishedOn: 2025-04-29 04:57:32
 ---
 
 ## Create the Azure KeyVault
@@ -47,6 +47,7 @@ Now you can add the following values to Azure KeyVault:
 * Enter the name and value of the secret, click "Create"
 
 Generated secrets/passwords using a Node.js command prompt:
+
 Secrets:
 ```
 node -e "console.log(require('crypto').randomBytes(256).toString('base64'));"
