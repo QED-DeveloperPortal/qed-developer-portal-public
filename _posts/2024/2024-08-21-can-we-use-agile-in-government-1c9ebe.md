@@ -7,9 +7,9 @@ classification: Public
 tags: [myths,agile]
 date: 2024-08-21 05:48:24 
 updatedBy: joyclyn
-updated: 2025-07-31 05:09:31 
+updated: 2026-02-03 00:01:53 
+publishedOn: 2026-02-03 00:01:53 
 likes: 0
-publishedOn: 2025-07-31 05:09:31
 ---
 
 Sometimes government departments can be slow to adopt new, innovative practices. 
@@ -26,7 +26,7 @@ Here is the minimum we need to do:
 * Work incrementally starting with the minimum needed to achieve an outcome and build on this. 
 * Test and iterate at each step, with very clear and fast feedback loops to improve quickly.
 
-Update: as of 31 July 2025, the 2022 standard linked below is still the most current version.
+Update: as of 3 February 2026, the 2022 standard linked below is still the most current version.
 
 ***
 
