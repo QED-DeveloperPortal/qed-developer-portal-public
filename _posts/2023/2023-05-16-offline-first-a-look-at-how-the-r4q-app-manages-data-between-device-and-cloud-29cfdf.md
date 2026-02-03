@@ -2,14 +2,14 @@
 title: "Offline first - a look at how the R4Q app manages data between device and cloud"
 slug: "offline-first-a-look-at-how-the-r4q-app-manages-data-between-device-and-cloud-29cfdf"
 author: matt
-categories: [public]
+categories: Public
 classification: Public
-tags: [cloud,architecture]
-date: 2023-05-16 03:29:31
-updatedBy: joyclyn
-updated: 2023-05-16 03:30:20
+tags: [cloud,architecture,mobile]
+date: 2023-05-16 03:29:31 
+updatedBy: matt
+updated: 2026-02-03 02:43:59 
+publishedOn: 2026-02-03 02:43:59 
 likes: 0
-publishedOn: 2023-05-16 03:30:20
 ---
 
 The recent R4Q Application Uplift project saw the creation of a new Xamarin 5.0 mobile app and Angular 14 web site, with both supported by a .NET Core 3.1 Web Api service layer hosted in Microsoft Azure.
