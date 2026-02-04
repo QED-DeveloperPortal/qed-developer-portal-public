@@ -10,6 +10,7 @@ updatedBy: joyclyn
 updated: 2023-05-15 22:23:52 
 likes: 1
 publishedOn: 2023-05-15 22:23:52
+published: false
 ---
 
 An interface is the point of interaction between a user and a product, service, or system. An interface can be physical, such as a keypad or touchscreen, or digital, such as a website or mobile application. On the other hand, a brand, is a set of perceptions and associations that a person has with an entity or its products and services. Branding guidelines are a set of rules and standards that define how an entity's brand is presented across all touchpoints, including interfaces.
