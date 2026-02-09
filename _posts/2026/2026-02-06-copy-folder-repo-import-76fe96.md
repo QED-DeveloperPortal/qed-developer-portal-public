@@ -6,15 +6,15 @@ owner: jeny-amatya-qed
 categories: Public
 classification: Public
 tags: [auto-import, technology]
-date: 2026-02-09 18:01:04
+date: 2026-02-09 22:02:27
 likes: 0
-publishedOn: 2026-02-09 18:01:04
+publishedOn: 2026-02-09 22:02:27
 imported: True 
 import-source: "github"
 import-reference: ""
 import-url: "https://github.com/QED-DeveloperPortal/copy_folder_to_another_repo_action/blob/master/README.md"
 source-published-on: 2020-08-24 19:25:59
-source-updated-on: 2026-02-09 01:27:13
+source-updated-on: 2026-02-09 22:02:11
 import-config-id: "2aaaadfc-8a13-4752-9c93-95d1c5194a3d"
 ---
 
@@ -59,3 +59,5 @@ jobs:
 
 ## Behavior Notes
 The action will remove the destination folder before recreating it to place any copied files in it.
+
+Updated on 10/02/206 8:02 AM
