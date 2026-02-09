@@ -6,13 +6,15 @@ owner: jeny-amatya-qed
 categories: Public
 classification: Public
 tags: [auto-import, technology]
-date: 2026-02-06 06:14:47
+date: 2026-02-09 18:01:04
 likes: 0
-publishedOn: 2026-02-06 06:14:47
+publishedOn: 2026-02-09 18:01:04
 imported: True 
 import-source: "github"
 import-reference: ""
 import-url: "https://github.com/QED-DeveloperPortal/copy_folder_to_another_repo_action/blob/master/README.md"
+source-published-on: 2020-08-24 19:25:59
+source-updated-on: 2026-02-09 01:27:13
 import-config-id: "2aaaadfc-8a13-4752-9c93-95d1c5194a3d"
 ---
 
@@ -23,7 +25,7 @@ This GitHub Action copies a folder from the current repository to a location in 
 ```yaml
 name: Push File
 
-on: push
+on: push 
 
 jobs:
   copy-file:
