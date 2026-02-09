@@ -1,0 +1,11 @@
+# CODEOWNERS file
+# Lines starting with '#' are comments
+# Each line is a file pattern followed by one or more owners.
+
+# The following example assumes 'qed-devportal-admin' should be the code owner for specific directories and file types.
+
+# To make 'qed-devportal-admin' the default owner for everything in the repo
+*	@qed-devportal-admin
+
+# To specify code ownership for specific directories
+/_posts	@QED-DeveloperPortal/Content-moderation
