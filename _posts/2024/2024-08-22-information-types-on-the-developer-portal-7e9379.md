@@ -6,10 +6,10 @@ categories: Public
 classification: Public
 tags: [about]
 date: 2024-08-22 01:21:44 
-updatedBy: Gary
-updated: 2025-04-03 01:23:02 
+updatedBy: g-morton
+updated: 2026-02-09 22:55:58 
+publishedOn: 2026-02-09 22:55:58 
 likes: 1
-publishedOn: 2025-04-03 01:23:02
 ---
 
 Information security classification is crucial for ensuring the secure information handling, storage, and sharing. In the Department of Education, every piece of information is evaluated for sensitivity and classified accordingly. This classification guides us in managing information and protecting it from unauthorised use, modification, disclosure, or loss. Proper classification not only safeguards the integrity of our information but also ensures we comply with the relevant legislation.
