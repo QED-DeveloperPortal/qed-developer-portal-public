@@ -9,14 +9,14 @@
 
 # To specify code ownership for specific directories
 /docs/	@qed-devportal-admin
-/src/	qed-devportal-admin
+/src/	@qed-devportal-admin
 
 # To specify code ownership for specific file types
-*.js	qed-devportal-admin
-*.py	qed-devportal-admin
+*.js	@qed-devportal-admin
+*.py	@qed-devportal-admin
 
 # To add more code owners, repeat the pattern above with the directory, file pattern or specific file, followed by the owner.
 # You can also specify GitHub teams as owners using the @orgname/teamname syntax.
 
 # Example for specifying a team (replace 'teamname' with the actual team name)
-/docs/	@QED-DeveloperPortal/Content moderation
+/docs/	@QED-DeveloperPortal/Content-moderation
