@@ -1,0 +1,22 @@
+# CODEOWNERS file
+# Lines starting with '#' are comments
+# Each line is a file pattern followed by one or more owners.
+
+# The following example assumes 'qed-devportal-admin' should be the code owner for specific directories and file types.
+
+# To make 'qed-devportal-admin' the default owner for everything in the repo
+*	@qed-devportal-admin
+
+# To specify code ownership for specific directories
+/docs/	@qed-devportal-admin
+/src/	qed-devportal-admin
+
+# To specify code ownership for specific file types
+*.js	qed-devportal-admin
+*.py	qed-devportal-admin
+
+# To add more code owners, repeat the pattern above with the directory, file pattern or specific file, followed by the owner.
+# You can also specify GitHub teams as owners using the @orgname/teamname syntax.
+
+# Example for specifying a team (replace 'teamname' with the actual team name)
+/docs/	@QED-DeveloperPortal/Content moderation
