@@ -1,12 +1,14 @@
 ---
 title: "What is MPC and how might I use it?"
+slug: "what-is-mpc-and-how-might-i-use-it-c77742"
 author: andrew
-categories: [public]
+categories: Public
 classification: Public
 tags: [privacy]
-date: 2023-05-11 01:26:26
+date: 2023-05-11 01:26:26 
+publishedOn: 2023-05-11 01:26:26 
 likes: 0
-publishedOn: 2023-05-11 01:26:26
+published: false
 ---
 
 MPC (Multiparty Computation) is a technique used to perform computations on data without revealing the data itself. This can be useful in a wide range of applications where data privacy is important. One example of using MPC in an application is in the context of secure machine learning.
