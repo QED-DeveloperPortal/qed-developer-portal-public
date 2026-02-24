@@ -6,22 +6,22 @@ owner: Joyclyn
 categories: Public
 classification: Public
 tags: [auto-import, tutorials]
-date: 2026-02-24 03:55:57
+date: 2026-02-24 21:54:15
 likes: 0
-publishedOn: 2026-02-24 03:55:57
+publishedOn: 2026-02-24 21:54:15
 imported: True 
 import-source: "azure-devops"
 import-reference: ""
 import-url: "https://dev.azure.com/qed-qld-gov-au/Developer%20Portal/_wiki/wikis/Developer-Portal.wiki/72924/How-to-configure-notifications-from-GitHub"
 source-published-on: 2026-02-23 04:13:35
-source-updated-on: 2026-02-23 04:13:35
+source-updated-on: 2026-02-24 21:50:58
 import-config-id: "b3e8971a-2c28-4cf2-b7fd-9a6b15f7c89e"
 ---
 
 Notifications in GitHub come directly from repos so the first step is to check you have access to the repo you want to receive notifications from.
 
 ### Step 1
-Check your repo access
+**Check your repo access**  
 Sign in to GitHub  
 Navigate to your profile >> Settings >> Repositories
 
