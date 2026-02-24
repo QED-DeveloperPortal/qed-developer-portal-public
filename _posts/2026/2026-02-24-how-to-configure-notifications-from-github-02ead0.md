@@ -21,7 +21,7 @@ import-config-id: "b3e8971a-2c28-4cf2-b7fd-9a6b15f7c89e"
 Notifications in GitHub come directly from repos so the first step is to check you have access to the repo you want to receive notifications from.
 
 ### Step 1
-**Check your repo access**  
+Check your repo access
 Sign in to GitHub  
 Navigate to your profile >> Settings >> Repositories
 
