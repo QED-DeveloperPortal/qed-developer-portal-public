@@ -2,14 +2,12 @@
 title: "Introducing iEducate 2024"
 slug: "introducing-ieducate-2024-400c0d"
 author: g-morton
-categories: Public
-classification: Public
-tags: [opinion,about]
+categories: public
+tags: [about]
 date: 2024-06-14 00:54:43 
 updatedBy: jeny-amatya-qed
-updated: 2025-04-02 04:33:13 
-likes: 0
-publishedOn: 2025-04-02 04:33:13
+updated: 2026-02-24 06:22:29 
+publishedOn: 2026-02-24 06:22:29 
 ---
 
 > Please join then [Sign our guest book](mailto:developerportal@qed.qld.gov.au?subject=i-Educate%20Guest%20Book) so we can follow-up with your interest.
@@ -44,4 +42,4 @@ As an i-Educate delegate, we invite you to become an early bird innovator in our
 
 
 ### Thank you!
-Thank you for joining us at the i-Educate conference. We look forward to collaborating with you and making the Developer Portal a cornerstone of innovation and excellence in education. 
+Thank you for joining us at the i-Educate conference. We look forward to collaborating with you and making the Developer Portal a cornerstone of innovation and excellence in education.
