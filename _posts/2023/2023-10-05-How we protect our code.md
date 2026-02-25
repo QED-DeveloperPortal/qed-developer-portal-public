@@ -1,8 +1,7 @@
 ---
 title: "Exploring DevSecOps security with GitHub"
 author: joyclyn
-categories: [public]
-classification: Public
+categories: public
 tags: [security]
 date: 2023-10-05 01:46:39
 likes: 0

@@ -3,8 +3,7 @@ title: "Alice in Wonderland three"
 slug: "alice-in-wonderland-three-469e11"
 author: jeny-amatya-qed
 owner: jeny-amatya-qed
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, about]
 date: 2026-02-13 12:07:50
 likes: 0

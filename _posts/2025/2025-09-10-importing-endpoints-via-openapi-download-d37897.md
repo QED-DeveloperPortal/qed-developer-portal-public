@@ -2,8 +2,7 @@
 title: "Importing endpoints via OpenAPI download"
 slug: "importing-endpoints-via-openapi-download-d37897"
 author: jeny-amatya-qed
-categories: Public
-classification: Public
+categories: public
 tags: [getting-started,api]
 date: 2025-09-10 23:24:12 
 likes: 0

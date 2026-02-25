@@ -3,8 +3,7 @@ title: "JImport config using predefined tags"
 slug: "jimport-config-using-predefined-tags-2bc010"
 author: jeny-amatya-qed
 owner: jeny-amatya-qed
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, about, auto-import]
 date: 2025-12-11 01:30:18
 likes: 0

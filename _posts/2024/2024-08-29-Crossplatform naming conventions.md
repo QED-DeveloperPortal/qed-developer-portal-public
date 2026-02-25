@@ -1,8 +1,7 @@
 ---
 title: "Cross-platform naming conventions"
 author: g-morton
-categories: [Public]
-classification: Public
+categories: public
 tags: [standards]
 date: 2024-08-29 02:13:37 
 updatedBy: 

@@ -3,8 +3,7 @@ title: "How our import, generation and transformation services work"
 slug: "how-our-import-generation-and-transformation-services-work-5aa1fc"
 author: jeny-amatya-qed
 owner: jeny-amatya-qed
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, about]
 date: 2025-09-18 00:57:06
 likes: 0

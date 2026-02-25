@@ -1,8 +1,7 @@
 ---
 title: "Agile Definition of Done - Is it really done?"
 author: jeny-amatya-qed
-categories: [public]
-classification: Public
+categories: public
 tags: [agile]
 date: 2023-07-14 01:40:28 
 updatedBy: jeny-amatya-qed

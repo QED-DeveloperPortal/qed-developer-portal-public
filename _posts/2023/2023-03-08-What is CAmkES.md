@@ -1,8 +1,7 @@
 ---
 title: "What is CAmkES?"
 author: andrew
-categories: [public]
-classification: Public
+categories: public
 tags: [technology]
 updated: 2024-03-28 04:19:13 
 date: 2023-08-02 14:00:00 

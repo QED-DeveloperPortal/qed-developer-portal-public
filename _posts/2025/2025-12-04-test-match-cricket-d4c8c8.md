@@ -2,8 +2,7 @@
 title: "Test Match Cricket"
 slug: "test-match-cricket-d4c8c8"
 author: matt
-categories: Public
-classification: Public
+categories: public
 tags: [case-study]
 date: 2025-12-04 00:35:58 
 likes: 0

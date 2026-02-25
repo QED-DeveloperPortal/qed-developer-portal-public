@@ -1,8 +1,7 @@
 ---
 title: "Learnings from 2024"
 author: g-morton
-categories: Public
-classification: Public
+categories: public
 tags: [opinion,agile,technology,about]
 date: 2024-12-20 01:05:09 
 updatedBy: joyclyn

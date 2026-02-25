@@ -2,8 +2,7 @@
 title: "Test Publish 11"
 slug: "test-publish-11-a039ad"
 author: andrew
-categories: Public
-classification: Public
+categories: public
 date: 2025-12-08 22:03:44 
 updatedBy: andrew
 updated: 2025-12-08 22:18:20 

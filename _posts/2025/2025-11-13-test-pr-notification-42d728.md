@@ -3,8 +3,7 @@ title: "Test PR notification"
 slug: "test-pr-notification-42d728"
 author: sitestudio
 owner: sitestudio
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, sdlc]
 date: 2025-11-14 00:35:11
 likes: 0

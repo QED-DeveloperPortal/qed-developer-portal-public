@@ -1,8 +1,7 @@
 ---
 title: "Using web tags to improve SEO"
 author: sushma-hazari-qed
-categories: [public]
-classification: Public
+categories: public
 tags: [web,technology]
 date: 2023-05-15 03:57:16
 updatedBy: joyclyn

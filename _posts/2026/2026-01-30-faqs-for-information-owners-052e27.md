@@ -3,8 +3,7 @@ title: "FAQs for information owners"
 slug: "faqs-for-information-owners-052e27"
 author: Joyclyn
 owner: Joyclyn
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, faq]
 date: 2026-01-30 01:47:17
 likes: 0

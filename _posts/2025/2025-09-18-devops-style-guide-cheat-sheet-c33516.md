@@ -3,8 +3,7 @@ title: "DevOps Style guide cheat sheet"
 slug: "devops-style-guide-cheat-sheet-c33516"
 author: jeny-amatya-qed
 owner: jeny-amatya-qed
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, about, getting-started]
 date: 2026-02-09 07:04:47
 likes: 0

@@ -2,8 +2,7 @@
 title: "Quick start: Using the API Portal"
 slug: "quick-start-using-the-api-portal-959619"
 author: jeny-amatya-qed
-categories: Public
-classification: Public
+categories: public
 tags: [getting-started,api]
 date: 2025-09-10 05:25:54 
 updatedBy: jeny-amatya-qed

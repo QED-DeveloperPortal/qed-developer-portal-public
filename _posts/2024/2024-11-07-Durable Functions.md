@@ -1,8 +1,7 @@
 ---
 title: "Durable Functions"
 author: andrew
-categories: Public
-classification: Public
+categories: public
 tags: [opinion,architecture]
 date: 2024-11-07 04:55:26 
 updatedBy: andrew

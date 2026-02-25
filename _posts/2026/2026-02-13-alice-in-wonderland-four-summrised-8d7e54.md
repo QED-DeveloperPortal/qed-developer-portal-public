@@ -3,8 +3,7 @@ title: "Alice in Wonderland four summrised"
 slug: "alice-in-wonderland-four-summrised-8d7e54"
 author: jeny-amatya-qed
 owner: jeny-amatya-qed
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, architecture, getting-started]
 date: 2026-02-13 02:49:07
 likes: 0

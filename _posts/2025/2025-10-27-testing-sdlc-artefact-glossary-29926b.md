@@ -2,8 +2,7 @@
 title: "Testing SDLC Artefact Glossary"
 slug: "testing-sdlc-artefact-glossary-29926b"
 author: jeny-amatya-qed
-categories: Public
-classification: Public
+categories: public
 tags: [about]
 date: 2025-10-27 02:59:05 
 likes: 0
