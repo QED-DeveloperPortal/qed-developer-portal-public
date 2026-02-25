@@ -3,8 +3,7 @@ title: "Test import for user story 448972"
 slug: "test-import-for-user-story-448972-325c52"
 author: joyclyn
 owner: joyclyn
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, test]
 date: 2025-11-17 04:53:45
 likes: 0

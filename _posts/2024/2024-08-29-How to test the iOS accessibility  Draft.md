@@ -1,8 +1,7 @@
 ---
 title: "How to test iOS accessibility"
 author: sushma-hazari-qed
-categories: [Public]
-classification: Public
+categories: public
 tags: [mobile,opinion]
 date: 2024-08-29 01:58:13 
 updatedBy: sushma-hazari

@@ -2,8 +2,7 @@
 title: "Divtest 2nd draft post"
 slug: "divtest-2nd-draft-post-cc8f7e"
 author: divya28237
-categories: Public
-classification: Public
+categories: public
 tags: [trending,tutorials,mobile]
 date: 2025-12-02 23:19:06 
 updatedBy: divya28237

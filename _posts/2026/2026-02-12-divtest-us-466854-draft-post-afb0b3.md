@@ -2,8 +2,7 @@
 title: "Divtest US 466854 Draft post"
 slug: "divtest-us-466854-draft-post-afb0b3"
 author: divya28237
-categories: Public
-classification: Public
+categories: public
 tags: [mobile,quality-assurance]
 date: 2026-02-12 23:12:09 
 likes: 0

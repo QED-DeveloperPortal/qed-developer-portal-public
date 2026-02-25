@@ -2,8 +2,7 @@
 title: "Vendor readiness considerations"
 slug: "vendor-readiness-considerations-c6d4c2"
 author: jeny-amatya-qed
-categories: Public
-classification: Public
+categories: public
 tags: [opinion,getting-started]
 date: 2024-07-11 04:46:12 
 updatedBy: jeny-amatya-qed

@@ -3,8 +3,7 @@ title: "Divtest QLD Education comprehensive 1"
 slug: "divtest-qld-education-comprehensive-1-103084"
 author: Divya
 owner: Divya
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, about]
 date: 2025-09-01 04:28:25
 likes: 0

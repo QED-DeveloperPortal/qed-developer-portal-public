@@ -3,8 +3,7 @@ title: "Divtest non summarised CM"
 slug: "divtest-non-summarised-cm-fb8f43"
 author: Div
 owner: Div
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, technology]
 date: 2025-09-18 05:06:27
 likes: 0

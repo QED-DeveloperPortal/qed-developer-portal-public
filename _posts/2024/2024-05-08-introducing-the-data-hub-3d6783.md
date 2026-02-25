@@ -2,8 +2,7 @@
 title: "Introducing the Data Hub"
 slug: "introducing-the-data-hub-3d6783"
 author: g-morton
-categories: [Public]
-classification: Public
+categories: public
 tags: [data-hub]
 date: 2024-05-08 23:56:31 
 updatedBy: joyclyn

@@ -3,8 +3,7 @@ title: "Divtest with no token"
 slug: "divtest-with-no-token-8db660"
 author: Divya456
 owner: Divya456
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, faq]
 date: 2026-02-15 23:25:49
 likes: 0

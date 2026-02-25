@@ -3,8 +3,7 @@ title: "Divtest DevOps"
 slug: "divtest-devops-6af106"
 author: divya28237
 owner: divya28237
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, technology]
 date: 2025-12-02 22:15:47
 likes: 0

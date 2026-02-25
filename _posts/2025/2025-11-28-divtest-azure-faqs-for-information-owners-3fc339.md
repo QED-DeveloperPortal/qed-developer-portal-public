@@ -3,8 +3,7 @@ title: "Divtest Azure FAQs for information owners"
 slug: "divtest-azure-faqs-for-information-owners-3fc339"
 author: Divya28237
 owner: Divya28237
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, technology]
 date: 2026-01-28 06:45:12
 likes: 0

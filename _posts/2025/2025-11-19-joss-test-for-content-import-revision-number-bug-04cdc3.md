@@ -3,8 +3,7 @@ title: "Joss test for content import revision number bug"
 slug: "joss-test-for-content-import-revision-number-bug-04cdc3"
 author: joyclyn
 owner: joyclyn
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, test]
 date: 2025-11-19 01:42:44
 likes: 0

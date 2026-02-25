@@ -2,8 +2,7 @@
 title: "Accessibility for all"
 slug: "accessibility-for-all-1d62ba"
 author: g-morton
-categories: Public
-classification: Public
+categories: public
 tags: [accessibility]
 date: 2023-04-12 00:18:13 
 updatedBy: divya28237

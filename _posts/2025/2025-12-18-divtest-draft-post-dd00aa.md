@@ -2,8 +2,7 @@
 title: "Divtest draft post"
 slug: "divtest-draft-post-dd00aa"
 author: divya28237
-categories: Public
-classification: Public
+categories: public
 tags: [accessibility,myths,mobile,privacy]
 date: 2025-12-18 04:36:31 
 updatedBy: divya28237

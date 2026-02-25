@@ -1,8 +1,7 @@
 ---
 title: "How to call GitHub APIs using the Octokit library?"
 author: jeny-amatya-qed
-categories: [public]
-classification: Public
+categories: public
 tags: [technology]
 date: 2023-04-19 05:11:39
 updatedBy: joyclyn

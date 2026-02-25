@@ -1,8 +1,7 @@
 ---
 title: "Corporate visual style guide"
 author: jeny-amatya-qed
-categories: [Public]
-classification: Public
+categories: public
 tags: [standards]
 date: 2024-07-11 02:14:45 
 updatedBy: g-morton
