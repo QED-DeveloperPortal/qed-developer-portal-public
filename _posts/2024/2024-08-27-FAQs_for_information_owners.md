@@ -1,8 +1,7 @@
 ---
 title: "FAQs for information owners"
 author: joyclyn
-categories: [public]
-classification: Public
+categories: public
 tags: [auto-import, faq]
 date: 2025-05-27 04:22:58
 likes: 0

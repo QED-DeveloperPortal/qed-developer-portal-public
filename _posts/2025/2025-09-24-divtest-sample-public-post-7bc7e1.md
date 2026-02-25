@@ -2,8 +2,7 @@
 title: "Divtest sample public post"
 slug: "divtest-sample-public-post-7bc7e1"
 author: divya28237
-categories: Public
-classification: Public
+categories: public
 tags: [about,getting-started,tutorials,privacy,quality-assurance]
 date: 2025-09-24 04:00:59 
 updatedBy: divya28237

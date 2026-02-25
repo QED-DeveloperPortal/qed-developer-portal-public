@@ -2,8 +2,7 @@
 title: "Welcome to the Developer Portal Early Bird developers!"
 slug: "welcome-to-the-developer-portal-early-bird-developers-c1a47c"
 author: g-morton
-categories: [Public]
-classification: Public
+categories: public
 tags: [getting-started]
 date: 2024-08-02 06:11:01 
 updatedBy: jeny-amatya-qed

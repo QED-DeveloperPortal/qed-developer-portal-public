@@ -2,8 +2,7 @@
 title: "Joss test post for text size, heading sizes and spaces"
 slug: "joss-test-post-for-text-size-heading-sizes-and-spaces-5a48f6"
 author: joyclyn
-categories: Public
-classification: Public
+categories: public
 tags: [accessibility]
 date: 2025-11-19 01:02:11 
 likes: 0

@@ -2,8 +2,7 @@
 title: "Divtest Draft"
 slug: "divtest-draft-92af81"
 author: divya28237
-categories: Public
-classification: Public
+categories: public
 tags: [accessibility,getting-started]
 date: 2025-12-02 00:33:55 
 updatedBy: divya28237

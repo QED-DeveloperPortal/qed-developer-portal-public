@@ -2,8 +2,7 @@
 title: "Testing mobile application accessibility"
 slug: "testing-mobile-application-accessibility-c020df"
 author: sushma-hazari-qed
-categories: Public
-classification: Public
+categories: public
 tags: [mobile]
 date: 2024-08-28 01:58:50 
 updatedBy: divya28237

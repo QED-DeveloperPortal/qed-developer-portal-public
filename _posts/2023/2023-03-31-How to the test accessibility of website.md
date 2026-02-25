@@ -2,8 +2,7 @@
 title: "Testing website accessibility 1"
 slug: "testing-website-accessibility-1-a28b70"
 author: sushma-hazari-qed
-categories: Public
-classification: Public
+categories: public
 tags: [accessibility]
 date: 2023-03-31 05:52:09 
 updatedBy: jeny-amatya-qed

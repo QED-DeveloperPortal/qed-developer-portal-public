@@ -2,8 +2,7 @@
 title: "Divtest-trending post to check on Trending page hot section update"
 slug: "divtest-trending-post-to-check-on-trending-page-hot-section-update-09fa97"
 author: divya28237
-categories: Public
-classification: Public
+categories: public
 tags: [trending,accessibility,about]
 date: 2024-12-04 01:28:32 
 updatedBy: divya28237

@@ -1,8 +1,7 @@
 ---
 title: "Can we use open source software in government?"
 author: joyclyn
-categories: [Public]
-classification: Public
+categories: public
 tags: [myths,standards]
 date: 2024-08-20 01:30:41 
 updatedBy: g-morton

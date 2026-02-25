@@ -2,8 +2,7 @@
 title: "Want to connect with other Australian public servants?"
 slug: "want-to-connect-with-other-australian-public-servants-f9a7ad"
 author: joyclyn
-categories: Public
-classification: Public
+categories: public
 tags: [accessibility,agile,web]
 date: 2025-01-15 05:00:04 
 updatedBy: divya28237

@@ -3,8 +3,7 @@ title: "Divtest with Content transformation service key"
 slug: "divtest-with-content-transformation-service-key-9a7807"
 author: Divya
 owner: Divya
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, technology]
 date: 2026-01-12 22:13:46
 likes: 0

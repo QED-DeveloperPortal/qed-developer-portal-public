@@ -3,8 +3,7 @@ title: "Divtest DevOps 8/12 non scheduled"
 slug: "divtest-devops-812-non-scheduled-cf86e5"
 author: divya28237
 owner: divya28237
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import]
 date: 2025-12-07 23:14:01
 likes: 0

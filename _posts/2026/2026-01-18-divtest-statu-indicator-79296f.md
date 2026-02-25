@@ -3,8 +3,7 @@ title: "Divtest Statu indicator"
 slug: "divtest-statu-indicator-79296f"
 author: Divya28237
 owner: Divya28237
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, cloud, faq]
 date: 2026-01-18 23:23:57
 likes: 0

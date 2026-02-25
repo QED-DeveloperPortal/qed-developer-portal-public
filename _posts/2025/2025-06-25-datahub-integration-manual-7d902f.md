@@ -2,8 +2,7 @@
 title: "DataHub integration manual"
 slug: "datahub-integration-7d902f"
 author: jeny-amatya-qed
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, about]
 date: 2025-05-25 01:00:00 
 likes: 0

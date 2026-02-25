@@ -3,8 +3,7 @@ title: "Divtest GitHub updated 17/2/26"
 slug: "divtest-github-a99673"
 author: Divya28237
 owner: Divya28237
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, technology]
 date: 2026-02-16 22:14:01
 likes: 0

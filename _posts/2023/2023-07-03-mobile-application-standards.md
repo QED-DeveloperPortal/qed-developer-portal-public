@@ -1,8 +1,7 @@
 ---
 title: "Mobile application standards"
 author: g-morton
-categories: [public]
-classification: Public
+categories: public
 tags: [standards,mobile]
 date: 2023-07-03 13:20:33 
 updatedBy: joyclyn

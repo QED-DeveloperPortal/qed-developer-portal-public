@@ -3,8 +3,7 @@ title: "Divtest STLC with service key"
 slug: "divtest-stlc-without-service-key-828474"
 author: Divya
 owner: Divya
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, about]
 date: 2025-11-27 03:30:40
 likes: 0
