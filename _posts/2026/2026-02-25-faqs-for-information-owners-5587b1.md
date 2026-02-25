@@ -1,20 +1,21 @@
 ---
 title: "FAQs for information owners"
-slug: "faqs-for-information-owners-052e27"
+slug: "faqs-for-information-owners-5587b1"
 author: Joyclyn
 owner: Joyclyn
 categories: public
 tags: [auto-import, faq]
-date: 2026-01-30 01:47:17
-likes: 0
-publishedOn: 2026-01-30 01:47:17
+date: 2026-02-25 14:19:12
 imported: True 
 import-source: "azure-devops"
 import-reference: ""
+import-url: "https://dev.azure.com/qed-qld-gov-au/Developer%20Portal/_wiki/wikis/Developer-Portal.wiki/64320/FAQs-for-information-owners"
+source-published-on: 2026-01-28 01:49:15
+source-updated-on: 2026-02-25 04:18:29
 import-config-id: "ae44e03d-3fa7-499a-8461-71427e4d0419"
 ---
 
-### 1. Why show information on the Developer Portal?
+### 1. Why show information on the Developer Portal? 
 - It's a place where internal and external developers can find information relevant to their work for the department. The more practical information they can find in a single place, the better for everyone.
 
 ### 2. How does it work? 
@@ -60,10 +61,7 @@ import-config-id: "ae44e03d-3fa7-499a-8461-71427e4d0419"
 
 We look forward to hearing from you!
 
-<br>
 Here's a simplified workflow that steps out the import/update/remove info process:
-<br>
-<br>
 
 <a href="https://sadevportal3.blob.core.windows.net/root/Display-update-remove-info.png" target="_blank" rel="noopener noreferrer">
   <img src="https://sadevportal3.blob.core.windows.net/root/Display-update-remove-info.png" alt="Workflow overview" />
