@@ -2,8 +2,7 @@
 title: "Quick guide to the Developer Portal"
 slug: "quick-guide-to-the-developer-portal-f89658"
 author: jeny-amatya-qed
-categories: Public
-classification: Public
+categories: public
 tags: [opinion,getting-started,about]
 date: 2023-03-30 01:04:10 
 updatedBy: jeny-amatya-qed

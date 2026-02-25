@@ -2,8 +2,7 @@
 title: "Setting up and managing your application key"
 slug: "setting-up-and-managing-your-application-key-57837c"
 author: jeny-amatya-qed
-categories: Public
-classification: Public
+categories: public
 tags: [getting-started,api]
 date: 2025-09-10 23:25:29 
 likes: 0

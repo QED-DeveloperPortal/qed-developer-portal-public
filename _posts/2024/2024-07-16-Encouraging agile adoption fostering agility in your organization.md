@@ -1,8 +1,7 @@
 ---
 title: "Encouraging agility"
 author: jeny-amatya-qed
-categories: [Public]
-classification: Public
+categories: public
 tags: [agile]
 date: 2024-07-16 02:37:35 
 updatedBy: joyclyn

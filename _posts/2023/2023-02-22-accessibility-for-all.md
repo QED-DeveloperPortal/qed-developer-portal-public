@@ -1,8 +1,7 @@
 ---
 title: "Accessibility for all"
 author: g-morton
-categories: [public]
-classification: Public
+categories: public
 tags: [accessibility]
 date: 2023-04-12 00:18:13
 updatedBy: joyclyn

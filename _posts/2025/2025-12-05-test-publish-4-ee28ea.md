@@ -2,8 +2,7 @@
 title: "Test Publish 4"
 slug: "test-publish-4-ee28ea"
 author: andrew
-categories: Public
-classification: Public
+categories: public
 date: 2025-12-05 01:20:38 
 updatedBy: andrew
 updated: 2025-12-05 01:29:24 

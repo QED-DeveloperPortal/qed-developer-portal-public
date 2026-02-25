@@ -3,8 +3,7 @@ title: "Copy folder repo import"
 slug: "copy-folder-repo-import-76fe96"
 author: jeny-amatya-qed
 owner: jeny-amatya-qed
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, technology]
 date: 2026-02-09 22:02:27
 likes: 0

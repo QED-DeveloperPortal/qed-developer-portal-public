@@ -1,8 +1,7 @@
 ---
 title: "Personal information guideline"
 author: g-morton
-categories: [public]
-classification: Public
+categories: public
 tags: [privacy]
 date: 2023-08-10 02:19:51 
 timezone: Australia/Brisbane

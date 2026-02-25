@@ -3,8 +3,7 @@ title: "Alice in Wonderland 4"
 slug: "alice-in-wonderland-4-638c08"
 author: jeny-amatya-qed
 owner: jeny-amatya-qed
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, about, architecture]
 date: 2026-02-13 02:47:39
 likes: 0

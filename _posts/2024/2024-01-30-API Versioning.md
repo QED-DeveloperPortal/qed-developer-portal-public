@@ -2,8 +2,7 @@
 title: "API Versioning"
 slug: "api-versioning-8afe0b"
 author: jeny-amatya-qed
-categories: Public
-classification: Public
+categories: public
 tags: [api]
 date: 2024-01-30 01:03:36 
 likes: 3

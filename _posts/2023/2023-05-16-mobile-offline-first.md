@@ -1,8 +1,7 @@
 ---
 title: "Offline first - a look at how the R4Q app manages data between device and cloud"
 author: matt
-categories: [public]
-classification: Public
+categories: public
 tags: [cloud,architecture]
 date: 2023-05-16 03:29:31
 updatedBy: joyclyn

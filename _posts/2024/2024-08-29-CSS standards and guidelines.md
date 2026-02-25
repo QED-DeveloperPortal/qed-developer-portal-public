@@ -1,8 +1,7 @@
 ---
 title: "CSS standards and guidelines"
 author: g-morton
-categories: [Public]
-classification: Public
+categories: public
 tags: [standards]
 date: 2024-08-29 02:01:48 
 updatedBy: sushma-hazari

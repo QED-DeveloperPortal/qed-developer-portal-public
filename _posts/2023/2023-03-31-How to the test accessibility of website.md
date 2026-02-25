@@ -1,8 +1,7 @@
 ---
 title: "Testing website accessibility"
 author: sushma-hazari-qed
-categories: [public]
-classification: Public
+categories: public
 tags: [accessibility,opinion]
 date: 2023-03-31 05:52:09
 updatedBy: sushma-hazari-qed

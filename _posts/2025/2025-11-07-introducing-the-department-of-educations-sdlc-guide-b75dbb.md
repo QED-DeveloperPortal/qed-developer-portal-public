@@ -2,8 +2,7 @@
 title: "Introducing our SDLC guide"
 slug: "introducing-the-sdlc-guide-b75dbb"
 author: jeny-amatya-qed
-categories: Public
-classification: Public
+categories: public
 tags: [getting-started]
 date: 2025-11-07 01:18:09 
 likes: 0

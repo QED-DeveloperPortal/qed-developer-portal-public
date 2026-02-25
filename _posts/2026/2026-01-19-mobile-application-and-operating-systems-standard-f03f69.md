@@ -3,8 +3,7 @@ title: "Mobile application and operating systems standard"
 slug: "mobile-application-and-operating-systems-standard-f03f69"
 author: joyclyn
 owner: joyclyn
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, standards]
 date: 2026-01-19 21:50:33
 likes: 0

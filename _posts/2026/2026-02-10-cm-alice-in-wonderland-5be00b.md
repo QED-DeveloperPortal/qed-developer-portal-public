@@ -3,8 +3,7 @@ title: "CM Alice in Wonderland"
 slug: "cm-alice-in-wonderland-5be00b"
 author: jeny-amatya-qed
 owner: jeny-amatya-qed
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, about]
 date: 2026-02-10 11:51:30
 likes: 0

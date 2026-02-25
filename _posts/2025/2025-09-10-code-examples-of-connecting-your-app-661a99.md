@@ -2,8 +2,7 @@
 title: "Code examples of connecting your app"
 slug: "code-examples-of-connecting-your-app-661a99"
 author: jeny-amatya-qed
-categories: Public
-classification: Public
+categories: public
 tags: [getting-started,api]
 date: 2025-09-10 23:10:34 
 updatedBy: jeny-amatya-qed

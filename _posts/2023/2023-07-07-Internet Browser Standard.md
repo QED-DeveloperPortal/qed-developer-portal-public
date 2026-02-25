@@ -1,8 +1,7 @@
 ---
 title: "Internet browser standard"
 author: g-morton
-categories: [public]
-classification: Public
+categories: public
 tags: [standards,architecture,web]
 date: 2023-07-07 00:40:23 
 updatedBy: joyclyn

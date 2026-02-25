@@ -2,8 +2,7 @@
 title: "GET, POST, PUT, DELETE Examples"
 slug: "get-post-put-delete-examples-e4d761"
 author: andrew
-categories: Public
-classification: Public
+categories: public
 tags: [api,getting-started]
 date: 2025-09-16 04:23:44 
 updatedBy: andrew

@@ -1,8 +1,7 @@
 ---
 title: "Want to connect with other Australian public servants?"
 author: joyclyn
-categories: Public
-classification: Public
+categories: public
 tags: [opinion,accessibility,agile,web]
 date: 2025-01-15 05:00:04 
 likes: 0

@@ -3,8 +3,7 @@ title: "Alice in Wonderland too"
 slug: "alice-in-wonderland-too-b85b48"
 author: jeny-amatya-qed
 owner: jeny-amatya-qed
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, about]
 date: 2026-02-10 07:01:22
 likes: 0

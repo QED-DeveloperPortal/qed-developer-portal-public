@@ -3,8 +3,7 @@ title: "Divtest STLC"
 slug: "divtest-stlc-47bdb3"
 author: Divya
 owner: Divya
-categories: Public
-classification: Public
+categories: public
 tags: [auto-import, technology]
 date: 2025-11-30 23:29:25
 likes: 0
