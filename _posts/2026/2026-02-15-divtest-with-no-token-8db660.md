@@ -3,18 +3,18 @@ title: "Divtest with no token"
 slug: "divtest-with-no-token-8db660"
 author: Divya456
 owner: Divya456
-categories: public
 tags: [auto-import, faq]
 date: 2026-02-15 23:25:49
-likes: 0
 publishedOn: 2026-02-15 23:25:49
-imported: True 
 import-source: "github"
 import-reference: ""
 import-url: "https://github.com/Divya28237/divtest-public-repo/blob/main/authentication.txt"
 source-published-on: 2025-08-20 04:20:09
 source-updated-on: 2026-02-15 23:23:33
 import-config-id: "623d7324-fd51-4850-af13-eb58474aa3c0"
+categories: public
+post-type: imported
+status: published
 ---
 
 16/1/26 The Developer Portal's import, generation and transformation services leverage Azure functions, factories, and GitHub integrations. This system ensures efficient content reception, transformation, validation, and publication across multiple platforms.

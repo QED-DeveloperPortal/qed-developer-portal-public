@@ -1,14 +1,15 @@
 ---
 title: "What is CAmkES?"
 author: andrew
-categories: public
 tags: [technology]
 updated: 2024-03-28 04:19:13 
 date: 2023-08-02 14:00:00 
 updatedBy: jeny-amatya-qed
 updated: 2024-03-25 04:13:59 
-likes: 0
 publishedOn: 2024-03-28 04:19:13
+categories: public
+post-type: standard
+status: published
 ---
 
 **Cambridge (Cambridge) / Composition (Multiple Applications) / Kernel (Kernel) / Embedding (Embedded) / System (System) (CAmkES)** is a component-based development platform for building embedded systems. It was developed by researchers at the University of New South Wales, NICTA (National ICT Australia), and the University of Cambridge.

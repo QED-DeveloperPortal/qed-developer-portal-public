@@ -1,13 +1,14 @@
 ---
 title: "Why enterprise architecture matters?"
 author: g-morton
-categories: public
 tags: [architecture]
 date: 2024-08-28 04:36:52 
 updatedBy: sushma-hazari
 updated: 2024-08-29 00:24:04 
-likes: 0
 publishedOn: 2024-08-29 00:24:04
+categories: public
+post-type: standard
+status: published
 ---
 
 Enterprise architecture (EA) might seem like complex, technical concept that only IT professionals need to worry about. However, it plays a critical role in how organisations operate, especially within the public sector. For the Department of Education, EA is not just a nice-to-have—it’s a must-have. Let’s explore what EA involves and why it’s essential for success.

@@ -1,11 +1,12 @@
 ---
 title: "Configuring advanced setup for code scanning with CodeQL"
 author: matt
-categories: public
 tags: [security]
 date: 2023-11-27 00:00:00 
-likes: 1
 publishedOn: 2023-11-27 00:00:00
+categories: public
+post-type: standard
+status: published
 ---
 
 We have recently enabled and configured advanced security for GitHub Actions in our software project. Enabling this allows our source code to be scanned regularly for vulnerabilities.

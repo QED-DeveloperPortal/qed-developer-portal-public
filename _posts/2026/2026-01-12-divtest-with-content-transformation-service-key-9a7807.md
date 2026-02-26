@@ -3,15 +3,15 @@ title: "Divtest with Content transformation service key"
 slug: "divtest-with-content-transformation-service-key-9a7807"
 author: Divya
 owner: Divya
-categories: public
 tags: [auto-import, technology]
 date: 2026-01-12 22:13:46
-likes: 0
 publishedOn: 2026-01-12 22:13:46
-imported: True 
 import-source: "content-manager"
 import-reference: "24/970594"
 import-config-id: "c4dd7dc5-cd7f-4bd7-928d-33bcca27b0be"
+categories: public
+post-type: imported
+status: published
 ---
 
 | NFR ID (NEW) | Requirement | Category | Sub-Category | Category SME | Grouping |

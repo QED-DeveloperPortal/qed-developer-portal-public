@@ -3,15 +3,15 @@ title: "Divtest DevOps"
 slug: "divtest-devops-6af106"
 author: divya28237
 owner: divya28237
-categories: public
 tags: [auto-import, technology]
 date: 2025-12-02 22:15:47
-likes: 0
-imported: True 
 import-source: "azure-devops"
 import-reference: ""
 import-config-id: "4d26f435-3764-493a-aab7-ca0158bd2b0f"
 publishedOn: 2025-12-02 22:15:47
+categories: public
+post-type: imported
+status: published
 ---
 
 ## 1. Why show information on the Developer Portal?

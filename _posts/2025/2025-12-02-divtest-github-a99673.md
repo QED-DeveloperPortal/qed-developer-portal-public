@@ -3,18 +3,18 @@ title: "Divtest GitHub updated 17/2/26"
 slug: "divtest-github-a99673"
 author: Divya28237
 owner: Divya28237
-categories: public
 tags: [auto-import, technology]
 date: 2026-02-16 22:14:01
-likes: 0
 publishedOn: 2026-02-16 22:14:01
-imported: True 
 import-source: "github"
 import-reference: ""
 import-url: "https://github.com/Divya28237/divtest-public-repo/blob/main/authentication.txt"
 source-published-on: 2025-08-20 04:20:09
 source-updated-on: 2026-02-16 22:12:54
 import-config-id: "9a94dc98-35c0-4e72-a6a9-e82a75535e9b"
+categories: public
+post-type: imported
+status: published
 ---
 
 16/1/26 The Developer Portal's import, generation and transformation services leverage Azure functions, factories, and GitHub integrations. This system ensures efficient content reception, transformation, validation, and publication across multiple platforms.

@@ -2,13 +2,14 @@
 title: "New user FAQs"
 slug: "new-user-faqs-60cd4a"
 author: joyclyn
-categories: public
 tags: [getting-started,about]
 date: 2024-07-16 05:26:17 
 updatedBy: joyclyn
 updated: 2025-07-09 04:49:11 
-likes: 2
 publishedOn: 2025-07-09 04:49:11
+categories: public
+post-type: standard
+status: published
 ---
 
 ## How do I...

@@ -1,12 +1,13 @@
 ---
 title: "Myths about digital transformation"
 author: joyclyn
-categories: public
 tags: [myths]
 date: 2024-08-26 04:36:32 
 updatedBy: 
-likes: 0
 publishedOn: 2024-08-26 04:36:32
+categories: public
+post-type: standard
+status: published
 ---
 
 The term ‘digital transformation’ tends to be thrown about a lot without much consideration for what it actually is, which is one way myths begin. Here are some common myths about digital transformation: 

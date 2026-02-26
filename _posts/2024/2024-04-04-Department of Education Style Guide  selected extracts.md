@@ -1,13 +1,14 @@
 ---
 title: "Department of Education Style Guide: Selected extracts"
 author: joyclyn
-categories: public
 tags: [standards]
 date: 2024-04-04 03:57:01 
 updatedBy: joyclyn
 updated: 2024-04-05 01:11:48 
-likes: 0
 publishedOn: 2024-04-05 01:11:48
+categories: public
+post-type: standard
+status: published
 ---
 
 # Department of Education style guide

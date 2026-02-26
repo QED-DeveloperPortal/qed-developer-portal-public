@@ -1,13 +1,14 @@
 ---
 title: "How to add a new post in a jekyll site?"
 author: jeny-amatya-qed
-categories: public
 tags: [technology]
 date: 2023-03-14 14:03:17
 updatedBy: joyclyn
 updated: 2023-05-11 02:10:38
-likes: 0
 publishedOn: 2023-05-11 02:10:38
+categories: public
+post-type: standard
+status: published
 ---
 
 Jekyll is a powerful static site generator that makes it easy to create a website with a simple and easy-to-use interface. One of the most common tasks when working with Jekyll is adding new posts to your site. In this article, we will take a look at how to add a new post to your Jekyll site.

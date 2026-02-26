@@ -3,15 +3,15 @@ title: "Divtest non summarised CM"
 slug: "divtest-non-summarised-cm-fb8f43"
 author: Div
 owner: Div
-categories: public
 tags: [auto-import, technology]
 date: 2025-09-18 05:06:27
-likes: 0
-imported: True 
 import-source: "content-manager"
 import-reference: "25/828596"
 import-config-id: "39d849cc-6e0d-42a6-afeb-a4cf9684e782"
 publishedOn: 2025-09-18 05:06:27
+categories: public
+post-type: imported
+status: published
 ---
 
 # Software Testing Life Cycle (STLC): A value-driven approach

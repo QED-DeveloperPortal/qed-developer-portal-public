@@ -2,13 +2,14 @@
 title: "Accessibility for all"
 slug: "accessibility-for-all-1d62ba"
 author: g-morton
-categories: public
 tags: [accessibility]
 date: 2023-04-12 00:18:13 
 updatedBy: divya28237
 updated: 2025-07-14 00:15:15 
-likes: 0
 publishedOn: 2025-07-14 00:15:15
+categories: public
+post-type: standard
+status: published
 ---
 
 ## Why web accessibility is important:

@@ -1,11 +1,12 @@
 ---
 title: "Exploring DevSecOps security with GitHub"
 author: joyclyn
-categories: public
 tags: [security]
 date: 2023-10-05 01:46:39
-likes: 0
 publishedOn: 2023-10-05 01:46:39
+categories: public
+post-type: standard
+status: published
 ---
 
 'Secure code' isn't a single thing but a complex blend of factors. Two major factors at play in our DevPortal setup are the practice of DevSecOps and security features provided by the GitHub Enterprise platform. 

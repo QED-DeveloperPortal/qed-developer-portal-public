@@ -1,13 +1,14 @@
 ---
 title: "API testing using Postman"
 author: sushma-hazari-qed
-categories: public
 tags: [api, opinion]
 date: 2024-04-17 04:13:46 
 updatedBy: sushma-hazari-qed
 updated: 2024-05-17 05:38:27 
-likes: 1
 publishedOn: 2024-05-17 05:38:27
+categories: public
+post-type: standard
+status: published
 ---
 
 APIs (Application Programming Interfaces)

@@ -2,13 +2,14 @@
 title: "Divtest sample public post"
 slug: "divtest-sample-public-post-7bc7e1"
 author: divya28237
-categories: public
 tags: [about,getting-started,tutorials,privacy,quality-assurance]
 date: 2025-09-24 04:00:59 
 updatedBy: divya28237
 updated: 2025-09-25 04:49:15 
-likes: 0
 publishedOn: 2025-09-25 04:49:15
+categories: public
+post-type: standard
+status: published
 ---
 
 title: “Introducing the Developer Portal BETA program” slug: “introducing-the-developer-portal-beta-program-25de03” author: g-morton categories: Public classification: Public tags: [opinion,about] date: 2023-11-16 01:09:32 updatedBy: jeny-amatya-qed updated: 2025-03-19 04:52:24 likes: 43 —

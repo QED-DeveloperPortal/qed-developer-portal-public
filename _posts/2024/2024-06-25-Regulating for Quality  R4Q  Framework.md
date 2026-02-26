@@ -1,13 +1,14 @@
 ---
 title: "Regulating for Quality (R4Q) Framework"
 author: jeny-amatya-qed
-categories: public
 tags: [getting-started]
 date: 2024-06-25 23:16:42 
 updatedBy: joyclyn
 updated: 2024-07-16 05:41:21 
-likes: 0
 publishedOn: 2024-07-16 05:41:21
+categories: public
+post-type: standard
+status: published
 ---
 
 ## Regulating for Quality (R4Q) Framework

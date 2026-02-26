@@ -1,13 +1,14 @@
 ---
 title: "Learnings from 2024"
 author: g-morton
-categories: public
 tags: [opinion,agile,technology,about]
 date: 2024-12-20 01:05:09 
 updatedBy: joyclyn
 updated: 2025-01-08 03:06:18 
-likes: 0
 publishedOn: 2025-01-08 03:06:18
+categories: public
+post-type: standard
+status: published
 ---
 
 ### The power of the beta tag

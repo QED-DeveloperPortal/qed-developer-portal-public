@@ -3,15 +3,15 @@ title: "Divtest DevOps 8/12 non scheduled"
 slug: "divtest-devops-812-non-scheduled-cf86e5"
 author: divya28237
 owner: divya28237
-categories: public
 tags: [auto-import]
 date: 2025-12-07 23:14:01
-likes: 0
-imported: True 
 import-source: "azure-devops"
 import-reference: ""
 import-config-id: "353bb775-f870-4b0f-980b-34dafdb8ae0f"
 publishedOn: 2025-12-07 23:14:01
+categories: public
+post-type: imported
+status: published
 ---
 
 # Main topics

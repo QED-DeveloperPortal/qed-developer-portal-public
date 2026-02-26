@@ -2,13 +2,14 @@
 title: "Introducing the Data Hub"
 slug: "introducing-the-data-hub-3d6783"
 author: g-morton
-categories: public
 tags: [data-hub]
 date: 2024-05-08 23:56:31 
 updatedBy: joyclyn
 updated: 2024-07-16 05:54:17 
-likes: 0
 publishedOn: 2024-07-16 05:54:17
+categories: public
+post-type: standard
+status: published
 ---
 
 ## Introduction

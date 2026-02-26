@@ -2,13 +2,14 @@
 title: "Testing website accessibility 1"
 slug: "testing-website-accessibility-1-a28b70"
 author: sushma-hazari-qed
-categories: public
 tags: [accessibility]
 date: 2023-03-31 05:52:09 
 updatedBy: jeny-amatya-qed
 updated: 2025-07-14 00:10:34 
-likes: 0
 publishedOn: 2025-07-14 00:10:34
+categories: public
+post-type: standard
+status: published
 ---
 
 [Testing update]

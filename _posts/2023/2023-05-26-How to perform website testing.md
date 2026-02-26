@@ -1,13 +1,14 @@
 ---
 title: "Testing tips for quality websites"
 author: sushma-hazari-qed
-categories: public
 tags: [web,quality-assurance]
 date: 2023-05-26 05:49:29 
 updatedBy: Sushma Hazari
 updated: 2024-04-17 22:22:22 
-likes: 1
 publishedOn: 2024-04-17 22:22:22
+categories: public
+post-type: standard
+status: published
 ---
 
 Testing a website typically involves several aspects, including functionality, usability, performance, compatibility, and security. Here is a general overview of the steps involved in testing a website:

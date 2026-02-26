@@ -3,15 +3,15 @@ title: "Test import for user story 448972"
 slug: "test-import-for-user-story-448972-325c52"
 author: joyclyn
 owner: joyclyn
-categories: public
 tags: [auto-import, test]
 date: 2025-11-17 04:53:45
-likes: 0
-imported: True 
 import-source: "content-manager"
 import-reference: "25/791392"
 import-config-id: "c5176e7a-5527-4f9a-90ee-ee8d96658bc8"
 publishedOn: 2025-11-17 04:53:45
+categories: public
+post-type: imported
+status: published
 ---
 
 

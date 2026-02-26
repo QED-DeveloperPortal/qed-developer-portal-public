@@ -2,13 +2,14 @@
 title: "Want to connect with other Australian public servants?"
 slug: "want-to-connect-with-other-australian-public-servants-f9a7ad"
 author: joyclyn
-categories: public
 tags: [accessibility,agile,web]
 date: 2025-01-15 05:00:04 
 updatedBy: divya28237
 updated: 2025-07-14 23:14:43 
-likes: 0
 publishedOn: 2025-07-14 23:14:43
+categories: public
+post-type: standard
+status: published
 ---
 
 Mid-2024 I discovered that the Australian Public Service Commission (APSC) provides an online space where public servants can connect called **APS Professions**. I joined a handful of communities across both the digital and data professions to get a feel for the sorts of conversations members have and to see what the site offered.

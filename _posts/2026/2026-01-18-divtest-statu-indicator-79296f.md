@@ -3,15 +3,15 @@ title: "Divtest Statu indicator"
 slug: "divtest-statu-indicator-79296f"
 author: Divya28237
 owner: Divya28237
-categories: public
 tags: [auto-import, cloud, faq]
 date: 2026-01-18 23:23:57
-likes: 0
 publishedOn: 2026-01-18 23:23:57
-imported: True 
 import-source: "content-manager"
 import-reference: "25/828596"
 import-config-id: "a4f79606-1a02-4e49-9cac-620b6421a230"
+categories: public
+post-type: imported
+status: published
 ---
 
 # Software Testing Life Cycle (STLC): A value-driven approach

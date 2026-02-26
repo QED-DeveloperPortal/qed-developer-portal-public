@@ -1,13 +1,14 @@
 ---
 title: "Information privacy and right to information procedure"
 author: g-morton
-categories: public
 tags: [privacy]
 date: 2023-08-10 00:45:02 
-likes: 0
 updatedBy: jeny-amatya-qed
 updated: 2023-08-21 05:39:34 
 publishedOn: 2023-08-21 05:39:34
+categories: public
+post-type: standard
+status: published
 ---
 
 Version number 1\.3 \| Version effective 03 May 2022
