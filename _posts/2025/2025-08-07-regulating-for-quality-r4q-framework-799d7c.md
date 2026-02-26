@@ -8,7 +8,7 @@ tags: [getting-started]
 date: 2025-08-07 00:18:27 
 likes: 0
 publishedOn: 2025-08-07 00:18:27
-published: false
+published: true
 ---
 
 ## Regulating for Quality (R4Q) Framework
@@ -66,4 +66,5 @@ For more detailed information, visit the [Queensland Department of Education’s
 Sources:
 - [Regulating for Quality: Assessing and rating the quality of early childhood services procedure](https://ppr.qed.qld.gov.au)
 - [Regulating for Quality - Monitoring and assessing compliance of early childhood services procedure](https://ppr.qed.qld.gov.au)
+
 - [Regulating for Quality - Determining applications for early childhood services procedure](https://ppr.qed.qld.gov.au)
