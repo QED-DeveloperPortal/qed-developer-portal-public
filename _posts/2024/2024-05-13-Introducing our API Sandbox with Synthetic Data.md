@@ -1,13 +1,14 @@
 ---
 title: "Introducing our API Sandbox with synthetic data"
 author: g-morton
-categories: public
 tags: [getting-started,api,data-hub]
 date: 2024-05-13 01:51:40 
 updatedBy: joyclyn
 updated: 2024-07-14 22:21:52 
-likes: 4
 publishedOn: 2024-07-14 22:21:52
+categories: public
+post-type: standard
+status: published
 ---
 
 Hey developers!

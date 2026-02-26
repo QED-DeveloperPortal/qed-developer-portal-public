@@ -2,13 +2,14 @@
 title: "How to Create a Personal Access Token (PAT) for GitHub and Azure DevOps"
 slug: "how-to-create-a-personal-access-token-pat-for-github-and-azure-devops-2b6c27"
 author: jeny-amatya-qed
-categories: public
 tags: [opinion,tutorials,getting-started]
 date: 2025-04-11 05:05:47 
 updatedBy: jeny-amatya-qed
 updated: 2025-04-14 04:11:52 
-likes: 0
 publishedOn: 2025-04-14 04:11:52
+categories: public
+post-type: standard
+status: published
 ---
 
 # Overview

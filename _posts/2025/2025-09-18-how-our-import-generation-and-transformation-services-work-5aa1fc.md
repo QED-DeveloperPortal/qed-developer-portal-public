@@ -3,15 +3,15 @@ title: "How our import, generation and transformation services work"
 slug: "how-our-import-generation-and-transformation-services-work-5aa1fc"
 author: jeny-amatya-qed
 owner: jeny-amatya-qed
-categories: public
 tags: [auto-import, about]
 date: 2025-09-18 00:57:06
-likes: 0
-imported: True 
 import-source: "azure-devops"
 import-reference: ""
 import-config-id: "c6c31b6c-8b60-4e7f-90c4-e08c5d555ce1"
 publishedOn: 2025-09-18 00:57:06
+categories: public
+post-type: imported
+status: published
 ---
 
 The Developer Portal's import, generation and transformation services leverage Azure functions, factories, and GitHub integrations. This system ensures efficient content reception, transformation, validation, and publication across multiple platforms.

@@ -3,16 +3,17 @@ title: "FAQs for information owners"
 slug: "faqs-for-information-owners-5587b1"
 author: Joyclyn
 owner: Joyclyn
-categories: public
 tags: [auto-import, faq]
 date: 2026-02-25 14:19:12
-imported: True 
 import-source: "azure-devops"
 import-reference: ""
 import-url: "https://dev.azure.com/qed-qld-gov-au/Developer%20Portal/_wiki/wikis/Developer-Portal.wiki/64320/FAQs-for-information-owners"
 source-published-on: 2026-01-28 01:49:15
 source-updated-on: 2026-02-25 04:18:29
 import-config-id: "ae44e03d-3fa7-499a-8461-71427e4d0419"
+categories: public
+post-type: imported
+status: published
 ---
 
 ### 1. Why show information on the Developer Portal? 

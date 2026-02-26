@@ -1,13 +1,14 @@
 ---
 title: "How to update existing content using the inline editor?"
 author: jeny-amatya-qed
-categories: public
 tags: [opinion,getting-started]
 date: 2023-03-19 23:08:18 
 updatedBy: jeny-amatya-qed
 updated: 2025-01-19 23:21:12 
-likes: 0
 publishedOn: 2025-01-19 23:21:12
+categories: public
+post-type: standard
+status: published
 ---
 
 ### Overview

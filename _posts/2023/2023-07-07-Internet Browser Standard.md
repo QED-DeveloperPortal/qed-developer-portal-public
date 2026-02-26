@@ -1,13 +1,14 @@
 ---
 title: "Internet browser standard"
 author: g-morton
-categories: public
 tags: [standards,architecture,web]
 date: 2023-07-07 00:40:23 
 updatedBy: joyclyn
 updated: 2024-07-16 01:11:31 
-likes: 1
 publishedOn: 2024-07-16 01:11:31
+categories: public
+post-type: standard
+status: published
 ---
 
 Uncontrolled copy. To ensure you have the most current version of this document, refer to the ICT standards page at [https://qed.qld.gov.au/publications/standards](https://qed.qld.gov.au/publications/standards) or

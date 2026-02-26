@@ -1,13 +1,14 @@
 ---
 title: "Durable Functions"
 author: andrew
-categories: public
 tags: [opinion,architecture]
 date: 2024-11-07 04:55:26 
 updatedBy: andrew
 updated: 2024-11-13 00:07:16 
-likes: 0
 publishedOn: 2024-11-13 00:07:16
+categories: public
+post-type: standard
+status: published
 ---
 
 **Overview**

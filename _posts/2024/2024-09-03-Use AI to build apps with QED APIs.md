@@ -1,13 +1,14 @@
 ---
 title: "Using AI to build API driven apps"
 author: andrew
-categories: public
 tags: [ai,api,trending,opinion]
 date: 2024-09-03 05:16:52 
 updatedBy: jeny-amatya-qed
 updated: 2024-09-03 23:22:57 
-likes: 0
 publishedOn: 2024-09-03 23:22:57
+categories: public
+post-type: standard
+status: published
 ---
 
 The [DevPortal AI Kit](https://github.com/qed-developerportal/devportal-ai-kit) has been developed to help you start building apps that target publicly available QED APIs, with AI assistance to guide you along the way.

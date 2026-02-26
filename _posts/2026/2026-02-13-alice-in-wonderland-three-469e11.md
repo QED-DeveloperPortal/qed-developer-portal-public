@@ -3,16 +3,16 @@ title: "Alice in Wonderland three"
 slug: "alice-in-wonderland-three-469e11"
 author: jeny-amatya-qed
 owner: jeny-amatya-qed
-categories: public
 tags: [auto-import, about]
 date: 2026-02-13 12:07:50
-likes: 0
 publishedOn: 2026-02-13 12:07:50
-imported: True 
 import-source: "content-manager"
 import-reference: "25/828351"
 import-url: "https://ecmweb.qed.qld.gov.au/ContentManager/?q=25/828351"
 import-config-id: "7008cd1d-68ab-4511-b70f-43911897636d"
+categories: public
+post-type: imported
+status: published
 ---
 
 # Alice's Adventures in Wonderland 

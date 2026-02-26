@@ -2,13 +2,14 @@
 title: "GET, POST, PUT, DELETE Examples"
 slug: "get-post-put-delete-examples-e4d761"
 author: andrew
-categories: public
 tags: [api,getting-started]
 date: 2025-09-16 04:23:44 
 updatedBy: andrew
 updated: 2025-09-16 22:32:29 
-likes: 0
 publishedOn: 2025-09-16 22:32:29
+categories: public
+post-type: standard
+status: published
 ---
 
 Here are  examples of using POST, PUT and DELETE requests from the API Catalogue.

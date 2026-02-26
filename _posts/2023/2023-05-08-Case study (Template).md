@@ -1,13 +1,14 @@
 ---
 title: "Case study (Template)"
 author: g-morton
-categories: public
 tags: [architecture,case-study,getting-started]
 date: 2023-05-08 01:19:33 
 updatedBy: jeny-amatya-qed
 updated: 2024-07-02 00:40:33 
-likes: 0
 publishedOn: 2024-07-02 00:40:33
+categories: public
+post-type: standard
+status: published
 ---
 
 ## Case study: Project or solution name

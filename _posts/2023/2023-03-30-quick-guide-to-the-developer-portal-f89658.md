@@ -2,13 +2,14 @@
 title: "Quick guide to the Developer Portal"
 slug: "quick-guide-to-the-developer-portal-f89658"
 author: jeny-amatya-qed
-categories: public
 tags: [opinion,getting-started,about]
 date: 2023-03-30 01:04:10 
 updatedBy: jeny-amatya-qed
 updated: 2025-03-19 04:52:43 
-likes: 15
 publishedOn: 2025-03-19 04:52:43
+categories: public
+post-type: standard
+status: published
 ---
 
 ### What is a Developer Portal?

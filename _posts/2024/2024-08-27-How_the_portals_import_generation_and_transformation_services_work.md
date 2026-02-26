@@ -1,14 +1,14 @@
 ---
 title: "How the portals import generation and transformation services work"
 author: joyclyn
-categories: public
 tags: [auto-import]
 date: 2024-08-27 04:20:03
-likes: 0
-imported: True 
 import-source: "azure-devops"
 import-reference: ""
 publishedOn: 2024-08-27 04:20:03
+categories: public
+post-type: imported
+status: published
 ---
 
 The portal's import, generation and transformation services leverage Azure functions, factories, and GitHub integrations. This system ensures efficient content reception, transformation, validation, and publication across multiple platforms.

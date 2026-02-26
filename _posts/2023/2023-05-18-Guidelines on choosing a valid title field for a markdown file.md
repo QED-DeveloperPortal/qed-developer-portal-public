@@ -1,13 +1,14 @@
 ---
 title: "Choosing a suitable title for your post"
 author: jeny-amatya-qed
-categories: public
 tags: [getting-started,faq]
 date: 2023-05-18 00:27:58 
 updatedBy: jeny-amatya-qed
 updated: 2024-06-13 02:33:07 
-likes: 2
 publishedOn: 2024-06-13 02:33:07
+categories: public
+post-type: standard
+status: published
 ---
 
 ## Overview

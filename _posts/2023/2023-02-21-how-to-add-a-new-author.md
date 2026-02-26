@@ -1,13 +1,14 @@
 ---
 title: "How to add a new author in a Jekyll site?"
 author: jeny-amatya-qed
-categories: public
 tags: [technology]
 date: 2023-03-06 23:00:00
 updatedBy: jeny-amatya-qed
 updated: 2023-06-13 04:46:38
-likes: 0
 publishedOn: 2023-06-13 04:46:38
+categories: public
+post-type: standard
+status: published
 ---
 
 To add author information to a Jekyll site, you can create a data file that contains author information and then reference that data in the front matter of each post.

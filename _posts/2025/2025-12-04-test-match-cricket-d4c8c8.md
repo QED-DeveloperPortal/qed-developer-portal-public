@@ -2,11 +2,12 @@
 title: "Test Match Cricket"
 slug: "test-match-cricket-d4c8c8"
 author: matt
-categories: public
 tags: [case-study]
 date: 2025-12-04 00:35:58 
-likes: 0
 publishedOn: 2025-12-04 00:35:58
+categories: public
+post-type: standard
+status: published
 ---
 
 Test cricket is considered the best format because it is a comprehensive test of a cricketer's skill, endurance, and mental strength, combining technical, tactical, and physical elements over up to five days.

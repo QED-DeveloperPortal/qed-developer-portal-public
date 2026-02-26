@@ -1,11 +1,12 @@
 ---
 title: "Mobile application and operating systems standard"
 author: joyclyn
-categories: public
 tags: [standards]
 date: 2024-04-08 01:25:35 
-likes: 0
 publishedOn: 2024-04-08 01:25:35
+categories: public
+post-type: standard
+status: published
 ---
 
 # Mobile application and operating systems standard

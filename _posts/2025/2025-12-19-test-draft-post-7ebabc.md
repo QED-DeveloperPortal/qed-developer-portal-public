@@ -2,11 +2,11 @@
 title: "Test draft post"
 slug: "test-draft-post-7ebabc"
 author: matt
-categories: public
 tags: [ai]
 date: 2025-12-19 01:00:02 
-likes: 0
-draft: true
+categories: public
+post-type: standard
+status: draft
 ---
 
 Test the count of 9...

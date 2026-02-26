@@ -1,13 +1,14 @@
 ---
 title: "Information security classifications on the Developer Portal"
 author: g-morton
-categories: public
 tags: [standards,getting-started]
 date: 2024-08-22 01:21:44 
 updatedBy: g-morton
 updated: 2024-10-03 04:43:24 
-likes: 1
 publishedOn: 2024-10-03 04:43:24
+categories: public
+post-type: standard
+status: published
 ---
 
 Information security classification is crucial for ensuring the secure information handling, storage, and sharing. Within the Department of Education, every piece of information is evaluated for sensitivity and classified accordingly. This classification guides us in managing information and protecting it from unauthorised use, modification, disclosure, or loss. Proper classification not only safeguards the integrity of our information but also ensures we comply with state and federal legislation.

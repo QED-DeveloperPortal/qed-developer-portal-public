@@ -3,15 +3,15 @@ title: "Test PR notification"
 slug: "test-pr-notification-42d728"
 author: sitestudio
 owner: sitestudio
-categories: public
 tags: [auto-import, sdlc]
 date: 2025-11-14 00:35:11
-likes: 0
-imported: True 
 import-source: "github"
 import-reference: ""
 import-config-id: "39ed6c8c-3c1c-4ce2-90d4-f5bd53a0f09c"
 publishedOn: 2025-11-14 00:35:11
+categories: public
+post-type: imported
+status: published
 ---
 
 ## **1. Information Security Assessment (ISA)**

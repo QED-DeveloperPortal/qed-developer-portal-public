@@ -1,13 +1,14 @@
 ---
 title: "Adding images to posts using the markdown editor"
 author: sushma-hazari-qed
-categories: public
 tags: [getting-started]
 date: 2024-05-23 02:12:44 
 updatedBy: Sushma Hazari (IA)
 updated: 2024-06-28 05:53:53 
-likes: 0
 publishedOn: 2024-06-28 05:53:53
+categories: public
+post-type: standard
+status: published
 ---
 
 # How to Add an Image in Markdown Editor

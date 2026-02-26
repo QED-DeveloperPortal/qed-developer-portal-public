@@ -3,16 +3,16 @@ title: "Alice in Wonderland too"
 slug: "alice-in-wonderland-too-b85b48"
 author: jeny-amatya-qed
 owner: jeny-amatya-qed
-categories: public
 tags: [auto-import, about]
 date: 2026-02-10 07:01:22
-likes: 0
 publishedOn: 2026-02-10 07:01:22
-imported: True 
 import-source: "content-manager"
 import-reference: "25/828351"
 import-url: "https://dev.azure.com/qed-qld-gov-au/Developer%20Portal/_wiki/wikis/Developer-Portal.wiki/4384/Onboarding-Cheatsheet"
 import-config-id: "a6319add-8f20-4c2d-a4b9-31b07e9869a1"
+categories: public
+post-type: imported
+status: published
 ---
 
 # Alice's Adventures in Wonderland 

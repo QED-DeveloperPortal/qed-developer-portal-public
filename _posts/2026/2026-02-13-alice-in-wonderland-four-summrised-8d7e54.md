@@ -3,16 +3,16 @@ title: "Alice in Wonderland four summrised"
 slug: "alice-in-wonderland-four-summrised-8d7e54"
 author: jeny-amatya-qed
 owner: jeny-amatya-qed
-categories: public
 tags: [auto-import, architecture, getting-started]
 date: 2026-02-13 02:49:07
-likes: 0
 publishedOn: 2026-02-13 02:49:07
-imported: True 
 import-source: "content-manager"
 import-reference: "25/828351"
 import-url: "https://ecmweb.qed.qld.gov.au/ContentManager/?q=25/828351"
 import-config-id: "77043978-cb02-4293-9194-5328992a7258"
+categories: public
+post-type: imported
+status: published
 ---
 
 # Main topics

@@ -1,11 +1,12 @@
 ---
 title: "Give an example of using ZKP in an application"
 author: andrew
-categories: public
 tags: [privacy]
 date: 2023-05-11 01:29:07 
-likes: 9
 publishedOn: 2023-05-11 01:29:07
+categories: public
+post-type: standard
+status: published
 ---
 
 ZKP (Zero Knowledge Proof) is a technique used to prove the authenticity of information without revealing any additional information. This can be useful in a wide range of applications where privacy and security are important. One example of using ZKP in an application is in the context of online identity verification.

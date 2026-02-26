@@ -3,15 +3,15 @@ title: "JImport config using predefined tags"
 slug: "jimport-config-using-predefined-tags-2bc010"
 author: jeny-amatya-qed
 owner: jeny-amatya-qed
-categories: public
 tags: [auto-import, about, auto-import]
 date: 2025-12-11 01:30:18
-likes: 0
-imported: True 
 import-source: "azure-devops"
 import-reference: ""
 import-config-id: "37221cc0-6de3-4be8-933f-954d600d3d1b"
 publishedOn: 2025-12-11 01:30:18
+categories: public
+post-type: imported
+status: published
 ---
 
 # Understanding "Hello World" in Programming
