@@ -1,18 +1,18 @@
 ---
 title: "Copy folder repo import"
-slug: "copy-folder-repo-import-76fe96"
+slug: "copy-folder-repo-import-ea6eeb"
 author: jeny-amatya-qed
 owner: jeny-amatya-qed
+categories: public
 tags: [auto-import, technology]
-date: 2026-02-09 22:02:27
-publishedOn: 2026-02-09 22:02:27
+date: 2026-03-02 03:05:58
+publishedOn: 2026-03-02 03:05:58
 import-source: "github"
 import-reference: ""
 import-url: "https://github.com/QED-DeveloperPortal/copy_folder_to_another_repo_action/blob/master/README.md"
 source-published-on: 2020-08-24 19:25:59
-source-updated-on: 2026-02-09 22:02:11
+source-updated-on: 2026-03-02 03:05:19
 import-config-id: "2aaaadfc-8a13-4752-9c93-95d1c5194a3d"
-categories: public
 post-type: imported
 status: published
 ---
