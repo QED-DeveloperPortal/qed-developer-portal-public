@@ -6,9 +6,12 @@ categories: public
 tags: [web,privacy,architecture,cloud]
 date: 2025-12-21 23:00:04 
 updatedBy: divya28237
-updated: 2026-03-03 02:36:39 
+updated: 2026-03-05 00:35:46 
+publishedOn: 2026-03-05 00:35:46 
 post-type: standard
-status: draft
+status: published
 ---
 
-Draft post updated
+Draft post updated 
+Publishing draft post. 
+Verify it appear under Pending post and profile summary page.
