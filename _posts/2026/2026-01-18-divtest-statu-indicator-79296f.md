@@ -6,12 +6,13 @@ owner: Divya28237
 tags: [auto-import, cloud, faq]
 date: 2026-01-18 23:23:57
 publishedOn: 2026-01-18 23:23:57
-import-source: "content-manager"
-import-reference: "25/828596"
-import-config-id: "a4f79606-1a02-4e49-9cac-620b6421a230"
 categories: public
 post-type: imported
 status: published
+metadata:
+  import-source: "content-manager"
+  import-reference: "25/828596"
+  import-config-id: "a4f79606-1a02-4e49-9cac-620b6421a230"
 ---
 
 # Software Testing Life Cycle (STLC): A value-driven approach

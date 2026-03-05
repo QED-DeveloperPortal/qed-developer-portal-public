@@ -6,13 +6,14 @@ owner: Divya
 tags: [auto-import, technology]
 date: 2026-02-16 04:16:08
 publishedOn: 2026-02-16 04:16:08
-import-source: "content-manager"
-import-reference: "25/828596"
-import-url: "https://ecmweb.qed.qld.gov.au/ContentManager/?q=25/828596"
-import-config-id: "db27bcef-045c-4f13-9270-027bf7488f0f"
 categories: public
 post-type: imported
 status: published
+metadata:
+  import-source: "content-manager"
+  import-reference: "25/828596"
+  import-url: "https://ecmweb.qed.qld.gov.au/ContentManager/?q=25/828596"
+  import-config-id: "db27bcef-045c-4f13-9270-027bf7488f0f"
 ---
 
 # Main topics

@@ -6,12 +6,13 @@ owner: Divya
 tags: [auto-import, technology]
 date: 2026-01-12 22:13:46
 publishedOn: 2026-01-12 22:13:46
-import-source: "content-manager"
-import-reference: "24/970594"
-import-config-id: "c4dd7dc5-cd7f-4bd7-928d-33bcca27b0be"
 categories: public
 post-type: imported
 status: published
+metadata:
+  import-source: "content-manager"
+  import-reference: "24/970594"
+  import-config-id: "c4dd7dc5-cd7f-4bd7-928d-33bcca27b0be"
 ---
 
 | NFR ID (NEW) | Requirement | Category | Sub-Category | Category SME | Grouping |

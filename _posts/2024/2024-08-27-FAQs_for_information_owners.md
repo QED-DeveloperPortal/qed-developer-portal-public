@@ -3,12 +3,13 @@ title: "FAQs for information owners"
 author: joyclyn
 tags: [auto-import, faq]
 date: 2025-05-27 04:22:58
-import-source: "azure-devops"
-import-reference: ""
 publishedOn: 2025-05-27 04:22:58
 categories: public
 post-type: imported
 status: published
+metadata:
+  import-source: "azure-devops"
+  import-reference: ""
 ---
 
 ## 1. How does the information import function work?

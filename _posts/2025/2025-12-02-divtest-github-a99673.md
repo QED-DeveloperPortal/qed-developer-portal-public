@@ -6,15 +6,16 @@ owner: Divya28237
 tags: [auto-import, technology]
 date: 2026-02-16 22:14:01
 publishedOn: 2026-02-16 22:14:01
-import-source: "github"
-import-reference: ""
-import-url: "https://github.com/Divya28237/divtest-public-repo/blob/main/authentication.txt"
-source-published-on: 2025-08-20 04:20:09
-source-updated-on: 2026-02-16 22:12:54
-import-config-id: "9a94dc98-35c0-4e72-a6a9-e82a75535e9b"
 categories: public
 post-type: imported
 status: published
+metadata:
+  import-source: "github"
+  import-reference: ""
+  import-url: "https://github.com/Divya28237/divtest-public-repo/blob/main/authentication.txt"
+  source-published-on: 2025-08-20 04:20:09
+  source-updated-on: 2026-02-16 22:12:54
+  import-config-id: "9a94dc98-35c0-4e72-a6a9-e82a75535e9b"
 ---
 
 16/1/26 The Developer Portal's import, generation and transformation services leverage Azure functions, factories, and GitHub integrations. This system ensures efficient content reception, transformation, validation, and publication across multiple platforms.

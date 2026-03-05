@@ -6,12 +6,13 @@ owner: Divya28237
 tags: [auto-import, technology]
 date: 2026-01-28 06:45:12
 publishedOn: 2026-01-28 06:45:12
-import-source: "azure-devops"
-import-reference: ""
-import-config-id: "642eb228-fcb1-4f8b-aea2-38e30610c902"
 categories: public
 post-type: imported
 status: published
+metadata:
+  import-source: "azure-devops"
+  import-reference: ""
+  import-config-id: "642eb228-fcb1-4f8b-aea2-38e30610c902"
 ---
 
 # Main topics
