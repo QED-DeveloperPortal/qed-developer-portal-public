@@ -6,13 +6,14 @@ owner: jeny-amatya-qed
 tags: [auto-import, about]
 date: 2026-02-13 12:07:50
 publishedOn: 2026-02-13 12:07:50
-import-source: "content-manager"
-import-reference: "25/828351"
-import-url: "https://ecmweb.qed.qld.gov.au/ContentManager/?q=25/828351"
-import-config-id: "7008cd1d-68ab-4511-b70f-43911897636d"
 categories: public
 post-type: imported
 status: published
+metadata:
+  import-source: "content-manager"
+  import-reference: "25/828351"
+  import-url: "https://ecmweb.qed.qld.gov.au/ContentManager/?q=25/828351"
+  import-config-id: "7008cd1d-68ab-4511-b70f-43911897636d"
 ---
 
 # Alice's Adventures in Wonderland 

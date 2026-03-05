@@ -5,13 +5,14 @@ author: sitestudio
 owner: sitestudio
 tags: [auto-import, sdlc]
 date: 2025-11-14 00:35:11
-import-source: "github"
-import-reference: ""
-import-config-id: "39ed6c8c-3c1c-4ce2-90d4-f5bd53a0f09c"
 publishedOn: 2025-11-14 00:35:11
 categories: public
 post-type: imported
 status: published
+metadata:
+  import-source: "github"
+  import-reference: ""
+  import-config-id: "39ed6c8c-3c1c-4ce2-90d4-f5bd53a0f09c"
 ---
 
 ## **1. Information Security Assessment (ISA)**

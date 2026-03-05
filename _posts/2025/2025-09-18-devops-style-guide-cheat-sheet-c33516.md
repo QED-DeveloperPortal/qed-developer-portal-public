@@ -6,15 +6,16 @@ owner: jeny-amatya-qed
 tags: [auto-import, about, getting-started]
 date: 2026-02-09 07:04:47
 publishedOn: 2026-02-09 07:04:47
-import-source: "azure-devops"
-import-reference: ""
-import-url: "https://dev.azure.com/qed-qld-gov-au/Developer%20Portal/_wiki/wikis/Developer-Portal.wiki/65022/Style-guide-cheat-sheet"
-source-published-on: 2026-01-28 01:49:15
-source-updated-on: 2026-02-09 06:32:11
-import-config-id: "qq4017aa-40b2-4694-96f3-22f5c9c643a0"
 categories: public
 post-type: imported
 status: published
+metadata:
+  import-source: "azure-devops"
+  import-reference: ""
+  import-url: "https://dev.azure.com/qed-qld-gov-au/Developer%20Portal/_wiki/wikis/Developer-Portal.wiki/65022/Style-guide-cheat-sheet"
+  source-published-on: 2026-01-28 01:49:15
+  source-updated-on: 2026-02-09 06:32:11
+  import-config-id: "qq4017aa-40b2-4694-96f3-22f5c9c643a0"
 ---
 
 # Main topics

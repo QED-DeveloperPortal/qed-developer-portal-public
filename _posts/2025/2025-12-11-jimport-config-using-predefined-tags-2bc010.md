@@ -5,13 +5,14 @@ author: jeny-amatya-qed
 owner: jeny-amatya-qed
 tags: [auto-import, about, auto-import]
 date: 2025-12-11 01:30:18
-import-source: "azure-devops"
-import-reference: ""
-import-config-id: "37221cc0-6de3-4be8-933f-954d600d3d1b"
 publishedOn: 2025-12-11 01:30:18
 categories: public
 post-type: imported
 status: published
+metadata:
+  import-source: "azure-devops"
+  import-reference: ""
+  import-config-id: "37221cc0-6de3-4be8-933f-954d600d3d1b"
 ---
 
 # Understanding "Hello World" in Programming

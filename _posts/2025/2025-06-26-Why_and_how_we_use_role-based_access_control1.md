@@ -3,12 +3,13 @@ title: "Why and how we use role-based access control1"
 author: joyclyn
 tags: [auto-import, getting-started,about]
 date: 2025-06-26 03:23:45
-import-source: "azure-devops"
-import-reference: ""
 publishedOn: 2025-06-26 03:23:45
 categories: public
 post-type: imported
 status: published
+metadata:
+  import-source: "azure-devops"
+  import-reference: ""
 ---
 
 Role-based access control (RBAC) is a security method that helps manage users’ access to systems and resources based on an assigned role. We use RBAC in the Developer Portal for a few purposes.

@@ -3,12 +3,13 @@ title: "Role-based access mapping in the Developer Portal"
 author: joyclyn
 tags: [auto-import, getting-started,about]
 date: 2025-05-19 01:07:55
-import-source: "azure-devops"
-import-reference: ""
 publishedOn: 2025-05-19 01:07:55
 categories: public
 post-type: imported
 status: published
+metadata:
+  import-source: "azure-devops"
+  import-reference: ""
 ---
 
 | Page ↓ | Role → | Anonymous/Unauthenticated | User/Authenticated | Internal | Moderator | Admin | How we manage |

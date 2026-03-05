@@ -6,13 +6,14 @@ owner: jeny-amatya-qed
 tags: [auto-import, about, architecture]
 date: 2026-02-13 02:47:39
 publishedOn: 2026-02-13 02:47:39
-import-source: "content-manager"
-import-reference: "25/828351"
-import-url: "https://ecmweb.qed.qld.gov.au/ContentManager/?q=25/828351"
-import-config-id: "1c7e84d9-588f-4f1b-a452-33561700f359"
 categories: public
 post-type: imported
 status: published
+metadata:
+  import-source: "content-manager"
+  import-reference: "25/828351"
+  import-url: "https://ecmweb.qed.qld.gov.au/ContentManager/?q=25/828351"
+  import-config-id: "1c7e84d9-588f-4f1b-a452-33561700f359"
 ---
 
 # Updated again

@@ -6,15 +6,16 @@ owner: jeny-amatya-qed
 tags: [auto-import, about]
 date: 2026-02-10 11:51:30
 publishedOn: 2026-02-10 11:51:30
-import-source: "content-manager"
-import-reference: "25/828351"
-import-url: ""
-source-published-on: 2026-02-10 11:49:26
-source-updated-on: 2026-02-10 11:49:26
-import-config-id: "787895cf-7db8-402e-bfe6-39b0c8369b8c"
 categories: public
 post-type: imported
 status: published
+metadata:
+  import-source: "content-manager"
+  import-reference: "25/828351"
+  import-url: ""
+  source-published-on: 2026-02-10 11:49:26
+  source-updated-on: 2026-02-10 11:49:26
+  import-config-id: "787895cf-7db8-402e-bfe6-39b0c8369b8c"
 ---
 
 # Alice's Adventures in Wonderland 

@@ -3,13 +3,14 @@ title: "Copy folder repo import"
 slug: "copy-folder-repo-import-ea6eeb"
 author: jeny-amatya-qed
 owner: jeny-amatya-qed
-categories: public
 tags: [auto-import, technology]
 date: 2026-03-04 23:37:18
-post-type: imported
-status: published
 publishedOn: 2026-03-05 10:37:40
 metadata: 
+categories: public
+post-type: imported
+status: published
+metadata:
   import-source: "github"
   import-reference: ""
   import-url: "https://github.com/QED-DeveloperPortal/copy_folder_to_another_repo_action/blob/master/README.md"
