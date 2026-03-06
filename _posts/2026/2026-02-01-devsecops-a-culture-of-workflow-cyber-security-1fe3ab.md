@@ -1,8 +1,8 @@
 ---
 title: "DevSecOps A culture of workflow cyber security"
 slug: "devsecops-a-culture-of-workflow-cyber-security-1fe3ab"
-author: Joyclyn
-owner: Joyclyn
+author: joyclyn
+owner: joyclyn
 categories: Public
 classification: Public
 tags: [auto-import, security]

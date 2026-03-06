@@ -1,8 +1,8 @@
 ---
 title: "Role-based access mapping in the Developer Portal"
 slug: "role-based-access-mapping-in-the-developer-portal-f4bdc0"
-author: Joyclyn
-owner: Joyclyn
+author: joyclyn
+owner: joyclyn
 categories: Public
 classification: Public
 tags: [auto-import, about, getting-started]
