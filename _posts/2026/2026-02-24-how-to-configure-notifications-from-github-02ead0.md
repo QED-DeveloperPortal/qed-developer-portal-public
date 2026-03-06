@@ -1,8 +1,8 @@
 ---
 title: "How to configure notifications from GitHub"
 slug: "how-to-configure-notifications-from-github-02ead0"
-author: Joyclyn
-owner: Joyclyn
+author: joyclyn
+owner: joyclyn
 categories: Public
 classification: Public
 tags: [auto-import, tutorials]

@@ -1,8 +1,8 @@
 ---
 title: "Busting myths about Agile and open, transparent practices"
 slug: "busting-myths-about-agile-and-open-transparent-practices-2cb601"
-author: Joyclyn
-owner: Joyclyn
+author: joyclyn
+owner: joyclyn
 categories: Public
 classification: Public
 tags: [auto-import, myths]

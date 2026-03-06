@@ -1,8 +1,8 @@
 ---
 title: "How our import, generation and transformation services work"
 slug: "how-our-import-generation-and-transformation-services-work-409a9f"
-author: Joyclyn
-owner: Joyclyn
+author: joyclyn
+owner: joyclyn
 categories: Public
 classification: Public
 tags: [auto-import]
