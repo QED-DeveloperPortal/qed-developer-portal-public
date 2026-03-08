@@ -34,4 +34,5 @@ Embracing a proactive approach, like DevSecOps can play a vital role in maintain
 **DevSecOps** (an abbreviation of **d**evelopment, **s**ecurity and **o**perations), is a practice which encourages a ‘security as code’ culture, where security is treated as an integral part of the development process, not as an afterthought. 
 
 
-The team that supports this portal has adopted a DevSecOps approach and we seek to integrate security practices at every stage of our development lifecycle. If you’d like to know more, see our post called, [Exploring DevSecOps with GitHub security]([https://developer.qed.qld.gov.au/internal/How-we-protect-our-code/](https://developer.qed.qld.gov.au/public/exploring-devsecops-security-with-github-0da1f1/).
+The team that supports this portal has adopted a DevSecOps approach and we seek to integrate security practices at every stage of our development lifecycle. If you’d like to know more, see our post called, [Exploring DevSecOps with GitHub security](https://developer.qed.qld.gov.au/public/exploring-devsecops-security-with-github-0da1f1/).
+
