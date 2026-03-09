@@ -1,18 +1,21 @@
 ---
 title: "Why and how we use role-based access control"
 slug: "why-and-how-we-use-role-based-access-control-27fbeb"
-author: joyclyn
-owner: joyclyn
+author: Joyclyn
+owner: Joyclyn
 categories: Public
 classification: Public
 tags: [auto-import, about, getting-started]
-date: 2025-09-29 23:40:28
+date: 2026-03-09 00:33:01
 likes: 0
+publishedOn: 2026-03-09 00:33:01
 imported: True 
 import-source: "azure-devops"
 import-reference: ""
+import-url: "https://dev.azure.com/qed-qld-gov-au/Developer%20Portal/_wiki/wikis/Developer-Portal.wiki/65766/Why-and-how-we-use-role-based-access-control"
+source-published-on: 2026-01-28 01:49:15
+source-updated-on: 2026-03-09 00:32:31
 import-config-id: "2a08bdc1-53da-4b48-b08c-2e505c888cd8"
-publishedOn: 2025-09-29 23:40:28
 ---
 
 Role-based access control (RBAC) is a security method that helps manage users’ access to systems and resources based on an assigned role. We use RBAC in the Developer Portal for a few purposes.
@@ -45,6 +48,8 @@ Here's how we break down roles in the Developer Portal:
 * **Moderators**: We use this role for authenticated users who are employed or contracted to the department *and* who are authorised to moderate user contributions to the portal. Users with this role—in combination with a paid GitHub Enterprise licence—can review and approve user contributions. They can also see information on the portal that has a higher classification assigned, interact with all content and offer their own contributions.
 * **Administrators**: We use this role for authenticated users who are employed or contracted to the department *and* who are authorised as a site administrator. Users with this role can access the admin tools and view additional information such as post pending approval. They can also see information on the portal that has a higher classification assigned, interact with all content and offer their own contributions.
 
-If you’d like to see even more detail of our RBAC schedule, visit our post called, [Role-based access mapping in the Developer Portal](/public/Role-based_access_mapping_in_the_Developer_Portal/).
+If you’d like to see even more detail of our RBAC schedule, visit our post called, [Role-based access mapping in the Developer Portal](/public/role-based-access-mapping-in-the-developer-portal-f4bdc0/).
 
 And if you’re curious to know what role(s) you have and you’re signed into the site, you can see your role(s) in your profile summary. If you have any questions or want to request a change, please email us at [developerportal@qed.qld.gov.au](mailto:developerportal@qed.qld.gov.au).
+
+Reviewed for currency, 27 November 2025.
