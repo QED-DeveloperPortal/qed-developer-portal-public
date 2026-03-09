@@ -3,22 +3,22 @@ title: "Divtest GitHub updated 17/2/26"
 slug: "divtest-github-a99673"
 author: Divya28237
 owner: Divya28237
-tags: [auto-import, technology]
-date: 2026-02-16 22:14:01
-publishedOn: 2026-02-16 22:14:01
 categories: public
+tags: [auto-import, technology]
+date: 2026-03-09 08:24:11
 post-type: imported
 status: published
-metadata:
+publishedOn: 2026-03-09 08:24:11
+metadata: 
   import-source: "github"
   import-reference: ""
   import-url: "https://github.com/Divya28237/divtest-public-repo/blob/main/authentication.txt"
-  source-published-on: 2025-08-20 04:20:09
-  source-updated-on: 2026-02-16 22:12:54
   import-config-id: "9a94dc98-35c0-4e72-a6a9-e82a75535e9b"
+  source-published-on: 2025-08-20 04:20:09
+  source-updated-on: 2026-03-09 08:16:45
 ---
 
-16/1/26 The Developer Portal's import, generation and transformation services leverage Azure functions, factories, and GitHub integrations. This system ensures efficient content reception, transformation, validation, and publication across multiple platforms.
+9/3/26 The Developer Portal's import, generation and transformation services leverage Azure functions, factories, and GitHub integrations. This system ensures efficient content reception, transformation, validation, and publication across multiple platforms.
 
 ## High-level overview update
 The diagram represents a system architecture involving various services, factories, and integrations. It includes components for content management, transformation, and generation, integrated with external platforms like GitHub, Azure, and a DevOps wiki.
@@ -64,13 +64,13 @@ The diagram represents a system architecture involving various services, factori
 - Transformed content goes through CI/CD pipelines for validation before being deployed to the portal website.
 
 ## Detailed flow
-- ContentService retrieves configurations from Azure Cosmos DB.
-- ContentReceiverFactory creates instances of services like DevopsWikiReceiverService, GithubReceiverService, and ContentmanagerReceiverService to receive content from different sources.
-- ContentTransformationFactory creates instances of services like AISummaryTransformationService and AIMarkdownTransformationService to transform the fetched content into Markdown format, using Azure OpenAI.
-- ContentGenerationFactory creates instances of services like ContentGenerationService, MarkdownService, and ValidationService to generate and validate the content.
-- Interaction with GitHub repository is done through HttpClientGithubService and OctokitGithubService.
-- GitHub CI/CD Pipelines validate the content structure and author information.
-- Validated content is deployed to the Developer Portal website.
+1. ContentService retrieves configurations from Azure Cosmos DB.
+2. ContentReceiverFactory creates instances of services like DevopsWikiReceiverService, GithubReceiverService, and ContentmanagerReceiverService to receive content from different sources.
+3. ContentTransformationFactory creates instances of services like AISummaryTransformationService and AIMarkdownTransformationService to transform the fetched content into Markdown format, using Azure OpenAI.
+4. ContentGenerationFactory creates instances of services like ContentGenerationService, MarkdownService, and ValidationService to generate and validate the content.
+5. Interaction with GitHub repository is done through HttpClientGithubService and OctokitGithubService.
+6. GitHub CI/CD Pipelines validate the content structure and author information.
+7. Validated content is deployed to the Developer Portal website.
 
 ## Import-function-diagram
 This system showcases a robust architecture that efficiently handles content from reception to publication. By integrating Azure functions, various service factories, and GitHub automation, the system ensures that content is processed, validated, and published seamlessly. This setup not only maintains content integrity but also optimises the workflow through automation and validation steps.
