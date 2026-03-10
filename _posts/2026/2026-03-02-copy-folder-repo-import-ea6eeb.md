@@ -3,20 +3,19 @@ title: "Copy folder repo import"
 slug: "copy-folder-repo-import-ea6eeb"
 author: jeny-amatya-qed
 owner: jeny-amatya-qed
-tags: [auto-import, technology]
-date: 2026-03-04 23:37:18
-publishedOn: 2026-03-05 10:37:40
-metadata: 
 categories: public
+tags: [auto-import, technology]
+date: 2026-03-10 00:22:42
 post-type: imported
 status: published
-metadata:
+publishedOn: 2026-03-10 00:22:42
+metadata: 
   import-source: "github"
   import-reference: ""
   import-url: "https://github.com/QED-DeveloperPortal/copy_folder_to_another_repo_action/blob/master/README.md"
   import-config-id: "2aaaadfc-8a13-4752-9c93-95d1c5194a3d"
   source-published-on: 2020-08-24 19:25:59
-  source-updated-on: 2026-03-05 00:35:21
+  source-updated-on: 2026-03-10 00:22:23
 ---
 
 # copy_folder_to_another_repo_action
@@ -61,4 +60,4 @@ jobs:
 ## Behavior Notes
 The action will remove the destination folder before recreating it to place any copied files in it.
 
-Updated on 05/03/2026 10:35 AM
+Updated on 10/03/2026 10:22 AM
