@@ -7,12 +7,14 @@ classification: Public
 tags: [accessibility]
 date: 2024-10-03 01:05:10 
 updatedBy: joyclyn
-updated: 2025-10-07 03:37:13 
+updated: 2026-03-12 00:09:23 
+publishedOn: 2026-03-12 00:09:23 
 likes: 0
-publishedOn: 2025-10-07 03:37:13
 ---
 
-Government products and services must be available to everyone which means we need to create inclusive content for equal access. **Content design matters because it directly influences how effectively information is communicated to and understood by our users.**
+Government products and services must be available to everyone which means we need to create inclusive content for equal access. 
+
+**Content design matters because it directly influences how effectively information is communicated to and understood by our users.**
 
 Here are two aspects to consider:
 
@@ -32,8 +34,8 @@ Here are two aspects to consider:
 There are a few resources that provide guidance for creating clear content, including:
 
 1. The *Department of Education style guide* (staff access only).
-2. The *Queensland Government web writing and style guide*.
-3. The *Australian Government Style Manual* (Style Manual).
+2. The *[Queensland Government web writing and style guide](https://www.forgov.qld.gov.au/communication-and-publishing/website-standards-guidelines-and-templates/write-for-queensland-government-websites/web-writing-and-style-guide)*.
+3. The *[Australian Government Style Manual](https://www.stylemanual.gov.au/)* (Style Manual).
 
 The Department of Education style guide and the Queensland Government web writing and style guide are documents that give advice tailored to their specific audiences. Both are available online to review online or download.
 
