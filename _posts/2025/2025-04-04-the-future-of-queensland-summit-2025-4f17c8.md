@@ -6,10 +6,10 @@ categories: Public
 classification: Public
 tags: [case-study,trending]
 date: 2025-04-04 05:08:19 
-updatedBy: joyclyn
-updated: 2025-04-06 22:11:07 
+updatedBy: g-morton
+updated: 2026-02-09 22:55:07 
+publishedOn: 2026-02-09 22:55:07 
 likes: 0
-publishedOn: 2025-04-06 22:11:07
 ---
 
 # The Future of Queensland Summit 2025  
