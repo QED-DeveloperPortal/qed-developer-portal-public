@@ -2,13 +2,14 @@
 title: "Cross-platform naming conventions"
 slug: "cross-platform-naming-conventions-330e83"
 author: g-morton
-categories: [Public]
+categories: Public
 classification: Public
 tags: [standards]
 date: 2024-08-29 02:13:37 
-updatedBy: 
+updatedBy: g-morton
+updated: 2026-02-09 22:57:11 
+publishedOn: 2026-02-09 22:57:11 
 likes: 0
-publishedOn: 2024-08-29 02:13:37
 ---
 
 ### Introduction
