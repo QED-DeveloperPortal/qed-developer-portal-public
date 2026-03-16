@@ -2,14 +2,14 @@
 title: "What we learned from our Agile assessment"
 slug: "what-we-learned-from-our-agile-assessment-370a46"
 author: jeny-amatya-qed
-categories: Public
-classification: Public
 tags: [agile]
 date: 2025-03-18 02:23:58 
 updatedBy: jeny-amatya-qed
 updated: 2025-09-16 06:33:44 
-likes: 0
 publishedOn: 2025-09-16 06:33:44
+categories: public
+post-type: standard
+status: published
 ---
 
 # Overview

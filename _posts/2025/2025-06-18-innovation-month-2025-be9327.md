@@ -2,14 +2,14 @@
 title: "Innovating with risk"
 slug: "innovation-month-2025-be9327"
 author: g-morton
-categories: Public
-classification: Public
 tags: [about]
 date: 2025-06-18 05:28:44 
 updatedBy: g-morton
 updated: 2026-01-29 04:18:28 
 publishedOn: 2026-01-29 04:18:28 
-likes: 0
+categories: public
+post-type: standard
+status: published
 ---
 
 ## Risk is exciting!

@@ -2,14 +2,14 @@
 title: "Web Content Accessibility Guideline (WCAG) reviews"
 slug: "web-content-accessibility-guideline-wcag-reviews-c84c60"
 author: g-morton
-categories: Public
-classification: Public
 tags: [accessibility]
 date: 2024-07-17 01:31:22 
 updatedBy: g-morton
 updated: 2025-09-11 23:17:55 
-likes: 0
 publishedOn: 2025-09-11 23:17:55
+categories: public
+post-type: standard
+status: published
 ---
 
 ## What is WCAG?

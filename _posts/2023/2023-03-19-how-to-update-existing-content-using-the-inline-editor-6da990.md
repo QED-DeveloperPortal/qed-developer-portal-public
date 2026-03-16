@@ -2,14 +2,14 @@
 title: "How to update existing content using the inline editor"
 slug: "how-to-update-existing-content-using-the-inline-editor-6da990"
 author: jeny-amatya-qed
-categories: Public
-classification: Public
 tags: [getting-started]
 date: 2023-03-19 23:08:18 
 updatedBy: jeny-amatya-qed
 updated: 2026-02-03 03:33:37 
 publishedOn: 2026-02-03 03:33:37 
-likes: 0
+categories: public
+post-type: standard
+status: published
 ---
 
 ### Overview

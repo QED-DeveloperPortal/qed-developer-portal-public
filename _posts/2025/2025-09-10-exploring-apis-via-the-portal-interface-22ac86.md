@@ -2,14 +2,14 @@
 title: "Exploring APIs via the portal interface"
 slug: "exploring-apis-via-the-portal-interface-22ac86"
 author: jeny-amatya-qed
-categories: Public
-classification: Public
 tags: [getting-started,api]
 date: 2025-09-10 23:16:41 
 updatedBy: joyclyn
 updated: 2025-09-16 04:04:58 
-likes: 0
 publishedOn: 2025-09-16 04:04:58
+categories: public
+post-type: standard
+status: published
 ---
 
 ## Overview  

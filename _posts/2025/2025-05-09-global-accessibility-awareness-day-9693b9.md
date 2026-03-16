@@ -2,14 +2,14 @@
 title: "Global Accessibility Awareness Day"
 slug: "global-accessibility-awareness-day-9693b9"
 author: joyclyn
-categories: Public
-classification: Public
 tags: [myths,accessibility]
 date: 2025-05-09 04:38:19 
 updatedBy: joyclyn
 updated: 2025-11-13 01:16:07 
-likes: 0
 publishedOn: 2025-11-13 01:16:07
+categories: public
+post-type: standard
+status: published
 ---
 
 I discovered this article by Karl Groves called [Digital Accessibility is a Civil Right](https://karlgroves.com/digital-accessibility-is-a-civil-right/) via a post on the [Apolitical website](https://apolitical.co/en) and, although I recommend clicking through to read the whole post, I want to note some of the main points as a nod to Global Accessibility Awareness Day, which is coming up on Thursday 15 May 2025.

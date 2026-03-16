@@ -1,0 +1,39 @@
+---
+title: "Mockaco"
+slug: "mockaco-3ff972"
+author: andrew
+categories: Public
+classification: Public
+tags: [architecture,api]
+date: 2024-11-07 06:44:42 
+updatedBy: joyclyn
+updated: 2025-04-29 00:47:17 
+likes: 0
+publishedOn: 2025-04-29 00:47:17
+---
+
+### Overview
+
+Mockaco is a modified open source repo that enables the public provisioning of mock versions of the Queensland Education Department APIs.
+
+
+### Source code
+
+The original repo can be found at [https://github.com/natenho/Mockaco](https://github.com/natenho/Mockaco).
+ 
+The modified copy of this repo can be found at [https://github.com/QED-DeveloperPortal/Mockaco](https://github.com/QED-DeveloperPortal/Mockaco).
+
+
+### Deployment
+
+It is deployed in Azure as a Web App named dp-mockaco.
+
+The mock QED APIs that this tool manages are visually displayed to end users via a Microsoft Blazor interface whose code is at [https://github.com/QED-DeveloperPortal/mockportal](https://github.com/QED-DeveloperPortal/mockportal).
+
+Updates to the MockPortal repo are published to Azure inside the APIs folder of the qed-developer-portal repo via a Github Action.
+
+### External access
+
+The mocked QED APIs can also be called as APIs via the base URL [https://dp-mockaco.azurewebsites.net](https://dp-mockaco.azurewebsites.net).
+
+End users are required to pass an X-Api-Key value as part of the HTTP request header. End users can request an X-Api-Key via the MockPortal part of Developer Portal website. This value is stored in Cosmos DB for each user.

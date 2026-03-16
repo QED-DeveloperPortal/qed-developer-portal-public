@@ -2,14 +2,14 @@
 title: "Welcome EDUtech visitors"
 slug: "welcome-edutech-visitors-be892a"
 author: g-morton
-categories: Public
-classification: Public
 tags: [about]
 date: 2025-06-03 01:50:51 
 updatedBy: joyclyn
 updated: 2025-06-03 02:01:42 
-likes: 0
 publishedOn: 2025-06-03 02:01:42
+categories: public
+post-type: standard
+status: published
 ---
 
 Thanks for stopping by!

@@ -3,16 +3,16 @@ title: "Style guide cheat sheet"
 slug: "style-guide-cheat-sheet-c6c454"
 author: joyclyn
 owner: joyclyn
-categories: Public
-classification: Public
 tags: [auto-import]
 date: 2025-10-06 22:41:25
-likes: 0
-imported: True 
-import-source: "azure-devops"
-import-reference: ""
-import-config-id: "2fb16e82-c8b4-46ee-a71b-f410af8a3600"
 publishedOn: 2025-10-06 22:41:25
+categories: public
+post-type: imported
+status: published
+metadata:
+  import-source: "azure-devops"
+  import-reference: ""
+  import-config-id: "2fb16e82-c8b4-46ee-a71b-f410af8a3600"
 ---
 
 This is a quick reference cheat sheet. For a primer on why content design matters, visit our post called, _[Why content design matters](https://developer.qed.qld.gov.au/public/why-content-design-matters-070d48/)_.  

@@ -2,14 +2,14 @@
 title: "Configuring advanced setup for code scanning with CodeQL"
 slug: "configuring-advanced-setup-for-code-scanning-with-codeql-656029"
 author: matt
-categories: Public
-classification: Public
 tags: [security,cloud]
 date: 2023-11-27 00:00:00 
 updatedBy: matt
 updated: 2026-02-03 02:36:07 
 publishedOn: 2026-02-03 02:36:07 
-likes: 1
+categories: public
+post-type: standard
+status: published
 ---
 
 We have recently enabled and configured advanced security for GitHub Actions in our software project. Enabling this allows our source code to be scanned regularly for vulnerabilities.

@@ -3,16 +3,16 @@ title: "FAQs for information owners"
 slug: "faqs-for-information-owners-c1a4d0"
 author: joyclyn
 owner: joyclyn
-categories: Public
-classification: Public
 tags: [auto-import, faq]
 date: 2026-01-30 00:55:20
-likes: 0
 publishedOn: 2026-01-30 00:55:20
-imported: True 
-import-source: "azure-devops"
-import-reference: ""
-import-config-id: "fa8efb0f-5727-4eb1-b3cc-904cb90b2f6d"
+categories: public
+post-type: imported
+status: published
+metadata:
+  import-source: "azure-devops"
+  import-reference: ""
+  import-config-id: "fa8efb0f-5727-4eb1-b3cc-904cb90b2f6d"
 ---
 
 ### 1. Why show information on the Developer Portal?

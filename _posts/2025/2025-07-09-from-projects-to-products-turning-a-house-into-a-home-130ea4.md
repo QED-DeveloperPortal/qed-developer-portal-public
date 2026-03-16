@@ -2,14 +2,14 @@
 title: "From projects to products: turning a house into a home"
 slug: "from-projects-to-products-turning-a-house-into-a-home-130ea4"
 author: g-morton
-categories: Public
-classification: Public
 tags: [accessibility,agile,architecture,myths]
 date: 2025-07-09 05:14:17 
 updatedBy: g-morton
 updated: 2026-01-29 01:10:21 
 publishedOn: 2026-01-29 01:10:21 
-likes: 0
+categories: public
+post-type: standard
+status: published
 ---
 
 In the transformational journey towards product thinking, it's natural to feel a bit unsettled. Questions arise:

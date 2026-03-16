@@ -2,14 +2,14 @@
 title: "Resilient Azure Functions with Durable Functions"
 slug: "resilient-azure-functions-with-durable-functions-05bee5"
 author: matt
-categories: Public
-classification: Public
 tags: [cloud,api,web]
 date: 2024-08-01 22:29:58 
 updatedBy: matt
 updated: 2026-02-03 00:51:02 
 publishedOn: 2026-02-03 00:51:02 
-likes: 1
+categories: public
+post-type: standard
+status: published
 ---
 
 *Durable Functions* is a feature of [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview) that lets you write stateful functions in a serverless compute environment. The extension lets you define stateful workflows by writing [orchestrator functions](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-orchestrations) and stateful entities by writing [entity functions](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-entities) using the Azure Functions programming model. Behind the scenes, the extension manages state, checkpoints, and restarts for you, allowing you to focus on your business logic. [1]

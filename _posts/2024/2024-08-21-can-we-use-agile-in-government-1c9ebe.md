@@ -2,14 +2,14 @@
 title: "Can we use agile in government?"
 slug: "can-we-use-agile-in-government-1c9ebe"
 author: joyclyn
-categories: Public
-classification: Public
 tags: [myths,agile]
 date: 2024-08-21 05:48:24 
 updatedBy: joyclyn
 updated: 2026-02-03 00:01:53 
 publishedOn: 2026-02-03 00:01:53 
-likes: 0
+categories: public
+post-type: standard
+status: published
 ---
 
 Sometimes government departments can be slow to adopt new, innovative practices. 

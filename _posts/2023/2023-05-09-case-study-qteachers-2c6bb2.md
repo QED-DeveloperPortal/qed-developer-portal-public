@@ -2,14 +2,14 @@
 title: "Case study - QTeachers"
 slug: "case-study-qteachers-2c6bb2"
 author: g-morton
-categories: Public
-classification: Public
 tags: [accessibility,architecture,case-study,mobile,security,technology,uxui]
 date: 2023-05-09 04:30:15 
 updatedBy: joyclyn
 updated: 2025-12-19 03:40:32 
 publishedOn: 2025-12-19 03:40:32 
-likes: 0
+categories: public
+post-type: standard
+status: published
 ---
 
 ### Audience

@@ -2,14 +2,14 @@
 title: "Can we use open source software in government?"
 slug: "can-we-use-open-source-software-in-government-1bfe68"
 author: joyclyn
-categories: Public
-classification: Public
 tags: [myths,standards]
 date: 2024-08-20 01:30:41 
 updatedBy: joyclyn
 updated: 2026-02-02 23:51:03 
 publishedOn: 2026-02-02 23:51:03 
-likes: 0
+categories: public
+post-type: standard
+status: published
 ---
 
 Even though open source software (OSS) is increasingly important in the public sector, a common question is still: Can we use it?

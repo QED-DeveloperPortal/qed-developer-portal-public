@@ -2,14 +2,14 @@
 title: "Secure development lifecycle"
 slug: "secure-development-lifecycle-0b94eb"
 author: g-morton
-categories: Public
-classification: Public
 tags: [standards,security]
 date: 2025-04-16 05:05:41 
 updatedBy: jeny-amatya-qed
 updated: 2025-09-24 23:04:01 
-likes: 0
 publishedOn: 2025-09-24 23:04:01
+categories: public
+post-type: standard
+status: published
 ---
 
 **Overview**  

@@ -2,14 +2,14 @@
 title: "How ChatGPT is changing education"
 slug: "how-chatgpt-is-changing-education-6a6608"
 author: kaila
-categories: Public
-classification: Public
 tags: [technology,ai]
 date: 2023-05-17 05:08:24 
 updatedBy: joyclyn
 updated: 2025-09-19 15:04:43 
-likes: 3
 publishedOn: 2025-09-19 15:04:43
+categories: public
+post-type: standard
+status: published
 ---
 
 # The future of learning: How AI-powered ChatGPT is changing education

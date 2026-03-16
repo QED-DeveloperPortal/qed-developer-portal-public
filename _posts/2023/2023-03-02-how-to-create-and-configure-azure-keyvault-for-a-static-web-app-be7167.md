@@ -2,14 +2,14 @@
 title: "How to create and configure Azure KeyVault for a Static Web App"
 slug: "how-to-create-and-configure-azure-keyvault-for-a-static-web-app-be7167"
 author: matt
-categories: Public
-classification: Public
 tags: [technology,cloud,web]
 date: 2023-02-03 12:00:00 
 updatedBy: matt
 updated: 2026-02-03 00:42:17 
 publishedOn: 2026-02-03 00:42:17 
-likes: 3
+categories: public
+post-type: standard
+status: published
 ---
 
 ## Create the Azure KeyVault

@@ -2,14 +2,14 @@
 title: "Durable Functions"
 slug: "durable-functions-e9d68d"
 author: andrew
-categories: Public
-classification: Public
 tags: [architecture]
 date: 2024-11-07 04:55:26 
 updatedBy: joyclyn
 updated: 2025-04-29 00:49:27 
-likes: 0
 publishedOn: 2025-04-29 00:49:27
+categories: public
+post-type: standard
+status: published
 ---
 
 ### Overview

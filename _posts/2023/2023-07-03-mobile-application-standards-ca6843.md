@@ -2,14 +2,14 @@
 title: "Mobile application standards"
 slug: "mobile-application-standards-ca6843"
 author: g-morton
-categories: [public]
-classification: Public
 tags: [standards,mobile]
 date: 2023-07-03 13:20:33 
 updatedBy: joyclyn
 updated: 2024-07-16 01:30:09 
-likes: 2
 publishedOn: 2024-07-16 01:30:09
+categories: public
+post-type: standard
+status: published
 ---
 
 # Mobile application standards

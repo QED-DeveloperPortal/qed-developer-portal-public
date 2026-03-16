@@ -2,14 +2,14 @@
 title: "How to update existing content using the GitHub repository"
 slug: "how-to-update-existing-content-using-the-github-repository-12c654"
 author: jeny-amatya-qed
-categories: Public
-classification: Public
 tags: [getting-started]
 date: 2023-03-20 01:38:13 
 updatedBy: jeny-amatya-qed
 updated: 2026-02-03 03:46:29 
 publishedOn: 2026-02-03 03:46:29 
-likes: 0
+categories: public
+post-type: standard
+status: published
 ---
 
 ### Overview

@@ -2,14 +2,14 @@
 title: "Corporate visual style guide"
 slug: "corporate-visual-style-guide-4d8e59"
 author: jeny-amatya-qed
-categories: Public
-classification: Public
 tags: [standards]
 date: 2024-07-11 02:14:45 
 updatedBy: jeny-amatya-qed
 updated: 2025-08-01 04:32:11 
-likes: 0
 publishedOn: 2025-08-01 04:32:11
+categories: public
+post-type: standard
+status: published
 ---
 
 The Queensland Department of Education (DoE) visual style guide provides a comprehensive framework for maintaining a consistent and recognisable corporate identity. Here are the key elements and guidelines:

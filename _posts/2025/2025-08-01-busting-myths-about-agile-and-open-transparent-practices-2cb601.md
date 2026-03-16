@@ -3,15 +3,15 @@ title: "Busting myths about Agile and open, transparent practices"
 slug: "busting-myths-about-agile-and-open-transparent-practices-2cb601"
 author: joyclyn
 owner: joyclyn
-categories: Public
-classification: Public
 tags: [auto-import, myths]
 date: 2025-08-01 00:52:02
-likes: 0
-imported: True 
-import-source: "azure-devops"
-import-reference: ""
 publishedOn: 2025-08-01 00:52:02
+categories: public
+post-type: imported
+status: published
+metadata:
+  import-source: "azure-devops"
+  import-reference: ""
 ---
 
 Myths about Agile and embracing open and transparent practices can hinder innovation and breed mistrust. By identifying these myths and sharing information to demonstrate the benefits of open and transparent practices, we can encourage others to join us in building trust and supporting innovation.

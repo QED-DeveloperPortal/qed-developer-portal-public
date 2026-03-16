@@ -2,15 +2,14 @@
 title: "API versioning"
 slug: "api-versioning-ffa9d6"
 author: jeny-amatya-qed
-categories: Public
-classification: Public
 tags: [api]
 date: 2024-01-30 01:03:36 
 updatedBy: joyclyn
 updated: 2025-05-30 05:14:53 
-likes: 3
 publishedOn: 2025-05-30 05:14:53
-published: false
+categories: public
+post-type: standard
+status: archived
 ---
 
 ## What is API versioning?

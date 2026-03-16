@@ -2,14 +2,14 @@
 title: "API testing using Postman"
 slug: "api-testing-using-postman-615d79"
 author: sushma-hazari-qed
-categories: Public
-classification: Public
 tags: [api]
 date: 2024-04-17 04:13:46 
 updatedBy: divya28237
 updated: 2026-02-03 03:46:02 
 publishedOn: 2026-02-03 03:46:02 
-likes: 1
+categories: public
+post-type: standard
+status: published
 ---
 
 ## APIs (Application Programming Interfaces)

@@ -3,16 +3,16 @@ title: "DevSecOps A culture of workflow cyber security"
 slug: "devsecops-a-culture-of-workflow-cyber-security-1fe3ab"
 author: joyclyn
 owner: joyclyn
-categories: Public
-classification: Public
 tags: [auto-import, security]
 date: 2026-02-01 23:56:07
-likes: 0
 publishedOn: 2026-02-01 23:56:07
-imported: True 
-import-source: "content-manager"
-import-reference: "25/799637"
-import-config-id: "0d401d2c-44f5-4496-aced-cd986634f9ef"
+categories: public
+post-type: imported
+status: published
+metadata:
+  import-source: "content-manager"
+  import-reference: "25/799637"
+  import-config-id: "0d401d2c-44f5-4496-aced-cd986634f9ef"
 ---
 
 # Main topics

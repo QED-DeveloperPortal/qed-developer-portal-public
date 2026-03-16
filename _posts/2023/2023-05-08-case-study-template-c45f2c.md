@@ -2,14 +2,14 @@
 title: "Case study (Template)"
 slug: "case-study-template-c45f2c"
 author: g-morton
-categories: Public
-classification: Public
 tags: [architecture,case-study,getting-started]
 date: 2023-05-08 01:19:33 
 updatedBy: joyclyn
 updated: 2025-12-19 03:38:29 
 publishedOn: 2025-12-19 03:38:29 
-likes: 0
+categories: public
+post-type: standard
+status: published
 ---
 
 ## Case study: Project or solution name

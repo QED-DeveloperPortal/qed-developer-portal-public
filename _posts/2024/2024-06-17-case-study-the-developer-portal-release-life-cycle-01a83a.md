@@ -2,14 +2,14 @@
 title: "Case study - The Developer Portal release life cycle"
 slug: "case-study-the-developer-portal-release-life-cycle-01a83a"
 author: g-morton
-categories: Public
-classification: Public
 tags: [agile,case-study]
 date: 2024-06-17 03:31:47 
 updatedBy: g-morton
 updated: 2026-02-02 23:28:51 
 publishedOn: 2026-02-02 23:28:51 
-likes: 0
+categories: public
+post-type: standard
+status: published
 ---
 
 At the Queensland Department of Education, we are excited to share the journey of how we release new features and updates for the Developer Portal. Our process is designed to ensure that every feature is thoroughly tested, user-centric, and aligned with our mission of being 'by developers, for developers.'

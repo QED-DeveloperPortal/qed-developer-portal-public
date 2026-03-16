@@ -2,14 +2,14 @@
 title: "Choosing better titles for developer posts"
 slug: "choosing-a-suitable-title-for-your-post-ef5813"
 author: jeny-amatya-qed
-categories: Public
-classification: Public
 tags: [getting-started,faq]
 date: 2023-05-18 00:27:58 
 updatedBy: jeny-amatya-qed
 updated: 2026-02-03 22:40:38 
 publishedOn: 2026-02-03 22:40:38 
-likes: 2
+categories: public
+post-type: standard
+status: published
 ---
 
 ### Overview

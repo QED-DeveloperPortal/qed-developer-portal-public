@@ -2,14 +2,14 @@
 title: "Government Innovation Week 2025"
 slug: "government-innovation-week-2025-d902de"
 author: joyclyn
-categories: Public
-classification: Public
 tags: [about]
 date: 2025-08-05 01:53:30 
 updatedBy: divya28237
 updated: 2025-09-10 06:00:47 
-likes: 0
 publishedOn: 2025-09-10 06:00:47
+categories: public
+post-type: standard
+status: published
 ---
 
 The Public Sector Network hosts Government Innovation Week events all around the world and, this September, it's Brisbane's turn. The event runs over 3 days at the Brisbane Convention & Exhibition Centre. 

@@ -2,14 +2,14 @@
 title: "Auto importer"
 slug: "auto-importer-ab802a"
 author: andrew
-categories: Public
-classification: Public
 tags: [architecture]
 date: 2024-11-07 06:49:33 
 updatedBy: jeny-amatya-qed
 updated: 2025-05-08 23:05:31 
-likes: 0
 publishedOn: 2025-05-08 23:05:31
+categories: public
+post-type: standard
+status: published
 ---
 
 ### Overview

@@ -2,14 +2,14 @@
 title: "Myths about cybersecurity"
 slug: "myths-about-cybersecurity-ab4e84"
 author: joyclyn
-categories: Public
-classification: Public
 tags: [myths,security]
 date: 2024-08-27 05:08:30 
 updatedBy: divya28237
 updated: 2026-03-10 22:56:23 
 publishedOn: 2026-03-10 22:56:23 
-likes: 0
+categories: public
+post-type: standard
+status: published
 ---
 
 Cybersecurity is a huge topic that can be complex and hard to pin down. Risks and remedies continue to evolve as technology does which is why it’s fertile ground for myths to grow.

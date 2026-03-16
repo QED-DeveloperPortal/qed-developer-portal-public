@@ -2,14 +2,14 @@
 title: "Exploring DevSecOps security with GitHub"
 slug: "exploring-devsecops-security-with-github-0da1f1"
 author: joyclyn
-categories: Public
-classification: Public
 tags: [security]
 date: 2023-10-05 01:46:39 
 updatedBy: joyclyn
 updated: 2026-02-02 23:58:40 
 publishedOn: 2026-02-02 23:58:40 
-likes: 0
+categories: public
+post-type: standard
+status: published
 ---
 
 'Secure code' isn't a single thing but a complex blend of factors. Two major factors that influence our Developer Portal set up are:

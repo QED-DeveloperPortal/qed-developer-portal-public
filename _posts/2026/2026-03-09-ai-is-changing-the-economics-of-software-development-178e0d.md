@@ -2,12 +2,11 @@
 title: "AI is changing the economics of software development"
 slug: "ai-is-changing-the-economics-of-software-development-178e0d"
 author: jeny-amatya-qed
-categories: Public
-classification: Public
 tags: [agile,ai]
 date: 2026-03-09 03:10:44 
-likes: 0
-draft: true
+categories: public
+post-type: standard
+status: draft
 ---
 
 For decades, we’ve repeated a warning in software development:

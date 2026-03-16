@@ -2,14 +2,14 @@
 title: "AI chatbot"
 slug: "ai-chatbot-bc6cd4"
 author: andrew
-categories: Public
-classification: Public
 tags: [architecture,ai]
 date: 2024-11-07 06:53:28 
 updatedBy: joyclyn
 updated: 2025-04-29 00:38:15 
-likes: 0
 publishedOn: 2025-04-29 00:38:15
+categories: public
+post-type: standard
+status: published
 ---
 
 Users are able to have natural language conversations with the Developer Portal site, mock APIs and site content via an AI chatbot.

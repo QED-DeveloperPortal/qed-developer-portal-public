@@ -3,16 +3,16 @@ title: "Role-based access mapping in the Developer Portal"
 slug: "role-based-access-mapping-in-the-developer-portal-f4bdc0"
 author: joyclyn
 owner: joyclyn
-categories: Public
-classification: Public
 tags: [auto-import, about, getting-started]
 date: 2026-02-02 00:06:36
-likes: 0
 publishedOn: 2026-02-02 00:06:36
-imported: True 
-import-source: "azure-devops"
-import-reference: ""
-import-config-id: "a8b78228-aded-448e-a9c5-980076b288f3"
+categories: public
+post-type: imported
+status: published
+metadata:
+  import-source: "azure-devops"
+  import-reference: ""
+  import-config-id: "a8b78228-aded-448e-a9c5-980076b288f3"
 ---
 
 | Page ↓ | Role → | Anonymous/Unauthenticated | User/Authenticated | Internal | Moderator | Admin | How we manage |

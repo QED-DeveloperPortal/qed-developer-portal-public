@@ -2,14 +2,14 @@
 title: "Testing chatbots"
 slug: "testing-chatbots-f1df80"
 author: sushma-hazari-qed
-categories: Public
-classification: Public
 tags: [ai]
 date: 2024-04-03 04:39:54 
 updatedBy: divya28237
 updated: 2026-02-03 06:24:35 
 publishedOn: 2026-02-03 06:24:35 
-likes: 3
+categories: public
+post-type: standard
+status: published
 ---
 
 A chatbot is a computer program designed to simulate human conversation, typically through text or voice interactions. Chatbots use artificial intelligence (AI) technologies such as natural language processing (NLP) to understand and respond to user queries or commands in a conversational manner.

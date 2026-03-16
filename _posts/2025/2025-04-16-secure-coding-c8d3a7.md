@@ -2,14 +2,14 @@
 title: "Secure coding"
 slug: "secure-coding-c8d3a7"
 author: g-morton
-categories: Public
-classification: Public
 tags: [security,standards,architecture,quality-assurance]
 date: 2025-04-16 05:35:06 
 updatedBy: g-morton
 updated: 2026-01-29 05:04:45 
 publishedOn: 2026-01-29 05:04:45 
-likes: 0
+categories: public
+post-type: standard
+status: published
 ---
 
 ### Overview

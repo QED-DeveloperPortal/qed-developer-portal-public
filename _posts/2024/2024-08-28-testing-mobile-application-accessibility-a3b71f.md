@@ -2,14 +2,14 @@
 title: "Testing mobile application accessibility"
 slug: "testing-mobile-application-accessibility-a3b71f"
 author: sushma-hazari-qed
-categories: Public
-classification: Public
 tags: [mobile]
 date: 2024-08-28 01:58:50 
 updatedBy: divya28237
 updated: 2026-02-03 03:47:05 
 publishedOn: 2026-02-03 03:47:05 
-likes: 0
+categories: public
+post-type: standard
+status: published
 ---
 
 Mobile accessibility testing ensures that mobile apps are accessible to users of all abilities. As a government department we must design with accessibility and inclusivity in mind, allowing everyone to interact with content and services. Accessibility testing focuses on identifying barriers that might prevent users with visual, auditory, motor, or cognitive impairments from fully using the app. By following established guidelines, such as the Web Content Accessibility Guidelines (WCAG), developers can create apps that offer a satisfying user experience for everyone.

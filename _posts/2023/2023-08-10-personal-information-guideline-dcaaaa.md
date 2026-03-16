@@ -2,15 +2,15 @@
 title: "Personal information guideline"
 slug: "personal-information-guideline-dcaaaa"
 author: g-morton
-categories: [public]
-classification: Public
 tags: [privacy]
 date: 2023-08-10 02:19:51 
 timezone: Australia/Brisbane
 updatedBy: sushma-hazari
 updated: 2023-10-10 02:50:16 
-likes: 0
 publishedOn: 2023-10-10 02:50:16
+categories: public
+post-type: standard
+status: published
 ---
 
 Refer to the Department of Education Policy and Procedure Register at [https://ppr.qed.qld.gov.au/pp/information-privacy-and-right-to-information-procedure](https://ppr.qed.qld.gov.au/pp/information-privacy-and-right-to-information-procedure) to ensure  

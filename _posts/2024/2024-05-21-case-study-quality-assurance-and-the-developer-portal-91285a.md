@@ -2,15 +2,14 @@
 title: "Case study - Quality assurance and the Developer Portal"
 slug: "case-study-quality-assurance-and-the-developer-portal-91285a"
 author: sushma-hazari-qed
-categories: Public
-classification: Public
 tags: [quality-assurance,case-study]
 date: 2024-05-21 03:56:30 
 updatedBy: joyclyn
 updated: 2024-06-04 04:44:34 
-likes: 0
-published: false
 publishedOn: 2024-06-04 04:44:34
+categories: public
+post-type: standard
+status: archived
 ---
 
 A developer portal is a critical resource for developers to access APIs, documentation, and other tools. Ensuring its quality and usability is essential for providing a seamless experience. Here’s a comprehensive guide to help to test developer portal effectively.

@@ -2,14 +2,14 @@
 title: "Case study - The Developer Portal journey"
 slug: "case-study-the-developer-portal-journey-856518"
 author: g-morton
-categories: Public
-classification: Public
 tags: [architecture,case-study]
 date: 2024-09-03 00:06:01 
 updatedBy: g-morton
 updated: 2025-09-11 23:28:01 
-likes: 0
 publishedOn: 2025-09-11 23:28:01
+categories: public
+post-type: standard
+status: published
 ---
 
 #### Who should read this case study?

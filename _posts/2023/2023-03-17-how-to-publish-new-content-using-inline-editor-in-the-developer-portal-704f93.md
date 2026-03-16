@@ -2,14 +2,14 @@
 title: "How to publish new content using inline editor in the Developer Portal"
 slug: "how-to-publish-new-content-using-inline-editor-in-the-developer-portal-704f93"
 author: jeny-amatya-qed
-categories: Public
-classification: Public
 tags: [getting-started]
 date: 2023-03-17 04:22:58 
 updatedBy: jeny-amatya-qed
 updated: 2026-02-03 02:35:32 
 publishedOn: 2026-02-03 02:35:32 
-likes: 0
+categories: public
+post-type: standard
+status: published
 ---
 
 ## Overview

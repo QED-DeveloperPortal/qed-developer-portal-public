@@ -2,14 +2,14 @@
 title: "Why content design matters"
 slug: "why-content-design-matters-070d48"
 author: joyclyn
-categories: Public
-classification: Public
 tags: [accessibility]
 date: 2024-10-03 01:05:10 
 updatedBy: joyclyn
 updated: 2026-03-12 00:09:23 
 publishedOn: 2026-03-12 00:09:23 
-likes: 0
+categories: public
+post-type: standard
+status: published
 ---
 
 Government products and services must be available to everyone which means we need to create inclusive content for equal access. 

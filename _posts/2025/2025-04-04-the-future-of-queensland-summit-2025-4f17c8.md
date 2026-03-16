@@ -2,14 +2,14 @@
 title: "The Future of Queensland Summit 2025"
 slug: "the-future-of-queensland-summit-2025-4f17c8"
 author: g-morton
-categories: Public
-classification: Public
 tags: [case-study,trending]
 date: 2025-04-04 05:08:19 
 updatedBy: joyclyn
 updated: 2025-04-06 22:11:07 
-likes: 0
 publishedOn: 2025-04-06 22:11:07
+categories: public
+post-type: standard
+status: published
 ---
 
 # The Future of Queensland Summit 2025  

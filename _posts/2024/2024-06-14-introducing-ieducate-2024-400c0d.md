@@ -2,14 +2,14 @@
 title: "Introducing iEducate 2024"
 slug: "introducing-ieducate-2024-400c0d"
 author: g-morton
-categories: Public
-classification: Public
 tags: [about]
 date: 2024-06-14 00:54:43 
 updatedBy: g-morton
 updated: 2025-12-22 23:03:09 
 publishedOn: 2025-12-22 23:03:08 
-likes: 2
+categories: public
+post-type: standard
+status: published
 ---
 
 # A big thank you to all who attended iEducate - and especially those that showed interest in the Developer Portal!

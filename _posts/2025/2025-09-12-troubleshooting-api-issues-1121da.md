@@ -2,14 +2,14 @@
 title: "Troubleshooting API issues"
 slug: "troubleshooting-api-issues-1121da"
 author: jeny-amatya-qed
-categories: Public
-classification: Public
 tags: [getting-started,api]
 date: 2025-09-12 05:54:43 
 updatedBy: joyclyn
 updated: 2025-09-16 22:49:27 
-likes: 0
 publishedOn: 2025-09-16 22:49:27
+categories: public
+post-type: standard
+status: published
 ---
 
 # Overview

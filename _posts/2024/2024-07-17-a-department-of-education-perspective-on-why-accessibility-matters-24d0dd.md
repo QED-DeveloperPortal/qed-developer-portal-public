@@ -2,14 +2,14 @@
 title: "A Department of Education perspective on why accessibility matters"
 slug: "a-department-of-education-perspective-on-why-accessibility-matters-24d0dd"
 author: g-morton
-categories: Public
-classification: Public
 tags: [accessibility]
 date: 2024-07-17 01:23:38 
 updatedBy: g-morton
 updated: 2026-01-29 01:13:47 
 publishedOn: 2026-01-29 01:13:47 
-likes: 0
+categories: public
+post-type: standard
+status: published
 ---
 
 At the Queensland Department of Education, we firmly believe that accessibility is not just a requirement but a fundamental right. Our commitment to accessibility reflects our dedication to fostering an inclusive environment where every individual, regardless of their abilities, can thrive and contribute to their fullest potential.
