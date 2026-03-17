@@ -2,39 +2,28 @@
 title: "Can we use open source software in government?"
 slug: "can-we-use-open-source-software-in-government-1bfe68"
 author: joyclyn
-tags: [myths,standards]
-date: 2024-08-20 01:30:41 
-updatedBy: joyclyn
-updated: 2026-02-02 23:51:03 
-publishedOn: 2026-02-02 23:51:03 
 categories: public
+tags: [myths,standards]
 post-type: standard
 status: published
+date: 2024-08-20 01:30:41 
+updatedBy: joyclyn
+updated: 2026-03-17 01:01:18 
+publishedOn: 2026-03-17 01:01:18 
 ---
 
 Even though open source software (OSS) is increasingly important in the public sector, a common question is still: Can we use it?
 
 The answer is yes—government agencies can and do use OSS developed by external sources. Despite some misconceptions, OSS is secure, reliable, and widely adopted when properly vetted.
 
-In fact, since January 2022, the Queensland Government Enterprise Architecture (QGEA) digital service standard has specified that *all new source code must be open by default*, recognising that open sources helps to: 
-* reduce costs
-* avoid lock-in
-* stop duplication
-* increase transparency
-* add benefits, from improvements by other developers.
-
-The QGEA also provides a guideline on OSS, giving Queensland agencies information and advice to consider when using and releasing OSS. The guideline acknowledges that, by making our in house software available as OSS we support the: 
-* cultivation of trust with Queenslanders and our partners
-* leveraging of our existing investments within government and industry.
-
 By embracing OSS, government agencies can benefit from the collective knowledge and innovation of a global developer community, ensuring they stay at the forefront of technology while maintaining cost efficiency and flexibility.
+
+Related post: [Can we keep code in a public repository in government?](https://developer.qed.qld.gov.au/public/can-we-keep-code-in-a-public-repository-in-government-d5c211/)
 
 ***
 
 Further reading:
 - Gartner (2018), *[Hype Cycle for Open-Source Software](https://www.gartner.com/en/documents/3891628)*, accessed 20 August 2024.
 - Obama Whitehouse Archives (2016) *[The People's Code](https://obamawhitehouse.archives.gov/blog/2016/08/08/peoples-code)*, accessed 20 August 2024.
-- QGEA (Queensland Government Enterprise Architecture) (2020) *[Open source software guideline](https://www.forgov.qld.gov.au/information-and-communication-technology/qgea-policies-standards-and-guidelines/open-source-software-guideline)*, accessed 20 August 2024.
+- QGEA (Queensland Government Enterprise Architecture) (2020) *[Open source software guideline](https://www.forgov.qld.gov.au/information-technology/queensland-government-enterprise-architecture-qgea/qgea-directions-and-guidance/qgea-policies-standards-and-guidelines/open-source-software-guideline)*, accessed 17 March 2026.
 - ——(2022) *[Digital service standard](https://www.forgov.qld.gov.au/information-and-communication-technology/qgea-policies-standards-and-guidelines/digital-service-standard)*, accessed 20 August 2024.
-
-Reviewed for currency 3 February 2025.
