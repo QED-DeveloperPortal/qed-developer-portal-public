@@ -8,4 +8,4 @@
 *	@qed-devportal-admin
 
 # To specify code ownership for specific directories
-/_posts	@QED-DeveloperPortal/Content-moderation
+# /_posts	@QED-DeveloperPortal/Content-moderation
