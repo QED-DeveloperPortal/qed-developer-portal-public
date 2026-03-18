@@ -8,8 +8,8 @@ post-type: standard
 status: published
 date: 2026-03-17 00:41:46 
 updatedBy: joyclyn
-updated: 2026-03-18 05:02:07 
-publishedOn: 2026-03-18 05:02:07 
+updated: 2026-03-18 05:09:07 
+publishedOn: 2026-03-18 05:09:07 
 ---
 
 This post is a follow-on to my previous post that asks, [Can we use open source software in government?](https://developer.qed.qld.gov.au/public/can-we-use-open-source-software-in-government-1bfe68/) and addresses the question about keeping code *we* create and manage in a public repository. 
@@ -24,7 +24,7 @@ In fact, since January 2022, the Queensland Government Enterprise Architecture (
 * increase transparency
 * add benefits, from improvements by other developers.
 
-The QGEA also provides a guideline on OSS, giving Queensland agencies information and advice to consider when using and releasing OSS. The guideline acknowledges that, by making our in house software available as OSS we support the: 
+The QGEA also provides a guideline on open-source software (OSS), giving Queensland agencies information and advice to consider when using and releasing OSS. The guideline acknowledges that, by making our in-house software available as OSS we support the: 
 * cultivation of trust with Queenslanders and our partners
 * leveraging of our existing investments within government and industry.
 
