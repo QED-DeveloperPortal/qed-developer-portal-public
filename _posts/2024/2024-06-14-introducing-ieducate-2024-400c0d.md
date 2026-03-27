@@ -2,12 +2,12 @@
 title: "Introducing iEducate 2024"
 slug: "introducing-ieducate-2024-400c0d"
 author: g-morton
-tags: [opinion,about]
+categories: public
+tags: [about]
 date: 2024-06-14 00:54:43 
 updatedBy: jeny-amatya-qed
-updated: 2025-04-02 04:33:13 
-publishedOn: 2025-04-02 04:33:13
-categories: public
+updated: 2026-03-02 02:54:30 
+publishedOn: 2026-03-02 02:54:30 
 post-type: standard
 status: published
 ---
@@ -26,7 +26,7 @@ The Developer Portal is designed to be the single source of truth for developmen
 
 Your expertise and feedback are vital in shaping the future of our development community. As an early bird innovator, you have a unique opportunity to influence and enhance the platform before its public release. By contributing your insights and experiences, you help us build a robust platform that benefits everyone involved, from seasoned developers to newcomers. The Developer Portal is part of the department's ongoing strategy and commitment to collaborate with our community in delivering safe, secure, and quality education services in Queensland.
 
-### Tools and features
+### Tools and features 
 
 Discover the powerful tools and features available on the Developer Portal:
 
@@ -44,4 +44,4 @@ As an i-Educate delegate, we invite you to become an early bird innovator in our
 
 
 ### Thank you!
-Thank you for joining us at the i-Educate conference. We look forward to collaborating with you and making the Developer Portal a cornerstone of innovation and excellence in education. 
+Thank you for joining us at the i-Educate conference. We look forward to collaborating with you and making the Developer Portal a cornerstone of innovation and excellence in education.
