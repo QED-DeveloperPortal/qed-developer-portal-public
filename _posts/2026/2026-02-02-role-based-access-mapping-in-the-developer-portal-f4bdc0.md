@@ -12,7 +12,10 @@ status: published
 metadata:
   import-source: "azure-devops"
   import-reference: ""
-  import-config-id: "a8b78228-aded-448e-a9c5-980076b288f3"
+  import-url: "https://dev.azure.com/qed-qld-gov-au/Developer%20Portal/_wiki/wikis/Developer-Portal.wiki/38526/Role-based-access-mapping-in-the-Developer-Portal"
+  import-config-id: "a8b78228-aded-448e-a9c5-980076b288f3" 
+  source-published-on: 2026-02-02 00:06:36
+  source-updated-on: 2026-02-02 00:06:36
 ---
 
 | Page ↓ | Role → | Anonymous/Unauthenticated | User/Authenticated | Internal | Moderator | Admin | How we manage |
