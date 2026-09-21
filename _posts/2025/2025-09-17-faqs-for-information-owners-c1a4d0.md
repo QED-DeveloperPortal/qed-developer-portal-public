@@ -13,6 +13,10 @@ metadata:
   import-source: "azure-devops"
   import-reference: ""
   import-config-id: "fa8efb0f-5727-4eb1-b3cc-904cb90b2f6d"
+  import-url: "https://dev.azure.com/qed-qld-gov-au/Developer%20Portal/_wiki/wikis/Developer-Portal.wiki/64320/FAQs-for-information-owners"    
+  source-published-on: 2026-02-23 04:13:35
+  source-updated-on: 2026-02-23 04:13:35
+  
 ---
 
 ### 1. Why show information on the Developer Portal?
