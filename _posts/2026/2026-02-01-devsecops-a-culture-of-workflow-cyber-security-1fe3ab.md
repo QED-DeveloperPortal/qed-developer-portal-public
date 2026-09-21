@@ -13,6 +13,7 @@ metadata:
   import-source: "content-manager"
   import-reference: "25/799637"
   import-config-id: "0d401d2c-44f5-4496-aced-cd986634f9ef"
+  import-url: "https://ecmweb.qed.qld.gov.au/ContentManager/?q=25/799637"  
 ---
 
 # Main topics
