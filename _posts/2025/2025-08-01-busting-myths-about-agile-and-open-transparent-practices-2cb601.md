@@ -12,6 +12,10 @@ status: published
 metadata:
   import-source: "azure-devops"
   import-reference: ""
+  import-url: "https://developer.qed.qld.gov.au/public/busting-myths-about-agile-and-open-transparent-practices-2cb601"
+  import-config-id: "51f511d3-7119-451d-a26f-adc62a9b57ef"
+  source-published-on: 2025-08-01 00:52:02
+  source-updated-on: 2025-08-01 00:52:02
 ---
 
 Myths about Agile and embracing open and transparent practices can hinder innovation and breed mistrust. By identifying these myths and sharing information to demonstrate the benefits of open and transparent practices, we can encourage others to join us in building trust and supporting innovation.
