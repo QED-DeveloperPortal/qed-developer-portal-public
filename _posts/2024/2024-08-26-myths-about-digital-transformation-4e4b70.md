@@ -2,14 +2,14 @@
 title: "Myths about digital transformation"
 slug: "myths-about-digital-transformation-4e4b70"
 author: joyclyn
-tags: [myths]
-date: 2024-08-26 04:36:32 
-updatedBy: joyclyn
-updated: 2026-02-02 23:57:06 
-publishedOn: 2026-02-02 23:57:06 
 categories: public
+tags: [myths]
 post-type: standard
 status: published
+date: 2024-08-26 04:36:32 
+updatedBy: joyclyn
+updated: 2026-11-19 05:56:09 
+publishedOn: 2026-11-19 05:56:09 
 ---
 
 The term ‘digital transformation’ tends to be thrown about a lot without much consideration for what it actually is, which is one way myths begin. 
@@ -24,7 +24,7 @@ Here are some common myths about digital transformation I'd like to challenge:
  
 The Australian Digital Transformation Agency offers the following definition of digital transformation: 
 
->Digital transformation is about delivery improvements to policy, process and technology to better meet user needs.
+>Digital transformation is about delivering improvements to policy, process and technology to better meet user needs.
 
  What it is:
 * User-centred
