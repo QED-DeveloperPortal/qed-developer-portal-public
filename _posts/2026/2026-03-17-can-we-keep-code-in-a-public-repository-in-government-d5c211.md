@@ -8,8 +8,8 @@ post-type: standard
 status: published
 date: 2026-03-17 00:41:46 
 updatedBy: joyclyn
-updated: 2026-03-18 05:09:07 
-publishedOn: 2026-03-18 05:09:07 
+updated: 2026-11-20 01:12:47 
+publishedOn: 2026-11-20 01:12:47 
 ---
 
 This post is a follow-on to my previous post that asks, [Can we use open source software in government?](https://developer.qed.qld.gov.au/public/can-we-use-open-source-software-in-government-1bfe68/) and addresses the question about keeping code *we* create and manage in a public repository. 
@@ -36,6 +36,15 @@ The QGEA also provides a guideline on open-source software (OSS), giving Queensl
 | Having a public codebase means external parties can interfere with our code. | All suggested changes must be reviewed and approved by authorised maintainers before they become part of the code base. | 
 | Having a public codebase opens the department up to criticism.  | Public visibility can attract feedback, but it can also improve quality and transparency by allowing issues to be identified and discussed openly. | 
 | Exposing our codebase to the public will overload the department with suggestions and issues. | Public repositories can accept feedback without committing the organisation to implement or support every request or creating an obligation to provide ongoing support. The README file can be a good place to set boundaries for interaction. | 
+
+***
+
+### An analogy
+There are some useful similarities between a public code repository and a publicly-available read-only Word document:
+
+- Anyone can open the Word document and read its content.
+- Anyone can copy/paste the content into their own text editor and add/remove/change as they like.
+- No one can save changes to the source without the right access.
 
 ***
 
